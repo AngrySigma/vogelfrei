@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/Character Creation.md",
+                "file": "source/content/Character Creation/Character Creation.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/Character Creation.md",
+                "file": "source/content/Character Creation/Character Creation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled/Character Creation.md",
+                "file": "source/content/Character Creation/Character Creation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled/Character Creation.md",
+                "file": "source/content/Character Creation/Character Creation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -168,10 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8148f4adbf9277e6",
+  "active": "51707c0e5f172f01",
   "lastOpenFiles": [
     "source/README.md",
-    "Untitled/Character Creation.md",
+    "source/content/Character Creation/Character Creation.md",
     "source/CODE_OF_CONDUCT.md"
   ]
 }
