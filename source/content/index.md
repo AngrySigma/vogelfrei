@@ -1,5 +1,5 @@
 ---
-title: MWarplock!
+title: Warplock!
 ---
 
 Hello world!
