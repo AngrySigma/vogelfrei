@@ -1,6 +1,6 @@
-| title     |
-| --------- |
-| Warplock! |
+---
+title: MWarplock!
+---
 
 Hello world!
 
