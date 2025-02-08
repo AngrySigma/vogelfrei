@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Encounters/index.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -170,6 +170,7 @@
   },
   "active": "b490b54790e79155",
   "lastOpenFiles": [
+    "source/content/Encounters/index.md",
     "source/quartz/plugins/filters/index.ts",
     "source/quartz/plugins/filters/explicit.ts",
     "source/quartz/plugins/filters/draft.ts",
@@ -180,11 +181,9 @@
     "source/quartz/plugins/transformers/ofm.ts",
     "source/quartz/plugins/transformers/links.ts",
     "source/quartz/plugins/transformers/linebreaks.ts",
-    "source/quartz/plugins/transformers/latex.ts",
     "source/quartz/static/og-image.png",
     "source/quartz/static/icon.png",
     "source/content/index.md",
-    "source/content/Encounters/index.md",
     "source/content/Retainers/index.md",
     "source/content/Equipment/index.md",
     "source/content/Adventuring/index.md",
