@@ -1,20 +1,23 @@
 
-| Melee Weapons   | Cost  |       | Damage |
-| --------------- | ----- | ----- | ------ |
-|                 | City  | Rural |        |
-| Cestus          | 10 SS | -     | d3     |
-| Garrote         | 5 SS  | -     | d6     |
-| Lance           | 30 SS | -     | d10    |
-| Mancatcher      | 20 SS | -     | -      |
-| Polearm…        | 30 SS | -     | d8     |
-| Rapier          | 15 SS | -     | d8     |
-| Spear           | 5 SS  | 3 SS  | d4     |
-| Staff           | 5 SS  | 3 SS  | d6     |
-| Great Weapon…   | 50 SS | -     | d10    |
-| Medium Weapon … | 20 SS | 50 SS | d8     |
-| Small Weapon …  | 10 SS | 10 SS | d6     |
-| Minor Weapon…   | 5 SS  | 5     | d4     |
-| Whip            | 10 SS | 25 SS | d3     |
+| Melee Weapons | Cost  |       | Damage |
+| ------------- | ----- | ----- | ------ |
+|               | City  | Rural |        |
+| Cestus        | 10 SS | -     | d3     |
+| Garrote       | 5 SS  | -     | d6     |
+| Lance         | 30 SS | -     | d10    |
+| Mancatcher    | 20 SS | -     | -      |
+| Polearm…      | 30 SS | -     | d8     |
+| Rapier        | 15 SS | -     | d8     |
+| Spear         | 5 SS  | 3 SS  | d4     |
+| Staff         | 5 SS  | 3 SS  | d6     |
+| Great Weapon  | 50 SS | -     | d10    |
+| Medium Weapon | 20 SS | 50 SS | d8     |
+| Small Weapon  | 10 SS | 10 SS | d6     |
+| Minor Weapon  | 5 SS  | 5     | d4     |
+| Whip          | 10 SS | 25 SS | d3     |
+| Weighted Net  |       |       |        |
+| Flail         |       |       |        |
+
 - Cestus: This includes all sorts of fist wrappings and brass knuckle weapon types. Users suffer a –2 penalty to hit any opponent with an unadjusted AC of 15 or better.
 - Garrote: Use of this weapon requires an attack from surprise, or a successful grapple. If a hit is scored, the target is considered grappled and will take 1d6 damage per round.
 - Lance: This weapon can be used one-handed if charging on horseback. Otherwise, it is effectively a polearm (pike).

@@ -1,10 +1,17 @@
 
-| Firearm  | Cost |       | Damage |       | Range  |      |
-| -------- | ---- | ----- | ------ | ----- | ------ | ---- |
-|          | City | Rural |        | Short | Medium | Long |
-| Pistol   |      |       |        |       |        |      |
-| Arquebus |      |       |        |       |        |      |
-| Musket   |      |       |        |       |        |      |
+| Firearm                 | Cost |       | Damage |       | Range  |      |
+| ----------------------- | ---- | ----- | ------ | ----- | ------ | ---- |
+|                         | City | Rural |        | Short | Medium | Long |
+| Pistol                  |      |       |        |       |        |      |
+| Handgun                 |      |       |        |       |        |      |
+| Musket                  |      |       |        |       |        |      |
+| Blunderbuss             |      |       |        |       |        |      |
+| Arquebus                |      |       |        |       |        |      |
+| Double Barreled Handgun |      |       |        |       |        |      |
+| Griffon Foot            |      |       |        |       |        |      |
+| Gun Axe                 |      |       |        |       |        |      |
+| Gun Halberd             |      |       |        |       |        |      |
+| Hochland Long Rifle     |      |       |        |       |        |      |
 
 | Engineering Firearm | Cost |       | Damage |       | Range  |      |
 | ------------------- | ---- | ----- | ------ | ----- | ------ | ---- |
@@ -12,7 +19,7 @@
 | Pepperbox           |      |       |        |       |        |      |
 | Repeater Pistol     |      |       |        |       |        |      |
 | Repeater Handgun    |      |       |        |       |        |      |
-| Griffon Foot        |      |       |        |       |        |      |
+| Cane Pistol         |      |       |        |       |        |      |
 | Hand Mortar         |      |       |        |       |        |      |
 
 | Equipment | Cost |       | Notes |

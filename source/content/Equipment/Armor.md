@@ -1,6 +1,6 @@
 | Armor                | Cost   |       | Base AC              |
 | -------------------- | ------ | ----- | -------------------- |
-| City                 | Rural  |       |                      |
+|                      | City   | Rural |                      |
 | Gambeson             | 15 SS  | 20 SS | 13                   |
 | Buff Coat            | 25 SS  | 50 SS | 14                   |
 | Splint               |        |       | 15                   |
