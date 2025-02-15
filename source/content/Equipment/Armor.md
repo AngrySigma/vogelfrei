@@ -1,30 +1,17 @@
-| Armor                | Cost   |       | Base AC              |
-| -------------------- | ------ | ----- | -------------------- |
-|                      | City   | Rural |                      |
-| Gambeson             | 15 SS  | 20 SS | 13                   |
-| Buff Coat            | 25 SS  | 50 SS | 14                   |
-| Splint               |        |       | 15                   |
-| Chain                | 5 GC   |       | 16                   |
-| Brigandine           |        |       | 17                   |
-| Half-armour          | 30 GC  |       | 17                   |
-| Three-quarter armour | 50 GC  |       | 18                   |
-| Full-plate           | 100 GC |       | 19                   |
-| Buckler              |        |       | +1 Mêlée             |
-| Shield               | 20 SS  | 30 SS | +1 Mêlée, + 2 Ranged |
-| Large Shield         |        |       | +2 Mêlée, + 3 Ranged |
-Unarmored characters have a Base AC of 10. Characters wearing armor get base AC listed for their armor type. Shields AC increase depends on the incoming attack type.
-
-| Renaissance Armor    | Cost   |       | Base AC              |
-| -------------------- | ------ | ----- | -------------------- |
-| City                 | Rural  |       |                      |
-| Gambeson             | 15 SS  | 20 SS | 13                   |
-| Buff Coat            | 25 SS  | 50 SS | 14                   |
-| Splint               |        |       | 15                   |
-| Chain                | 5 GC   |       | 16                   |
-| Brigandine           |        |       | 17                   |
-| Half-armour          | 30 GC  |       | 17                   |
-| Three-quarter armour | 50 GC  |       | 18                   |
-| Full-plate           | 100 GC |       | 19                   |
-| Buckler              |        |       | +1 Mêlée             |
-| Shield               | 20 SS  | 30 SS | +1 Mêlée, + 2 Ranged |
-| Large Shield         |        |       | +2 Mêlée, + 3 Ranged |
+| Armor                | Cost  |       | Defense                   |
+| -------------------- | ----- | ----- | ------------------------- |
+|                      | City  | Rural |                           |
+| Gambeson             | 15sp  | 20sp  | 1                         |
+| Buff Coat            | 25sp  | 50sp  | 2                         |
+| Splint               |       |       | 3                         |
+| Chain                | 5gp   |       | 5                         |
+| Brigandine           |       |       | 6                         |
+| Half-armour          | 30gp  |       | 7                         |
+| Three-quarter armour | 50gp  |       | 8                         |
+| Full-plate           | 100gp |       | 9                         |
+| Buckler              |       |       | +2 Melee AC               |
+| Shield               | 20sp  | 30sp  | +2 Melee AC, +3 Ranged AC |
+| Pavise               |       |       | +3 Melee AC, +4 Ranged AC |
+## TODO: fix the prices with gp=50sp
+Unarmored characters have a Base AC of 12. Shields AC increase depends on the incoming attack type. Armor does not affect AC, but deducts some flat damage from any hit, making some hits inefficient. When determining damage, the difference between the attack roll and the AC determines how successfully the armor is penetrated. The difference between the rolls equals to the amount of armor defense penetrated.
+For example, if an attacker armed with a poleaxe rolls a total of 17, and the AC of the plate armored defender equals 12, then the attack ignores 19-12=5 armor defense, leading to a total of 9-5=4 armor defense for that attack. Then, is an attacker rolls 8 for their damage, they effectively deal 8-4=4 damage

@@ -18,26 +18,26 @@ You can either choose a class, or roll using the table below.
 | 12       | Elf        |
 Next, choose a career from the following table
 
-| Class        | Career        | Class          | Career        | Class    | Career     | Class      | Career  |
-| ------------ | ------------- | -------------- | ------------- | -------- | ---------- | ---------- | ------- |
-| Dwarf        | Artisan       | Ranger         | Boatman       | Warrior  | Mercenary  | Magic-User | Wizard  |
-| Karak Ranger | Bounty Hunter | Pit Fighter    | Witch         |          |            |            |         |
-| Engineer     | Coachman      | Soldier        | Bright Wizard |          |            |            |         |
-| Brewer       | Road Warden   | Knight         | Grey Wizard   |          |            |            |         |
-| Miner        | Peddlar       | Witch Hunter   | Light Wizard  |          |            |            |         |
-| Troll Slayer | Sailor        | Duellist       | …             |          |            |            |         |
-| Halfling     | Artisan       | Townsman       | Artisan       | Cleric   | Priest     | High-Elf   | Artisan |
-| Charlatan    | Rat Catcher   | Zealot         | Wizard        |          |            |            |         |
-| Badger Rider | Beggar        | Warrior Priest | Sword-master  |          |            |            |         |
-| Herbalist    | Militia       |                | Hunter        |          |            |            |         |
-| Merchant     | Scion         |                | Shadow        |          |            |            |         |
-| Scout        | Merchant      |                |               |          |            |            |         |
-| Rogue        | Charlatan     | Peasant        | Miner         | Academic | Apothecary | Wood-elf   |         |
-| Grave Robber | Villager      | Barber         | Artisan       |          |            |            |         |
-| Smuggler     | Herbalist     | Engineer       | Wizard        |          |            |            |         |
-| Thief        | Hunter        | Scholar        | Hunter        |          |            |            |         |
-| Wrecker      | Scout         | Alchemist      | Blade dancer  |          |            |            |         |
-| Outlaw       | Hedge Witch   | Cartographer   | Waywatcher    |          |            |            |         |
+| Class        | Career       | Class        | Career        | Class        | Career         | Class          | Career        |
+| ------------ | ------------ | ------------ | ------------- | ------------ | -------------- | -------------- | ------------- |
+| **Dwarf**    | Artisan      | **Ranger**   | Boatman       | **Warrior**  | Mercenary      | **Magic-User** | Wizard        |
+|              | Karak Ranger |              | Bounty Hunter |              | Pit Fighter    |                | Witch         |
+|              | Engineer     |              | Coachman      |              | Soldier        |                | Bright Wizard |
+|              | Brewer       |              | Road Warden   |              | Knight         |                | Grey Wizard   |
+|              | Miner        |              | Peddlar       |              | Witch Hunter   |                | Light Wizard  |
+|              | Troll Slayer |              | Sailor        |              | Duellist       |                | …             |
+| **Halfling** | Artisan      | **Townsman** | Artisan       | **Cleric**   | Priest         | **High-Elf**   | Artisan       |
+|              | Charlatan    |              | Rat Catcher   |              | Zealot         |                | Wizard        |
+|              | Badger Rider |              | Beggar        |              | Warrior Priest |                | Sword-master  |
+|              | Herbalist    |              | Militia       |              |                |                | Hunter        |
+|              | Merchant     |              | Scion         |              |                |                | Shadow        |
+|              | Scout        |              | Merchant      |              |                |                |               |
+| **Rogue**    | Charlatan    | **Peasant**  | Miner         | **Academic** | Apothecary     | **Wood-elf**   | Artisan       |
+|              | Grave Robber |              | Villager      |              | Barber         |                | Wizard        |
+|              | Smuggler     |              | Herbalist     |              | Engineer       |                | Hunter        |
+|              | Thief        |              | Hunter        |              | Scholar        |                | Blade dancer  |
+|              | Wrecker      |              | Scout         |              | Alchemist      |                | Waywatcher    |
+|              | Outlaw       |              | Hedge Witch   |              | Cartographer   |                |               |
 # Determine Hit Points
 
 Randomly determine the character’s starting Hit Points (HP) according to his level chart, and add the character’s Toughness modifier. First level characters have a minimum number of Hit Points they possess. If the rolled amount is less than the indicated number on the following chart, simply use the number shown on the chart instead.
