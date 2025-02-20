@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Equipment/Weapons/Melee Weapons.md",
+                "file": "source/content/Equipment/Weapons/Firearms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Melee Weapons"
+              "title": "Firearms"
             }
           }
         ]
@@ -170,8 +170,10 @@
   },
   "active": "5cab873fa3146db7",
   "lastOpenFiles": [
-    "source/content/Equipment/Armor.md",
+    "source/content/Equipment/Weapons/Melee Weapons.md",
     "source/content/Equipment/Weapons/Firearms.md",
+    "source/content/Retainers/index.md",
+    "source/content/Equipment/Armor.md",
     "source/content/Character/Name.md",
     "source/content/Character/Starting Possessions.md",
     "source/content/Character/index.md",
@@ -187,7 +189,6 @@
     "source/content/Equipment/Services.md",
     "source/content/Equipment/Containers.md",
     "source/content/Equipment/Weapons/Ranged Weapons.md",
-    "source/content/Equipment/Weapons/Melee Weapons.md",
     "source/content/Equipment/index.md",
     "source/content/index.md",
     "source/content/Encounters/index.md",
@@ -203,7 +204,6 @@
     "source/quartz/plugins/transformers/linebreaks.ts",
     "source/quartz/static/og-image.png",
     "source/quartz/static/icon.png",
-    "source/content/Retainers/index.md",
     "source/content/Adventuring/index.md",
     "source/content/Character/Untitled.md",
     "source/docs/index.md",
