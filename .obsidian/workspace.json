@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Retainers/index.md",
+                "file": "source/content/Retainers/Expanded Retainer List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Expanded Retainer List"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,16 +197,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c0e916a0fb443a2",
+  "active": "b6aee9291c9d251a",
   "lastOpenFiles": [
-    "source/content/Character/Advancement.md",
     "source/content/Retainers/index.md",
+    "source/content/Retainers/Basic Retainers.md",
+    "source/content/Encounters/index.md",
+    "source/content/Character/Advancement.md",
     "source/content/Retainers/Morale Checks.md",
     "source/content/Retainers/Untitled.md",
     "source/content/Retainers/Hiring Retainers.md",
     "source/content/Retainers/Expanded Retainer List.md",
     "source/content/Equipment/Services.md",
-    "source/content/Retainers/Basic Retainers.md",
     "Expadnded Retainer List.md",
     "source/content/Equipment/Armor.md",
     "source/content/Equipment/Containers.md",
@@ -224,7 +225,6 @@
     "source/content/Equipment/Vehicles.md",
     "source/content/Equipment/Food.md",
     "source/content/Equipment/Weapons/Ranged Weapons.md",
-    "source/content/Equipment/index.md",
     "source/quartz/plugins/filters/index.ts",
     "source/quartz/plugins/filters/explicit.ts",
     "source/quartz/plugins/filters/draft.ts",
