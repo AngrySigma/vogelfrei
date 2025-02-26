@@ -63,3 +63,4 @@ Rifling:
 * Doubles the base cost of a gun.
 * The reloading time of a gun increases by half.
 ***Note***: cost multipliers are cumulative, so a rifled wheellock musket would cost 100sp×7×2=1400sp
+

@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Equipment/Weapons/Firearms.md",
+                "file": "source/content/Retainers/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Firearms"
+              "title": "index"
+            }
+          },
+          {
+            "id": "b6aee9291c9d251a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/Retainers/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "0c0e916a0fb443a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/Encounters/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,30 +197,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5cab873fa3146db7",
+  "active": "0c0e916a0fb443a2",
   "lastOpenFiles": [
-    "source/content/Equipment/Weapons/Melee Weapons.md",
-    "source/content/Equipment/Weapons/Firearms.md",
+    "source/content/Character/Advancement.md",
     "source/content/Retainers/index.md",
+    "source/content/Retainers/Morale Checks.md",
+    "source/content/Retainers/Untitled.md",
+    "source/content/Retainers/Hiring Retainers.md",
+    "source/content/Retainers/Expanded Retainer List.md",
+    "source/content/Equipment/Services.md",
+    "source/content/Retainers/Basic Retainers.md",
+    "Expadnded Retainer List.md",
     "source/content/Equipment/Armor.md",
+    "source/content/Equipment/Containers.md",
+    "source/content/Equipment/Animals.md",
+    "source/content/Equipment/Weapons/Firearms.md",
+    "source/content/Equipment/Weapons/Melee Weapons.md",
     "source/content/Character/Name.md",
     "source/content/Character/Starting Possessions.md",
     "source/content/Character/index.md",
     "source/content/Character/Class and Career.md",
     "source/content/Character/Alignment.md",
-    "source/content/Character/Advancement.md",
     "source/content/Character/Ability Scores.md",
     "source/content/Equipment/Miscellaneous.md",
     "source/content/Equipment/Lodging.md",
     "source/content/Equipment/Vehicles.md",
     "source/content/Equipment/Food.md",
-    "source/content/Equipment/Animals.md",
-    "source/content/Equipment/Services.md",
-    "source/content/Equipment/Containers.md",
     "source/content/Equipment/Weapons/Ranged Weapons.md",
     "source/content/Equipment/index.md",
-    "source/content/index.md",
-    "source/content/Encounters/index.md",
     "source/quartz/plugins/filters/index.ts",
     "source/quartz/plugins/filters/explicit.ts",
     "source/quartz/plugins/filters/draft.ts",
@@ -204,10 +237,6 @@
     "source/quartz/plugins/transformers/linebreaks.ts",
     "source/quartz/static/og-image.png",
     "source/quartz/static/icon.png",
-    "source/content/Adventuring/index.md",
-    "source/content/Character/Untitled.md",
-    "source/docs/index.md",
-    "source/docs/build.md",
     "source/quartz/node_modules/psl/browserstack-logo.svg",
     "source/node_modules/cli-spinner/img/spinner.gif",
     "source/node_modules/psl/browserstack-logo.svg",
