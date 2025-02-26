@@ -1,32 +1,32 @@
-| Retainer                    | Daily Wage | Monthly Wage         | Live-in Wage | Treasure Share |
-| --------------------------- | ---------- | -------------------- | ------------ | -------------- |
-| [[#Accountant\|Accountant]] | -          | 5% of amount handled | -            | -              |
-| [[#Alchemist]]              | -          | 250sp                | 200sp        | -              |
-| [[#Animal Handler]]         | 15sp       | 150sp                | 120sp        | -              |
-| [[#Armorer]]                | -          | 50sp                 | 40sp         | -              |
-| [[#Butler]]                 | -          | 150sp                | 120sp        | -              |
-| [[#Coachman]]               | 6sp        | 60sp                 | 50sp         | -              |
-| [[#Craftsman]]              | -          | 100sp                | 80sp         | -              |
-| [[#Guard]]                  | 8sp        | 80sp                 | 60sp         | -              |
-| [[#Guide]]                  | 14sp       | -                    | -            | 0.1            |
-| [[#Henchman]]               | -          | -                    | -            | 0.5            |
-| [[#Laborer]]                | 6sp        | 60sp                 | 50sp         | -              |
-| [[#Linkboy]]                | 4sp        | 40sp                 | 30sp         | -              |
-| [[#Mercenary]], Archer      | -          | 125sp                | 90sp         | 0.2            |
-| [[#Mercenary]], Cavalry     | -          | 200sp                | 160sp        | 0.2            |
-| [[#Mercenary]], Infantry    | -          | 100sp                | 80sp         | 0.2            |
-| [[#Mercenary]], Polearm     | -          | 150sp                | 120sp        | 0.2            |
-| [[#Physician]]              | 28sp       | 280sp                | 210sp        | -              |
-| [[#Sailor]]                 | -          | -                    | -            | 0.2            |
-| [[#Sailor, Captain]]        | -          | -                    | -            | 1              |
-| [[#Sailor, Navigator]]      | -          | -                    | -            | 0.5            |
-| [[#Sailor, Oarsman]]        | -          | -                    | -            | 0.2            |
-| [[#Scholar]]                | -          | 100sp                | 80sp         | -              |
-| [[#Servant]]                | 6sp        | 60sp                 | 50sp         | -              |
-| [[#Slave]]                  | (1sp)      | -                    | -            | -              |
-| [[#Slave Master]]           | -          | 70sp                 | 60sp         | -              |
-| [[#Spy]]                    | -          | 200sp                | -            | -              |
-| [[#Teamster]]               | 10sp       | 100sp                | 80sp         | -              |
+| Retainer                                  | Daily Wage | Monthly Wage         | Live-in Wage | Treasure Share |
+| ----------------------------------------- | ---------- | -------------------- | ------------ | -------------- |
+| [[#Accountant\|Accountant]]               | -          | 5% of amount handled | -            | -              |
+| [[#Alchemist\|Alchemist]]                 | -          | 250sp                | 200sp        | -              |
+| [[#Animal Handler\|Animal Handler]]       | 15sp       | 150sp                | 120sp        | -              |
+| [[#Armorer\|Armorer]]                     | -          | 50sp                 | 40sp         | -              |
+| [[#Butler\|Butler]]                       | -          | 150sp                | 120sp        | -              |
+| [[#Coachman\|Coachman]]                   | 6sp        | 60sp                 | 50sp         | -              |
+| [[#Craftsman\|Craftsman]]                 | -          | 100sp                | 80sp         | -              |
+| [[#Guard\|Guard]]                         | 8sp        | 80sp                 | 60sp         | -              |
+| [[#Guide\|Guide]]                         | 14sp       | -                    | -            | 0.1            |
+| [[#Henchman\|Henchman]]                   | -          | -                    | -            | 0.5            |
+| [[#Laborer\|Laborer]]                     | 6sp        | 60sp                 | 50sp         | -              |
+| [[#Linkboy\|Linkboy]]                     | 4sp        | 40sp                 | 30sp         | -              |
+| [[#Mercenary\|Mercenary, Marksman]]       | -          | 150sp                | 120sp        | 0.2            |
+| [[#Mercenary\|Mercenary, Cavalry]]        | -          | 200sp                | 160sp        | 0.2            |
+| [[#Mercenary\|Mercenary, Infantry]]       | -          | 100sp                | 80sp         | 0.2            |
+| [[#Mercenary\|Mercenary, Polearm]]        | -          | 130sp                | 100sp        | 0.2            |
+| [[#Physician\|Physician]]                 | 28sp       | 280sp                | 210sp        | -              |
+| [[#Sailor\|Sailor]]                       | -          | -                    | -            | 0.2            |
+| [[#Sailor, Captain\|Sailor, Captain]]     | -          | -                    | -            | 1              |
+| [[#Sailor, Navigator\|Sailor, Navigator]] | -          | -                    | -            | 0.5            |
+| [[#Sailor, Oarsman\|Sailor, Oarsman]]     | -          | -                    | -            | 0.2            |
+| [[#Scholar\|Scholar]]                     | -          | 100sp                | 80sp         | -              |
+| [[#Servant\|Servant]]                     | 6sp        | 60sp                 | 50sp         | -              |
+| [[#Slave\|Slave]]                         | (1sp)      | -                    | -            | -              |
+| [[#Slave Master\|Slave Master]]           | -          | 70sp                 | 60sp         | -              |
+| [[#Spy\|Spy]]                             | -          | 200sp                | -            | -              |
+| [[#Teamster\|Teamster]]                   | 10sp       | 100sp                | 80sp         | -              |
 
 ##### Accountant
 Households are largely disorganized affairs. Any household with five or more retainers that does not include an accountant, increases its running costs by 1d20% in any particular month as money slips through the cracks.
