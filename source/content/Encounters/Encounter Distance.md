@@ -1,0 +1,3 @@
+Encounters begin with the closest opposing characters 3d6×10' apart, unless there are specific details which would define the encounter distance, such as being in fog or a forest. In environments with limited visibility (such as underground), the maximum encounter distance will be the visibility distance.
+
+Note that creatures that can see in the dark and have ranged combat capabilities will certainly attack from beyond the range of their opponents’ vision.

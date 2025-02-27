@@ -1,0 +1,3 @@
+When surprise is possible, roll 1d6 for each side which might be surprised; most normal characters are surprised on a roll of 1–2. Surprised characters are unable to act for one  round. Characters or creatures which are well hidden and prepared to perform an ambush act from surprise on a roll of 1–4 on 1d6. Some characters or creatures are described as being less likely to be surprised; reduce the range by 1 for such creatures.
+
+The foes of surprised characters can take a free action before Initiative is rolled. Note that explorers traveling in a large party underground with light sources and metal armor clomping on stone floors are not going to surprise anything or anyone.
