@@ -1,3 +1,7 @@
+---
+title: Academic
+---
+
 | Level | Experience | Hit Points | Paralyze | Poison | Breath | Device | Magic |
 | ----- | ---------- | ---------- | -------- | ------ | ------ | ------ | ----- |
 | 1     |            |            |          |        |        |        |       |

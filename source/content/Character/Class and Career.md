@@ -3,19 +3,19 @@ Every Player Character must choose a class or roll for it. All people encountere
 Class represents the social stratum of a character. First group consists of feudal classes: Warriors, Clerics and Peasants. Renaissance period introduces other classes, emerging from developing cities, cultural and social advancement. Rogues, Rangers, Townsmen and Academics belong to it. Magic-users are a special class as they form a very specific community within themselves and rarely fit well with commoners. Lastly, other races never blend with human society, and such minorities as Dwarves, Elves and Halflings always form a separate social group.
 You can either choose a class, or roll using the table below.
 
-| 2d6 roll | Class      |
-| -------- | ---------- |
-| 2        | Dwarf      |
-| 3        | Halfling   |
-| 4        | Rogue      |
-| 5        | Ranger     |
-| 6        | Townsman   |
-| 7        | Peasant    |
-| 8        | Warrior    |
-| 9        | Cleric     |
-| 10       | Academic   |
-| 11       | Magic-user |
-| 12       | Elf        |
+| 2d6 roll | Class                                    |
+| -------- | ---------------------------------------- |
+| 2        | [[Character/Classes/Dwarf/index\|index]] |
+| 3        | Halfling                                 |
+| 4        | Rogue                                    |
+| 5        | Ranger                                   |
+| 6        | Townsman                                 |
+| 7        | Peasant                                  |
+| 8        | Warrior                                  |
+| 9        | Cleric                                   |
+| 10       | Academic                                 |
+| 11       | Magic-user                               |
+| 12       | Elf                                      |
 Next, choose a career from the following table
 
 | Class        | Career       | Class        | Career        | Class        | Career         | Class          | Career        |

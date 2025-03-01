@@ -1,3 +1,6 @@
+---
+title: Halfling
+---
 | Level | Experience | Hit Points | Paralyze | Poison | Breath | Device | Magic |
 | ----- | ---------- | ---------- | -------- | ------ | ------ | ------ | ----- |
 | 1     | 0          | 1d6        | 10       | 8      | 13     | 9      | 12    |
@@ -6,3 +9,7 @@
 | 4     | 8000       | +1d6       | 6        | 4      | 7      | 5      | 8     |
 | 5     | 16000      | +1d6       | 6        | 4      | 7      | 5      | 8     |
 | 6     | 32000      | +1d6       | 4        | 2      | 4      | 3      | 6     |
+### Starting Skills and Possessions
+- 
+### Careers:
+1. 

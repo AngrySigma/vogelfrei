@@ -1,0 +1,3 @@
+At the start of each round, one player rolls 1d6 for the player characters’ side, and the Referee rolls 1d6 for each opposing party. The sides act in order of decreasing roll result. In a situation when the Characters are opposed by a single party, player rolls a d6 and the results of 1-3 mean the opposed side acts first, while the results of 4-6 mean that the Characters are allowed to act first.
+
+If opposing groups roll the same Initiative number, break ties using additional d6 rolls, but in this case all actions occur at the same time. For that purpose, consider all damage and spells are applied at the end of both parties action, thus allowing for mutual murders and so simultaneous spell effects.

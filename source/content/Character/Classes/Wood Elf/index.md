@@ -1,3 +1,6 @@
+---
+title: Wood Elf
+---
 | Level | Experience | Hit Points | Paralyze | Poison | Breath | Device | Magic |
 | ----- | ---------- | ---------- | -------- | ------ | ------ | ------ | ----- |
 | 1     | 0          | 1d6        | 13       | 12     | 15     | 13     | 15    |
@@ -6,3 +9,7 @@
 | 4     | 12000      | +1d6       | 11       | 10     | 13     | 11     | 13    |
 | 5     | 24000      | +1d6       | 11       | 10     | 13     | 11     | 13    |
 | 6     | 48000      | +1d6       | 11       | 10     | 13     | 11     | 13    |
+### Starting Skills and Possessions
+- 
+### Careers:
+1. 

@@ -1,11 +1,5 @@
-### Initiative
-At the start of each round, one player rolls 1d6 for the player characters’ side, and the Referee rolls 1d6 for each opposing party. The sides act in order of decreasing roll result. In a situation when the Characters are opposed by a single party, player rolls a d6 and the results of 1-3 mean the opposed side acts first, while the results of 4-6 mean that the Characters are allowed to act first.
-
-If opposing groups roll the same Initiative number, break ties using additional d6 rolls, but in this case all actions occur at the same time. For that purpose, consider all damage and spells are applied at the end of both parties action, thus allowing for mutual murders and so simultaneous spell effects.
-
-### Actions
 Each character can perform a single action on their turn. These given options certainly do not contain an exhaustive list of possible actions. The Referee has the final say in what can or cannot be done in one Round.
-#### Move
+##### Move
 A character can move their full movement rate at any round using either normal movement speed, or running one. In case the Character is running through reach of any opponent who did not yet attack that turn, they may perform an attack against the Character.
 If the Character moves their normal combat distance, they can perform a usual Attack afterwards. If the Character runs in a straight forward without obstacles at least half of their normal combat speed, they can perform a melee Attack with Charge afterwards.
 ##### Flee!

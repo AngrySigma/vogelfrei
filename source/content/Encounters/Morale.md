@@ -1,0 +1,7 @@
+NPCs and monsters do not always fight to the death; in fact, most will try to avoid death whenever possible. Each NPC, monster, or group of the same monsters should include a Morale score, a figure between 2 and 12. To make a Morale check, roll 2d6; if the roll is equal to or less than the Morale score, the NPC, monster, or monster group is willing to stand and fight. If the roll is higher than the score, the NPC, monster, or monster group has lost their nerve. NPCs, monsters, or monster groups with a Morale score of 12 never fail a Morale check; they always fight to the death.
+
+In general, Morale is checked when an NPC, monster, or monster group first encounters opposition (and they do not outnumber their opponents), and again when they are reduced to half strength (either by numbers if more than one NPC or monster, or by Hit Points if the NPC is alone). For this purpose, enemies incapacitated by Sleep, Charm, Hold, or similar spells or magic are counted as dead.
+
+The Referee can apply adjustments to an enemy’s Morale score in some situations, at his discretion. Generally, adjustments should not total more than +2 or –2. No adjustment is ever applied to a Morale score of 12. An NPC that fails a Morale check will generally attempt to flee; intelligent monsters or NPCs may attempt to surrender, if the Referee so desires.
+
+Note that special rules apply to retainers; see the relevant rules in the Retainers section.

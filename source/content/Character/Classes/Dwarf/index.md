@@ -1,3 +1,6 @@
+---
+title: Dwarf
+---
 
 | Level | Experience | Hit Points | Paralyze | Poison | Breath | Device | Magic |
 | ----- | ---------- | ---------- | -------- | ------ | ------ | ------ | ----- |
@@ -7,3 +10,8 @@
 | 4     | 8800       | +1d10      | 8        | 6      | 10     | 7      | 10    |
 | 5     | 17600      | +1d10      | 8        | 6      | 10     | 7      | 10    |
 | 6     | 35200      | +1d10      | 8        | 6      | 10     | 7      | 10    |
+
+### Starting Skills and Possessions
+- 
+### Careers:
+1. 
