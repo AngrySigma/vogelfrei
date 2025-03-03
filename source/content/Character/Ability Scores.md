@@ -12,7 +12,7 @@ Each ability score has a Modifier which is associated with it:
 | 14-16         | +1       |
 | 17-18         | +2       |
 ### Explanation of Ability Scores
-**Fellowship**
+**Leadership**
 Fellowship is the measure of a character’s aptitude for leadership and the respect that others bestow on the character’s authority. It is not a measure of the appeal of a character’s personality (the player must portray the character’s personality) nor a measure of the character’s beauty. Charisma modifiers affect both the character’s ability to hire retainers and the loyalty of those retainers.
 
 **Toughness**
