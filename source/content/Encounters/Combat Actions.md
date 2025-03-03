@@ -9,13 +9,20 @@ No mapping or other record keeping is allowed during a pursuit. The Referee will
 
 Dropping items or money or treasure or food might make pursuers break off pursuit, depending on why they are pursuing. If a character drops valuable goods, or treasure, in the path of treasure-seeking enemies, those enemies must make a Morale check to stop pursuit. If an unintelligent creature is pursuing, then food is what it wants, and the appropriate food dropped causes a Morale check, with failure meaning the creature stops to eat the food. Dropping an obstacle, such as flaming oil, will normally stop pursuit as well.
 ##### Attack
-A Character can move their normal combat speed and perform an attack any enemy within their range. To determine the attack success and the inflicted damage, the following actions are performed:
-* The Referee will inform the player what the opponent's AC is. The base AC is 10 with addition of Agility Bonus. Armed Characters add their Weapon Skill to AC against melee attacks. Using a shield or wielding a secondary weapon also modifies the AC.
-* The player rolls a d20 to determine if the attack lands.
-* Weapon Skill and Strength Bonus are added to the roll in melee, Ballistic Skill and Agility Bonus are added to the roll in ranged combat.
-* Any result equal to or greater than the defender's AC results in a successful attack.
-* The difference between the result rolled and the AC is subtracted from defender's Armor Rating.
-* Attacker rolls their weapon damage die and subtracts the defender's resulting Armor Rating.
+A Character can move their normal combat speed and perform an attack any enemy within their range. Warplock uses descending Armor Class based on a Character's skills, and implements Armor to block damage. To determine the attack success and the inflicted damage, the following actions are performed:
+* The Referee will inform the player what the opponent's AC is. The base AC is 12, subtracted by Agility Bonus. Armed Characters subtract their Weapon Skill to AC against melee attacks. Using a shield or wielding a secondary weapon also modifies the AC.
+* Attacker's Weapon Skill and Strength Bonus are added to the AC in melee, Ballistic Skill and Agility Bonus are added to AC in ranged combat. Final AC cannot go lower than 1.
+* The player rolls a d20 to determine if the attack lands. Any result lower or equal to the AC results in a successful attack.
+* The unmodified d20 roll equals to the number of Armor Rating ignored by the attack. Rolling number equal to the AC always ignores all the armor.
+* Attacker rolls their weapon damage and inflicts damage to the defender subtracted by the defender's resulting Armor Rating.
+*Example situation: Kurt is a 4-th level Mercenary with 4 Weapon Skill, +1 Strength Bonus and a Messer counting as a Medium Weapon dealing thus d8 damage on hit. Hans is a 2-nd level Mercenary with 2 Weapon Skill, +2 Agility Bonus and equipped with a Chainmail having Armor Rating equal to 6.*
+
+*Kurt attacks Hans and the Referee tells the Player that Hans' AC is equal to 8 (12 Base AC - 2 Weapon Skill - 2 Agility Bonus). Kurt's Player adds 5 to the AC (4 Weapon Skill + 1 Strength Bonus), making the total AC equal to 13. They now roll d20 and might get the following results:*
+* *15 is higher than the AC, meaning the hit did not land;*
+* *13 is just equal to the AC for that attack and the attack fully ignores the armor. Even the greatest magic plate armor wouldn't save from that damage;*
+* *8 would hit, as it is lower than the AC, and ignore 8 Armor Points, which is larger than the Chainmail provides, meaning any damage roll is applied in full;*
+* *1 would still hit, but it only penetrates 1 armor point. Form a damage roll of 8, chainmail Armor Rating would be subtracted, which in this case is reduced to 5, resulting in a total damage of 3. Would an attacker roll 3 for damage, total damage would be fully negated by armor.*
+
 Some special conditions may modify the usual attack flow:
 
 | Special Condition                         | Modifiers                                                                                    |
