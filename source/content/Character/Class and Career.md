@@ -3,20 +3,20 @@ Every Player Character must choose a class or roll for it. All people encountere
 Class represents the social stratum of a character. First group consists of feudal classes: Warriors, Clerics and Peasants. Renaissance period introduces other classes, emerging from developing cities, cultural and social advancement. Rogues, Rangers, Townsmen and Academics belong to it. Magic-users are a special class as they form a very specific community within themselves and rarely fit well with commoners. Lastly, other races never blend with human society, and such minorities as Dwarves, Elves and Halflings always form a separate social group.
 You can either choose a class, or roll using the table below.
 
-| 2d6 roll | Class                                    |
-| -------- | ---------------------------------------- |
-| 2        | [[Character/Classes/Dwarf/index\|index]] |
-| 3        | Halfling                                 |
-| 4        | Rogue                                    |
-| 5        | Ranger                                   |
-| 6        | Townsman                                 |
-| 7        | Peasant                                  |
-| 8        | Warrior                                  |
-| 9        | Cleric                                   |
-| 10       | Academic                                 |
-| 11       | Magic-user                               |
-| 12       | Elf                                      |
-Next, choose a career from the following table
+| 2d6 roll | Class                                              |
+| -------- | -------------------------------------------------- |
+| 2        | [[Character/Classes/Dwarf/index\|Dwarf]]           |
+| 3        | [[Character/Classes/Halfling/index\|Halfling]]     |
+| 4        | [[Character/Classes/Rogue/index\|Rogue]]           |
+| 5        | [[Character/Classes/Ranger/index\|Ranger]]         |
+| 6        | [[Character/Classes/Townsman/index\|Townsman]]     |
+| 7        | [[Character/Classes/Peasant/index\|Peasant]]       |
+| 8        | [[Character/Classes/Warrior/index\|Warrior]]       |
+| 9        | [[Character/Classes/Cleric/index\|Cleric]]         |
+| 10       | [[Character/Classes/Academic/index\|Academic]]     |
+| 11       | [[Character/Classes/Magic-User/index\|Magic-User]] |
+| 12       | [[Character/Classes/High Elf/index\|Elf]]          |
+Elves may opt to use the Wood Elf class if the Referee decides that it is available for campaign. Next, choose a career from the following table
 
 | Class        | Career       | Class        | Career        | Class        | Career         | Class          | Career        |
 | ------------ | ------------ | ------------ | ------------- | ------------ | -------------- | -------------- | ------------- |
