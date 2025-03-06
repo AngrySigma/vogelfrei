@@ -4,4 +4,4 @@ Water that is to be made into holy water must first be at rest in a basin in a p
 Most “holy water” used in religious rituals and services is merely symbolic. While suitable for its purpose, it does not have any potency against the undead or otherworldly creatures unless this ritual is performed.
 
 For information on holy water usage and purchase, refer to equipment section:
-![[Miscellaneous#^Holy Water]]
+![[Miscellaneous#Holy Water]]
