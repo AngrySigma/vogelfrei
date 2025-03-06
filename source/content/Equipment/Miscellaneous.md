@@ -40,14 +40,14 @@
 | Lantern           | 3sp   | 5sp   | *Whistle*          | 1sp  | 1sp   |
 | Lard              | 1bp   | 1bp   | *Wolfsbane*        | 1sp  | 1bp   |
 
-#### Holy Water
+### Holy Water
 Holy water can be sprinkled on an opponent within mêlée range, and the opponent will always be considered AC10 in this situation unless using actual armor and/or shield. This takes up both the attacker’s hands and actions for the full Round.
 
 Holy water, if in a glass container or flask, can be thrown with the same range modifiers as a rock. If it hits, it will only break and unleash the holy water 75% of the time. Otherwise it simply does the same damage as a thrown rock.
 
 Holy water inflicts 1d8 damage against appropriate targets such as undead, summoned creatures, innately magical beings such as Elves, etc.
 
-#### Oil and Fire
+### Oil and Fire
 Lobbing flasks of flaming oil is a popular tactic of explorers. Here is how that works:
 The oil flask must be in hand, its lid or stopper removed, and a wick of some sort (usually a bit of cloth) already prepared and lit.
 

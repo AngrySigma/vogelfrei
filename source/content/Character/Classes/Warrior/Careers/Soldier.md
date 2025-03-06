@@ -1,3 +1,4 @@
+Experience and saves from [[Character/Classes/Warrior/index|Warrior Class]]
 
 | Level | New traits                        |
 | ----- | --------------------------------- |
