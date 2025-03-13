@@ -38,27 +38,27 @@ Elves may opt to use the Wood Elf class if the Referee decides that it is availa
 |              | Thief        |              | Hunter        |              | Scholar        |                | Blade dancer  |
 |              | Wrecker      |              | Scout         |              | Alchemist      |                | Waywatcher    |
 |              | Outlaw       |              | Hedge Witch   |              | Cartographer   |                |               |
-# Determine Hit Points
+# Determine Wounds
 
-Randomly determine the character’s starting Hit Points (HP) according to his level chart, and add the character’s Toughness modifier. First level characters have a minimum number of Hit Points they possess. If the rolled amount is less than the indicated number on the following chart, simply use the number shown on the chart instead.
+Randomly determine the character’s starting Wounds (W) according to his level chart, and add the character’s Toughness modifier. First level characters have a minimum number of Wounds they possess. If the rolled amount is less than the indicated number on the following chart, simply use the number shown on the chart instead.
 
-| Class      | Minimum Hit Points |
-| ---------- | ------------------ |
-| Dwarf      | 6                  |
-| Halfling   | 4                  |
-| Rogue      | 4                  |
-| Ranger     | 4                  |
-| Townsman   | 4                  |
-| Peasant    | 4                  |
-| Warrior    | 8                  |
-| Cleric     | 4                  |
-| Academic   | 3                  |
-| Magic-User | 3                  |
-| High Elf   | 4                  |
-| Wood Elf   | 4                  |
-These minimums are not used when rolling for Hit Points gained after first level. For determining Hit Points at level two and higher, it is simply the shown die roll plus the Toughness modifier.
+| Class      | Minimum Wounds |
+| ---------- | -------------- |
+| Dwarf      | 6              |
+| Halfling   | 4              |
+| Rogue      | 4              |
+| Ranger     | 4              |
+| Townsman   | 4              |
+| Peasant    | 4              |
+| Warrior    | 8              |
+| Cleric     | 4              |
+| Academic   | 3              |
+| Magic-User | 3              |
+| High Elf   | 4              |
+| Wood Elf   | 4              |
+These minimums are not used when rolling for Wounds gained after first level. For determining Wounds at level two and higher, it is simply the shown die roll plus the Toughness modifier.
 
-The character’s starting Hit Points are the maximum Hit Points the character can ever have without gaining a level. While the character will lose Hit Points in various ways during the course of adventuring, there are different methods of healing damage done. No amount of healing can cause the character to gain more than his normal maximum number of Hit Points.
+The character’s starting Wounds are the maximum Wounds the character can ever have without gaining a level. While the character will lose Wounds in various ways during the course of adventuring, there are different methods of healing damage done. No amount of healing can cause the character to gain more than his normal maximum number of Wounds.
 # Record Weapon Skill and Saving Throws
 Weapon Skill (WS) and Ballistic Skill (BS) modifiers are added to Attack Rolls (as described in …). Many characters, including Player Characters, get a bonus to their Weapon and Ballistic Skills as determined in appropriate tables. WS/BS can be gained after gaining a level.
 
@@ -72,8 +72,8 @@ Apart from determining the success of the attack, WS/BS determines the character
 Saving Throw charts for Player characters of all classes and levels are found within individual class descriptions. The Referee will inform the player when a saving throw needs to be made, and what category of save it is. The number on the chart is the number that needs to be rolled (after all modifiers are applied), or higher, to successfully save. A natural 20 is always a successful save, and a natural 1 is always a failed save.
 
 These saving throws cover all possible save situations. When there is a doubt as to which save category to use, start at the left column on the Saving Throw chart and move to the right, using the first category which matches the particular effect.
-- Paralyzation will cover any effect in which the victim is unable to move (such as petrification, being the subject of a Hold Person or Web spell, etc.)
-- Poison will be used for any situation where Hit Points are irrelevant and the result is unconsciousness or death.
-- Breath Weapon is used for area effects.
-- Magical Device includes situations with all magic items that have spell-like effects, be they wands, staves, rings, etc.
-- Magic includes any magical effect from a cast spell or innate ability.
+- **Paralyzation** will cover any effect in which the victim is unable to move (such as petrification, being the subject of a Hold Person or Web spell, etc.)
+- **Poison** will be used for any situation where Wounds are irrelevant and the result is unconsciousness or death.
+- **Breath Weapon** is used for area effects.
+- **Magical Device** includes situations with all magic items that have spell-like effects, be they wands, staves, rings, etc.
+- **Magic** includes any magical effect from a cast spell or innate ability.

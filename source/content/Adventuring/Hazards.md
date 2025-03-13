@@ -1,6 +1,6 @@
 ### Ability Score Loss
 
-Loss of ability scores only affects the character so much as their modifiers and bonuses will change. A character dropping from Strength 13 to Strength 12 will no longer have any Strength modifier, for example. This is most striking with Constitution, as any change in Constitution modifier is applied immediately to both current and maximum Hit Points.
+Loss of ability scores only affects the character so much as their modifiers and bonuses will change. A character dropping from Strength 13 to Strength 12 will no longer have any Strength modifier, for example. This is most striking with Constitution, as any change in Constitution modifier is applied immediately to both current and maximum Wounds.
 
 A character who falls to zero in any ability score dies.
 
@@ -18,7 +18,7 @@ If a character is aged by magical means, then all saving throws that would have 
 
 ### Damage
 
-When a character (or creature) suffers damage, the amount of damage is deducted from the character’s current Hit Points. When his Hit Points go below 0, the character falls prone, and becomes unable to take most actions. Characters can still crawl being unable to stand up, and perform simple actions which do not require any stamina, such as attacking, casting spells or invoking miracles. Reaching state below 0 Hit Points causes critical injury according to the table below by rolling 1d10 and adding the number of negative Hit Points reached (for example, if a Character had 2 Wounds and got 4 Damage, it sends them to -2 Wounds, thus triggering an injury roll of 1d10+2). Any damage received when the Character is below 0 Wounds, instantly kills any character.
+When a character (or creature) suffers damage, the amount of damage is deducted from the character’s current Wounds. When his Wounds go below 0, the character falls prone, and becomes unable to take most actions. Characters can still crawl being unable to stand up, and perform simple actions which do not require any stamina, such as attacking, casting spells or invoking miracles. Reaching state below 0 Wounds causes critical injury according to the table below by rolling 1d10 and adding the number of negative Wounds reached (for example, if a Character had 2 Wounds and got 4 Damage, it sends them to -2 Wounds, thus triggering an injury roll of 1d10+2). Any damage received when the Character is below 0 Wounds, instantly kills any character.
 
 MEGA INJURY TABLE 
 
@@ -50,7 +50,7 @@ Characters suffer 1d6 points of damage per 10' that they fall, up to a maximum o
 
 There are a variety of ways that a character can become poisoned. When exposed to poison, the
 
-character must make a saving throw against Poison or suffer the effects. Typical effects of a poison are instant death, falling into a deep slumber, the loss of Hit Points, or perhaps the reduction in one or more ability scores. Only all-or-nothing effects are considered to be poison. Poisons that cause gradual or incremental effects are considered to be drugs for rules purposes.
+character must make a saving throw against Poison or suffer the effects. Typical effects of a poison are instant death, falling into a deep slumber, the loss of Wounds, or perhaps the reduction in one or more ability scores. Only all-or-nothing effects are considered to be poison. Poisons that cause gradual or incremental effects are considered to be drugs for rules purposes.
 
 ### Starvation
 
@@ -76,13 +76,13 @@ Trap detection may not be allowed if the trap is purely magical in nature; on th
 
 ## Healing
 
-Damaged characters who have at least half of their Hit Points remaining recover 1hp after a peaceful
+Damaged characters who have at least half of their Wounds remaining recover 1hp after a peaceful
 
-night’s rest. Taking a watch shift does not prevent this recovery unless something happens during the shift. Damaged characters who have at least half of their Hit Points remaining can also recover an additional 1d3 hp by resting a full day. To count as a full day of “rest,” a character cannot engage in any strenuous activity, including, but not limited to traveling, fighting, researching, running, searching, hunting, or foraging, and the character must have adequate food and water. Basically, the character can do no more than converse and walk around his immediate area.
+night’s rest. Taking a watch shift does not prevent this recovery unless something happens during the shift. Damaged characters who have at least half of their Wounds remaining can also recover an additional 1d3 hp by resting a full day. To count as a full day of “rest,” a character cannot engage in any strenuous activity, including, but not limited to traveling, fighting, researching, running, searching, hunting, or foraging, and the character must have adequate food and water. Basically, the character can do no more than converse and walk around his immediate area.
 
-Characters who have less than half of their Hit Points remaining are in worse shape. They recover nothing from a night’s rest, and recover only 1hp by resting a full day.
+Characters who have less than half of their Wounds remaining are in worse shape. They recover nothing from a night’s rest, and recover only 1hp by resting a full day.
 
-A character at zero or fewer Hit Points will wake up after 1d6 hours. The character will not be able to carry any equipment or stand up, but can communicate and crawl at a movement rate of 10'.
+A character at zero or fewer Wounds will wake up after 1d6 hours. The character will not be able to carry any equipment or stand up, but can communicate and crawl at a movement rate of 10'.
 
 If the character rests the entire day in a comfortable bed in a clean room, then an additional 1hp is recovered.
 
@@ -90,4 +90,4 @@ Characters who have suffered temporary ability score loss recover at a rate of o
 
 Characters can make no recovery if resting in a dungeon or similarly hostile environment.
 
-Healing restores Hit Points and ability scores only to their normal maximum, never more.
+Healing restores Wounds and ability scores only to their normal maximum, never more.
