@@ -15,6 +15,7 @@ A Character can move their normal combat speed and perform an attack any enemy w
 * The player rolls a d20 to determine if the attack lands. Any result lower or equal to the AC results in a successful attack.
 * The unmodified d20 roll equals to the number of Armor Rating ignored by the attack. Rolling number equal to the AC always ignores all the armor.
 * Attacker rolls their weapon damage and inflicts damage to the defender subtracted by the defender's resulting Armor Rating.
+Damage rules are detailed in 
 *Example situation: Kurt is a 4-th level Mercenary with 4 Weapon Skill, +1 Strength Bonus and a Messer counting as a Medium Weapon dealing thus d8 damage on hit. Hans is a 2-nd level Mercenary with 2 Weapon Skill, +2 Agility Bonus and equipped with a Chainmail having Armor Rating equal to 6.*
 
 *Kurt attacks Hans and the Referee tells the Player that Hans' AC is equal to 8 (12 Base AC - 2 Weapon Skill - 2 Agility Bonus). Kurt's Player adds 5 to the AC (4 Weapon Skill + 1 Strength Bonus), making the total AC equal to 13. They now roll d20 and might get the following results:*
@@ -22,7 +23,6 @@ A Character can move their normal combat speed and perform an attack any enemy w
 * *13 is just equal to the AC for that attack and the attack fully ignores the armor. Even the greatest magic plate armor wouldn't save from that damage;*
 * *8 would hit, as it is lower than the AC, and ignore 8 Armor Points, which is larger than the Chainmail provides, meaning any damage roll is applied in full;*
 * *1 would still hit, but it only penetrates 1 armor point. Form a damage roll of 8, chainmail Armor Rating would be subtracted, which in this case is reduced to 5, resulting in a total damage of 3. Would an attacker roll 3 for damage, total damage would be fully negated by armor.*
-
 Some special conditions may modify the usual attack flow:
 
 | Special Condition                         | Modifiers                                                                                    |
