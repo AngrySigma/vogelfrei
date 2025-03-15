@@ -14,7 +14,7 @@ For positions where danger is expected, the following situations trigger Morale 
 * The Employer is clearly not the one behind the orders
 * Any other situation when the Retainer's loyalty is in question
 
-Any orders assigned by anyone except the direct employer can be freely ignored by the Retainer. For actual combat situations, see the section on Morale under the Combat section. 
+Any orders assigned by anyone except the direct employer can be freely ignored by the Retainer. For actual combat situations, see the section on Morale in the [[Combat Actions]].
 
 It is up to the Referee what happens as a result of a failed roll, although it should have something directly to do with the retainer’s function (for example, an Accountant might embezzle his employer’s money) or the trigger of the Loyalty check (a maid might go to the authorities if she discovered criminal activity, for example).
 

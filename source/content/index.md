@@ -7,6 +7,3 @@ Contents of Warplock! game:
 3. [[Retainers/index|Retainers]]
 4. [[Adventuring/index|Adventuring]]
 5. [[Encounters/index|Encounters]]
-Hello world!
-
-Write some words here!

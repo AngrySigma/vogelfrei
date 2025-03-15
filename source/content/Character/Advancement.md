@@ -28,13 +28,13 @@ The following treasures do count for XP purposes:
 - Money hoarded by creatures who have no actual use of it
 Treasure is calculated for XP only after it has been returned to a secure location. One silver piece worth of treasure is worth 1 Experience Point. Experience is divided between all surviving party members involved in an adventure.
 ### Gaining a level
-When a character earns enough Experience Points to qualify for the next level, the change will happen the next time the character has returned to a secure location. At that point the character’s level changes, and all benefits of that next level are immediately granted. Three points to consider when gaining a new level: A damaged character that gains a level has his new additional Hit Points added to both the current and maximum total. The character will still be damaged for the same amount of points as before.
+When a character earns enough Experience Points to qualify for the next level, the change will happen the next time the character has returned to a secure location. At that point the character’s level changes, and all benefits of that next level are immediately granted. Three points to consider when gaining a new level: A damaged character that gains a level has his new additional Wounds added to both the current and maximum total. The character will still be damaged for the same amount of points as before.
 
-For example, a 1st level Fighter has a maximum of 8hp, but after a battle only has 3 hp left (5 points lost). The XP gained from the battle and resulting treasure was enough to push him to the next level.
+For example, a 1st level Fighter has a maximum of 8 Wounds, but after a battle only has 3 Wounds left (5 Wounds lost). The XP gained from the battle and resulting treasure was enough to push him to the next level.
 
-After returning to town, the player rolls 1d8 for the character’s additional Hit Points for gaining a level.
+After returning to town, the player rolls 1d8 for the character’s additional Wounds for gaining a level.
 
-The player rolls a 5, so the Fighter’s maximum Hit Points increased to 13, and the current Hit Point total becomes 8 (still 5 points lost).
+The player rolls a 5, so the Fighter’s maximum Wounds increased to 13, and the current Wounds total becomes 8 (still 5 points lost).
 
 Spellcasting characters must still prepare all spells as normal. The increased number of spells available to cast does not automatically make the number of spells already prepared instantly increase as well.
 

@@ -69,7 +69,7 @@ A linkboy is a servant who is a torch/lantern bearer. They do not do heavy labor
 Mercenaries are paid warriors-for-hire. If recruited from the citizenry, all equipment must be supplied by their employers. To hire an existing mercenary company, its employer must hire at least 20 at once, and even then the standard gear is gambeson and a melee weapon. Mounted mercenary troupes cost ten times the normal amount. For every ten mercenaries hired, there must be one sergeant, who earns double what the average mercenary does, or their Morale drops by one. A hired group of one hundred or more mercenaries must have a captain (paid ten times as much as an individual soldier). Mercenaries are always 0 level, with sergeants being 1st level Fighters. Captains will be from 1st to 3rd level Fighters.
 <a  id="physician"></a>
 ##### Physician
-A character under the care of a physician in comfortable, safe surroundings (not in a dungeon or in the wilderness) recovers double the usual number of Hit Points as listed under Healing. Qualified Physicians are able to perform surgery on traumas when necessary.
+A character under the care of a physician in comfortable, safe surroundings (not in a dungeon or in the wilderness) recovers double the usual number of Wounds as listed under Healing. Qualified Physicians are able to perform surgery on traumas when necessary.
 <a  id="sailor"></a>
 ##### Sailor
 Sailors, it will come as no surprise, man ships of the sea. They can handle every duty on board, from scrubbing the decks to repelling pirates. For every ten sailors, there must be a mate to organize them or the sailors’ Morale drops by one. Sailors are assumed to live on their ship.
