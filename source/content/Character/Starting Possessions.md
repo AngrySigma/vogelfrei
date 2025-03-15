@@ -1,4 +1,4 @@
-All characters begin their adventuring careers with money and equipment with which to start their adventuring career. Players will roll for how much money their character begins with, and then buy equipment with that money. All equipment is assumed to have been acquired before play starts. The basic unit of money in Warplock is the Silver Piece. A number of other coins are also used with the following conversion rates:
+All characters begin their adventuring careers with money and equipment with which to start their adventuring career. Players will roll for how much money their character begins with, and then buy equipment with that money. All equipment is assumed to have been acquired before play starts. The basic unit of money in Vogelfrei is the Silver Piece. A number of other coins are also used with the following conversion rates:
 
 *1 Gold Piece = 50 Silver Pieces = 600 Brass Pieces*
 

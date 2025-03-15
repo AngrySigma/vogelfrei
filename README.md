@@ -1,2 +1,2 @@
 ### Deployed URL
-https://angrysigma.github.io/warplock/
+https://angrysigma.github.io/vogelfrei/
