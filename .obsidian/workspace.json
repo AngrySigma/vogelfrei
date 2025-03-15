@@ -4,53 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "f134f7b968f204e0",
+        "id": "e5208fc0ccdfc7e5",
         "type": "tabs",
         "children": [
           {
-            "id": "5cab873fa3146db7",
+            "id": "c120279348b4081e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Retainers/index.md",
+                "file": "source/content/Equipment/Weapons/Melee Weapons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Melee Weapons"
             }
           },
           {
-            "id": "b6aee9291c9d251a",
+            "id": "a4dd6b9561e9b4b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Retainers/Expanded Retainer List.md",
+                "file": "source/content/Encounters/Combat Actions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Expanded Retainer List"
-            }
-          },
-          {
-            "id": "0c0e916a0fb443a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/Encounters/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "Combat Actions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +55,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -197,46 +182,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6aee9291c9d251a",
+  "active": "c120279348b4081e",
   "lastOpenFiles": [
-    "source/content/Retainers/index.md",
-    "source/content/Retainers/Basic Retainers.md",
-    "source/content/Encounters/index.md",
-    "source/content/Character/Advancement.md",
-    "source/content/Retainers/Morale Checks.md",
-    "source/content/Retainers/Untitled.md",
-    "source/content/Retainers/Hiring Retainers.md",
-    "source/content/Retainers/Expanded Retainer List.md",
-    "source/content/Equipment/Services.md",
-    "Expadnded Retainer List.md",
-    "source/content/Equipment/Armor.md",
-    "source/content/Equipment/Containers.md",
-    "source/content/Equipment/Animals.md",
-    "source/content/Equipment/Weapons/Firearms.md",
+    "source/content/Adventuring/Hazards/Environmental.md",
+    "source/content/Adventuring/Hazards/index.md",
+    "source/content/Adventuring/Hazards/Physical Deterioration.md",
     "source/content/Equipment/Weapons/Melee Weapons.md",
-    "source/content/Character/Name.md",
-    "source/content/Character/Starting Possessions.md",
-    "source/content/Character/index.md",
-    "source/content/Character/Class and Career.md",
-    "source/content/Character/Alignment.md",
-    "source/content/Character/Ability Scores.md",
-    "source/content/Equipment/Miscellaneous.md",
-    "source/content/Equipment/Lodging.md",
-    "source/content/Equipment/Vehicles.md",
-    "source/content/Equipment/Food.md",
     "source/content/Equipment/Weapons/Ranged Weapons.md",
-    "source/quartz/plugins/filters/index.ts",
-    "source/quartz/plugins/filters/explicit.ts",
-    "source/quartz/plugins/filters/draft.ts",
-    "source/quartz/plugins/transformers/toc.ts",
-    "source/quartz/plugins/transformers/syntax.ts",
-    "source/quartz/plugins/transformers/roam.ts",
-    "source/quartz/plugins/transformers/oxhugofm.ts",
-    "source/quartz/plugins/transformers/ofm.ts",
-    "source/quartz/plugins/transformers/links.ts",
-    "source/quartz/plugins/transformers/linebreaks.ts",
+    "source/content/Equipment/Armor.md",
+    "source/README.md",
+    "source/CODE_OF_CONDUCT.md",
+    "source/content/index.md",
     "source/quartz/static/og-image.png",
     "source/quartz/static/icon.png",
+    "README.md",
+    "source/content/Encounters/Combat Actions.md",
+    "source/content/Character/Starting Possessions.md",
+    "LICENSE.md",
+    "Untitled",
+    "source/node_modules/w3c-xmlserializer/LICENSE.md",
+    "source/content/License.md",
+    "source/node_modules/webidl-conversions/LICENSE.md",
+    "source/content/Adventuring/Hazards/Damage.md",
+    "source/content/Adventuring/Healing.md",
+    "source/content/Adventuring/Hazards.md",
+    "source/content/Adventuring/Hazards/Substance and Toxins.md",
+    "source/content/Adventuring/Hazards",
+    "source/content/Equipment/Weapons/Firearms.md",
+    "source/content/Adventuring/index.md",
+    "source/content/Adventuring/Skills.md",
+    "source/content/Character/Classes/index.md",
+    "source/content/Character/Class and Career.md",
+    "source/content/Character/Classes/Magic-User/index.md",
+    "Adventuring/Hazards",
+    "Adventuring",
+    "Hazards",
+    "source/content/Character/Classes/Magic-User/Special Rules",
+    "source/content/Character/Classes/Cleric/Special Rules",
+    "source/content/Character/Classes/Cleric/Careers",
+    "source/content/Character/Classes/Magic-User/Careers",
+    "source/content/Character/Classes/Warrior/Careers",
     "source/quartz/node_modules/psl/browserstack-logo.svg",
     "source/node_modules/cli-spinner/img/spinner.gif",
     "source/node_modules/psl/browserstack-logo.svg",
