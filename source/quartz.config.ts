@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪽Vogelfrei",
+    pageTitle: "🪿Vogelfrei",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -19,11 +19,12 @@ const config: QuartzConfig = {
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
+        header: "Schistbed Grotesk",
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
