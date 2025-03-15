@@ -13,7 +13,7 @@ Each ability score has a Modifier which is associated with it:
 | 17-18         | +2       |
 ### Explanation of Ability Scores
 **Leadership**
-Leadership is the measure of a character’s aptitude for gaining obeyance and the respect that others bestow on the character’s authority. It is not a measure of the appeal of a character’s personality (the player must portray the character’s personality) nor a measure of the character’s beauty. Leadership modifiers affect both the character’s ability to hire retainers and the loyalty of those retainers.
+Leadership is the measure of a character’s aptitude for gaining obeyance and the respect that others bestow on the character’s authority. It is not a measure of the appeal of a character’s personality (the player must portray the character’s personality) nor a measure of the character’s beauty. Leadership modifiers affect the character’s ability to hire retainers and secure their loyalty.
 
 **Toughness**
 Toughness is the measure of a character’s health, vitality, and overall constitution. Toughness modifiers affect a character’s Wounds and fitness for certain physical activities such as travelling long distances.
