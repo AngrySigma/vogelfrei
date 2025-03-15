@@ -2,7 +2,7 @@ In most civilized areas, it is not difficult to find people who are out of work.
 
 When the applicant meets the hiring character, there are three or four factors which influence whether the applicant takes the job, and how loyal he is:
 - Payment
-- Employer’s Charisma
+- Employer’s Leadership
 - Term of Service
 - Living Quarters; if long term employment is offered
 
@@ -14,6 +14,7 @@ When the applicant meets the hiring character, there are three or four factors w
 | Ongoing employment, >3 months | +1                  |
 | Half required living space    | -2                  |
 | 50% increase living space     | +1                  |
+
 Referee will secretly roll 3d6 twice on the following table when a character attempts to hire a retainer. The first roll will determine if the applicant accepts the position, while the second roll on the same table will determine the retainer’s Morale score. Players should never know exactly how loyal their retainers are.
 
 | Roll | Accepts Position | Moarle |

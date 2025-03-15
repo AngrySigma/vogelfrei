@@ -3,7 +3,7 @@
 |              | City | Rural |
 | *Backpack*   | 3sp  | 1sp   |
 | ***Barrel*** | 1sp  | 5sp   |
-| ***Chest***  | 10sp |       |
+| ***Chest***  | 10sp | -     |
 | Pouch        | 5bp  | 1bp   |
 | Quiver       | 5sp  | 10sp  |
 | *Sack*       | 5bp  | 2bp   |

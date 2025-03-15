@@ -12,4 +12,4 @@
 | Buckler              | 20sp   | -     | -2 Melee AC               |
 | ***Shield***         | 30sp   | 50sp  | -2 Melee AC, -3 Ranged AC |
 | ***Pavise***         | 100sp  | -     | -5 Ranged AC              |
-Armor Rating reduces the damage inflicted. For more information on attack rules, refer to [[Combat Actions#Attack|Fighting Rules]]
+Armor Rating reduces the damage inflicted. For more information on attack rules, refer to ![[Combat Actions#Attack]]
