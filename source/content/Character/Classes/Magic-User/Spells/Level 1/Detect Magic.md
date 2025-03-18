@@ -8,7 +8,7 @@ tags:
 **Duration**: Instantaneous  
 **Range**: Line of Sight  
 
-This spell allows the caster to know if anything within his field of vision (or on his person) is in any way **magical**. This includes:
+This spell allows the caster to know if anything within their field of vision (or on their person) is in any way **magical**. This includes:
 
 - **Magical creatures**  
 - **Magical items**  

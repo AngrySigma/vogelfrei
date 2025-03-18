@@ -8,7 +8,7 @@ tags:
 **Duration**: Instantaneous
 **Range**: Line of Sight
 
-This spell allows the caster to know if anything within his field of vision (or on his person) is **Chaotic**. For the purposes of this spell, Chaotic is defined as, but not limited to:  
+This spell allows the caster to know if anything within their field of vision (or on their person) is **Chaotic**. For the purposes of this spell, Chaotic is defined as, but not limited to:  
 
 - **Undead creatures**
 - **Any extra-dimensional or extra-planar creatures**

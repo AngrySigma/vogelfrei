@@ -39,6 +39,6 @@ If the roll is greater than or equal to the listed number, then undead totaling 
 - A “–” signifies that a Cleric of that level cannot turn an undead creature of that many Hit Dice.
 - An asterisk (*) denotes that twice the usual number of undead are turned.
 
-If the turning was successful and there are still unturned undead remaining, the Cleric can roll to turn additional undead every Round until he fails a turning roll or the spell ends.
+If the turning was successful and there are still unturned undead remaining, the Cleric can roll to turn additional undead every Round until they fail a turning roll or the spell ends.
 
-Regardless of the result, as long as the Cleric is concentrating (neither movement nor fighting nor other spellcasting allowed) and holding his holy symbol before him, undead creatures cannot approach within ten feet of him. If already within that distance, they will back away.
+Regardless of the result, as long as the Cleric is concentrating (neither movement nor fighting nor other spellcasting allowed) and holding their holy symbol before them, undead creatures cannot approach within ten feet of them. If already within that distance, they will back away.
