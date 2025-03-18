@@ -4,8 +4,8 @@ tags:
   - level_1
   - cleric
 ---
-**Duration**: Instantaneous
-**Range**: Line of Sight
+**Duration**: Instantaneous  
+**Range**: Line of Sight  
 
 This spell allows the caster to know if anything within their field of vision (or on their person) is **Chaotic**. For the purposes of this spell, Chaotic is defined as, but not limited to:  
 

@@ -5,7 +5,7 @@ tags:
   - cleric
 ---
 **Duration**: 1d4+2 Turns  
-**Range**: 120'
+**Range**: 120'  
 
 One true measure of divine power is the command over life and death. In particular, power over the walking dead. They are abominations, a crime against creation. One of a Cleric’s first duties is to ensure that the dead shall dead remain. And so they have the power to first ward against, and later outright destroy, these creations.  
 
