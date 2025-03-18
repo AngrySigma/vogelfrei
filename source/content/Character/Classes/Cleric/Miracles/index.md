@@ -7,7 +7,7 @@ title: List of Cleric Miracles
 2. [[Command]]
 3. [[Cure Light Wounds]]
 4. [[Detect Chaos]]
-5. [[Fear]]
+5. [[Remove Fear]]
 6. [[Invisibility to Undead]]
 7. [[Protection from Chaos]]
 8. [[Sanctuary]]
