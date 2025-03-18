@@ -75,15 +75,15 @@ If an Abstract Form (20) is rolled, ignore the rest of the steps and go straight
 
 Each basic form that is not from the **Abstract Forms** category will have a number of additional features. The base Hit Dice (HD) of the creature determines the die type used to determine the additional features. The base Hit Dice of the creature that the caster wished to summon determines the die type used to determine additional features as follows:
 
-| Hit Dice (HD) | Die Type |
-| ------------- | -------- |
-| 0 (1d6 hp)    | 1d2      |
-| 1             | 1d4      |
-| 2–4           | 1d6      |
-| 5–7           | 1d8      |
-| 8–10          | 1d10     |
-| 11–13         | 1d12     |
-| 14+           | 1d20     |
+| Hit Dice (HD)  | Die Type |
+| -------------- | -------- |
+| 0 (1d6 Wounds) | 1d2      |
+| 1              | 1d4      |
+| 2–4            | 1d6      |
+| 5–7            | 1d8      |
+| 8–10           | 1d10     |
+| 11–13          | 1d12     |
+| 14+            | 1d20     |
 
 Roll the indicated die type… This is the Base Number. Roll that die again. If the new roll is less than the Base Number, then roll an appendage on the following table. Roll again and keep adding appendages until a new roll greater than, or equal to, the previous roll is made.
 
@@ -130,15 +130,15 @@ Roll the indicated die type… This is the Base Number. Roll that die again. If 
 
 To determine the number of powers that a creature has, use the base Hit Dice of the creature that the caster wished to summon to determine which die type to use according to the following table:
 
-| Hit Dice (HD) | Die Type |
-| ------------- | -------- |
-| 0 (1d6 hp)    | 1d2      |
-| 1             | 1d4      |
-| 2–4           | 1d6      |
-| 5–7           | 1d8      |
-| 8–10          | 1d10     |
-| 11–13         | 1d12     |
-| 14+           | 1d20     |
+| Hit Dice (HD)  | Die Type |
+| -------------- | -------- |
+| 0 (1d6 Wounds) | 1d2      |
+| 1              | 1d4      |
+| 2–4            | 1d6      |
+| 5–7            | 1d8      |
+| 8–10           | 1d10     |
+| 11–13          | 1d12     |
+| 14+            | 1d20     |
 
 Roll the indicated die type… This is the Base Number. Roll that die again. If the initial saving throw in Step Two was successful, the entity has a special power if the second roll is less than the Base Number. Roll again and keep adding special powers until a new roll greater than, or equal to, the previous roll is made. However, if the initial saving throw was failed, a new power is gained on a roll less than, or equal to, the Base Number, so the creature will have a greater chance to have more powers than if the casting was more controlled. If a 1 is rolled, however, no further rolls can be made.
 
@@ -214,7 +214,7 @@ The possible powers of a summoned entity can be randomly determined on the follo
 68. Radiation Attack
 69. Radioactive
 70. Ranged Attack
-71. Regenerate (regains 1d3 hp a Round)
+71. Regenerate (regains 1d3 Wounds a Round)
 72. Reverse Gravity (at will, one at a time)
 73. Silence (always on in 15' area)
 74. Slow (once every ten Rounds)
