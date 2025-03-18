@@ -15,6 +15,6 @@ The caster can affect:
 
 Magical item properties are not affected by this spell. For instance, a wand will have the same function even though it is increased to the size of a staff, and potion dosages are not increased, though they may take longer to drink. Objects do become stronger or heavier, so that a small rock gains the weight of an appropriately sized larger one, and a person enlarged will have strength appropriate to his size (as an ogre or a giant, for example) with corresponding strength adjustments.
 
-The damage done by an Enlarged character during mêlée is increased by the same percentage as his size.  
+The damage done by an Enlarged character during melee is increased by the same percentage as his size.  
 
 The reverse of Enlarge, **Reduce**, can reduce objects or creatures in size by the same proportions as Enlarge. These spells cancel each other out. For either version of the spell, a saving throw versus Magic is allowed to negate the effect. This save can be forfeited if the recipient desires.
