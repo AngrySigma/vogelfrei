@@ -4,7 +4,6 @@ tags:
   - level_1
   - cleric
 ---
-**Cleric Level 1**  
 **Duration**: Instantaneous  
 **Range**: 30'  
 

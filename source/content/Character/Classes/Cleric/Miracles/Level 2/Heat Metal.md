@@ -4,7 +4,6 @@ tags:
   - level_2
   - cleric
 ---
-**Cleric Level 2**  
 **Duration**: 7 Rounds  
 **Range**: 40'  
 

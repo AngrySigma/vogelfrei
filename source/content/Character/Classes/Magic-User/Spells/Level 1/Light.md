@@ -4,7 +4,6 @@ tags:
   - level_1
   - magic-user
 ---
-**Magic-User Level 1**  
 **Duration**: 3 Turns/caster level  
 **Range**: 120'  
 

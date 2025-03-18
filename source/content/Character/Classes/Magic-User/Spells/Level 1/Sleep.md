@@ -4,7 +4,6 @@ tags:
   - level_1
   - magic-user
 ---
-**Magic-User Level 1**  
 **Duration**: d4 Turns  
 **Range**: 30' + 10'/level  
 

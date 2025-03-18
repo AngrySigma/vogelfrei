@@ -4,7 +4,6 @@ tags:
   - level_1
   - cleric
 ---
-**Cleric Level 1**  
 **Duration**: See Below  
 **Range**: Touch  
 

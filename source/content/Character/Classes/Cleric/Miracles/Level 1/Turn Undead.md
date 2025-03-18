@@ -4,7 +4,6 @@ tags:
   - level_1
   - cleric
 ---
-**Cleric Level 1**  
 **Duration**: 1d4+2 Turns  
 **Range**: 120'
 

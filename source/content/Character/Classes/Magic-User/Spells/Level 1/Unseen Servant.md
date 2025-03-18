@@ -4,7 +4,6 @@ tags:
   - level_1
   - magic-user
 ---
-**Magic-User Level 1**  
 **Duration**: 6 Turns +1 Turn/level  
 **Range**: 0
 
