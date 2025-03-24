@@ -7,7 +7,7 @@ tags:
 **Duration**: Instantaneous  
 **Range**: 60' + 10'/level  
 
-A missile of magical energy shoots forth from the caster’s fingertip and strikes its target, dealing damage equal to 1d4 per level of the caster (so a second-level Magic-User deals 2d4 points of damage). The missile strikes unerringly, even if the target is in melee combat or has less than total cover or total concealment. Specific parts of a creature cannot be singled out.  
+A missile of magical energy shoots forth from the caster’s fingertip and strikes its target, dealing damage equal to 1d4 per level of the caster (so a second-level Magic-User deals 2d4 points of damage). The missile strikes unerringly, even if the target is in melee combat or has less than total cover or total concealment. Specific parts of a creature cannot be singled out. The missile's damage is **not affected** by the target's [[Armor|Armor Rating]].
 
 The caster can throw the full force of the missile at a single target, but if the caster is 2nd level or higher, he can choose to divide the dice of damage between targets as he wishes. Dice must be assigned to targets before any damage is rolled, and targets of these divided dice are allowed a saving throw versus Magic, with success meaning that the target takes half damage.  
 
