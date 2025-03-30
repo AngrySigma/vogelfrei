@@ -1,9 +1,12 @@
 ---
 title: Vogelfrei
 ---
-*For some, exile is the only fate. To be **vogelfrei** is to be cast out, beyond the protection of kings and gods alike, free in the most terrible way: free to be hunted, betrayed, and forgotten.*
+## What is Vogelfrei?
 
-*Yet even outlaws have a chance to carve their own destiny. A knight may fall from grace and take up the life of a mercenary. A peasant may flee the fields and become a bandit lord. A scholar may seek forbidden knowledge, risking soul and sanity. Steel and wit are a person’s greatest allies, for dangers lurk in the wilds and in the depths of the unknown. In this place, you are either bound by the laws of men—or cast out, left to forge your own destiny.*
+>
+> *For some, exile is the only fate. To be **vogelfrei** is to be cast out, beyond the protection of kings and gods alike, free in the most terrible way: free to be hunted, betrayed, and forgotten.*
+> 
+> *Yet even outlaws have a chance to carve their own destiny. A knight may fall from grace and take up the life of a mercenary. A peasant may flee the fields and become a bandit lord. A scholar may seek forbidden knowledge, risking soul and sanity. Steel and wit are a person’s greatest allies, for dangers lurk in the wilds and in the depths of the unknown. In this place, you are either bound by the laws of men—or cast out, left to forge your own destiny.*
 
 **Vogelfrei** is an OSR tabletop role-playing game set in a world shaped by feudal and early Renaissance societies. Players create characters from diverse social backgrounds — peasants, academics, warriors, rangers and rogues — where social status heavily influences life in civilized settlements. However, in untamed lands and forgotten ruins, the established order begins to unravel. This game emphasizes exploration across vast wildernesses — forests, mountains, and wastelands — as well as deep dungeons and the remains of lost cities.
 
@@ -17,9 +20,11 @@ There’s plenty of material on the OSR style of play, but one of the most iconi
 4. **Live your backstory**: don't put much work into a backstory for your characters. Their experiences in play will be more real to you and your friends than anything you write. An early death won't sting quite as much, and a survivor will have real tales to tell, and experience to take pride in. 
 5. **Power is earned, heroism proven**: unlike many modern RPGs, your character starts with little power. Your meager means and abilities at first level encourage lateral thinking to get you out of trouble. Rising to a challenge (or fleeing it) means more when their life is on the line. 
 6. **Scrutinize the world, interrogate the fiction**: discard any assumptions about other fantasy worlds, and be curious about the one you're playing in. Pay attention to details — about characters, the environment, social situations, and more. Take notes on them! Make maps of them! Information is leverage, my crafty friend. Those details can save your life.
-7. **Play to win, savor loss**: everyone wants to succeed, and certainly everyone wants to play with friends they feel are aiming to succeed — but that may not always happen. Your characters may get turned into frog-people, lose limbs, be stricken by leprosy, turned into stone, cursed to burp up slugs, entombed in the earth for 10,000 years, or just die from being stabbed in the gut by a farmer with a pitchfork. Learn to love the disgusting, horrifying, shocking, surprising, and even disappointing ways your characters are set back. And remember, through play, a story emerges larger than any one character. You will make your mark on the world, be it an unknowingly misleading arrow scratched into a dungeon wall, or a crater where a city once stood. 
+7. **Play to win, savor loss**: everyone wants to succeed, and certainly everyone wants to play with friends they feel are aiming to succeed — but that may not always happen. Your characters may get turned into frog-people, lose limbs, be stricken by leprosy, turned into stone, cursed to burp up slugs, entombed in the earth for 10,000 years, or just die from being stabbed in the gut by a farmer with a pitchfork. Learn to love the disgusting, horrifying, shocking, surprising, and even disappointing ways your characters are set back. And remember, through play, a story emerges larger than any one character. You will make your mark on the world, be it an unknowingly misleading arrow scratched into a dungeon wall, or a crater where a city once stood.
 
-_Vogelfrei_ is structured into several chapters:
+## Game content
+
+**Vogelfrei** is structured into several chapters:
 1. [[Character/index|Character Creation]]
 2. [[Equipment/index|Equipment]]
 3. [[Retainers/index|Retainers]]
