@@ -59,17 +59,18 @@ Randomly determine the character’s starting Wounds (W) according to his level 
 These minimums are not used when rolling for Wounds gained after first level. For determining Wounds at level two and higher, it is simply the shown die roll plus the Toughness modifier.
 
 The character’s starting Wounds are the maximum Wounds the character can ever have without gaining a level. While the character will lose Wounds in various ways during the course of adventuring, there are different methods of healing damage done. No amount of healing can cause the character to gain more than his normal maximum number of Wounds.
-# Record Weapon Skill and Saving Throws
+# Record Weapon Skills and Saving Throws
 Weapon Skill (WS) and Ballistic Skill (BS) modifiers are added to Attack Rolls (as described in [[Combat Actions]]). Many characters, including Player Characters, get a bonus to their Weapon and Ballistic Skills as determined in appropriate tables. WS/BS can be improved after gaining a level.
 
 Apart from determining the success of the attack, WS/BS determines the character’s capability of using certain weapons. For some characters, their region-specific weapons count one category less complex. For example, a Tileans may wield rapiers as Martial weapons.
+#### Weapon Requirements
 
 | WS/BS       | Weapon Category | Melee Weapons (WS)     | Ranged Weapons (BS)         |
 | ----------- | --------------- | ---------------------- | --------------------------- |
 | 0           | Simple          | Axes, Spears           | Darts, Crossbows            |
 | +1          | Martial         | Swords, Polearms       | Heavy Crossbows, Flintlocks |
 | +2 and more | Specialist      | Rapiers, Great Weapons | Bows, Matchlocks            |
-
+#### Saving Throws
 Saving Throw charts for Player characters of all classes and levels are found within individual class descriptions. The Referee will inform the player when a saving throw needs to be made, and what category of save it is. The number on the chart is the number that needs to be rolled (after all modifiers are applied), or higher, to successfully save. A natural 20 is always a successful save, and a natural 1 is always a failed save.
 
 These saving throws cover all possible save situations. When there is a doubt as to which save category to use, start at the left column on the Saving Throw chart and move to the right, using the first category which matches the particular effect.

@@ -1,20 +1,121 @@
 
-| Melee Weapons         | Cost |       | Damage                    |       | Range  |      |
-| --------------------- | ---- | ----- | ------------------------- | ----- | ------ | ---- |
-|                       | City | Rural |                           | Short | Medium | Long |
-| Blowgun               | 5ss  | -     | -                         | 20'   | 50'    | 80'  |
-| ***Bow, Long***       | 45ss | -     | d6                        | 50'   | 600'   | 900' |
-| Bow, Short            | 25ss | 25ss  | d6                        | 50'   | 300'   | 450' |
-| ***Crossbow, Heavy*** | 30ss | -     | d8                        | 50'   | 200'   | 600' |
-| Crossbow, Light       | 25ss | -     | d6                        | 50'   | 150'   | 400' |
-| Rock                  | -    | -     | d2                        | 10'   | 20'    | 30'  |
-| *Sling*               | 1ss  | 5bp   | d4                        | 50'   | 300'   | 450' |
-| Dart                  | 1ss  | -     | d4                        | 10'   | 20'    | 30'  |
-| Spear                 | 5ss  | 3ss   | d6                        | 10'   | 20'    | 60'  |
-| Thrown Weapon         |      |       | Same as melee equivaluent | 10'   | 20'    | 30'  |
+<table>
+    <thead>
+        <tr>
+            <th rowspan="2">Weapon</th>
+            <th rowspan="2">Damage</th>
+            <th colspan="3">Range</th>
+            <th colspan="2">Cost</th>
+            <th rowspan="2">Requirements</th>
+        </tr>
+        <tr>
+            <th>Short</th>
+            <th>Medium (-2 to hit)</th>
+            <th>Long (-4 to hit)</th>
+            <th>City</th>
+            <th>Rural</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Blowgun</td>
+            <td>-</td>
+            <td>20'</td>
+            <td>50'</td>
+            <td>80'</td>
+            <td>5 sp</td>
+            <td>-</td>
+            <td>Martial</td>
+        </tr>
+        <tr>
+            <td><strong>Bow, Long</strong></td>
+            <td>d6</td>
+            <td>50'</td>
+            <td>600'</td>
+            <td>900'</td>
+            <td>45 sp</td>
+            <td>-</td>
+            <td>Specialist</td>
+        </tr>
+        <tr>
+            <td>Bow, Short</td>
+            <td>d6</td>
+            <td>50'</td>
+            <td>300'</td>
+            <td>450'</td>
+            <td>25 sp</td>
+            <td>25 sp</td>
+            <td>Specialist</td>
+        </tr>
+        <tr>
+            <td><strong>Crossbow, Heavy</strong></td>
+            <td>d8</td>
+            <td>50'</td>
+            <td>200'</td>
+            <td>600'</td>
+            <td>30 sp</td>
+            <td>-</td>
+            <td>Martial</td>
+        </tr>
+        <tr>
+            <td>Crossbow, Light</td>
+            <td>d6</td>
+            <td>50'</td>
+            <td>150'</td>
+            <td>400'</td>
+            <td>25 sp</td>
+            <td>-</td>
+            <td>Simple</td>
+        </tr>
+        <tr>
+            <td>Rock</td>
+            <td>d2</td>
+            <td>10'</td>
+            <td>20'</td>
+            <td>30'</td>
+            <td>-</td>
+            <td>-</td>
+            <td>Simple</td>
+        </tr>
+        <tr>
+            <td><em>Sling</em></td>
+            <td>d4</td>
+            <td>50'</td>
+            <td>300'</td>
+            <td>450'</td>
+            <td>1 sp</td>
+            <td>5 bp</td>
+            <td>Martial</td>
+        </tr>
+        <tr>
+            <td>Dart</td>
+            <td>d4</td>
+            <td>10'</td>
+            <td>20'</td>
+            <td>30'</td>
+            <td>1 sp</td>
+            <td>-</td>
+            <td>Simple</td>
+        </tr>
+        <tr>
+            <td>Thrown Weapon</td>
+            <td>Same as melee equivalent</td>
+            <td>10'</td>
+            <td>20'</td>
+            <td>30'</td>
+            <td colspan="2">Same as melee equivalent</td>
+            <td>Same as melee equivalent</td>
+        </tr>
+    </tbody>
+</table>
 
-*   Arrows and crossbow bolts cost 5 cp each, sling bullets cost 2 cp each.
-- Targets at Medium range are –2 to hit, –4 to hit at Long range.
-- Light crossbows can only be fired every other round and ignore 2AC points, heavy crossbows fire every third round and ignore 4AC points.
-- Each missile weapon can be fired once per round with the exception of the crossbows noted above.
-- Slings fired with stones instead of bullets have half the listed range.
+Ammunition costs 5bp each for arrows and crossbows, and 2bp for sling bullets.
+
+Weapon requirements are noted as stated in: ![[Class and Career#Weapon Requirements]]
+### Weapon Traits
+
+| Weapon         | Effects                                                |
+| -------------- | ------------------------------------------------------ |
+| Light Crossbow | Fire every other round, ignore 1 Armor Rating.         |
+| Heavy Crossbow | Fire every third round, ignore 3 Armor Rating.         |
+| Sling          | Can use stones as ammunition, halving effective range. |
