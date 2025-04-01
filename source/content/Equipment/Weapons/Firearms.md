@@ -24,18 +24,8 @@
             <td>50'</td>
             <td>100'</td>
             <td>Minor</td>
-            <td>100 sp</td>
+            <td>30 sp</td>
             <td>-</td>
-        </tr>
-        <tr>
-            <td>Handgun (2H)</td>
-            <td>d8</td>
-            <td>50'</td>
-            <td>100'</td>
-            <td>600'</td>
-	        <td>Small</td>
-            <td>75 sp</td>
-            <td>125 sp</td>
         </tr>
         <tr>
             <td><strong><em>Musket (2H)</em></strong></td>
@@ -44,7 +34,7 @@
             <td>100'</td>
             <td>600'</td>
             <td>Small/Spear</td>
-            <td>100 sp</td>
+            <td>60 sp</td>
             <td>-</td>
         </tr>
         <tr>
@@ -59,13 +49,13 @@
         </tr>
         <tr>
             <td>Arquebus (2H)</td>
-            <td>d10</td>
-            <td>30'</td>
-            <td>60'</td>
-            <td>300'</td>
+            <td>d8</td>
+            <td>50'</td>
+            <td>100'</td>
+            <td>600'</td>
             <td>Small</td>
-            <td>50 sp</td>
-            <td>100 sp</td>
+            <td>40 sp</td>
+            <td>80 sp</td>
         </tr>
         <tr>
             <td>Double Barreled Handgun (2H)</td>
@@ -73,8 +63,8 @@
             <td>30'</td>
             <td>60'</td>
             <td>300'</td>
-            <td>-</td>
-            <td>150 sp</td>
+            <td>Small</td>
+            <td>100 sp</td>
             <td>-</td>
         </tr>
         <tr>
@@ -84,7 +74,7 @@
             <td>20'</td>
             <td>50'</td>
             <td>-</td>
-            <td>300 sp</td>
+            <td>200 sp</td>
             <td>-</td>
         </tr>
         <tr>
@@ -94,7 +84,7 @@
             <td>60'</td>
             <td>300'</td>
             <td>Medium</td>
-            <td>180 sp</td>
+            <td>80 sp</td>
             <td>-</td>
         </tr>
         <tr>
@@ -104,7 +94,7 @@
             <td>60'</td>
             <td>300'</td>
             <td>Polearm</td>
-            <td>250 sp</td>
+            <td>120 sp</td>
             <td>-</td>
         </tr>
         <tr>
@@ -114,7 +104,7 @@
             <td>200'</td>
             <td>1200'</td>
             <td>Small/Spear</td>
-            <td>2000 sp</td>
+            <td>800 sp</td>
             <td>-</td>
         </tr>
     </tbody>
@@ -144,7 +134,7 @@
             <td>20'</td>
             <td>40'</td>
             <td>80'</td>
-            <td>200 sp</td>
+            <td>100 sp</td>
             <td>-</td>
         </tr>
         <tr>
@@ -153,7 +143,7 @@
             <td>20'</td>
             <td>40'</td>
             <td>80'</td>
-            <td>300 sp</td>
+            <td>150 sp</td>
             <td>-</td>
         </tr>
         <tr>
@@ -162,7 +152,7 @@
             <td>30'</td>
             <td>60'</td>
             <td>300'</td>
-            <td>250 sp</td>
+            <td>120 sp</td>
             <td>-</td>
         </tr>
         <tr>
@@ -171,12 +161,12 @@
             <td>10'</td>
             <td>20'</td>
             <td>50'</td>
-            <td>300 sp</td>
+            <td>120 sp</td>
             <td>-</td>
         </tr>
         <tr>
             <td>Hand Mortar (2H)</td>
-            <td>d6</td>
+            <td>d8</td>
             <td>25'</td>
             <td>50'</td>
             <td>200'</td>
@@ -185,23 +175,33 @@
         </tr>
     </tbody>
 </table>
+
+All Firearms requirements as stated in [[Class and Career#Weapon Requirements|Weapon Requirements]] are the same and depend on the lock type:
+
+| Lock Type           | Requirement                      |
+| ------------------- | -------------------------------- |
+| Matchlock           | Specialist                       |
+| Wheellock           | Martial                          |
+| Flintlock           | Martial                          |
+| Engineering Weapons | One step higher than noted above |
+
 ### Weapon Traits
 Firearms share the following special traits:
 * Firearms suffer double the usual range penalties: -4 to hit at Medium Range and -8 to hit at Long Range.
-* Most of the common firearms can be used as melee weapons, their equivalents  listed in the table. Such weapon use applies -1 penalty to usual weapon defense characteristic. Muskets and Long Rifles can be equipped with a bayonet, allowing them to be used as a spear. Bayonets are manufactured for individual weapon, count as a Minor Weapon by itself and require 1 Round to be plugged into the barrel.
+* Most of the common firearms can be used as melee weapons, their equivalents listed in the table. Such weapon use applies -1 penalty to usual weapon defense characteristic. Muskets and Long Rifles can be equipped with a bayonet, allowing them to be used as a Spear. Bayonets are manufactured for individual weapon, count as a Minor Weapon by itself and require 1 Round to be plugged into the barrel.
 * All Firearms ignore 5 Armor Rating when fired at Short Range. Muskets and Long Rifles gain this benefit at any range.
 * Discharge of a Firearm causes an immediate Morale Check for all enemy characters and creatures with a Morale of 7 or less.
-* All Firearms have a base chance of Misfire, depending on a lock type. Any misfire requires three rounds to clear before attempting to fire again.
-* Some weapons, such as a Duck Foot Pistol or a Pepperbox. Base number of barrels is 3, with a new one added at half the cost of a firearm.
+* All Firearms have a base chance of Misfire, depending on a lock type. Any misfire requires three rounds to clean before attempting to fire again.
+* Some weapons, such as a Duck Foot Pistol or a Pepperbox, have variable number of barrels. Base number of barrels is 3, with a new one added at half the cost of a firearm.
 
 | Weapon           | Effects                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Pistol           | Two pistols in a brace count as one item for                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Musket           | Firing without a fork                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Duck Foot Pistol | When fired, all targets in range have to pass a Paralysis Save or get d6 damage, assuming no Armor is penetrated. Range penalties are used to modify the Saving Throw. Maximum amount of ta                                                                                                                                                                                                                                                                         |
+| Musket           | Firing without a fork levies a -2 penalty to hit.                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Duck Foot Pistol | When fired, all targets in range have to pass a Paralysis Save or get d6 damage, assuming no Armor is penetrated. Range penalties are used to modify the Saving Throw. Maximum amount of targets equals to the number of weapon barrels.                                                                                                                                                                                                                            |
 | Pepperbox        | After each shot, may be rotated to use the next loaded barrel, allowing the wielder to fire again on the next Round.                                                                                                                                                                                                                                                                                                                                                |
 | Repeater Pistol  | After each shot, rotates the loaded barrels using the shot inertia, allowing the wielder to fire again on the next Round.                                                                                                                                                                                                                                                                                                                                           |
-| Hand Mortar      | When firing that weapon, AC is always 15, the Shield modifies the on-hit Paralysis Save. If the hit roll misses, the difference between the AC and the roll is equal to the number of yards the shot flies away in a random direction. Distance can not be larger than half the distance between the wielder and the target. Wherever the hit lands, all characters within 10 yards must pass the Paralysis Save or get d6 damage, assuming no Armor is penetrated. |
+| Hand Mortar      | When firing that weapon, AC is always 15, the Shield modifies the on-hit Paralysis Save. If the hit roll misses, the difference between the AC and the roll is equal to the number of yards the shot flies away in a random direction. Distance can not be larger than half the distance between the wielder and the target. Wherever the hit lands, all characters within 10 yards must pass the Paralysis Save or get d8 damage, assuming no Armor is penetrated. |
 
 ## Lock Types
 ### Matchlock
@@ -230,6 +230,5 @@ Rifled guns are slower to load as the same thing that controls a bullet leaving 
 Rifling:
 * Eliminates the increased range penalties of firearms.
 * Doubles the base cost of a gun.
-* The reloading time of a gun increases by half.
-***Note***: cost multipliers are cumulative, so a rifled wheellock musket would cost 100sp×7×2=1400sp
-
+* Reloading time of a gun increases by half after BS and Agility modifiers have been applied.
+***Note***: cost multipliers are cumulative, so a rifled wheellock musket would cost 60sp×7×2=840sp

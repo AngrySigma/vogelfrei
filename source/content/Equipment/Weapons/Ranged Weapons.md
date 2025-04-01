@@ -6,6 +6,7 @@
             <th rowspan="2">Damage</th>
             <th colspan="3">Range</th>
             <th colspan="2">Cost</th>
+            <th rowspan="2">Requirements</th>
         </tr>
         <tr>
             <th>Short</th>
@@ -24,6 +25,7 @@
             <td>80'</td>
             <td>5 sp</td>
             <td>-</td>
+            <td>Martial</td>
         </tr>
         <tr>
             <td><strong>Bow, Long</strong></td>
@@ -33,6 +35,7 @@
             <td>900'</td>
             <td>45 sp</td>
             <td>-</td>
+            <td>Specialist</td>
         </tr>
         <tr>
             <td>Bow, Short</td>
@@ -42,6 +45,7 @@
             <td>450'</td>
             <td>25 sp</td>
             <td>25 sp</td>
+            <td>Specialist</td>
         </tr>
         <tr>
             <td><strong>Crossbow, Heavy</strong></td>
@@ -51,6 +55,7 @@
             <td>600'</td>
             <td>30 sp</td>
             <td>-</td>
+            <td>Martial</td>
         </tr>
         <tr>
             <td>Crossbow, Light</td>
@@ -60,6 +65,7 @@
             <td>400'</td>
             <td>25 sp</td>
             <td>-</td>
+            <td>Simple</td>
         </tr>
         <tr>
             <td>Rock</td>
@@ -69,6 +75,7 @@
             <td>30'</td>
             <td>-</td>
             <td>-</td>
+            <td>Simple</td>
         </tr>
         <tr>
             <td><em>Sling</em></td>
@@ -78,6 +85,7 @@
             <td>450'</td>
             <td>1 sp</td>
             <td>5 bp</td>
+            <td>Martial</td>
         </tr>
         <tr>
             <td>Dart</td>
@@ -87,15 +95,7 @@
             <td>30'</td>
             <td>1 sp</td>
             <td>-</td>
-        </tr>
-        <tr>
-            <td>Spear</td>
-            <td>d6</td>
-            <td>10'</td>
-            <td>20'</td>
-            <td>60'</td>
-            <td>5 sp</td>
-            <td>3 sp</td>
+            <td>Simple</td>
         </tr>
         <tr>
             <td>Thrown Weapon</td>
@@ -104,11 +104,14 @@
             <td>20'</td>
             <td>30'</td>
             <td colspan="2">Same as melee equivalent</td>
+            <td>Same as melee equivalent</td>
         </tr>
     </tbody>
 </table>
 
-Ammunition costs 5bp each for arrows and crossbows, and 2bp for sling bullets. 
+Ammunition costs 5bp each for arrows and crossbows, and 2bp for sling bullets.
+
+Weapon requirements are noted as stated in: ![[Class and Career#Weapon Requirements]]
 ### Weapon Traits
 
 | Weapon         | Effects                                                |

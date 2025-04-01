@@ -6,6 +6,7 @@
             <th rowspan="2">Damage</th>
             <th rowspan="2">Defence</th>
             <th colspan="2">Cost</th>
+	        <th rowspan="2">Requirements</th>
         </tr>
         <tr>
             <th>City</th>
@@ -19,6 +20,7 @@
             <td>0</td>
             <td>10 sp</td>
             <td>-</td>
+            <td>Simple</td>
         </tr>
         <tr>
             <td colspan="2"><em>Garrote (2H)</em></td>
@@ -26,6 +28,7 @@
             <td>0</td>
             <td>5 sp</td>
             <td>-</td>
+            <td>Simple</td>
         </tr>
         <tr>
             <td colspan="2"><strong><em>Lance (1/2H)</em></strong></td>
@@ -33,6 +36,7 @@
             <td>5</td>
             <td>30 sp</td>
             <td>-</td>
+            <td>Specialist</td>
         </tr>
         <tr>
             <td colspan="2"><strong><em>Mancatcher (2H)</em></strong></td>
@@ -40,6 +44,7 @@
             <td>3</td>
             <td>20 sp</td>
             <td>-</td>
+            <td>Simple</td>
         </tr>
         <tr>
             <td colspan="2"><strong><em>Polearm (2H)</em></strong></td>
@@ -47,6 +52,7 @@
             <td>5</td>
             <td>30 sp</td>
             <td>-</td>
+            <td>Martial</td>
         </tr>
         <tr>
             <td colspan="2">Rapier</td>
@@ -54,6 +60,7 @@
             <td>4</td>
             <td>15 sp</td>
             <td>-</td>
+            <td>Specialist</td>
         </tr>
         <tr>
             <td colspan="2">Spear (1/2H)</td>
@@ -61,6 +68,7 @@
             <td>4</td>
             <td>5 sp</td>
             <td>3 sp</td>
+            <td>Martial</td>
         </tr>
         <tr>
             <td colspan="2">Staff (2H)</td>
@@ -68,6 +76,7 @@
             <td>4</td>
             <td>5 sp</td>
             <td>3 sp</td>
+            <td>Simple</td>
         </tr>
         <tr>
             <td colspan="2">Warflail (2H)</td>
@@ -75,6 +84,7 @@
             <td>3</td>
             <td>20 sp</td>
             <td>10 sp</td>
+            <td>Martial</td>
         </tr>
         <tr>
             <td colspan="2">Whip</td>
@@ -82,6 +92,7 @@
             <td>0</td>
             <td>10 sp</td>
             <td>25 sp</td>
+            <td>Simple</td>
         </tr>
         <tr>
             <td rowspan="4"><strong>Weapon</strong></td>
@@ -90,6 +101,7 @@
             <td>4</td>
             <td>50 sp</td>
             <td>-</td>
+            <td>Specialist</td>
         </tr>
         <tr>
             <td>Medium</td>
@@ -97,6 +109,7 @@
             <td>3</td>
             <td>20 sp</td>
             <td>50 sp</td>
+            <td>Martial</td>
         </tr>
         <tr>
             <td>Small</td>
@@ -104,6 +117,7 @@
             <td>2</td>
             <td>10 sp</td>
             <td>10 sp</td>
+            <td>Simple</td>
         </tr>
         <tr>
             <td>Minor</td>
@@ -111,6 +125,7 @@
             <td>1</td>
             <td>5 sp</td>
             <td>5 sp</td>
+            <td>Simple</td>
         </tr>
         <tr>
             <td colspan="2">Weighted Net</td>
@@ -118,10 +133,12 @@
             <td>0</td>
             <td>15 sp</td>
             <td>15 sp</td>
+            <td>Simple</td>
         </tr>
     </tbody>
 </table>
 
+Weapon requirements are noted as stated in: ![[Class and Career#Weapon Requirements]]
 ### Generic Weapons
 The generic “weapon” categories are only for rules and reference purposes. Characters purchasing such an item must specify exactly what sort of weapon is being purchased.
 
