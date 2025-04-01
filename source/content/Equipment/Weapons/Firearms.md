@@ -1,49 +1,218 @@
 
-| Firearm                 | Cost   |       | Damage |       | Range  |       |
-| ----------------------- | ------ | ----- | ------ | ----- | ------ | ----- |
-|                         | City   | Rural |        | Short | Medium | Long  |
-| Pistol                  | 100sp  | -     | d8     | 25'   | 50'    | 100'  |
-| Handgun                 | 75sp   | 125sp | d8     | 50'   | 100'   | 600'  |
-| ***Musket***            | 100sp  | -     | d10    | 50'   | 100'   | 600'  |
-| Blunderbuss             | 25sp   | 50sp  |        | 10'   | 20'    | 50'   |
-| Arquebus                | 50sp   | 100sp | d10    | 30'   | 60'    | 300'  |
-| Double Barreled Handgun | 150sp  | -     | d10    | 30'   | 60'    | 300'  |
-| Griffon Foot            | 300sp  | -     | d6+    | 10'   | 20'    | 50'   |
-| Gun Axe                 | 180sp  | -     | d8     | 30'   | 60'    | 300'  |
-| ***Gun Halberd***       | 250sp  | -     | d8     | 30'   | 60'    | 300'  |
-| ***Long Rifle***        | 2000sp | -     | d12    | 100'  | 200'   | 1200' |
+<table>
+    <thead>
+        <tr>
+            <th rowspan="2">Firearm</th>
+            <th rowspan="2">Damage</th>
+            <th colspan="3">Range</th>
+            <th rowspan="2">Melee Equivalent</th>
+            <th colspan="2">Cost</th>
+        </tr>
+        <tr>
+            <th>Short</th>
+            <th>Medium</th>
+            <th>Long</th>
+            <th>City</th>
+            <th>Rural</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Pistol</td>
+            <td>d8</td>
+            <td>25'</td>
+            <td>50'</td>
+            <td>100'</td>
+            <td>Minor</td>
+            <td>100 sp</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Handgun (2H)</td>
+            <td>d8</td>
+            <td>50'</td>
+            <td>100'</td>
+            <td>600'</td>
+	        <td>Small</td>
+            <td>75 sp</td>
+            <td>125 sp</td>
+        </tr>
+        <tr>
+            <td><strong><em>Musket (2H)</em></strong></td>
+            <td>d10</td>
+            <td>50'</td>
+            <td>100'</td>
+            <td>600'</td>
+            <td>Small/Spear</td>
+            <td>100 sp</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Blunderbuss (2H)</td>
+            <td>d8</td>
+            <td>10'</td>
+            <td>20'</td>
+            <td>50'</td>
+            <td>-</td>
+            <td>20 sp</td>
+            <td>50 sp</td>
+        </tr>
+        <tr>
+            <td>Arquebus (2H)</td>
+            <td>d10</td>
+            <td>30'</td>
+            <td>60'</td>
+            <td>300'</td>
+            <td>Small</td>
+            <td>50 sp</td>
+            <td>100 sp</td>
+        </tr>
+        <tr>
+            <td>Double Barreled Handgun (2H)</td>
+            <td>d10</td>
+            <td>30'</td>
+            <td>60'</td>
+            <td>300'</td>
+            <td>-</td>
+            <td>150 sp</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Duck Foot</td>
+            <td>d6</td>
+            <td>10'</td>
+            <td>20'</td>
+            <td>50'</td>
+            <td>-</td>
+            <td>300 sp</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Gun Axe (2H)</td>
+            <td>d8</td>
+            <td>30'</td>
+            <td>60'</td>
+            <td>300'</td>
+            <td>Medium</td>
+            <td>180 sp</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td><strong><em>Gun Halberd (2H)</em></strong></td>
+            <td>d8</td>
+            <td>30'</td>
+            <td>60'</td>
+            <td>300'</td>
+            <td>Polearm</td>
+            <td>250 sp</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td><strong><em>Long Rifle (2H)</em></strong></td>
+            <td>d12</td>
+            <td>100'</td>
+            <td>200'</td>
+            <td>1200'</td>
+            <td>Small/Spear</td>
+            <td>2000 sp</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
 
-| Engineering Firearm | Cost   |       | Damage |       | Range  |      |
-| ------------------- | ------ | ----- | ------ | ----- | ------ | ---- |
-|                     | City   | Rural |        | Short | Medium | Long |
-| Pepperbox           | 200sp  | -     | d8     | 20'   | 40'    | 80'  |
-| Repeater Pistol     | 300sp  | -     | d8     | 20'   | 40'    | 80'  |
-| Repeater Handgun    | 250sp  | -     | d8     | 30'   | 60'    | 300' |
-| Cane Pistol         | 300sp  | -     | d8     | 10'   | 20'    | 50'  |
-| Hand Mortar         | 1000sp | -     |        | 25'   | 50'    | 200' |
-### Pistol
-Pistols are about the size of a man’s forearm. One pistol counts as an item for encumbrance purposes, but two pistols, called a brace, only counts as one item for encumbrance  purposes. A pistol requires one hand to fire. Pistols never use the matchlock firing mechanism. A pistol can be used as a mêlée weapon, inflicting 1d4 points of damage.
-### Handgun
-Period firearms terminology defied strict definition, but for our purposes here, the handgun is a handheld long gun which does not require a fork rest in order to fire properly. A handgun requires two hands to use.
-A handgun can be used as a mêlée weapon. This requires two hands and inflicts 1d6 points of damage.
-### Musket
-For our purposes, the musket is a large handheld long gun which requires a fork rest in order to fire; not having the rest levies a –2 penalty to hit. Muskets count as oversized items for encumbrance purposes. Muskets require two hands to use.
-A musket can be used as a mêlée weapon. This requires two hands and inflicts 1d6 points of damage.
+
+<table>
+    <thead>
+        <tr>
+            <th rowspan="2">Engineering Firearm</th>
+            <th rowspan="2">Damage</th>
+            <th colspan="3">Range</th>
+            <th colspan="2">Cost</th>
+        </tr>
+        <tr>
+            <th>Short</th>
+            <th>Medium</th>
+            <th>Long</th>
+            <th>City</th>
+            <th>Rural</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Pepperbox</td>
+            <td>d8</td>
+            <td>20'</td>
+            <td>40'</td>
+            <td>80'</td>
+            <td>200 sp</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Repeater Pistol</td>
+            <td>d8</td>
+            <td>20'</td>
+            <td>40'</td>
+            <td>80'</td>
+            <td>300 sp</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Repeater Handgun (2H)</td>
+            <td>d8</td>
+            <td>30'</td>
+            <td>60'</td>
+            <td>300'</td>
+            <td>250 sp</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Cane Pistol</td>
+            <td>d8</td>
+            <td>10'</td>
+            <td>20'</td>
+            <td>50'</td>
+            <td>300 sp</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Hand Mortar (2H)</td>
+            <td>d6</td>
+            <td>25'</td>
+            <td>50'</td>
+            <td>200'</td>
+            <td>1000 sp</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
+### Weapon Traits
+Firearms share the following special traits:
+* Firearms suffer double the usual range penalties: -4 to hit at Medium Range and -8 to hit at Long Range.
+* Most of the common firearms can be used as melee weapons, their equivalents  listed in the table. Such weapon use applies -1 penalty to usual weapon defense characteristic. Muskets and Long Rifles can be equipped with a bayonet, allowing them to be used as a spear. Bayonets are manufactured for individual weapon, count as a Minor Weapon by itself and require 1 Round to be plugged into the barrel.
+* All Firearms ignore 5 Armor Rating when fired at Short Range. Muskets and Long Rifles gain this benefit at any range.
+* Discharge of a Firearm causes an immediate Morale Check for all enemy characters and creatures with a Morale of 7 or less.
+* All Firearms have a base chance of Misfire, depending on a lock type. Any misfire requires three rounds to clear before attempting to fire again.
+* Some weapons, such as a Duck Foot Pistol or a Pepperbox. Base number of barrels is 3, with a new one added at half the cost of a firearm.
+
+| Weapon           | Effects                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pistol           | Two pistols in a brace count as one item for                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Musket           | Firing without a fork                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Duck Foot Pistol | When fired, all targets in range have to pass a Paralysis Save or get d6 damage, assuming no Armor is penetrated. Range penalties are used to modify the Saving Throw. Maximum amount of ta                                                                                                                                                                                                                                                                         |
+| Pepperbox        | After each shot, may be rotated to use the next loaded barrel, allowing the wielder to fire again on the next Round.                                                                                                                                                                                                                                                                                                                                                |
+| Repeater Pistol  | After each shot, rotates the loaded barrels using the shot inertia, allowing the wielder to fire again on the next Round.                                                                                                                                                                                                                                                                                                                                           |
+| Hand Mortar      | When firing that weapon, AC is always 15, the Shield modifies the on-hit Paralysis Save. If the hit roll misses, the difference between the AC and the roll is equal to the number of yards the shot flies away in a random direction. Distance can not be larger than half the distance between the wielder and the target. Wherever the hit lands, all characters within 10 yards must pass the Paralysis Save or get d6 damage, assuming no Armor is penetrated. |
 
 ## Lock Types
 ### Matchlock
 Matchlocks are considered the default gun type, and other firearm types are considered modifications and upgrades of the matchlock for rules purposes.
 Matchlocks use the following rules:
-* They ignore 5 points of Armor at short range (at all ranges for muskets and long rifles).
-* The discharge of a firearm causes an immediate Morale check for all enemy characters and creatures with a Morale of 7 or less.
-* Reloading a matchlock requires 10 rounds minus the Character's BS and Dexterity modifier. Character’s Encumbrance value is added to the reload time. Any round in which the character moves or defends himself (using their regular Armor class when attacked) does not count towards the reload time.
-* They suffer double the usual range penalties at Medium and Long range (so –4 and –8 to hit, respectively). Dexterity to-hit modifiers do not apply for Medium or Long range targets.
-* They have a 2 in 10 chance of misfiring (meaning that the powder discharges, but the bullet does not fire). A misfire will require three rounds to clear before attempting to fire again.
+* Reloading a matchlock requires 10 rounds minus the Character's BS and Agility modifier. Character’s Encumbrance value is added to the reload time. Any round in which the character moves or defends themselves (using their regular AC when attacked) does not count towards the reload time.
+* They have a 2 in 10 chance of misfiring.
 * A lit match burns 10cm per turn (from each end it burns!), and the light and smell that the burning match gives off makes stealth impossible.
 * Damp conditions (most dungeons count as being damp) double the chances of misfiring (which in this case means the powder is too wet to ignite).
 * Wet conditions (rain, etc.) quadruples the chances of misfiring (powder too wet to ignite).
 * Wet cord or powder cannot be used until it dries.
-Note that this misfire roll adds a complication to combat. An easy way to handle it when a player character is targeted by someone wielding a matchlock is to declare that the player controlling the target must roll the misfire die at the time that the attack roll is made. If the player forgets, then there is no chance to misfire, but everyone will have an interest in remembering to make the misfire roll without the attacker needing to worry about it.
 ### Wheellock
 Wheellock modification to the firearms rules:
 * Have no additional misfire chances due to environmental conditions.
@@ -52,9 +221,9 @@ Wheellock modification to the firearms rules:
 * Does not require a burning match, allowing for stealth movement.
 ### Flintlock
 Flintlock modification to the firearms rules:
-* Only a 1 in 10 chance of a misfire (flash in the pan, but the bullet is not fired).
+* Only a 1 in 10 chance of a misfire.
 * Double the base cost of a gun.
-* Halve reload times (Fighters round down, all others round up).
+* Halve reload times after accounting for the BS and Agility modifier.
 * Does not require a burning match, allowing for stealth movement
 ### Rifled Barrel
 Rifled guns are slower to load as the same thing that controls a bullet leaving the barrel makes it impossible to quickly jam shot, powder, and wadding down the barrel in the first place.
