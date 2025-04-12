@@ -28,16 +28,16 @@ If the character spent time equal to, or greater than, the amount necessary, the
 
 The character’s Intelligence modifier is applied to the final number of required days (with a positive modifier lessening the number of days, of course). The minimum amount of time it takes to research spells or write scrolls is never less than a day.
 
-| Activity                                         | Time Required                        | Cost      |
-| ------------------------------------------------ | ------------------------------------ | --------- |
-| Writing a Scroll                                 | Casting Number × 2d3 Days            | 50 sp/day |
-| Transcribing a Spell from Scroll to Spellbook    | Casting Number × 1d4 Days            | 20 sp/day |
-| Transcribing a Spell from Spellbook to Spellbook | Casting Number × 1d2 Days            | 10 sp/day |
-| Researching a Spell on the Spell List            | Casting Number × 3d3 Days            | 25sp/day  |
-| Researching a New Spell                          | Casting Number × 4d3 Days            | 30 sp/day |
-| Creating a Potion                                | Casting Number × 1d4 Days            | 50 sp/day |
-| Creating a Wand or Staff                         | Total Casting Number × 10 × 1d4 Days | 50 sp/day |
+| Activity                                         | Time Required                        | Cost     |
+| ------------------------------------------------ | ------------------------------------ | -------- |
+| Writing a Scroll                                 | Casting Number × 2d3 Days            | 50 ⚪/day |
+| Transcribing a Spell from Scroll to Spellbook    | Casting Number × 1d4 Days            | 20 ⚪/day |
+| Transcribing a Spell from Spellbook to Spellbook | Casting Number × 1d2 Days            | 10 ⚪/day |
+| Researching a Spell on the Spell List            | Casting Number × 3d3 Days            | 25 ⚪/day |
+| Researching a New Spell                          | Casting Number × 4d3 Days            | 30 ⚪/day |
+| Creating a Potion                                | Casting Number × 1d4 Days            | 50 ⚪/day |
+| Creating a Wand or Staff                         | Total Casting Number × 10 × 1d4 Days | 50 ⚪/day |
 ## Libraries and Laboratories
 Magic-Users use libraries and laboratories to assist their magical activities. Each library or laboratory is ranked on its cost; for every 500 sp in value a library is worth, a ten foot square is needed to store the books, and every 1,000 sp a laboratory is worth requires a square of space. These are non-transportable (at least, not without major effort, and certainly not as part of normal travel). Laboratory and library elements can only be purchased in large cities. Libraries and laboratories discovered and somehow transported only add 1d100% of their value to the looter’s own, due to possible duplication, differences in methods, etc., between mages.
 
-Every time the laboratory is used, the Magic-User must make a saving throw versus Magic. If the roll is successful, the laboratory loses 1d20×100 sp in value due to used supplies. If the roll is failed, wasted supplies and accidents reduce the value of the laboratory by 2d20× 100 sp. On a natural 1, there is a dangerous explosion which destroys both 5d20 × 100 sp of the laboratory’s value and the project being worked on, and in addition, the Magic-User (and alchemist, if present) suffers 1d10 damage (save versus Breath Weapon for half).
+Every time the laboratory is used, the Magic-User must make a saving throw versus Magic. If the roll is successful, the laboratory loses 1d20×100 sp in value due to used supplies. If the roll is failed, wasted supplies and accidents reduce the value of the laboratory by 2d20× 100 ⚪. On a natural 1, there is a dangerous explosion which destroys both 5d20 × 100 sp of the laboratory’s value and the project being worked on, and in addition, the Magic-User (and alchemist, if present) suffers 1d10 damage (save versus Breath Weapon for half).

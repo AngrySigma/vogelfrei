@@ -1,9 +1,9 @@
 
 | Retainer  | Daily Wage | Monthly Wage | Live-in Wage | Treasure Share |
 | --------- | ---------- | ------------ | ------------ | -------------- |
-| Linkboy   | 4sp        | 40sp         | 30sp         | -              |
-| Laborer   | 6sp        | 60sp         | 40sp         | -              |
-| Mercenary | 10sp       | 100sp        | 75sp         | 0.2            |
+| Linkboy   | 4 ⚪        | 40 ⚪         | 30 ⚪         | -              |
+| Laborer   | 6 ⚪        | 60 ⚪         | 40 ⚪         | -              |
+| Mercenary | 10 ⚪       | 100 ⚪        | 75 ⚪         | 0.2            |
 | Henchman  | -          | -            | -            | 0.5            |
 ##### Linkboy
 A linkboy is a servant who is a torch/lantern bearer. They do not do heavy labor or carry equipment.

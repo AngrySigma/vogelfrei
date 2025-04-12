@@ -23,7 +23,7 @@
             <td>20'</td>
             <td>50'</td>
             <td>80'</td>
-            <td>5 sp</td>
+            <td>5 ⚪</td>
             <td>-</td>
             <td>Martial</td>
         </tr>
@@ -33,7 +33,7 @@
             <td>50'</td>
             <td>600'</td>
             <td>900'</td>
-            <td>45 sp</td>
+            <td>45 ⚪</td>
             <td>-</td>
             <td>Specialist</td>
         </tr>
@@ -43,8 +43,8 @@
             <td>50'</td>
             <td>300'</td>
             <td>450'</td>
-            <td>25 sp</td>
-            <td>25 sp</td>
+            <td>25 ⚪</td>
+            <td>25 ⚪</td>
             <td>Specialist</td>
         </tr>
         <tr>
@@ -53,7 +53,7 @@
             <td>50'</td>
             <td>200'</td>
             <td>600'</td>
-            <td>30 sp</td>
+            <td>30 ⚪</td>
             <td>-</td>
             <td>Martial</td>
         </tr>
@@ -63,7 +63,7 @@
             <td>50'</td>
             <td>150'</td>
             <td>400'</td>
-            <td>25 sp</td>
+            <td>25 ⚪</td>
             <td>-</td>
             <td>Simple</td>
         </tr>
@@ -83,8 +83,8 @@
             <td>50'</td>
             <td>300'</td>
             <td>450'</td>
-            <td>1 sp</td>
-            <td>5 bp</td>
+            <td>1 ⚪</td>
+            <td>5 ⚪</td>
             <td>Martial</td>
         </tr>
         <tr>
@@ -93,7 +93,7 @@
             <td>10'</td>
             <td>20'</td>
             <td>30'</td>
-            <td>1 sp</td>
+            <td>2 ⚪</td>
             <td>-</td>
             <td>Simple</td>
         </tr>

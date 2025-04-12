@@ -18,7 +18,7 @@
             <td colspan="2"><em>Cestus</em></td>
             <td>d3</td>
             <td>0</td>
-            <td>10 sp</td>
+            <td>10 ⚪</td>
             <td>-</td>
             <td>Simple</td>
         </tr>
@@ -26,7 +26,7 @@
             <td colspan="2"><em>Garrote (2H)</em></td>
             <td>d6</td>
             <td>0</td>
-            <td>5 sp</td>
+            <td>5 ⚪</td>
             <td>-</td>
             <td>Simple</td>
         </tr>
@@ -34,7 +34,7 @@
             <td colspan="2"><strong><em>Lance (1/2H)</em></strong></td>
             <td>d10</td>
             <td>5</td>
-            <td>30 sp</td>
+            <td>30 ⚪</td>
             <td>-</td>
             <td>Specialist</td>
         </tr>
@@ -42,7 +42,7 @@
             <td colspan="2"><strong><em>Mancatcher (2H)</em></strong></td>
             <td>d6</td>
             <td>3</td>
-            <td>20 sp</td>
+            <td>20 ⚪</td>
             <td>-</td>
             <td>Simple</td>
         </tr>
@@ -50,7 +50,7 @@
             <td colspan="2"><strong><em>Polearm (2H)</em></strong></td>
             <td>d8</td>
             <td>5</td>
-            <td>30 sp</td>
+            <td>30 ⚪</td>
             <td>-</td>
             <td>Martial</td>
         </tr>
@@ -58,40 +58,40 @@
             <td colspan="2">Rapier</td>
             <td>d8</td>
             <td>4</td>
-            <td>15 sp</td>
+            <td>15 ⚪</td>
             <td>-</td>
             <td>Specialist</td>
         </tr>
         <tr>
             <td colspan="2">Spear (1/2H)</td>
-            <td>d4</td>
-            <td>4</td>
-            <td>5 sp</td>
-            <td>3 sp</td>
+            <td>d6</td>
+            <td>3</td>
+            <td>5 ⚪</td>
+            <td>3 ⚪</td>
             <td>Martial</td>
         </tr>
         <tr>
             <td colspan="2">Staff (2H)</td>
-            <td>d6</td>
-            <td>4</td>
-            <td>5 sp</td>
-            <td>3 sp</td>
+            <td>d4</td>
+            <td>3</td>
+            <td>3 ⚪</td>
+            <td>2 ⚪</td>
             <td>Simple</td>
         </tr>
         <tr>
             <td colspan="2">Warflail (2H)</td>
             <td>d8</td>
-            <td>3</td>
-            <td>20 sp</td>
-            <td>10 sp</td>
+            <td>2</td>
+            <td>20 ⚪</td>
+            <td>10 ⚪</td>
             <td>Martial</td>
         </tr>
         <tr>
             <td colspan="2">Whip</td>
             <td>d3</td>
             <td>0</td>
-            <td>10 sp</td>
-            <td>25 sp</td>
+            <td>10 ⚪</td>
+            <td>25 ⚪</td>
             <td>Simple</td>
         </tr>
         <tr>
@@ -99,7 +99,7 @@
             <td>Great (2H)</td>
             <td>d10</td>
             <td>4</td>
-            <td>50 sp</td>
+            <td>50 ⚪</td>
             <td>-</td>
             <td>Specialist</td>
         </tr>
@@ -107,32 +107,32 @@
             <td>Medium</td>
             <td>d8</td>
             <td>3</td>
-            <td>20 sp</td>
-            <td>50 sp</td>
+            <td>20 ⚪</td>
+            <td>50 ⚪</td>
             <td>Martial</td>
         </tr>
         <tr>
             <td>Small</td>
             <td>d6</td>
             <td>2</td>
-            <td>10 sp</td>
-            <td>10 sp</td>
+            <td>10 ⚪</td>
+            <td>10 ⚪</td>
             <td>Simple</td>
         </tr>
         <tr>
             <td>Minor</td>
             <td>d4</td>
             <td>1</td>
-            <td>5 sp</td>
-            <td>5 sp</td>
+            <td>5 ⚪</td>
+            <td>5 ⚪</td>
             <td>Simple</td>
         </tr>
         <tr>
             <td colspan="2">Weighted Net</td>
             <td>-</td>
             <td>0</td>
-            <td>15 sp</td>
-            <td>15 sp</td>
+            <td>15 ⚪</td>
+            <td>15 ⚪</td>
             <td>Simple</td>
         </tr>
     </tbody>
@@ -159,6 +159,7 @@ Halflings must wield Medium Weapons in two hands, and they cannot wield Great We
 | Mancatcher   | A successful hit with this weapon requires the victim to pass a Paralysis Save or become helpless, as is the wielder of the mancatcher while the target is being held for purposes of defending against attacks. |
 | Polearm      | This weapon can be used to attack from the second rank or to receive a charge.                                                                                                                                   |
 | Spear        | When wielded in both hands, this can be used to attack from the second rank or to receive a charge.                                                                                                              |
+| Warflail     | This weapon can be used to attack from the second rank.                                                                                                                                                          |
 | Whip         | This weapon is ineffective against targets with in metal armor, but allows melee attacks on opponents up to 10' away.                                                                                            |
 | Weighted Net | A successful hit with this weapon requires the victim to pass a Paralysis Save or become helpless. A new Paralysis Save is allowed on each next Round.                                                           |
 

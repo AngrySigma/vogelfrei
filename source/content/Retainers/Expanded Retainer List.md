@@ -1,32 +1,32 @@
 | Retainer                                 | Daily Wage | Monthly Wage         | Live-in Wage | Treasure Share |
 | ---------------------------------------- | ---------- | -------------------- | ------------ | -------------- |
 | [[#accountant\|Accountant]]              | -          | 5% of amount handled | -            | -              |
-| [[#alchemist\|Alchemist]]                | -          | 250sp                | 200sp        | -              |
-| [[#animal-handler\|Animal Handler]]      | 15sp       | 150sp                | 120sp        | -              |
-| [[#armorer\|Armorer]]                    | -          | 50sp                 | 40sp         | -              |
-| [[#butler\|Butler]]                      | -          | 150sp                | 120sp        | -              |
-| [[#coachman\|Coachman]]                  | 6sp        | 60sp                 | 50sp         | -              |
-| [[#craftsman\|Craftsman]]                | -          | 100sp                | 80sp         | -              |
-| [[#guard\|Guard]]                        | 8sp        | 80sp                 | 60sp         | -              |
-| [[#guide\|Guide]]                        | 14sp       | -                    | -            | 0.1            |
+| [[#alchemist\|Alchemist]]                | -          | 250 ⚪                | 200 ⚪        | -              |
+| [[#animal-handler\|Animal Handler]]      | 15 ⚪       | 150 ⚪                | 120 ⚪        | -              |
+| [[#armorer\|Armorer]]                    | -          | 50 ⚪                 | 40 ⚪         | -              |
+| [[#butler\|Butler]]                      | -          | 150 ⚪                | 120 ⚪        | -              |
+| [[#coachman\|Coachman]]                  | 6 ⚪        | 60 ⚪                 | 50 ⚪         | -              |
+| [[#craftsman\|Craftsman]]                | -          | 100 ⚪                | 80 ⚪         | -              |
+| [[#guard\|Guard]]                        | 8 ⚪        | 80 ⚪                 | 60 ⚪         | -              |
+| [[#guide\|Guide]]                        | 14 ⚪       | -                    | -            | 0.1            |
 | [[#henchman\|Henchman]]                  | -          | -                    | -            | 0.5            |
-| [[#laborer\|Laborer]]                    | 6sp        | 60sp                 | 50sp         | -              |
-| [[#linkboy\|Linkboy]]                    | 4sp        | 40sp                 | 30sp         | -              |
-| [[#mercenary\|Mercenary, Marksman]]      | -          | 150sp                | 120sp        | 0.2            |
-| [[#mercenary\|Mercenary, Cavalry]]       | -          | 200sp                | 160sp        | 0.2            |
-| [[#mercenary\|Mercenary, Infantry]]      | -          | 100sp                | 80sp         | 0.2            |
-| [[#mercenary\|Mercenary, Polearm]]       | -          | 130sp                | 100sp        | 0.2            |
-| [[#physician\|Physician]]                | 28sp       | 280sp                | 210sp        | -              |
+| [[#laborer\|Laborer]]                    | 6 ⚪        | 60 ⚪                 | 50 ⚪         | -              |
+| [[#linkboy\|Linkboy]]                    | 4 ⚪        | 40 ⚪                 | 30 ⚪         | -              |
+| [[#mercenary\|Mercenary, Marksman]]      | -          | 150 ⚪                | 120 ⚪        | 0.2            |
+| [[#mercenary\|Mercenary, Cavalry]]       | -          | 200 ⚪                | 160 ⚪        | 0.2            |
+| [[#mercenary\|Mercenary, Infantry]]      | -          | 100 ⚪                | 80 ⚪         | 0.2            |
+| [[#mercenary\|Mercenary, Polearm]]       | -          | 130 ⚪                | 100 ⚪        | 0.2            |
+| [[#physician\|Physician]]                | 28 ⚪       | 280 ⚪                | 210 ⚪        | -              |
 | [[#sailor\|Sailor]]                      | -          | -                    | -            | 0.2            |
 | [[#sailor-captain\|Sailor, Captain]]     | -          | -                    | -            | 1              |
 | [[#sailor-navigator\|Sailor, Navigator]] | -          | -                    | -            | 0.5            |
 | [[#sailor-oarsman\|Sailor, Oarsman]]     | -          | -                    | -            | 0.2            |
-| [[#scholar\|Scholar]]                    | -          | 100sp                | 80sp         | -              |
-| [[#servant\|Servant]]                    | 6sp        | 60sp                 | 50sp         | -              |
-| [[#slave\|Slave]]                        | (1sp)      | -                    | -            | -              |
-| [[#slave-master\|Slave Master]]          | -          | 70sp                 | 60sp         | -              |
-| [[#spy\|Spy]]                            | -          | 200sp                | -            | -              |
-| [[#teamster\|Teamster]]                  | 10sp       | 100sp                | 80sp         | -              |
+| [[#scholar\|Scholar]]                    | -          | 100 ⚪                | 80 ⚪         | -              |
+| [[#servant\|Servant]]                    | 6 ⚪        | 60 ⚪                 | 50 ⚪         | -              |
+| [[#slave\|Slave]]                        | (1 ⚪)      | -                    | -            | -              |
+| [[#slave-master\|Slave Master]]          | -          | 70 ⚪                 | 60 ⚪         | -              |
+| [[#spy\|Spy]]                            | -          | 200 ⚪                | -            | -              |
+| [[#teamster\|Teamster]]                  | 10 ⚪       | 100 ⚪                | 80 ⚪         | -              |
 <a  id="accountant"></a>
 ##### Accountant
 Households are largely disorganized affairs. Any household with five or more retainers that does not include an accountant, increases its running costs by 1d20% in any particular month as money slips through the cracks.

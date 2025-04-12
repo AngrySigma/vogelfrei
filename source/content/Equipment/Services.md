@@ -2,15 +2,15 @@
 | -------------------------- | ----- | ----- |
 |                            | City  | Rural |
 | Post                       |       |       |
-| Local                      | 1ss   | -     |
-| Municipal                  | 5ss   | -     |
-| Kingdom                    | 15ss  | 15ss  |
-| Outrealm                   | 25ss  | 25ss  |
+| Local                      | 1 ⚪   | -     |
+| Municipal                  | 5 ⚪   | -     |
+| Kingdom                    | 15 ⚪  | 15 ⚪  |
+| Outrealm                   | 25 ⚪  | 25 ⚪  |
 | Coach                      |       |       |
-| Local                      | 1sp   | -     |
-| Travel, per day            | 10sp  | 10sp  |
-| Charter, per day           | 20sp  | -     |
-| Freight, per pound per day | 5bp   | 5bp   |
+| Local                      | 1 ⚪   | -     |
+| Travel, per day            | 10 ⚪  | 10 ⚪  |
+| Charter, per day           | 20 ⚪  | -     |
+| Freight, per pound per day | 5 🟤  | 5 🟤  |
 | Ship                       |       |       |
-| Passage, per day           | 2sp   |       |
-| Charter, per day           | 100sp | 100sp |
+| Passage, per day           | 2 ⚪   |       |
+| Charter, per day           | 100 ⚪ | 100 ⚪ |

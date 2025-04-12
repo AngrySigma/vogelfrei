@@ -24,7 +24,7 @@
             <td>50'</td>
             <td>100'</td>
             <td>Minor</td>
-            <td>30 sp</td>
+            <td>30 ⚪</td>
             <td>-</td>
         </tr>
         <tr>
@@ -34,7 +34,7 @@
             <td>100'</td>
             <td>600'</td>
             <td>Small/Spear</td>
-            <td>60 sp</td>
+            <td>60 ⚪</td>
             <td>-</td>
         </tr>
         <tr>
@@ -44,8 +44,8 @@
             <td>20'</td>
             <td>50'</td>
             <td>-</td>
-            <td>20 sp</td>
-            <td>50 sp</td>
+            <td>20 ⚪</td>
+            <td>50 ⚪</td>
         </tr>
         <tr>
             <td>Arquebus (2H)</td>
@@ -54,8 +54,8 @@
             <td>100'</td>
             <td>600'</td>
             <td>Small</td>
-            <td>40 sp</td>
-            <td>80 sp</td>
+            <td>40 ⚪</td>
+            <td>80 ⚪</td>
         </tr>
         <tr>
             <td>Double Barreled Handgun (2H)</td>
@@ -64,7 +64,7 @@
             <td>60'</td>
             <td>300'</td>
             <td>Small</td>
-            <td>100 sp</td>
+            <td>100 ⚪</td>
             <td>-</td>
         </tr>
         <tr>
@@ -74,7 +74,7 @@
             <td>20'</td>
             <td>50'</td>
             <td>-</td>
-            <td>200 sp</td>
+            <td>200 ⚪</td>
             <td>-</td>
         </tr>
         <tr>
@@ -84,7 +84,7 @@
             <td>60'</td>
             <td>300'</td>
             <td>Medium</td>
-            <td>80 sp</td>
+            <td>80 ⚪</td>
             <td>-</td>
         </tr>
         <tr>
@@ -94,7 +94,7 @@
             <td>60'</td>
             <td>300'</td>
             <td>Polearm</td>
-            <td>120 sp</td>
+            <td>120 ⚪</td>
             <td>-</td>
         </tr>
         <tr>
@@ -104,7 +104,7 @@
             <td>200'</td>
             <td>1200'</td>
             <td>Small/Spear</td>
-            <td>800 sp</td>
+            <td>16 🟡</td>
             <td>-</td>
         </tr>
     </tbody>
@@ -134,7 +134,7 @@
             <td>20'</td>
             <td>40'</td>
             <td>80'</td>
-            <td>100 sp</td>
+            <td>100 ⚪</td>
             <td>-</td>
         </tr>
         <tr>
@@ -143,7 +143,7 @@
             <td>20'</td>
             <td>40'</td>
             <td>80'</td>
-            <td>150 sp</td>
+            <td>150 ⚪</td>
             <td>-</td>
         </tr>
         <tr>
@@ -152,7 +152,7 @@
             <td>30'</td>
             <td>60'</td>
             <td>300'</td>
-            <td>120 sp</td>
+            <td>120 ⚪</td>
             <td>-</td>
         </tr>
         <tr>
@@ -161,7 +161,7 @@
             <td>10'</td>
             <td>20'</td>
             <td>50'</td>
-            <td>120 sp</td>
+            <td>120 ⚪</td>
             <td>-</td>
         </tr>
         <tr>
@@ -170,7 +170,7 @@
             <td>25'</td>
             <td>50'</td>
             <td>200'</td>
-            <td>1000 sp</td>
+            <td>20 🟡</td>
             <td>-</td>
         </tr>
     </tbody>

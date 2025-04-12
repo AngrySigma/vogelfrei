@@ -2,21 +2,21 @@
 | --------------------- | ----- | ----- |
 |                       | City  | Rural |
 | Bottle of Wine/Liquor |       |       |
-| - Poor                | 5bp   | 2bp   |
-| - Decent              | 1sp+  | 1sp+  |
-| - Rich                | 10sp+ | -     |
+| - Poor                | 6 🟤  | 2 🟤  |
+| - Decent              | 1 ⚪   | 1+ ⚪  |
+| - Rich                | 10+ ⚪ | -     |
 | Drink                 |       |       |
-| - Cheap               | 1bp   | 1bp   |
-| - Decent              | 3bp   | 2bp   |
-| - Good                | 6bp   | 4bp   |
-| - Rich                | 15sp+ | 10sp+ |
+| - Cheap               | 1 🟤  | 1 🟤  |
+| - Decent              | 3 🟤  | 2 🟤  |
+| - Good                | 6 🟤  | 4 🟤  |
+| - Rich                | 15+ ⚪ | 10+ ⚪ |
 | Meal                  |       |       |
-| - Horrid              | 2bp   | 1bp   |
-| - Standard            | 5bp   | 3bp   |
-| - Fancy               | 1sp   | 5bp   |
-| - Rich                | 15sp+ | 10sp+ |
+| - Horrid              | 2 🟤  | 1 🟤  |
+| - Standard            | 6 🟤  | 3 🟤  |
+| - Fancy               | 1 ⚪   | 6 🟤  |
+| - Rich                | 15+ ⚪ | 10+ ⚪ |
 | Rations               |       |       |
-| - Standard/Day        | 1sp   | 5bp   |
-| - Iron/Day            | 2sp   | 1sp   |
-| Feed, Animal/Day      | 1sp   | 5bp   |
+| - Standard/Day        | 1 ⚪   | 6 🟤  |
+| - Iron/Day            | 2 ⚪   | 1 ⚪   |
+| Feed, Animal/Day      | 1 ⚪   | 5 🟤  |
 

@@ -1,44 +1,44 @@
 
-| Equipment         | Cost  |       | Equipment          | Cost |       |
-| ----------------- | ----- | ----- | ------------------ | ---- | ----- |
-|                   | City  | Rural |                    | City | Rural |
-| *Air Bladder*     | 1sp   | 1sp   | Lock               | 7sp  | 10sp  |
-| Bedroll           | 2sp   | 1sp   | Mallet             | 3bp  | 3bp   |
-| Block and Tackle  | 2sp   | 3sp   | Manacles           | 10sp | 15sp  |
-| Book              |       |       | Map                |      |       |
-| Blank             | 5sp   | 10sp  | *Local*            | 5sp  | 20sp  |
-| Reading           | 10sp  | 20sp  | *Kingdom*          | 1gp  | 3gp   |
-| Spell             | 100sp |       | Mirror             |      |       |
-| Caltrop           | 5bp   |       | *Steel*            | 1sp  | 5sp   |
-| *Candle*          | 1bp   | 1bp   | Glass              | 10sp | 15sp  |
-| Chain, per foot   | 1sp   | 2sp   | *Silver*           | 30sp | -     |
-| *Chalk*           | 1bp   | 1bp   | *Nails*            | 1bp  | 2bp   |
-| Clothing          |       |       | *Paper*            | 5bp  | 5bp   |
-| *Poor*            | 5sp   | 2sp   | Pick               | 6sp  | 12sp  |
-| *Normal           | 20sp  | 10sp  | *Pipe*             | 1sp  | 5cp   |
-| Extravagant       | 2gp+  | -     | ***Pole, 10'***    | 1sp  | 5bp   |
-| Winter Travel     | 2gp   | 1gp   | ***Riding Gear***  | 25sp | 10sp  |
-| Cooking pots      | 1sp   | 5bp   | Rope, 50'          | 3sp  | 3sp   |
-| Crampons          | 5sp   | 5sp   | Scroll Case        | 1sp  | 3sp   |
-| Crowbar           | 2sp   | 2sp   | Shovel             | 3sp  | 3sp   |
-| Drill             | 5sp   | 5sp   | *Soap*             | 1bp  | 1bp   |
-| Fishing Gear      | 1sp   | 1sp   | Specialist's Tools | 1gp  | -     |
-| Flask of Lamp Oil | 5bp   | 5bp   | Spike              |      |       |
-| *Garlic*          | 1bp   | 1bp   | *Wooden*           | 1bp  | 1bp   |
-| *Gem*             | 5sp+  | 5sp+  | *Iron*             | 3bp  | 5bp   |
-| Grappling Hook    | 5sp   | 10sp  | Spyglass           | 5gp  | -     |
-| Holy Symbol       |       |       | Tent               |      |       |
-| *Wood*            | 1sp   | 1bp   | ***Personal***     | 5sp  | 10sp  |
-| *Steel*           | 10sp  | 10sp  | ***Regular***      | 10sp | 20sp  |
-| *Silver*          | 25sp  | 25sp  | ***Grand***        | 25sp | -     |
-| Holy Water        | 25sp  | 25sp  | ***Pavillion***    | 50sp | -     |
-| Hourglass         | 100sp | -     | Tinderbox          | 1sp  | 5sp   |
-| *Ink*             | 1bp   | 5bp   | Tobacco            | 1sp  | 5bp   |
-| Instrument        | 1sp+  | 5sp+  | Torch              | 1bp  | 1bp   |
-| *Jewelry*         | 10sp+ | 10sp+ | *Vial or Bottle*   | 5bp  | 7bp   |
-| ***Ladder, 10'*** | 10sp  | 7sp   | Waterskin          | 1sp  | 1sp   |
-| Lantern           | 3sp   | 5sp   | *Whistle*          | 1sp  | 1sp   |
-| Lard              | 1bp   | 1bp   | *Wolfsbane*        | 1sp  | 1bp   |
+| Equipment         | Cost   |       | Equipment          | Cost  |        |
+| ----------------- | ------ | ----- | ------------------ | ----- | ------ |
+|                   | City   | Rural |                    | City  | Rural  |
+| *Air Bladder*     | 1 ⚪    | 1 ⚪   | Lock               | 7 ⚪   | 10 ⚪   |
+| Bedroll           | 2 ⚪    | 1 ⚪   | Mallet             | 3 🟤  | 3 🟤   |
+| Block and Tackle  | 2 ⚪    | 3 ⚪   | Manacles           | 10 ⚪  | 15 ⚪   |
+| Book              |        |       | Map                |       |        |
+| Blank             | 5 ⚪    | 10 ⚪  | *Local*            | 5 ⚪   | 20 ⚪   |
+| Reading           | 10 ⚪   | 20 ⚪  | *Kingdom*          | 50+ ⚪ | 150+ ⚪ |
+| Spell             | 100 ⚪  |       | Mirror             |       |        |
+| Caltrop           | 3 🟤   |       | *Steel*            | 1 ⚪   | 5 ⚪    |
+| *Candle*          | 3 🟤   | 3 🟤  | Glass              | 10 ⚪  | 15 ⚪   |
+| Chain, per foot   | 1 ⚪    | 2 ⚪   | *Silver*           | 30 ⚪  | -      |
+| *Chalk*           | 1 🟤   | 1 🟤  | *Nails*            | 1 🟤  | 2 🟤   |
+| Clothing          |        |       | *Paper*            | 6 🟤  | 1 ⚪    |
+| *Poor*            | 5 ⚪    | 2 ⚪   | Pick               | 6 ⚪   | 12 ⚪   |
+| *Normal           | 20 ⚪   | 10 ⚪  | *Pipe*             | 1 ⚪   | 6 🟤   |
+| Extravagant       | 100+ ⚪ | -     | ***Pole, 10'***    | 1 ⚪   | 6 🟤   |
+| Winter Travel     | 100 ⚪  | 50 ⚪  | ***Riding Gear***  | 25 ⚪  | 10 ⚪   |
+| Cooking pots      | 1 ⚪    | 6 🟤  | Rope, 50'          | 3 ⚪   | 3 ⚪    |
+| Crampons          | 5 ⚪    | 5 ⚪   | Scroll Case        | 1 ⚪   | 3 ⚪    |
+| Crowbar           | 2 ⚪    | 2 ⚪   | Shovel             | 3 ⚪   | 3 ⚪    |
+| Drill             | 5 ⚪    | 5 ⚪   | *Soap*             | 1 🟤  | 1 🟤   |
+| Fishing Gear      | 1 ⚪    | 1 ⚪   | Specialist's Tools | 50 ⚪  | -      |
+| Flask of Lamp Oil | 6 🟤   | 6 🟤  | Spike              |       |        |
+| *Garlic*          | 1 🟤   | 1 🟤  | *Wooden*           | 1 🟤  | 1 🟤   |
+| *Gem*             | 5+ ⚪   | 5+ ⚪  | *Iron*             | 3 🟤  | 6 🟤   |
+| Grappling Hook    | 5 ⚪    | 10 ⚪  | Spyglass           | 250 ⚪ | -      |
+| Holy Symbol       |        |       | Tent               |       |        |
+| *Wood*            | 1 ⚪    | 1 🟤  | ***Personal***     | 5 ⚪   | 10 ⚪   |
+| *Steel*           | 10 ⚪   | 10 ⚪  | ***Regular***      | 10 ⚪  | 20 ⚪   |
+| *Silver*          | 25 ⚪   | 25 ⚪  | ***Grand***        | 25 ⚪  | -      |
+| Holy Water        | 25 ⚪   | 25 ⚪  | ***Pavillion***    | 75 ⚪  | -      |
+| Hourglass         | 100 ⚪  | -     | Tinderbox          | 1 ⚪   | 5 ⚪    |
+| *Ink*             | 1 🟤   | 3 🟤  | Tobacco            | 1 ⚪   | 6 🟤   |
+| Instrument        | 1+ ⚪   | 5+ ⚪  | Torch              | 1 🟤  | 1 🟤   |
+| *Jewelry*         | 10+ ⚪  | 10+ ⚪ | *Vial or Bottle*   | 3 🟤  | 6 🟤   |
+| ***Ladder, 10'*** | 10 ⚪   | 7 ⚪   | Waterskin          | 1 ⚪   | 1 ⚪    |
+| Lantern           | 3 ⚪    | 5 ⚪   | *Whistle*          | 1 ⚪   | 1 ⚪    |
+| Lard              | 1 🟤   | 1 🟤  | *Wolfsbane*        | 1 ⚪   | 2 🟤   |
 
 ### Holy Water
 Holy water can be sprinkled on an opponent within mêlée range, and the opponent will always be considered AC10 in this situation unless using actual armor and/or shield. This takes up both the attacker’s hands and actions for the full Round.
