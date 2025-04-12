@@ -6,7 +6,7 @@
             <th rowspan="2">Damage</th>
             <th rowspan="2">Defence</th>
             <th colspan="2">Cost</th>
-	        <th rowspan="2">Requirements</th>
+	        <th rowspan="2">WS Required</th>
         </tr>
         <tr>
             <th>City</th>
@@ -20,7 +20,7 @@
             <td>0</td>
             <td>10 ⚪</td>
             <td>-</td>
-            <td>Simple</td>
+            <td>0</td>
         </tr>
         <tr>
             <td colspan="2"><em>Garrote (2H)</em></td>
@@ -28,7 +28,7 @@
             <td>0</td>
             <td>5 ⚪</td>
             <td>-</td>
-            <td>Simple</td>
+            <td>0</td>
         </tr>
         <tr>
             <td colspan="2"><strong><em>Lance (1/2H)</em></strong></td>
@@ -36,7 +36,7 @@
             <td>5</td>
             <td>30 ⚪</td>
             <td>-</td>
-            <td>Specialist</td>
+            <td>2</td>
         </tr>
         <tr>
             <td colspan="2"><strong><em>Mancatcher (2H)</em></strong></td>
@@ -44,7 +44,7 @@
             <td>3</td>
             <td>20 ⚪</td>
             <td>-</td>
-            <td>Simple</td>
+            <td>0</td>
         </tr>
         <tr>
             <td colspan="2"><strong><em>Polearm (2H)</em></strong></td>
@@ -52,7 +52,7 @@
             <td>5</td>
             <td>30 ⚪</td>
             <td>-</td>
-            <td>Martial</td>
+            <td>1</td>
         </tr>
         <tr>
             <td colspan="2">Rapier</td>
@@ -60,7 +60,7 @@
             <td>4</td>
             <td>15 ⚪</td>
             <td>-</td>
-            <td>Specialist</td>
+            <td>2</td>
         </tr>
         <tr>
             <td colspan="2">Spear (1/2H)</td>
@@ -68,7 +68,7 @@
             <td>3</td>
             <td>5 ⚪</td>
             <td>3 ⚪</td>
-            <td>Martial</td>
+            <td>1</td>
         </tr>
         <tr>
             <td colspan="2">Staff (2H)</td>
@@ -76,7 +76,7 @@
             <td>3</td>
             <td>3 ⚪</td>
             <td>2 ⚪</td>
-            <td>Simple</td>
+            <td>0</td>
         </tr>
         <tr>
             <td colspan="2">Warflail (2H)</td>
@@ -84,7 +84,7 @@
             <td>2</td>
             <td>20 ⚪</td>
             <td>10 ⚪</td>
-            <td>Martial</td>
+            <td>1</td>
         </tr>
         <tr>
             <td colspan="2">Whip</td>
@@ -92,7 +92,7 @@
             <td>0</td>
             <td>10 ⚪</td>
             <td>25 ⚪</td>
-            <td>Simple</td>
+            <td>0</td>
         </tr>
         <tr>
             <td rowspan="4"><strong>Weapon</strong></td>
@@ -101,7 +101,7 @@
             <td>4</td>
             <td>50 ⚪</td>
             <td>-</td>
-            <td>Specialist</td>
+            <td>2</td>
         </tr>
         <tr>
             <td>Medium</td>
@@ -109,7 +109,7 @@
             <td>3</td>
             <td>20 ⚪</td>
             <td>50 ⚪</td>
-            <td>Martial</td>
+            <td>1</td>
         </tr>
         <tr>
             <td>Small</td>
@@ -117,7 +117,7 @@
             <td>2</td>
             <td>10 ⚪</td>
             <td>10 ⚪</td>
-            <td>Simple</td>
+            <td>0</td>
         </tr>
         <tr>
             <td>Minor</td>
@@ -125,7 +125,7 @@
             <td>1</td>
             <td>5 ⚪</td>
             <td>5 ⚪</td>
-            <td>Simple</td>
+            <td>0</td>
         </tr>
         <tr>
             <td colspan="2">Weighted Net</td>
@@ -133,7 +133,7 @@
             <td>0</td>
             <td>15 ⚪</td>
             <td>15 ⚪</td>
-            <td>Simple</td>
+            <td>0</td>
         </tr>
     </tbody>
 </table>

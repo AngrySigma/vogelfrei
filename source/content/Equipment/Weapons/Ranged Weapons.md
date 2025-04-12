@@ -6,7 +6,7 @@
             <th rowspan="2">Damage</th>
             <th colspan="3">Range</th>
             <th colspan="2">Cost</th>
-            <th rowspan="2">Requirements</th>
+            <th rowspan="2">BS Required</th>
         </tr>
         <tr>
             <th>Short</th>
@@ -25,7 +25,7 @@
             <td>80'</td>
             <td>5 ⚪</td>
             <td>-</td>
-            <td>Martial</td>
+            <td>1</td>
         </tr>
         <tr>
             <td><strong>Bow, Long</strong></td>
@@ -35,7 +35,7 @@
             <td>900'</td>
             <td>45 ⚪</td>
             <td>-</td>
-            <td>Specialist</td>
+            <td>2</td>
         </tr>
         <tr>
             <td>Bow, Short</td>
@@ -45,7 +45,7 @@
             <td>450'</td>
             <td>25 ⚪</td>
             <td>25 ⚪</td>
-            <td>Specialist</td>
+            <td>2</td>
         </tr>
         <tr>
             <td><strong>Crossbow, Heavy</strong></td>
@@ -55,7 +55,7 @@
             <td>600'</td>
             <td>30 ⚪</td>
             <td>-</td>
-            <td>Martial</td>
+            <td>2</td>
         </tr>
         <tr>
             <td>Crossbow, Light</td>
@@ -65,7 +65,7 @@
             <td>400'</td>
             <td>25 ⚪</td>
             <td>-</td>
-            <td>Simple</td>
+            <td>0</td>
         </tr>
         <tr>
             <td>Rock</td>
@@ -75,7 +75,7 @@
             <td>30'</td>
             <td>-</td>
             <td>-</td>
-            <td>Simple</td>
+            <td>0</td>
         </tr>
         <tr>
             <td><em>Sling</em></td>
@@ -85,7 +85,7 @@
             <td>450'</td>
             <td>1 ⚪</td>
             <td>5 ⚪</td>
-            <td>Martial</td>
+            <td>1</td>
         </tr>
         <tr>
             <td>Dart</td>
@@ -95,7 +95,7 @@
             <td>30'</td>
             <td>2 ⚪</td>
             <td>-</td>
-            <td>Simple</td>
+            <td>0</td>
         </tr>
         <tr>
             <td>Thrown Weapon</td>
@@ -103,8 +103,7 @@
             <td>10'</td>
             <td>20'</td>
             <td>30'</td>
-            <td colspan="2">Same as melee equivalent</td>
-            <td>Same as melee equivalent</td>
+            <td colspan="3">Same as melee equivalent</td>
         </tr>
     </tbody>
 </table>

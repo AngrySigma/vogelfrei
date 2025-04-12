@@ -67,7 +67,7 @@ Apart from determining the success of the attack, WS/BS determines the character
 
 | WS/BS       | Weapon Category | Melee Weapons (WS)     | Ranged Weapons (BS)         |
 | ----------- | --------------- | ---------------------- | --------------------------- |
-| 0           | Simple          | Axes, Spears           | Darts, Crossbows            |
+| 0           | Simple          | Axes, Staves           | Darts, Crossbows            |
 | +1          | Martial         | Swords, Polearms       | Heavy Crossbows, Flintlocks |
 | +2 and more | Specialist      | Rapiers, Great Weapons | Bows, Matchlocks            |
 #### Saving Throws

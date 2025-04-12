@@ -178,11 +178,11 @@
 
 All Firearms requirements as stated in [[Class and Career#Weapon Requirements|Weapon Requirements]] are the same and depend on the lock type:
 
-| Lock Type           | Requirement                      |
+| Lock Type           | BS Requirement                   |
 | ------------------- | -------------------------------- |
-| Matchlock           | Specialist                       |
-| Wheellock           | Martial                          |
-| Flintlock           | Martial                          |
+| Matchlock           | 2                                |
+| Wheellock           | 1                                |
+| Flintlock           | 1                                |
 | Engineering Weapons | One step higher than noted above |
 
 ### Weapon Traits
