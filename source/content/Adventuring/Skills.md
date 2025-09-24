@@ -90,6 +90,11 @@ There is a –1 penalty if the language is not local to the culture (Spanish, Fr
 A character gets one attempt to know any particular language. If that one attempt fails, the character simply does not know the language. Magical languages cannot be known using this method.
 
 ---
+### Lore
+
+The Lore skill must be selected for a specific field of knowledge, such as history, religion, scholarly discipline, etc. A successful check allows the character to recall something interesting, useful, or valuable within that field, such as details of an ancient civilization, the principles behind a natural phenomenon, or the workings of a strange device. It can also be applied to conducting experiments, interpreting research, or evaluating the accuracy of information found in texts and rumors. 
+
+---
 ### Searching
 
 Many items and features of interest are hidden from open view, with secret doors or compartments being the classic example. To find these things, characters must search for them. Under normal conditions, searching takes one turn per character per 10' of area searched. Hidden items or features have a base 1 in 6 chance of being found per turn of searching. The Referee can create hidden elements that are more difficult (or easier) to detect at his discretion. If a character’s Search skill is greater than 1 in 6, use that as the base chance to find something during a search.
