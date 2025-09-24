@@ -63,15 +63,13 @@ The **Heal** skill represents a character’s ability to treat wounds, stop blee
 
 **Using Heal:**
 
-- **Stabilize:** A dying character at negative Hit Points can be stabilized with a successful Heal check. This prevents death but leaves the character unconscious until naturally healed.
-- **Reduce Recovery Time:** When you succeed on a Heal check, use the same d6 roll to reduce the Minor Wound’s recovery time. The result is the number of days, weeks, or months subtracted from the penalty’s duration, depending on the wound.
-- **Surgery:** If the result calls for “surgery required,” a Heal check must succeed for the limb to be saved. A failure means amputation (if possible) or death if untreated.
+- **Stabilize:** A dying character at negative Hit Points can be stabilized with a successful Heal check. This prevents death but leaves the character unconscious until naturally healed. On failed check the patient must make a Save vs Poison or take 1d4 damage.
+- With a successful use of the Heal skill you can bind wounds, doubling the number of hit points recovered by a single patient when resting for that day. If the patient has at least half their hit points, failed attempt means the patient recovers no hit points at all for their rest. If the patient has less than half their hit points, a failure also requires the patient to Save vs Poison or suffer 1d4 damage.
 
 **Note:**
 
 - If multiple characters attempt to use Heal on the same patient, only the most skilled roll is used.
 - Improper tools (e.g., trying to perform surgery without knives, herbs, bandages) impose a −1 penalty to the check.
-- On failed Heal check the patient must make a Save vs Poison or take 1d4 damage.
 
 ---
 ### *Herbalism*
