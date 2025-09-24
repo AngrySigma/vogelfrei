@@ -12,4 +12,4 @@ Encounter pipeline is as follows:
 
 When any side has gained the upper hand, you may need the following rules:
 1. [[Morale|Do a Morale Check]]
-2. [[Flee!]]
+2. [[Combat Actions#==Flee!==|Flee!]]
