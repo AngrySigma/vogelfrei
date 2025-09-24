@@ -6,9 +6,9 @@ tags:
 **Class**: [[Academic]]
 **Status**: Brass
 
-**Skill**: [[Skills#Herbalism|Herbalism]]
+**Skills**: [[Skills#Herbalism|Herbalism]], [[Skills#Heal|Heal]], [[Skills#Languages|Languages]], [[Skills#Lore|Lore]]
 
-***Trait***: You gain +2 to all saving throws against disease and infection. You can also prepare remedies that help patients resist or recover from diseases.
+***Trait***: You gain +2 to all saving throws against disease and infection.
 
 | Level | Progression        |
 | ----- | ------------------ |
