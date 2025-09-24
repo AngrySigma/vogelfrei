@@ -36,6 +36,7 @@
             <td>45 sp</td>
             <td>-</td>
             <td>Specialist</td>
+            <td>Martial</td>
         </tr>
         <tr>
             <td>Bow, Short</td>
@@ -46,6 +47,7 @@
             <td>25 sp</td>
             <td>25 sp</td>
             <td>Specialist</td>
+            <td>Martial</td>
         </tr>
         <tr>
             <td><strong>Crossbow, Heavy</strong></td>
