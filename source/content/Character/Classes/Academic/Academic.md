@@ -11,7 +11,7 @@
 ---
 ### Starting traits:
 
-- **Skill Points Progression:** Academics get Skill Points, which can be used to enhance their abilities. Each Academic career has a defined list of skills. Characters start with a base proficiency of 1-in-6 in these skills and can spend Skill Points to improve those skills.
+- **Skill Points Progression:** Academics get Skill Points, which can be used to improve their skills. Each Academic career has a defined list of skills. Characters start with a base proficiency of 1-in-6 in these skills and can spend Skill Points to improve them.
 - **Read & Write**: All Academics can read and write in their native language.
 
 ---
