@@ -8,11 +8,13 @@ tags:
 
 **Skill**: [[Skills#Herbalism|Herbalism]]
 
-| Level | Progression       |
-| ----- | ----------------- |
-| 1     | + 1 potion recipe |
-| 2     | + 2 Poison Save   |
-| 3     | + 1 potion recipe |
-| 4     | + 2 Magic Save    |
-| 5     | + 1 potion recipe |
-| 6     | + 2 Device Save   |
+***Trait***: You gain +2 to all saving throws against disease and infection. You can also prepare remedies that help patients resist or recover from diseases.
+
+| Level | Progression        |
+| ----- | ------------------ |
+| 1     | *Apothecary trait* |
+| 2     | + 1 potion recipe  |
+| 3     | + 2 Poison Save    |
+| 4     | + 1 potion recipe  |
+| 5     | + 2 Magic Save     |
+| 6     | + 1 potion recipe  |
