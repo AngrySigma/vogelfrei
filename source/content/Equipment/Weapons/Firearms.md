@@ -176,6 +176,9 @@
     </tbody>
 </table>
 
+
+---
+
 All Firearms requirements as stated in [[Class and Career#Weapon Requirements|Weapon Requirements]] are the same and depend on the lock type:
 
 | Lock Type           | Requirement                      |
@@ -185,7 +188,9 @@ All Firearms requirements as stated in [[Class and Career#Weapon Requirements|We
 | Flintlock           | Martial                          |
 | Engineering Weapons | One step higher than noted above |
 
+---
 ### Weapon Traits
+
 Firearms share the following special traits:
 * Firearms suffer double the usual range penalties: -4 to hit at Medium Range and -8 to hit at Long Range.
 * Most of the common firearms can be used as melee weapons, their equivalents listed in the table. Such weapon use applies -1 penalty to usual weapon defense characteristic. Muskets and Long Rifles can be equipped with a bayonet, allowing them to be used as a Spear. Bayonets are manufactured for individual weapon, count as a Minor Weapon by itself and require 1 Round to be plugged into the barrel.
@@ -203,9 +208,12 @@ Firearms share the following special traits:
 | Repeater Pistol  | After each shot, rotates the loaded barrels using the shot inertia, allowing the wielder to fire again on the next Round.                                                                                                                                                                                                                                                                                                                                           |
 | Hand Mortar      | When firing that weapon, AC is always 15, the Shield modifies the on-hit Paralysis Save. If the hit roll misses, the difference between the AC and the roll is equal to the number of yards the shot flies away in a random direction. Distance can not be larger than half the distance between the wielder and the target. Wherever the hit lands, all characters within 10 yards must pass the Paralysis Save or get d8 damage, assuming no Armor is penetrated. |
 
+---
 ## Lock Types
 ### Matchlock
+
 Matchlocks are considered the default gun type, and other firearm types are considered modifications and upgrades of the matchlock for rules purposes.
+
 Matchlocks use the following rules:
 * Reloading a matchlock requires 10 rounds minus the Character's BS and Agility modifier. Character’s Encumbrance value is added to the reload time. Any round in which the character moves or defends themselves (using their regular AC when attacked) does not count towards the reload time.
 * They have a 2 in 10 chance of misfiring.
@@ -214,21 +222,25 @@ Matchlocks use the following rules:
 * Wet conditions (rain, etc.) quadruples the chances of misfiring (powder too wet to ignite).
 * Wet cord or powder cannot be used until it dries.
 ### Wheellock
+
 Wheellock modification to the firearms rules:
 * Have no additional misfire chances due to environmental conditions.
 * Increase the base cost of a gun sevenfold.
 * Have a 1 in 4 chance of having the firing mechanism break if used as a club.
 * Does not require a burning match, allowing for stealth movement.
 ### Flintlock
+
 Flintlock modification to the firearms rules:
 * Only a 1 in 10 chance of a misfire.
 * Double the base cost of a gun.
 * Halve reload times after accounting for the BS and Agility modifier.
 * Does not require a burning match, allowing for stealth movement
 ### Rifled Barrel
+
 Rifled guns are slower to load as the same thing that controls a bullet leaving the barrel makes it impossible to quickly jam shot, powder, and wadding down the barrel in the first place.
 Rifling:
 * Eliminates the increased range penalties of firearms.
 * Doubles the base cost of a gun.
 * Reloading time of a gun increases by half after BS and Agility modifiers have been applied.
+
 ***Note***: cost multipliers are cumulative, so a rifled wheellock musket would cost 60sp×7×2=840sp

@@ -35,7 +35,6 @@
             <td>900'</td>
             <td>45 sp</td>
             <td>-</td>
-            <td>Specialist</td>
             <td>Martial</td>
         </tr>
         <tr>
@@ -46,7 +45,6 @@
             <td>450'</td>
             <td>25 sp</td>
             <td>25 sp</td>
-            <td>Specialist</td>
             <td>Martial</td>
         </tr>
         <tr>
@@ -111,9 +109,15 @@
     </tbody>
 </table>
 
-Ammunition costs 5bp each for arrows and crossbows, and 2bp for sling bullets.
 
-Weapon requirements are noted as stated in: ![[Class and Career#Weapon Requirements]]
+Ammunition costs **5bp** each for arrows and crossbows, and **2bp** for sling bullets.
+
+---
+Weapon requirements are noted as stated in: 
+
+![[Class and Career#Weapon Requirements]]
+
+---
 ### Weapon Traits
 
 | Weapon         | Effects                                                |
@@ -121,3 +125,5 @@ Weapon requirements are noted as stated in: ![[Class and Career#Weapon Requireme
 | Light Crossbow | Fire every other round, ignore 1 Armor Rating.         |
 | Heavy Crossbow | Fire every third round, ignore 3 Armor Rating.         |
 | Sling          | Can use stones as ammunition, halving effective range. |
+
+---
