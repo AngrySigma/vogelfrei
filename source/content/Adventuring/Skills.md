@@ -36,7 +36,11 @@ All characters have a base 1 in 6 chance to use the Climb skill, which allows a 
 
 ---
 
-### Trade
+### *Trade*
+
+**Type: Special**
+
+Trade skill represents a character’s practical knowledge of crafting, production, and commercial work. When taking this skill, a character must choose a specific trade area (e.g., blacksmithing, carpentry, tailoring, or pottery). The skill covers creating and repairing items within that area, appraising the quality of crafted goods, and performing work efficiently.
 
 ---
 ### Doors
@@ -46,6 +50,13 @@ Locked doors are impassable without a key, picking the lock (which requires a Ti
 Many doors in dungeons and ruins are merely stuck. To open a standard stuck door (wood with iron banding), a character must successfully make an Open Doors roll (base 1 in a 6 chance), Strength modifiers apply to the roll’s chances, so having a Strength modifier of +1 means there is a 2 in 6 chance of opening the door. Use of a crowbar adds a further 1 to the chance, and each additional person helping adds another (although only two people can attempt to open a standard-sized door). Each attempt takes 1 turn.
 
 Doors made of stronger or heavier materials may need a greater number to open (a giant stone door may have a –2 in 6 chance to be opened, requiring bonuses before there is even a chance to open it, for example), or be impossible to open.
+
+---
+### *Evaluate*
+
+**Type: Special**
+
+ A successful Evaluate check allows characters to know the value of a given piece of treasure, and whether there is anyone who might pay extra for it. Appraisal will also identify fake treasures, such as copper coins painted gold.
 
 ---
 ### *Engineering*
@@ -93,6 +104,13 @@ A character gets one attempt to know any particular language. If that one attemp
 ### Lore
 
 The Lore skill must be selected for a specific field of knowledge, such as history, religion, scholarly discipline, etc. A successful check allows the character to recall something interesting, useful, or valuable within that field, such as details of an ancient civilization, the principles behind a natural phenomenon, or the workings of a strange device. It can also be applied to conducting experiments, interpreting research, or evaluating the accuracy of information found in texts and rumors. 
+
+---
+### *Sailing*
+
+**Type: Special**
+
+Sailing covers all aspects of running, steering and maintaining ships of all sizes.
 
 ---
 ### Searching
