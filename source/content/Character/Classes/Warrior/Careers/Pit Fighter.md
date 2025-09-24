@@ -1,6 +1,12 @@
-Experience and saves from [[Character/Classes/Warrior/index|Warrior Class]]
+---
+tags:
+  - warrior
+  - brass
+---
+**Class**: [[Warrior]]
+**Status**: Brass
 
-| Level | New traits           |
+| Level | Progression          |
 | ----- | -------------------- |
 | 1     | +2 Paralyze save     |
 | 2     | +1WS, +1 hit         |
