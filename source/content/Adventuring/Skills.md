@@ -66,6 +66,11 @@ Doors made of stronger or heavier materials may need a greater number to open (a
 Engineering skill covers the design and manipulation of machines, engines, and fortifications. It allows a character to construct or sabotage siege engines, reinforce or weaken defenses, improvise mechanical solutions such as pulleys or bridges, and manage large works like mines, mills, or waterworks. Where Architecture identifies what already exists, Engineering actively changes or creates, with success ensuring stability and function, and failure often leading to collapse, malfunction, or wasted effort.
 
 ---
+### Haggle
+
+A successful Haggle roll lets the character strike a better deal when buying or selling, while a failure may worsen the terms.
+
+---
 ### *Heal*
 
 **Type: Special**
