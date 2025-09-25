@@ -6,7 +6,7 @@ tags:
 **Class**: [[Peasant]]
 **Status**: Brass
 
-Skills: [[Skills#Bushcraft|Bushcraft]], [[Skills#Searching|Searching]], [[Skills#Stealth|Stealth]], [[Skills#Swim|Swim]], [[Skills#Climb|Climb]]
+**Skills**: [[Skills#Bushcraft|Bushcraft]], [[Skills#Searching|Searching]], [[Skills#Stealth|Stealth]], [[Skills#Swim|Swim]], [[Skills#Climb|Climb]]
 
 | Level | Progression         |
 | ----- | ------------------- |

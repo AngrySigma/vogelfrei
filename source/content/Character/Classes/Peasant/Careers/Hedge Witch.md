@@ -6,7 +6,7 @@ tags:
 **Class**: [[Peasant]]
 **Status**: Brass
 
-Skills: [[Skills#Bushcraft|Bushcraft]], [[Skills#Lore|Lore]]
+**Skills**: [[Skills#Bushcraft|Bushcraft]], [[Skills#Lore|Lore]]
 
 | Level | WP  | Spells Memorized | Max Spell Level |
 | ----- | --- | ---------------- | --------------- |
