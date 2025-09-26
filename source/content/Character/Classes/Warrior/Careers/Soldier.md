@@ -6,13 +6,7 @@ tags:
 **Class**: [[Warrior]]
 **Status**: Brass
 
-***Trait***: Soldiers reduce their Encumbrance by 1 and suffer only half damage from [[Time and Movement|forced marches]].
+**Combat Skills**: WS
 
-| Level | Progression                       |
-| ----- | --------------------------------- |
-| 1     | *Soldier Trait*                   |
-| 2     | +1WS/BS, -1 Sleep Hour            |
-| 3     | +1WS/BS, -LVL hits to dying state |
-| 4     | +1WS/BS, -1 Sleep Hour            |
-| 5     | +1WS/BS, +1 Loyalty               |
-| 6     | +1WS/BS, +1 Loyalty               |
+> [!tip] Trait
+> Soldiers reduce their Encumbrance by 1 and suffer only half damage from [[Time and Movement|forced marches]]. Soldiers require 1 hour less sleep than normal.

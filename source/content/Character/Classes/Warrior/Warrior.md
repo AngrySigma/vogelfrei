@@ -11,7 +11,8 @@
 ---
 ### Starting traits:
 
-- Warriors get Combat Skill Points, which can be spent to improve either Weapon Skill (WS) or Ballistic Skill (BS). The character’s career determines which of these skills may be improved.
+> [!tip] Combat Skill Points
+> Warriors get Combat Skill Points, which can be spent to improve either Weapon Skill (WS) or Ballistic Skill (BS). The character’s career determines which of these skills may be improved.
 
 ---
 ### Careers:

@@ -8,4 +8,5 @@ tags:
 
 **Combat Skills**: WS or BS
 
-Witch Hunters add half their level (rounded up) to Magic and Device saving throws.
+> [!tip] Trait
+> Witch Hunters add half their level (rounded up) to Magic and Device saving throws.
