@@ -6,9 +6,7 @@ tags:
 **Class**: [[Townsman]]
 **Status**: Silver
 
-**Skills**: 
-
-***Trait***: 
+**Skills**: [[Skills#Trade|Trade]], [[Skills#Evaluate|Evaluate]], Any non-special skill
 
 | Level | Progression |
 | ----- | ----------- |

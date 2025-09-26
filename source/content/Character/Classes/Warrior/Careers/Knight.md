@@ -6,14 +6,6 @@ tags:
 **Class**: [[Warrior]]
 **Status**: Gold
 
-***Trait*:** A Knight gains the services of a 0-level henchman squire.
+**Combat Skills**: WS
 
-| Level | Progression                  |
-| ----- | ---------------------------- |
-| 1     | *Knight Trait*               |
-| 2     | +1WS, +1 Loyalty             |
-| 3     | +1WS, +1 to maximum henchmen |
-| 4     | +1WS, +1 Loyalty             |
-| 5     | +1WS, +1 to maximum henchmen |
-| 6     | +1WS, +1 Loyalty             |
-
+Knight gains a 0-level squire as a henchman. All of the Knight’s henchmen add half the Knight’s level (rounded up) to Loyalty and Morale checks.

@@ -62,9 +62,9 @@ Some special conditions may modify the usual attack flow:
 | ----------------------------------------- | -------------------------------------------------------------------------------------------- |
 | Attacking Unaware Opponent                | +2 to hit, enemy loses all modifiers to AC                                                   |
 | Attacking an Unarmed Character            | +5 to hit                                                                                    |
-| Attacking a Character with Longer Weapon  | Enemy may attack first or gain +2 AC, if did not act this round.                             |
+| Attacking a Character with Longer Weapon  | Enemy may attack first or gain -2 AC, if did not act this round.                             |
 | Attacking a helpless Opponent             | Automatically deal max weapon damage in melee                                                |
-| Attacking in Charge                       | gain -2 AC until next Round. Counter-thrust is resolved as usual                             |
+| Attacking in Charge                       | gain +2 AC until next Round. Counter-thrust is resolved as usual                             |
 | Attacking after Weapon Change             | -2 to hit                                                                                    |
 | Attacking with Double Team                | +2 to hit                                                                                    |
 | Attacking with Triple Team                | +5 to hit                                                                                    |
@@ -72,17 +72,17 @@ Some special conditions may modify the usual attack flow:
 | Firing into Melee                         | -4 to hit, hit other random opponent, if the modifier makes the attack miss                  |
 | Firing into the Crowd                     | +1 to hit for each target after the first one                                                |
 | Attacking after Aiming Round              | +2 to hit, lose Agility Bonus to AC while Aiming                                             |
-| Ranged attack against quarter cover       | +2 AC                                                                                        |
-| Ranged attack against half cover          | +4 AC                                                                                        |
-| Ranged attack against three-quarter cover | +7 AC                                                                                        |
-| Ranged attack against full cover          | +10 AC                                                                                       |
+| Ranged attack against quarter cover       | - 2 AC                                                                                       |
+| Ranged attack against half cover          | - 4 AC                                                                                       |
+| Ranged attack against three-quarter cover | - 7 AC                                                                                       |
+| Ranged attack against full cover          | - 10 AC                                                                                      |
 | Fighting in darkness                      | -6 to hit, ranged attacks miss, all incoming attacks count as if against an unaware opponent |
-| Mounted combat                            | -5 to hit with ranged, +1 to hit and +1 AC in melee, triple damage in Charge                 |
+| Mounted combat                            | -5 to hit with ranged, +1 to hit and -1 AC in melee, triple damage in Charge                 |
 
 ---
 ##### Counter-attack
 
-If a Character wields a longer weapon than the opponent and did not act this Round, they can perform a counter-attack prior to the attacker. As an alternative, they can choose not to attack and gain +2 to AC instead against that attack.
+If a Character wields a longer weapon than the opponent and did not act this Round, they can perform a counter-attack prior to the attacker. As an alternative, they can choose not to attack and gain -2 to AC instead against that attack.
 
 ***Note***: The counter-attack does not grant a free action, and finishes the actions of both the attacker and the defender.
 
@@ -127,17 +127,17 @@ If using a missile weapon, a character can decide to take a full Round to aim. T
 ---
 ##### Cover
 
-Cover is protection behind something that can actually block incoming attacks, such as a wall or arrow slit. A quarter cover improves the AC by 2, the examples of it are bushes, and curtains, which rather obscure vision than block projectiles. A half-cover grants a +4 AC bonus, its examples are shallow trenches, thin wooden hedges and other objects which either partially block line of sight, or present moderate defense against the incoming projectiles. A three-quarter cover improves the AC by 7, the examples are either conceal most of the Character's body completely, like the trench, or are able to block some serious projectiles with mantlet being the most common example. The most common full cover example is a murder hole or an arrow slit in the stone building, such cover grants a +10 bonus to AC.
+Cover is protection behind something that can actually block incoming attacks, such as a wall or arrow slit. A quarter cover improves the AC by 2, the examples of it are bushes, and curtains, which rather obscure vision than block projectiles. A half-cover grants a -4 AC bonus, its examples are shallow trenches, thin wooden hedges and other objects which either partially block line of sight, or present moderate defense against the incoming projectiles. A three-quarter cover improves the AC by 7, the examples are either conceal most of the Character's body completely, like the trench, or are able to block some serious projectiles with mantlet being the most common example. The most common full cover example is a murder hole or an arrow slit in the stone building, such cover grants a -10 bonus to AC.
 
 ---
 ##### Parry
 
-Characters can decide to defend themselves in combat at the expense of all other possible activity. Player is free to decide that their character is parrying at any point during the Round, even out of Initiative sequence, provided that the character has not yet acted. This gives a +2 AC bonus for the Round or +4 AC if the Character is wielding a Martial or a Specialist weapon.
+Characters can decide to defend themselves in combat at the expense of all other possible activity. Player is free to decide that their character is parrying at any point during the Round, even out of Initiative sequence, provided that the character has not yet acted. This gives a -2 AC bonus for the Round or -4 AC if the Character is wielding a Martial or a Specialist weapon.
 
 ---
 ##### Mounted Combat
 
-Mounted characters receive +1 to hit (unless using minor or small weapons) and a +1 AC bonus when in melee combat against enemies on foot. Mounted characters receive a –5 penalty to hit with missile fire while mounted. Mounted Charge with a polearm triples the damage inflicted, and the polearms also triple their damage when counter-attacking.
+Mounted characters receive +1 to hit (unless using minor or small weapons) and a -1 AC bonus when in melee combat against enemies on foot. Mounted characters receive a –5 penalty to hit with missile fire while mounted. Mounted Charge with a polearm triples the damage inflicted, and the polearms also triple their damage when counter-attacking.
 
 ---
 ## ==Cast a spell==
