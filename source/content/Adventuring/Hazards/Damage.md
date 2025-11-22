@@ -1,4 +1,5 @@
 ### Damage
+
 When a character (or creature) suffers damage, the amount of damage is deducted from the character’s current Hit Points. When his Hit Points go below 0, the character falls prone, and becomes unable to take most actions. Characters can still crawl being unable to stand up, and perform simple actions which do not require any stamina, such as attacking, casting spells or invoking miracles. Reaching state below 0 Hit Points causes critical injury according to the table below by rolling 1d4 and adding the number of negative Hit Points reached (for example, if a Character had 2 Wounds and got 4 Damage, it sends them to -2 Wounds, thus triggering an injury roll of 1d4+2). Any damage received when the Character is below 0 Wounds, instantly kills any character.
 
 | Roll Total | Effect                         |

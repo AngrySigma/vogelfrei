@@ -1,10 +1,12 @@
-Experience and saves from [[Character/Classes/Warrior/index|Warrior Class]]
+---
+tags:
+  - warrior
+  - brass
+---
+**Class**: [[Warrior]]
+**Status**: Brass
 
-| Level | New traits           |
-| ----- | -------------------- |
-| 1     | +2 Paralyze save     |
-| 2     | +1WS, +1 hit         |
-| 3     | +1WS, +2 Poison save |
-| 4     | +1WS, +1 hit         |
-| 5     | +1WS, +2 Breath save |
-| 6     | +1WS, +1 hit         |
+**Combat Skills**: WS
+
+> [!tip] Trait
+> Pit Fighter is good at wrestling and unarmed attacks. They add their Strength AND Dexterity bonus to Grappling checks, and automatically win ties (unless grappling with another Pit Fighter or creature with a natural grappling ability). Pit Fighter's unarmed attacks deal d4 damage.

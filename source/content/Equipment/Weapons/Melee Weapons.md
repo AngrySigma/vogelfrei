@@ -1,4 +1,5 @@
 
+
 <table>
     <thead>
         <tr>
@@ -138,8 +139,15 @@
     </tbody>
 </table>
 
-Weapon requirements are noted as stated in: ![[Class and Career#Weapon Requirements]]
+
+---
+Weapon requirements are noted as stated in: 
+
+![[Class and Career#Weapon Requirements]]
+
+---
 ### Generic Weapons
+
 The generic “weapon” categories are only for rules and reference purposes. Characters purchasing such an item must specify exactly what sort of weapon is being purchased.
 
 | Generic Weapon Type | Examples                                                   |
@@ -150,6 +158,8 @@ The generic “weapon” categories are only for rules and reference purposes. C
 | Minor               | One-handed weapons including daggers and clubs.            |
 
 Halflings must wield Medium Weapons in two hands, and they cannot wield Great Weapons.
+
+---
 ### Weapon Traits
 
 | Weapon       | Effects                                                                                                                                                                                                          |
@@ -164,6 +174,9 @@ Halflings must wield Medium Weapons in two hands, and they cannot wield Great We
 
 Some weapons can attack “from the second rank.” This is used when there is a definite battle line in combat. Usually only those on the front line of battle can strike, but those weapons usable from the second rank allow anyone immediately behind the battle line to strike as well.
 
+---
 ### Silver Weapons
+
 Silver weapons cost ten times more than standard weapons, and have a 1 in 10 chance to break whenever they are used to attack, even if the attack misses.
 
+---
