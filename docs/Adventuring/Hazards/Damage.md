@@ -35,7 +35,7 @@ When a character (or creature) suffers damage, the amount of damage is deducted 
 | 6-7        | Permanent injury               |
 | 8+         | Death                          |
 
-Determine target location:
+#### Determine target location:
 
 | d4 Roll | Location                             |
 | ------- | ------------------------------------ |
