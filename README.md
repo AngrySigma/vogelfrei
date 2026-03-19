@@ -2,11 +2,11 @@
 
 An OSR tabletop role-playing game of exile, survival, and fortune — inspired by LotFP and the Old School Renaissance.
 
-**[vogelfrei.ru](https://vogelfrei.ru)** — play the game online.
+**[vogelfrei.ru](https://vogelfrei.ru)** — read the game online.
 
 ## About
 
-Vogelfrei is a classless, career-based RPG set in a dark fantasy world. Characters are defined by their history and the careers they've pursued, not abstract class archetypes. The rules emphasize danger, resource management, and meaningful player choices.
+Vogelfrei is a career-based RPG set in a dark fantasy world. Characters are defined by their history and the careers they've pursued, not abstract class archetypes. The rules emphasize danger, resource management, and meaningful player choices.
 
 This repository contains the full source for the Vogelfrei rulebook, built as a static site with [Zensical](https://github.com/zensical/zensical).
 

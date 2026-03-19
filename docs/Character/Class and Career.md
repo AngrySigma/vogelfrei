@@ -46,6 +46,7 @@ Elves may opt to use the Wood Elf class if the Referee decides that it is availa
 | 4  | [Scholar](Classes/Academic/Careers/Scholar.md)        | [Grey Wizard](Classes/Magic-User/Careers/Grey%20Wizard.md)    | [Hunter](Classes/High%20Elf/Careers/Hunter.md)             | [Blade dancer](Classes/Wood%20Elf/Careers/Blade%20dancer.md)     |
 | 5  | [Alchemist](Classes/Academic/Careers/Alchemist.md)      | [Light Wizard](Classes/Magic-User/Careers/Light%20Wizard.md)   | [Shadow](Classes/High%20Elf/Careers/Shadow.md)             | [Waywatcher](Classes/Wood%20Elf/Careers/Waywatcher.md)        |
 | 6  | [Cartographer](Classes/Academic/Careers/Cartographer.md)  | —                                                   | —                                                     | —                                                     |
+
 # Determine Wounds
 
 Randomly determine the character’s starting Wounds (W) according to the level chart. First level characters have a minimum number of Wounds they possess. If the rolled amount is less than the indicated number on the following chart, simply use the number shown on the chart instead. Then add the character’s Toughness bonus to the number to determine the Character's starting Wounds.
