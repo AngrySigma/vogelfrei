@@ -17,6 +17,7 @@ You can either choose a class, or roll using the table below.
 | 10       | [Academic](Classes/Academic/index.md)     |
 | 11       | [Magic-User](Classes/Magic-User/index.md) |
 | 12       | [Elf](Classes/High%20Elf/index.md)          |
+
 Elves may opt to use the Wood Elf class if the Referee decides that it is available for campaign. Next, choose a career from the following table
 
 | d6 | [Dwarf](Classes/Dwarf/index.md)         | [Halfling](Classes/Halfling/index.md)      | [Rogue](Classes/Rogue/index.md)              | [Ranger](Classes/Ranger/index.md)            |

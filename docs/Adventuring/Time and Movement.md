@@ -18,6 +18,7 @@ A character’s movement rate is determined by how much gear he is carrying, or 
 | Three-quarter or heavier armor                          | +2 Points |
 | Per 5 items the Character is carrying                   | +1 Point  |
 | Character is carrying an oversize item                  | +1 Point  |
+
 Very small single items do not count for encumbrance purposes. Multiple small items of the same type (spikes, arrows, etc.) count as one item. Worn clothing, armor, and jewelry do not count for encumbrance purposes. All weapons count as separate items. Oversize items are counted separately. Such items include great and other two handed weapons, and any item that requires two hands to carry or is as tall as the carrying character.
 ## Movement
 Character's on-foot speed depends on the Encumbrance. Any group of Characters moves at the speed of the slowest group member.
@@ -30,6 +31,7 @@ Character's on-foot speed depends on the Encumbrance. Any group of Characters mo
 | 3                  | Heavily Encumbered  | 12                      | 60'               | 20'                | 60'     |
 | 4                  | Severely Encumbered | 6                       | 30'               | 10'                | 30'     |
 | 5+                 | Overencumbered      | 0                       | 0'                | 0'                 | 0'      |
+
 ### Mounts
 If an animal is pulling a cart or other vehicle, the load of the vehicle (as per this scheme) is applied to the animal as well. Multiple mounts pulling a vehicle divide the total encumbrance points between them. Mounts' Encumbrance is determined as follows:
 
@@ -53,6 +55,7 @@ If an animal is pulling a cart or other vehicle, the load of the vehicle (as per
 | 16-20              | Heavily Encumbered  | 24                      | 120'              | 40'                | 120'    |
 | 21-25              | Severely Encumbered | 12                      | 60'               | 20'                | 60'     |
 | 26+                | Overencumbered      | 0                       | 0'                | 0'                 | 0'      |
+
 Mules subtract five points from their encumbrance load, but move at half the listed speeds. Ponies move at the listed speeds, but automatically start with 6 points of Encumbrance. All per-day travel distances include periodic rests. Characters apply their Constitution modifier to their per-day travel distance on foot. The movement rates shown on the table above are figured based on an 8 hour day of travel on open road. The terrain type will alter the rate somewhat, as shown the table below. Bad weather also affects travel.
 
 | Terrain or Condition        | Adjustment |
@@ -64,6 +67,8 @@ Mules subtract five points from their encumbrance load, but move at half the lis
 |                             |            |
 | High Winds or Precipitation | 0.5        |
 | Storm Conditions            | 0.33       |
+
 Characters can choose to perform a forced march, traveling 12 hours per day. If this is done, add an additional 50% to the distance traveled. Each day of forced march performed after the first inflicts 1d6 damage on the characters, and also inflicts this damage on animals from the first day. An animal that suffers 5 or 6 points of damage in this manner dies at the end of a day’s journey.
+
 ### Excavations
 A single man can excavate 3 cubic feet of earth per hour if they have proper equipment (Strength modifiers apply to the number of cubic feet). They can dig at half of this rate if they have improvised tools, and one quarter of this rate if they have no tools at all.

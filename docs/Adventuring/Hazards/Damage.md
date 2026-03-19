@@ -34,6 +34,7 @@ When a character (or creature) suffers damage, the amount of damage is deducted 
 | 4-5        | Minor wound                    |
 | 6-7        | Permanent injury               |
 | 8+         | Death                          |
+
 Determine target location:
 
 | d4 Roll | Location                             |
@@ -42,6 +43,7 @@ Determine target location:
 | 2       | Torso                                |
 | 3       | Arm (d2: 1 - primary, 2 - secondary) |
 | 4       | Leg (d2: 1 - left, 2 - right)        |
+
 #### Head Injuries
 
 | Roll  | Minor Wound (4-5)                             | Permanent Wound (6-7)                                |
