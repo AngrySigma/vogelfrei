@@ -1,5 +1,6 @@
 ---
 title: Cure Light Wounds
+class: cleric
 tags:
   - level_1
   - cleric

@@ -1,5 +1,6 @@
 ---
 title: Comprehend Languages
+class: magic-user
 tags:
   - level_1
   - magic-user

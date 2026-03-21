@@ -1,5 +1,6 @@
 ---
 title: Detect Chaos
+class: cleric
 tags:
   - level_1
   - cleric

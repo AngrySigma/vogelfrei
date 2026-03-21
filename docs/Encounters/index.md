@@ -1,12 +1,6 @@
 ---
 title: Encounters
-order:
-  - Surprise
-  - Encounter Distance
-  - Reaction Roll
-  - Initiative
-  - Combat Actions
-  - Morale
+icon: lucide/swords
 ---
 # Encounters
 

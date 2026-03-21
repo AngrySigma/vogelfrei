@@ -1,13 +1,6 @@
 ---
 title: Character Creation
-order:
-  - Ability Scores
-  - Class and Career
-  - Classes
-  - Alignment
-  - Starting Possessions
-  - Name
-  - Advancement
+icon: lucide/scroll
 ---
 # Character Creation
 

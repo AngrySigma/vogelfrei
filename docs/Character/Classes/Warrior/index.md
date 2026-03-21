@@ -1,10 +1,35 @@
 ---
 title: Warrior
-order:
-  - Warrior
-  - Careers
 ---
 # Warrior
+
+| Level | Experience | Wounds      | Stamina | Combat Skill Points |
+| ----- | ---------- | ----------- | ------- | ------------------- |
+| 1     | 0          | 1d8 (min 8) | 1d4     | 1 WS, 1 BS          |
+| 2     | 2000       | +1          | +1d4    | +1                  |
+| 3     | 4000       | +1          | +1d4    | +1                  |
+| 4     | 8000       | +1          | +1d4    | +1                  |
+| 5     | 16000      | +1          | +1d4    | +1                  |
+| 6     | 32000      | +1          | +1d4    | +1                  |
+
+#### Saving Throws
+
+| Level | Paralyze | Poison | Breath | Device | Magic |
+| ----- | -------- | ------ | ------ | ------ | ----- |
+| 1     | 14       | 12     | 15     | 13     | 16    |
+| 2     | 14       | 12     | 15     | 13     | 16    |
+| 3     | 14       | 12     | 15     | 13     | 16    |
+| 4     | 12       | 10     | 13     | 11     | 14    |
+| 5     | 12       | 10     | 13     | 11     | 14    |
+| 6     | 12       | 10     | 13     | 11     | 14    |
+
+---
+### Starting traits:
+
+!!! tip "Combat Skill Points"
+    Warriors get Combat Skill Points, which can be spent to improve either Weapon Skill (WS) or Ballistic Skill (BS). The character's career determines which of these skills may be improved.
+
+---
 
 ## Careers
 

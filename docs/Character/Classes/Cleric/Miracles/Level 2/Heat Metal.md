@@ -1,5 +1,6 @@
 ---
 title: Heat Metal
+class: cleric
 tags:
   - level_2
   - cleric

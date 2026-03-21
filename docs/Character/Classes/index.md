@@ -1,18 +1,5 @@
 ---
 title: Classes
-order:
-  - Warrior
-  - Magic-User
-  - Cleric
-  - Ranger
-  - Rogue
-  - Peasant
-  - Academic
-  - Townsman
-  - Dwarf
-  - High Elf
-  - Wood Elf
-  - Halfling
 ---
 # Classes
 

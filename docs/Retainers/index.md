@@ -1,10 +1,6 @@
 ---
 title: Retainers
-order:
-  - Hiring Retainers
-  - Morale Checks
-  - Basic Retainers
-  - Expanded Retainer List
+icon: lucide/users
 ---
 # Retainers
 

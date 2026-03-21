@@ -1,9 +1,5 @@
 ---
 title: Weapons
-order:
-  - Melee Weapons
-  - Ranged Weapons
-  - Firearms
 ---
 # Weapons
 

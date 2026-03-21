@@ -1,5 +1,6 @@
 ---
 title: Protection from Chaos
+class: cleric
 tags:
   - level_1
   - cleric

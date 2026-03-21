@@ -1,10 +1,5 @@
 ---
 title: Hazards
-order:
-  - Damage
-  - Physical Deterioration
-  - Substance and Toxins
-  - Environmental
 ---
 # Hazards
 

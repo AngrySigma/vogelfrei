@@ -1,0 +1,93 @@
+/* =====================================================================
+   Vogelfrei – Spell & Miracle Reference Styles
+   =====================================================================
+   Targets the metadata block that opens every spell/miracle page:
+
+       **Duration**: …
+       **Range**: …
+
+   This renders as a <p> whose first element is <strong> and which
+   contains <br> separators — specific enough not to affect normal prose.
+   ===================================================================== */
+
+
+/* ---- Color tokens ---- */
+
+:root {
+  /* Orange + amber pair for light mode */
+  --vf-accent:       #e65100;              /* deep-orange-900           */
+  --vf-label:        #bf360c;              /* deep-orange-A700          */
+  --vf-meta-bg:      #fff8e1;              /* amber-50                  */
+  --vf-meta-border:  #ff8f00;              /* amber-800                 */
+
+  /* Class-specific pill colors (for tag chips if tags plugin is on) */
+  --vf-tag-mu:       #e65100;              /* magic-user  → deep orange */
+  --vf-tag-mu-text:  #fff;
+  --vf-tag-cl:       #6a1b9a;              /* cleric      → deep purple */
+  --vf-tag-cl-text:  #fff;
+}
+
+[data-md-color-scheme="slate"] {
+  /* Amber on dark backgrounds */
+  --vf-accent:       #ffb74d;              /* amber-300                 */
+  --vf-label:        #ffd54f;              /* amber-200                 */
+  --vf-meta-bg:      rgba(255, 143, 0, 0.08);
+  --vf-meta-border:  #ffa000;              /* amber-700                 */
+}
+
+
+/* ---- Spell / Miracle name heading ----
+   Adds a coloured left-bar to any h1 that is immediately followed by
+   the metadata block (i.e. a paragraph starting with <strong>).        */
+
+.md-typeset h1:has(+ p > strong:first-child) {
+  border-left: 4px solid var(--vf-accent);
+  padding-left: 0.55em;
+  margin-left: -0.6em;
+}
+
+
+/* ---- Metadata block (Duration, Range, …) ----
+   Targets a <p> whose first child element is <strong> and that also
+   contains a <br> — the pattern produced by:
+       **Duration**: 1 Round/level  ← two trailing spaces = <br>
+       **Range**: Touch             ← same                             */
+
+.md-typeset p:has(> strong:first-child):has(br) {
+  background:   var(--vf-meta-bg);
+  border-left:  3px solid var(--vf-meta-border);
+  border-radius: 0 6px 6px 0;
+  padding:      0.45em 1em 0.45em 0.9em;
+  margin:       -0.3em 0 1.4em;       /* pull snug under the heading  */
+  font-size:    0.875rem;
+  line-height:  1.9;
+}
+
+/* The label part: "Duration", "Range" */
+.md-typeset p:has(> strong:first-child):has(br) strong {
+  color:           var(--vf-label);
+  font-size:       0.72em;
+  font-weight:     700;
+  text-transform:  uppercase;
+  letter-spacing:  0.07em;
+  margin-right:    0.3em;
+}
+
+
+/* ---- Tag chips ----
+   With [project.plugins.tags] enabled, chips become <a href="/tags/#…">.
+   Without it, they are <span class="md-tag"> with no href.
+   Both variants are covered below.
+
+   If neither selector works, open DevTools, inspect a chip, and check:
+   - element tag (a vs span)
+   - exact href value (slugification may produce "magic-user" or "magic_user")  */
+
+/* linked chips (tags plugin on) */
+.md-tag[href*="magic-user"],
+.md-tag[href*="magic_user"] { background: var(--vf-tag-mu); color: var(--vf-tag-mu-text); }
+
+.md-tag[href*="cleric"]     { background: var(--vf-tag-cl); color: var(--vf-tag-cl-text); }
+
+/* non-linked chips (no tags plugin) — CSS can't select by text content,
+   so these are injected by the small script in extra.js instead */

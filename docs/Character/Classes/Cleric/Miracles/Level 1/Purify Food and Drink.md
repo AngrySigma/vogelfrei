@@ -1,5 +1,6 @@
 ---
 title: Purify Food and Drink
+class: cleric
 tags:
   - level_1
   - cleric

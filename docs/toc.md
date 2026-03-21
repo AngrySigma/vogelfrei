@@ -5,7 +5,7 @@ icon: lucide/table-of-contents
 
 # Table of Contents
 
-## ⚔️ Character Creation
+## 📜 Character Creation
 Everything needed to bring a character into the world of Vogelfrei.
 
 *   **[Ability Scores](./Character/Ability%20Scores.md)** — roll 3d6 in order for Strength, Toughness, Agility, Intelligence, Willpower, and Leadership; note modifiers and decide on one swap.
@@ -34,7 +34,7 @@ Everything needed to bring a character into the world of Vogelfrei.
 
 *   **[Advancement](./Character/Advancement.md)** — how Experience Points are earned (defeating enemies, recovering treasure) and how levels are gained.
 
-## 🛡️ Spells & Miracles
+## ✨ Spells & Miracles
 Complete spell and miracle lists for arcane and divine casters.
 
 *   **[Magic-User Spells](./Character/Classes/Magic-User/Spells/index.md)** — full list of arcane spells:
@@ -94,7 +94,7 @@ Rules governing what happens outside of direct combat.
     *   [Substance and Toxins](./Adventuring/Hazards/Substance%20and%20Toxins.md) — poisons, venoms, alcohol, and alchemical substances.
     *   [Environmental](./Adventuring/Hazards/Environmental.md) — fire, falling, drowning, extreme cold and heat.
 
-## ⚡ Encounters
+## ⚔️ Encounters
 The full encounter pipeline, from first contact to resolution.
 
 *   **[Surprise](./Encounters/Surprise.md)** — when surprise is possible, how it is determined, and its effect on the first round.

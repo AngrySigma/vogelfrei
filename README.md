@@ -4,6 +4,8 @@ An OSR tabletop role-playing game of exile, survival, and fortune — inspired b
 
 **[vogelfrei.ru](https://vogelfrei.ru)** — read the game online.
 
+**[angrysigma.github.io/vogelfrei](https://angrysigma.github.io/vogelfrei/)** — alternative mirror.
+
 ## About
 
 Vogelfrei is a career-based RPG set in a dark fantasy world. Characters are defined by their history and the careers they've pursued, not abstract class archetypes. The rules emphasize danger, resource management, and meaningful player choices.

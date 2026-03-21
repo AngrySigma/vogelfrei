@@ -1,5 +1,6 @@
 ---
 title: Unseen Servant
+class: magic-user
 tags:
   - level_1
   - magic-user
