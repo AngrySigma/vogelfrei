@@ -2,9 +2,10 @@
 
 Characters may possess various skills such as but not limited to: Architecture, Tinkering, Search. Any character has a base chance of 1 in 6 to succeed in any specific situation where such skill is required. Some characters have a natural affinity to certain skills. For example, Dwarves have a basic chance of 3 in 6 to Architecture skill. Also, certain Careers or Classes allow characters to gain skill advances, improving the success chance. A single advance improves the base chance by one, turning 2 in 6 chance to 3 in 6 chance and so on. Numbers may also be modified by the situation (some strong doors and rare languages require some expertise to even have a chance of success).
 
-**Special skills** can only be used if the character has at least one point in them, while all other skills may be used without restriction.
+!!! note "Years of Training"
+    Special Skills can only be used if the character has at least one point in them, while all other skills may be used without restriction.
 
-___
+---
 ### Architecture
 
 Clues, warnings, and rewards can be built into the very structures of a character’s surroundings.
@@ -18,9 +19,15 @@ Any character has a 1 in 6 chance to note any of these features in the surroundi
 
 Characters may be able to find food and water during their journeys overland. To find food in the wilderness, the character must roll against his Bushcraft skill, with terrain modifying the skill as follows:
 
-| Terrain | Chance of Finding Food |
-| ------- | ---------------------- |
-| Plains  | +1 in 6                |
+| Terrain   | Chance of Finding Food |
+| --------- | ---------------------- |
+| Plains    | +1 in 6                |
+| Mountains | normal                 |
+| Forest    | +2 in 6                |
+| Desert    | -1 in 6                |
+| Jungle    | +2 in 6                |
+| Swamp     | normal                 |
+
 Hunting takes time, and the distance traveled during a day where successful hunting occurs is lessened by 1d4×25%. Unsuccessful hunting takes all day. Success means that 1d4 days’ worth of meals for a single person has been acquired for the party.
 
 1d10 units of ammunition are expended in the attempt. If a character does not have a proper missile weapon, the chance to find food is lowered by 1. If a character has no missile weapon at all, reduce the chance by one more. If it is winter, reduce the chances by another point unless in the desert, where this does not matter.
@@ -38,9 +45,7 @@ All characters have a base 1 in 6 chance to use the Climb skill, which allows a 
 
 ---
 
-### *Trade*
-
-**Type: Special**
+### *Trade* <span class="badge-special">Special</span>
 
 Trade skill represents a character’s practical knowledge of crafting, production, and commercial work. When taking this skill, a character must choose a specific trade area (e.g., blacksmithing, carpentry, tailoring, or pottery). The skill covers creating and repairing items within that area, appraising the quality of crafted goods, and performing work efficiently.
 
@@ -54,16 +59,12 @@ Many doors in dungeons and ruins are merely stuck. To open a standard stuck door
 Doors made of stronger or heavier materials may need a greater number to open (a giant stone door may have a –2 in 6 chance to be opened, requiring bonuses before there is even a chance to open it, for example), or be impossible to open.
 
 ---
-### *Evaluate*
-
-**Type: Special**
+### *Evaluate* <span class="badge-special">Special</span>
 
  A successful Evaluate check allows characters to know the value of a given piece of treasure, and whether there is anyone who might pay extra for it. Appraisal will also identify fake treasures, such as copper coins painted gold.
 
 ---
-### *Engineering*
-
-**Type: Special**
+### *Engineering* <span class="badge-special">Special</span>
 
 Engineering skill covers the design and manipulation of machines, engines, and fortifications. It allows a character to construct or sabotage siege engines, reinforce or weaken defenses, improvise mechanical solutions such as pulleys or bridges, and manage large works like mines, mills, or waterworks. Where Architecture identifies what already exists, Engineering actively changes or creates, with success ensuring stability and function, and failure often leading to collapse, malfunction, or wasted effort.
 
@@ -73,9 +74,7 @@ Engineering skill covers the design and manipulation of machines, engines, and f
 A successful Haggle roll lets the character strike a better deal when buying or selling, while a failure may worsen the terms.
 
 ---
-### *Heal*
-
-**Type: Special**
+### *Heal* <span class="badge-special">Special</span>
 
 The **Heal** skill represents a character’s ability to treat wounds, stop bleeding, and perform rudimentary surgery. It cannot restore lost Hit Points directly, but it can prevent death, reduce recovery time, and sometimes downgrade permanent injuries.
 
@@ -85,16 +84,15 @@ The **Heal** skill represents a character’s ability to treat wounds, stop blee
 
 - With a successful use of the Heal skill you can bind wounds, doubling the number of hit points recovered by a single patient when resting for that day. If the patient has at least half their hit points, failed attempt means the patient recovers no hit points at all for their rest. If the patient has less than half their hit points, a failure also requires the patient to Save vs Poison or suffer 1d4 damage.
 
-**Note:**
 
-- If multiple characters attempt to use Heal on the same patient, only the most skilled roll is used.
+!!! note "Bone-saw crew"
+    If multiple characters attempt to use Heal on the same patient, only the most skilled roll is used.
 
-- Improper tools (e.g., trying to perform surgery without knives, herbs, bandages) impose a −1 penalty to the check.
+!!! note "Butcher's Work"
+    Improper tools (e.g., trying to perform surgery without knives, herbs, bandages) impose a −1 penalty to the check.
 
 ---
-### *Herbalism*
-
-**Type: Special**
+### *Herbalism* <span class="badge-special">Special</span>
 
 Herbalism skill represents a character’s knowledge of plants and their practical uses, including identifying, gathering, and preparing herbs for medicinal, alchemical, or toxic purposes. A character skilled in Herbalism can recognize edible or poisonous flora, create basic remedies or salves, and combine ingredients to enhance or neutralize effects. When encountering an unfamiliar potion or mixture, the character may roll a Herbalism check to determine if they recognize its recipe and potential effects.
 
@@ -115,9 +113,7 @@ A character gets one attempt to know any particular language. If that one attemp
 The Lore skill must be selected for a specific field of knowledge, such as history, religion, scholarly discipline, etc. A successful check allows the character to recall something interesting, useful, or valuable within that field, such as details of an ancient civilization, the principles behind a natural phenomenon, or the workings of a strange device. It can also be applied to conducting experiments, interpreting research, or evaluating the accuracy of information found in texts and rumors. 
 
 ---
-### *Sailing*
-
-**Type: Special**
+### *Sailing* <span class="badge-special">Special</span>
 
 Sailing covers all aspects of running, steering and maintaining ships of all sizes.
 
@@ -159,5 +155,3 @@ Other uses of Tinkering (setting traps, for example, or jury-rigging impromptu d
 A character gets one attempt to use Tinkering on any particular object. If that one attempt fails, the character must gain a level before attempting to manipulate that object again.
 
 The base chance of success for Tinkering is 1 in 6.
-
----

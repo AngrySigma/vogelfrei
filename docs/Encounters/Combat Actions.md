@@ -4,7 +4,6 @@ Each character can perform a single action on their turn. These given options ce
 
 ---
 ## Move
-
 A character can move their full movement rate at any round using either normal movement speed, or running one. In case the Character is running through reach of any opponent who did not yet act that turn, they may perform an attack against the Character. That attack can be declared as a wrestling attempt.
 
 If the Character moves their normal combat distance, they can perform a usual Attack afterwards.
@@ -14,7 +13,6 @@ If the Character moves their normal combat distance, they can perform a usual At
 
 ---
 ## Flee!
-
 When one character or party is running from another, it is not merely a matter of movement rate which decides the outcome unless the chase is over open territory. Otherwise, both sides in a pursuit roll 1d20 and add their movement rate divided by 10. For example, characters with 120' movement roll d20+12. The higher roll wins. Individual rolls for those with different movement rates can be used at the Referee's discretion. You do not have to outrun the enemy, you just have to outrun your slowest ally!
 
 No mapping or other record keeping is allowed during a pursuit. The Referee will declare in general terms where the character goes. "You run down the corridor, past two doors, and duck to the left in a passageway," is a perfectly fine description in a dungeon, with the character not being told details along the way. After all, the character has been running for his life with a flickering light source through hostile territory! Wilderness pursuit will be rather less mysterious of course.
@@ -25,7 +23,6 @@ Dropping items or money or treasure or food might make pursuers break off pursui
 
 ---
 ## Attack
-
 When a Character makes an attack, follow these steps:
 
 1. *Declare and Move*
@@ -85,6 +82,8 @@ Damage rules are detailed in [Damage](../Adventuring/Hazards/Damage.md) Section.
     - *Roll = 9: total 12 — hit. Exactly AC 12. Kurt rolls 1d8 for damage.*
     - *Roll = 18: total 21 — hit. Kurt rolls 1d8 for damage.*
 
+---
+
 | Special Condition                           | Effect                                                                                              |
 | ------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | Attacking an Unaware Opponent               | +2 to attack roll; target only retains Armour Rating and Base AC                                   |
@@ -105,7 +104,6 @@ Damage rules are detailed in [Damage](../Adventuring/Hazards/Damage.md) Section.
 | Mounted combat                              | −4 to ranged attack rolls; +1 to melee attack roll and −1 to Opponent's AC; double damage after running |
 
 ### Counterattack
-
 When a Trained Character is attacked by an Opponent wielding a weapon of shorter or equal length, and has not yet acted this Round, they may perform a Counterattack: they strike first, before the Attacker's blow resolves.
 
 Committing to an immediate offensive response leaves the Defender exposed: their Weapon Length provides no defence for the remainder of the Round. The Attacker's Weapon Length bonus is unaffected.
@@ -113,12 +111,11 @@ Committing to an immediate offensive response leaves the Defender exposed: their
 !!! note
     The Counterattack finishes the actions of both the Attacker and the Defender for the Round. The Attacker still resolves their attack afterwards, unless they are slain by the Counterattack.
 
-### Change Weapons and Attack
 
+### Change Weapons and Attack
 If a character is not holding the weapon that he wants to use, he can drop what is in his hands and draw a weapon (assuming the weapon is in an accessible place such as on a belt scabbard). There is a –2 penalty to their attack roll during the Round that this happens.
 
 ### Wrestling
-
 A character may attempt to wrestle another character to either immobilize or take something out of that character's hands. The attacker must have both hands free or wield a weapon effective for grappling. The defender, if he is armed and has not yet acted during the Round, can immediately make an attack against the aggressor before the wrestling attempt is resolved.
 
 Wrestling is resolved with a contested roll. Both parties roll 1d20 and apply both their Weapon Skill and Strength modifier. Ties are decided by Agility modifier, or a die roll if both are still tied. The winner decides whether the loser is immobilized, if he will attempt to disarm the loser of the contest, or if he releases the loser. An immobilized opponent can usually take no action other than attempting to escape on his next action, but can instead attack a grappling opponent with natural or minor weapons. Resolve this with another wrestling roll. Any character immobilized for three successive wrestling contests is considered pinned and helpless — no further attempts to escape can be made. If disarmament is attempted (and this includes snatching any held object, not just taking away weapons), the defender must make a save versus Paralyzation to keep hold of the object that his attacker is attempting to take.
@@ -126,23 +123,19 @@ Wrestling is resolved with a contested roll. Both parties roll 1d20 and apply bo
 If there are multiple opponents attempting to wrestle a single defender, all attackers make their rolls as normal, but only the best roll is used with a +1 bonus for each additional attacker. Creatures whose physiology or special abilities suggest that they have an advantage when grappling (tentacles, adhesive, multiple limbs) gain a further +1 bonus to their wrestling roll per Hit Die.
 
 ### Full Defence
-
 Characters can decide to focus entirely on defence at the expense of all other activity. A player is free to declare Full Defence at any point during the Round, even out of Initiative sequence, provided that the character has not yet acted. This adds +2 to the Character's AC for the Round, or +4 AC if the Character is Trained in Weapon Skill.
 
 ### Mounted Combat
-
 Mounted characters receive +1 to their melee attack rolls (unless using Minor or Small weapons) and reduce the Opponent's AC by 1 when in melee combat against enemies on foot. Mounted characters suffer a −4 penalty to ranged attack rolls while mounted. A Mounted Charge with a polearm deals triple damage.
 
+---
 ## Ranged
-
 Ranged attacks follow the same steps as melee but use **Ballistic Skill + Agility Bonus** and a base AC of 11. Several conditions specific to ranged combat are described below.
 
 ### Aiming
-
 If using a missile weapon, a character can decide to take a full Round to aim. While Aiming, the Character's Agility Bonus does not apply to their own AC. On the following Round, the Character gains +2 to their attack roll when firing. Aiming time is in addition to normal reload times.
 
 ### Cover
-
 Cover is protection behind something that can actually block incoming attacks. Each tier adds to the target's AC, making them harder to hit:
 
 - **Quarter cover (+2 AC):** Bushes, curtains — obscures vision more than it blocks projectiles.
@@ -154,27 +147,23 @@ Cover is protection behind something that can actually block incoming attacks. E
 - **Full cover (+10 AC):** Arrow slits, murder holes in stone — virtually no line of attack remains.
 
 ### Firing into Melee
-
 Firing into melee with a missile weapon is a very uncertain thing. The Character suffers −4 to their attack roll. If the attack misses solely because of this penalty, it still hits — but the target is determined randomly among all engaged characters.
 
 Significantly larger characters or monsters in a mêlée count as two characters for random targeting purposes, and truly gargantuan creatures can be fired upon using the normal rules.
 
 ### Firing into Crowds
-
 A Character may choose to fire into a group of targets standing together. They gain +1 to their attack roll for each target after the first. If the attack hits, the target is determined randomly among all characters in the group.
 
 Significantly larger characters or monsters in a mêlée count as two characters for random targeting purposes, and truly gargantuan creatures can be fired upon using the normal rules.
 
 ---
 ## Cast a Spell
-
 Casting a spell during combat is a very risky proposition because the caster leaves himself completely helpless and open to attack while doing so. Magic-Users must be able to speak freely to cast a spell. Clerics must also have their holy symbol in one hand for the entire Round.
 
 Spells take effect at the beginning of the next Round before the Initiative is rolled. If a character has taken any damage earlier in a Round, the character cannot cast a spell that Round.
 
 ---
 ## Use an Item
-
 Character might want to use some item in their possession, taking time according with the item availability:
 
 | Item availability       | Time to get ready |
@@ -187,5 +176,4 @@ During this time, the Character can be attacked as an Unaware Opponent; if the C
 
 ---
 ## Hold Action
-
 Sometimes winning the Initiative over a foe is not all that advantageous because it is important to know what the opponent is going to do before deciding for oneself. Any action can be held until the end of the Round, and at the time the action is taken, it happens simultaneously, not before other actions are taken. For instance, if waiting for an enemy to close later in the Round before attacking, when that enemy closes both attacks happen simultaneously; the one holding his action does not act first.

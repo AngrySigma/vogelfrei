@@ -113,6 +113,22 @@
   text-align:       center !important;
 }
 
+/* ---- Special skill badge ---- */
+
+.md-typeset .badge-special {
+  display:        inline-block;
+  background:     var(--md-primary-fg-color);
+  color:          var(--md-primary-bg-color);
+  font-size:      0.6em;
+  font-weight:    700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  padding:        0.15em 0.5em;
+  border-radius:  3px;
+  vertical-align: middle;
+  margin-left:    0.5em;
+}
+
 /* ---- Side-by-side tables ---- */
 
 .md-typeset .tables-inline {

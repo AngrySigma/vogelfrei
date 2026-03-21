@@ -21,6 +21,8 @@ When the applicant meets the hiring character, there are three or four factors w
 | Half required living space    | -2                  |
 | 50% increase living space     | +1                  |
 
+---
+
 Referee will secretly roll 3d6 twice on the following table when a character attempts to hire a retainer. The first roll will determine if the applicant accepts the position, while the second roll on the same table will determine the retainer’s Morale score. Players should never know exactly how loyal their retainers are.
 
 | Roll | Accepts Position | Moarle |
