@@ -5,6 +5,7 @@ tags:
 # Light Wizard
 
 **Class**: [Magic-User](../Magic-User.md)
+
 **Status**:
 
 **Skills**:

@@ -5,6 +5,7 @@ tags:
 # Coachman
 
 **Class**: [Ranger](../Ranger.md)
+
 **Status**:
 
 **Skills**:

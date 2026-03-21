@@ -5,6 +5,7 @@ tags:
 # Herbalist
 
 **Class**: [Halfling](../Halfling.md)
+
 **Status**:
 
 **Skills**:

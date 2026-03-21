@@ -5,6 +5,7 @@ tags:
 # Boatman
 
 **Class**: [Ranger](../Ranger.md)
+
 **Status**:
 
 **Skills**:

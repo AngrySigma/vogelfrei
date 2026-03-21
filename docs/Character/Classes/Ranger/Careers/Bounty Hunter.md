@@ -6,6 +6,7 @@ tags:
 # Bounty Hunter
 
 **Class**: [Ranger](../Ranger.md)
+
 **Status**: Silver
 
 **Skills**: [Evaluate](Skills#Evaluate.md), Any non-special skills

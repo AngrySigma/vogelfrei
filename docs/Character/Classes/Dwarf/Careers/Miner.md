@@ -5,6 +5,7 @@ tags:
 # Miner
 
 **Class**: [Dwarf](../Dwarf.md)
+
 **Status**:
 
 **Skills**:

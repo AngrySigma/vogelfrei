@@ -5,6 +5,7 @@ tags:
 # Peddlar
 
 **Class**: [Ranger](../Ranger.md)
+
 **Status**:
 
 **Skills**:

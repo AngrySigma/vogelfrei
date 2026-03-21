@@ -5,6 +5,7 @@ tags:
 # Cartographer
 
 **Class**: [Academic](../Academic.md)
+
 **Status**:
 
 **Skills**:

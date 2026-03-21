@@ -5,6 +5,7 @@ tags:
 # Scion
 
 **Class**: [Townsman](../Townsman.md)
+
 **Status**:
 
 **Skills**:

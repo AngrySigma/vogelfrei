@@ -6,6 +6,7 @@ tags:
 # Apothecary
 
 **Class**: [Academic](../Academic.md)
+
 **Status**: Brass
 
 **Skills**: [Herbalism](Skills#Herbalism.md), [Heal](Skills#Heal.md), [Languages](Skills#Languages.md), [Lore](Skills#Lore.md)

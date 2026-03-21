@@ -6,6 +6,7 @@ tags:
 # Sailor
 
 **Class**: [Ranger](../Ranger.md)
+
 **Status**: Silver
 
 **Skills**: [Sailing](Skills#Sailing.md), Any non-special skills

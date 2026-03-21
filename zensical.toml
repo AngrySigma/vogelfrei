@@ -35,7 +35,7 @@ repo_url = "https://github.com/AngrySigma/vogelfrei"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-Copyright &copy; 2026 Vogelfrei
+Copyright &copy; 2026 Vogelfrei &mdash; <a href="https://github.com/AngrySigma/vogelfrei/blob/master/LICENSE">OGL v1.0a</a>
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.

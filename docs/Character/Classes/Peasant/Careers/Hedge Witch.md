@@ -6,6 +6,7 @@ tags:
 # Hedge Witch
 
 **Class**: [Peasant](../Peasant.md)
+
 **Status**: Brass
 
 **Skills**: [Bushcraft](Skills#Bushcraft.md), [Lore](Skills#Lore.md)

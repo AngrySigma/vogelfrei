@@ -5,6 +5,7 @@ tags:
 # Outlaw
 
 **Class**: [Rogue](../Rogue.md)
+
 **Status**:
 
 **Skills**:

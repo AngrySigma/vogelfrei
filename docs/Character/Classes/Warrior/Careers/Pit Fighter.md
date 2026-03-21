@@ -6,6 +6,7 @@ tags:
 # Pit Fighter
 
 **Class**: [Warrior](../Warrior.md)
+
 **Status**: Brass
 
 **Combat Skills**: WS

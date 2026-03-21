@@ -5,6 +5,7 @@ tags:
 # Warrior Priest
 
 **Class**: [Cleric](../Cleric.md)
+
 **Status**:
 
 **Skills**:

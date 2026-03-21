@@ -5,6 +5,7 @@ tags:
 # Miner
 
 **Class**: [Peasant](../Peasant.md)
+
 **Status**:
 
 **Skills**:

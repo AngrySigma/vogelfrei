@@ -16,6 +16,14 @@
     </thead>
     <tbody>
         <tr>
+            <td colspan="2">Improvised</td>
+            <td>d3</td>
+            <td>0</td>
+            <td> - </td>
+            <td> - </td>
+            <td>Untrained</td>
+        </tr>
+        <tr>
             <td colspan="2"><em>Cestus</em></td>
             <td>d3</td>
             <td>0</td>
@@ -140,9 +148,6 @@
 </table>
 
 ---
-Weapon requirements are noted as stated in: 
-
----
 ### Generic Weapons
 
 The generic “weapon” categories are only for rules and reference purposes. Characters purchasing such an item must specify exactly what sort of weapon is being purchased.
@@ -165,6 +170,7 @@ Halflings must wield Medium Weapons in two hands, and they cannot wield Great We
 | Lance        | This weapon can be used one-handed if charging on horseback. Otherwise, it is effectively a pike polearm.                                                                                                        |
 | Mancatcher   | A successful hit with this weapon requires the victim to pass a Paralysis Save or become helpless, as is the wielder of the mancatcher while the target is being held for purposes of defending against attacks. |
 | Polearm      | This weapon can be used to attack from the second rank or to receive a charge.                                                                                                                                   |
+| Rapier        | This weapon suffers -2 penalty to hit opponents with wearing armor with Armor Rating of 4 and higher.                                                                                                             |
 | Spear        | When wielded in both hands, this can be used to attack from the second rank or to receive a charge.                                                                                                              |
 | Whip         | This weapon is ineffective against targets with in metal armor, but allows melee attacks on opponents up to 10' away.                                                                                            |
 | Weighted Net | A successful hit with this weapon requires the victim to pass a Paralysis Save or become helpless. A new Paralysis Save is allowed on each next Round.                                                           |
@@ -175,5 +181,3 @@ Some weapons can attack “from the second rank.” This is used when there is a
 ### Silver Weapons
 
 Silver weapons cost ten times more than standard weapons, and have a 1 in 10 chance to break whenever they are used to attack, even if the attack misses.
-
----

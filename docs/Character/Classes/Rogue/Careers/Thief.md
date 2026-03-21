@@ -5,6 +5,7 @@ tags:
 # Thief
 
 **Class**: [Rogue](../Rogue.md)
+
 **Status**:
 
 **Skills**:

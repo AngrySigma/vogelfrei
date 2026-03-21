@@ -5,6 +5,7 @@ tags:
 # Villager
 
 **Class**: [Peasant](../Peasant.md)
+
 **Status**:
 
 **Skills**:

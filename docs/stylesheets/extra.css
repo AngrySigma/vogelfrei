@@ -25,6 +25,7 @@
   --vf-tag-mu-text:  #fff;
   --vf-tag-cl:       #6a1b9a;              /* cleric      → deep purple */
   --vf-tag-cl-text:  #fff;
+
 }
 
 [data-md-color-scheme="slate"] {
@@ -91,3 +92,40 @@
 
 /* non-linked chips (no tags plugin) — CSS can't select by text content,
    so these are injected by the small script in extra.js instead */
+
+
+/* ---- Header logo icon ----
+   In slate (dark) mode the header is dark, so the default white bird is
+   colourless. Recolour it with the primary brand colour.
+   In light mode the header background IS the primary colour, so the bird
+   stays white (handled by the theme default — no rule needed).          */
+
+[data-md-color-scheme="slate"] .md-header__button.md-logo svg {
+  stroke: var(--md-primary-fg-color);
+}
+
+
+/* ---- Table headers ---- */
+
+.md-typeset table:not([class]) th {
+  background-color: var(--md-primary-fg-color);
+  color:            var(--md-primary-bg-color);
+  text-align:       center !important;
+}
+
+/* ---- Side-by-side tables ---- */
+
+.md-typeset .tables-inline {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.md-typeset .tables-inline .md-typeset__scrollwrap {
+  flex: 1;
+  min-width: 0;
+  margin: 0;
+}
+
+

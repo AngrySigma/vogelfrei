@@ -5,6 +5,7 @@ tags:
 # Artisan
 
 **Class**: [High Elf](../High%20Elf.md)
+
 **Status**:
 
 **Skills**:
