@@ -1,11 +1,6 @@
 ---
 title: Vogelfrei
-order:
-  - Character
-  - Equipment
-  - Retainers
-  - Adventuring
-  - Encounters
+icon: lucide/home
 ---
 # Vogelfrei
 

@@ -1,7 +1,6 @@
 ---
 title: List of Magic-User Spells
-order:
-  - Level 1
+class: magic-user
 ---
 # List of Magic-User Spells
 

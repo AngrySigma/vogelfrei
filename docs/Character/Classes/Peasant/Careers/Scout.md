@@ -5,6 +5,7 @@ tags:
 # Scout
 
 **Class**: [Peasant](../Peasant.md)
+
 **Status**:
 
 **Skills**:

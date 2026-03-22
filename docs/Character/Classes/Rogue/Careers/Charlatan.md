@@ -5,6 +5,7 @@ tags:
 # Charlatan
 
 **Class**: [Rogue](../Rogue.md)
+
 **Status**:
 
 **Skills**:

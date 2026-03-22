@@ -1,5 +1,6 @@
 ---
 title: Message
+class: magic-user
 tags:
   - level_1
   - magic-user

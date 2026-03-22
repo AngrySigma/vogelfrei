@@ -5,6 +5,7 @@ tags:
 # Witch
 
 **Class**: [Magic-User](../Magic-User.md)
+
 **Status**:
 
 **Skills**:

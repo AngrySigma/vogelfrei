@@ -15,5 +15,5 @@
 | ***Shield***         | 15sp   | 30sp  | -2 Melee AC, -3 Ranged AC |
 | ***Pavise***         | 100sp  | -     | -5 Ranged AC              |
 
-Armor Rating reduces the damage inflicted. For more information on attack rules, refer to
+Armor Rating reduces the damage inflicted. For more information on attack rules, refer to the [Combat Actions](../Encounters/Combat Actions.md#attack).
 

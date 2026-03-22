@@ -5,6 +5,7 @@ tags:
 # Charlatan
 
 **Class**: [Halfling](../Halfling.md)
+
 **Status**:
 
 **Skills**:

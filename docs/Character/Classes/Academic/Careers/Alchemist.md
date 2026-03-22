@@ -5,6 +5,7 @@ tags:
 # Alchemist
 
 **Class**: [Academic](../Academic.md)
+
 **Status**:
 
 **Skills**:

@@ -2,7 +2,9 @@
 
 An OSR tabletop role-playing game of exile, survival, and fortune — inspired by LotFP and the Old School Renaissance.
 
-**[vogelfrei.ru](https://vogelfrei.ru)** — read the game online.
+**[vogelfrei.ru](https://vogelfrei.ru)** — read the game online. Nightly build.
+
+**[angrysigma.github.io/vogelfrei](https://angrysigma.github.io/vogelfrei/)** — alternative mirror. Builds from master branch.
 
 ## About
 

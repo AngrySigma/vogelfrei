@@ -1,8 +1,6 @@
 ---
 title: List of Cleric Miracles
-order:
-  - Level 1
-  - Level 2
+class: cleric
 ---
 # List of Cleric Miracles
 

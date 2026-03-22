@@ -1,8 +1,28 @@
 ---
 title: Rogue
-order:
-  - Rogue
 ---
 # Rogue
 
 > Rogues have no fixed Careers — they are defined by their adaptability and lack of official social standing. A Rogue may have been anything before taking to the road.
+
+| Level | Experience | Wounds      | Stamina |
+| ----- | ---------- | ----------- | ------- |
+| 1     | 0          | 1d6 (min 4) | 1d3     |
+| 2     | 1500       | —           | +1d3    |
+| 3     | 3000       | +1          | +1d3    |
+| 4     | 6000       | —           | +1d3    |
+| 5     | 12000      | —           | +1d3    |
+| 6     | 24000      | +1          | +1d3    |
+
+#### Saving Throws
+
+| Level | Paralyze | Poison | Breath | Device | Magic |
+| ----- | -------- | ------ | ------ | ------ | ----- |
+| 1     | 14       | 16     | 15     | 14     | 14    |
+| 2     | 14       | 16     | 15     | 14     | 14    |
+| 3     | 14       | 16     | 15     | 14     | 14    |
+| 4     | 14       | 16     | 15     | 14     | 14    |
+| 5     | 11       | 12     | 14     | 13     | 12    |
+| 6     | 11       | 12     | 14     | 13     | 12    |
+
+### Starting Skills and Possessions

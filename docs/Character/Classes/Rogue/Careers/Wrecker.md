@@ -5,6 +5,7 @@ tags:
 # Wrecker
 
 **Class**: [Rogue](../Rogue.md)
+
 **Status**:
 
 **Skills**:

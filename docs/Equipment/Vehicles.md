@@ -1,27 +1,127 @@
 # Vehicles
 
-| Vehicle            | Cost     |         |
-| ------------------ | -------- | ------- |
-|                    | City     | Rural   |
-| Cart               | 50sp     | 25sp    |
-| Coach              | 100sp    | -       |
-| Wagon              | 160sp    | 75sp    |
-| Chariot            | 250sp    | -       |
-| Boat, Raft         | 5sp      | 5sp     |
-| Boat, Canoe        | 30sp     | 25sp    |
-| Boat, Lifeboat     | 100sp    | -       |
-| Ship, Trireme      | 10000sp  | -       |
-| Ship, Quadrireme   | 50000sp  | -       |
-| Ship, Longship     | 30000sp  | -       |
-| Ship, River Galley | 4000sp   | 8000sp  |
-| Ship, Riverboat    | 1000sp   | 2000sp  |
-| Ship, Sailboat<br> | 6000sp   | 12000sp |
-| Ship, Cog          | 15000sp  | -       |
-| Ship, Caravel      | 39000sp  | -       |
-| Ship, Carrack      | 48000sp  | -       |
-| Ship, Galleon      | 60000sp  | -       |
-| Ship, Cutter       | 45000sp  | -       |
-| Ship, Brig         | 90000sp  | -       |
-| Ship, Corvette     | 135000sp | -       |
-| Ship, Frigate      | 180000sp | -       |
-Good quality boats cost 5% more. Excellent quality boats cost 15% more. Advanced boats cost 33% more. Poor boats cost 10% less, and Awful boats cost 25% less.
+<table>
+    <thead>
+        <tr>
+            <th rowspan="2" colspan="2">Vehicle</th>
+            <th colspan="2">Cost</th>
+        </tr>
+        <tr>
+            <th>City</th>
+            <th>Rural</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="4"><strong>Land</strong></td>
+            <td>Cart</td>
+            <td>50sp</td>
+            <td>25sp</td>
+        </tr>
+        <tr>
+            <td>Coach</td>
+            <td>100sp</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Wagon</td>
+            <td>160sp</td>
+            <td>75sp</td>
+        </tr>
+        <tr>
+            <td>Chariot</td>
+            <td>250sp</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td rowspan="3"><strong>Boats</strong></td>
+            <td>Raft</td>
+            <td>5sp</td>
+            <td>5sp</td>
+        </tr>
+        <tr>
+            <td>Canoe</td>
+            <td>30sp</td>
+            <td>25sp</td>
+        </tr>
+        <tr>
+            <td>Lifeboat</td>
+            <td>100sp</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td rowspan="14"><strong>Ships</strong></td>
+            <td>Trireme</td>
+            <td>10000sp</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Quadrireme</td>
+            <td>50000sp</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Longship</td>
+            <td>30000sp</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>River Galley</td>
+            <td>4000sp</td>
+            <td>8000sp</td>
+        </tr>
+        <tr>
+            <td>Riverboat</td>
+            <td>1000sp</td>
+            <td>2000sp</td>
+        </tr>
+        <tr>
+            <td>Sailboat</td>
+            <td>6000sp</td>
+            <td>12000sp</td>
+        </tr>
+        <tr>
+            <td>Cog</td>
+            <td>15000sp</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Caravel</td>
+            <td>39000sp</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Carrack</td>
+            <td>48000sp</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Galleon</td>
+            <td>60000sp</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Cutter</td>
+            <td>45000sp</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Brig</td>
+            <td>90000sp</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Corvette</td>
+            <td>135000sp</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Frigate</td>
+            <td>180000sp</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
+
+!!! tip "A Luxurious Trip"
+    Good quality boats cost 5% more. Excellent quality boats cost 15% more. Advanced boats cost 33% more. Poor boats cost 10% less, and Awful boats cost 25% less.

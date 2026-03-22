@@ -1,5 +1,6 @@
 ---
 title: Remove Fear
+class: cleric
 tags:
   - level_1
   - cleric

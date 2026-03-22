@@ -5,6 +5,7 @@ tags:
 # Militia
 
 **Class**: [Townsman](../Townsman.md)
+
 **Status**:
 
 **Skills**:

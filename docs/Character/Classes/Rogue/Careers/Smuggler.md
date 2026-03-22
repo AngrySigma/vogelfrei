@@ -5,6 +5,7 @@ tags:
 # Smuggler
 
 **Class**: [Rogue](../Rogue.md)
+
 **Status**:
 
 **Skills**:

@@ -5,6 +5,7 @@ tags:
 # Scholar
 
 **Class**: [Academic](../Academic.md)
+
 **Status**:
 
 **Skills**:

@@ -5,6 +5,7 @@ tags:
 # Artisan
 
 **Class**: [Dwarf](../Dwarf.md)
+
 **Status**:
 
 **Skills**:

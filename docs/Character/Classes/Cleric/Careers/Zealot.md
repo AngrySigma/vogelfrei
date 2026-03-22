@@ -5,6 +5,7 @@ tags:
 # Zealot
 
 **Class**: [Cleric](../Cleric.md)
+
 **Status**:
 
 **Skills**:

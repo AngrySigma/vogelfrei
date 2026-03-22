@@ -5,6 +5,7 @@ tags:
 # Herbalist
 
 **Class**: [Peasant](../Peasant.md)
+
 **Status**:
 
 **Skills**:

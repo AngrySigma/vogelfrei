@@ -6,6 +6,7 @@ tags:
 # Rat Catcher
 
 **Class**: [Townsman](../Townsman.md)
+
 **Status**: Silver
 
 **Skills**: 

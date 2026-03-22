@@ -5,6 +5,7 @@ tags:
 # Beggar
 
 **Class**: [Townsman](../Townsman.md)
+
 **Status**:
 
 **Skills**:

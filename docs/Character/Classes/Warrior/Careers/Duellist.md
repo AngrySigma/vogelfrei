@@ -6,6 +6,7 @@ tags:
 # Duellist
 
 **Class**: [Warrior](../Warrior.md)
+
 **Status**: Silver
 
 **Combat Skills**: WS or BS

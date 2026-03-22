@@ -1,18 +1,5 @@
 ---
 title: Classes
-order:
-  - Warrior
-  - Magic-User
-  - Cleric
-  - Ranger
-  - Rogue
-  - Peasant
-  - Academic
-  - Townsman
-  - Dwarf
-  - High Elf
-  - Wood Elf
-  - Halfling
 ---
 # Classes
 
@@ -31,7 +18,7 @@ Each character belongs to one Class, which defines their core abilities and avai
 | [Rogue](Rogue/index.md) | Cunning opportunists skilled in stealth and trickery |
 | [Peasant](Peasant/index.md) | Common folk with practical, earthy knowledge |
 | [Academic](Academic/index.md) | Scholars and trained professionals |
-| [Townsman](Townsman/index.md) | Skilled craftspeople and urban specialists |
+| [Townsman](Townsman/index.md) | Skilled craftsmen and urban specialists |
 
 ## Demihuman Classes
 

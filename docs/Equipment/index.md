@@ -1,15 +1,6 @@
 ---
 title: Equipment
-order:
-  - Armor
-  - Weapons
-  - Animals
-  - Containers
-  - Food
-  - Lodging
-  - Vehicles
-  - Services
-  - Miscellaneous
+icon: lucide/backpack
 ---
 # Equipment
 

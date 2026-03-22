@@ -5,6 +5,7 @@ tags:
 # Karak Ranger
 
 **Class**: [Dwarf](../Dwarf.md)
+
 **Status**:
 
 **Skills**:

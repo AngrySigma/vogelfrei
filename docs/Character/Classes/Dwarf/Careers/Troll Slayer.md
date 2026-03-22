@@ -5,6 +5,7 @@ tags:
 # Troll Slayer
 
 **Class**: [Dwarf](../Dwarf.md)
+
 **Status**:
 
 **Skills**:

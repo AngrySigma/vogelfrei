@@ -5,6 +5,7 @@ tags:
 # Scout
 
 **Class**: [Halfling](../Halfling.md)
+
 **Status**:
 
 **Skills**:

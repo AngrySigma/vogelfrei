@@ -5,6 +5,7 @@ tags:
 # Waywatcher
 
 **Class**: [Wood Elf](../Wood%20Elf.md)
+
 **Status**:
 
 **Skills**:

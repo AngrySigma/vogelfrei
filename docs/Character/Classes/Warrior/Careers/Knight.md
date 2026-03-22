@@ -6,6 +6,7 @@ tags:
 # Knight
 
 **Class**: [Warrior](../Warrior.md)
+
 **Status**: Gold
 
 **Combat Skills**: WS

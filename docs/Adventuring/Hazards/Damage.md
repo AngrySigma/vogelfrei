@@ -4,9 +4,11 @@
 
 Stamina represents the ability of a trained character to control a dangerous situation: to duck at the last moment, roll with a blow, twist away from a blade, and keep fighting despite exhaustion. It is not the same as physical toughness — it is the hard-won awareness and reflex of someone who has survived many fights. After several battles with no rest, Stamina runs out. The next hit lands clean.
 
-**Stamina is a separate pool from Wounds.** All incoming damage depletes Stamina first. Only when Stamina reaches 0 does excess damage carry over into Wounds. A character with Stamina remaining cannot be pushed below 0 Wounds in a single hit unless the damage exceeds both pools combined.
+!!! important "Battle-ready"
+    **Stamina is a separate pool from Wounds.** All incoming damage depletes Stamina first. Only when Stamina reaches 0 does excess damage carry over into Wounds. A character with Stamina remaining cannot be pushed below 0 Wounds in a single hit unless the damage exceeds both pools combined.
 
-**Only intelligent, trained beings have Stamina.** Monsters and unintelligent creatures do not — all damage they receive goes directly to their Wounds. Their durability comes from toughness, size, and natural armour, not from experience or readiness.
+!!! tip "Beast Nature"
+    **Only intelligent, trained beings have Stamina.** Monsters and unintelligent creatures do not — all damage they receive goes directly to their Wounds. Their durability comes from toughness, size, and natural armour, not from experience or readiness.
 
 #### What bypasses Stamina
 
@@ -23,7 +25,6 @@ Not all damage can be avoided through skill. The following sources go directly t
 Area effects — explosions, spell blasts, breath weapons, collapsing ceilings — **do not** bypass Stamina, provided the character is mobile and aware. A soldier who rolls clear of a fireball, or dives from a dragon’s breath, is burning Stamina to do so. If the character is helpless or pinned when the area effect hits, Stamina is bypassed as normal.
 
 ---
-
 ### Damage
 
 When a character (or creature) suffers damage, the amount of damage is deducted from the character’s current Hit Points. When his Hit Points go below 0, the character falls prone, and becomes unable to take most actions. Characters can still crawl being unable to stand up, and perform simple actions which do not require any stamina, such as attacking, casting spells or invoking miracles. Reaching state below 0 Hit Points causes critical injury according to the table below by rolling 1d4 and adding the number of negative Hit Points reached (for example, if a Character had 2 Wounds and got 4 Damage, it sends them to -2 Wounds, thus triggering an injury roll of 1d4+2). Any damage received when the Character is below 0 Wounds, instantly kills any character.

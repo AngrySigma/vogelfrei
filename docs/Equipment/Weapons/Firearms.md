@@ -5,14 +5,11 @@
         <tr>
             <th rowspan="2">Firearm</th>
             <th rowspan="2">Damage</th>
-            <th colspan="3">Range</th>
+            <th rowspan="2">Range (S/M/L)</th>
             <th rowspan="2">Melee Equivalent</th>
             <th colspan="2">Cost</th>
         </tr>
         <tr>
-            <th>Short</th>
-            <th>Medium</th>
-            <th>Long</th>
             <th>City</th>
             <th>Rural</th>
         </tr>
@@ -21,9 +18,7 @@
         <tr>
             <td>Pistol</td>
             <td>d8</td>
-            <td>25'</td>
-            <td>50'</td>
-            <td>100'</td>
+            <td>25'—50'—100'</td>
             <td>Minor</td>
             <td>30 sp</td>
             <td>-</td>
@@ -31,9 +26,7 @@
         <tr>
             <td><strong><em>Musket (2H)</em></strong></td>
             <td>d10</td>
-            <td>50'</td>
-            <td>100'</td>
-            <td>600'</td>
+            <td>50'—100'—600'</td>
             <td>Small/Spear</td>
             <td>60 sp</td>
             <td>-</td>
@@ -41,9 +34,7 @@
         <tr>
             <td>Blunderbuss (2H)</td>
             <td>d8</td>
-            <td>10'</td>
-            <td>20'</td>
-            <td>50'</td>
+            <td>10'—20'—50'</td>
             <td>-</td>
             <td>20 sp</td>
             <td>50 sp</td>
@@ -51,9 +42,7 @@
         <tr>
             <td>Arquebus (2H)</td>
             <td>d8</td>
-            <td>50'</td>
-            <td>100'</td>
-            <td>600'</td>
+            <td>50'—100'—600'</td>
             <td>Small</td>
             <td>40 sp</td>
             <td>80 sp</td>
@@ -61,9 +50,7 @@
         <tr>
             <td>Double Barreled Handgun (2H)</td>
             <td>d10</td>
-            <td>30'</td>
-            <td>60'</td>
-            <td>300'</td>
+            <td>30'—60'—300'</td>
             <td>Small</td>
             <td>100 sp</td>
             <td>-</td>
@@ -71,9 +58,7 @@
         <tr>
             <td>Duck Foot</td>
             <td>d6</td>
-            <td>10'</td>
-            <td>20'</td>
-            <td>50'</td>
+            <td>10'—20'—50'</td>
             <td>-</td>
             <td>200 sp</td>
             <td>-</td>
@@ -81,9 +66,7 @@
         <tr>
             <td>Gun Axe (2H)</td>
             <td>d8</td>
-            <td>30'</td>
-            <td>60'</td>
-            <td>300'</td>
+            <td>30'—60'—300'</td>
             <td>Medium</td>
             <td>80 sp</td>
             <td>-</td>
@@ -91,9 +74,7 @@
         <tr>
             <td><strong><em>Gun Halberd (2H)</em></strong></td>
             <td>d8</td>
-            <td>30'</td>
-            <td>60'</td>
-            <td>300'</td>
+            <td>30'—60'—300'</td>
             <td>Polearm</td>
             <td>120 sp</td>
             <td>-</td>
@@ -101,9 +82,7 @@
         <tr>
             <td><strong><em>Long Rifle (2H)</em></strong></td>
             <td>d12</td>
-            <td>100'</td>
-            <td>200'</td>
-            <td>1200'</td>
+            <td>100'—200'—1200'</td>
             <td>Small/Spear</td>
             <td>800 sp</td>
             <td>-</td>
@@ -111,18 +90,17 @@
     </tbody>
 </table>
 
+---
+
 <table>
     <thead>
         <tr>
             <th rowspan="2">Engineering Firearm</th>
             <th rowspan="2">Damage</th>
-            <th colspan="3">Range</th>
+            <th rowspan="2">Range (S/M/L)</th>
             <th colspan="2">Cost</th>
         </tr>
         <tr>
-            <th>Short</th>
-            <th>Medium</th>
-            <th>Long</th>
             <th>City</th>
             <th>Rural</th>
         </tr>
@@ -131,45 +109,35 @@
         <tr>
             <td>Pepperbox</td>
             <td>d8</td>
-            <td>20'</td>
-            <td>40'</td>
-            <td>80'</td>
+            <td>20'—40'—80'</td>
             <td>100 sp</td>
             <td>-</td>
         </tr>
         <tr>
             <td>Repeater Pistol</td>
             <td>d8</td>
-            <td>20'</td>
-            <td>40'</td>
-            <td>80'</td>
+            <td>20'—40'—80'</td>
             <td>150 sp</td>
             <td>-</td>
         </tr>
         <tr>
             <td>Repeater Handgun (2H)</td>
             <td>d8</td>
-            <td>30'</td>
-            <td>60'</td>
-            <td>300'</td>
+            <td>30'—60'—300'</td>
             <td>120 sp</td>
             <td>-</td>
         </tr>
         <tr>
             <td>Cane Pistol</td>
             <td>d8</td>
-            <td>10'</td>
-            <td>20'</td>
-            <td>50'</td>
+            <td>10'—20'—50'</td>
             <td>120 sp</td>
             <td>-</td>
         </tr>
         <tr>
             <td>Hand Mortar (2H)</td>
             <td>d8</td>
-            <td>25'</td>
-            <td>50'</td>
-            <td>200'</td>
+            <td>25'—50'—200'</td>
             <td>1000 sp</td>
             <td>-</td>
         </tr>
@@ -203,6 +171,8 @@ Firearms share the following special traits:
 * All Firearms have a base chance of Misfire, depending on a lock type. Any misfire requires three rounds to clean before attempting to fire again.
 
 * Some weapons, such as a Duck Foot Pistol or a Pepperbox, have variable number of barrels. Base number of barrels is 3, with a new one added at half the cost of a firearm.
+
+---
 
 | Weapon           | Effects                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -265,4 +235,5 @@ Rifling:
 
 * Reloading time of a gun increases by half after BS and Agility modifiers have been applied.
 
-***Note***: cost multipliers are cumulative, so a rifled wheellock musket would cost 60sp×7×2=840sp
+!!! example "Custom Firearm"
+    Firearm cost multipliers are cumulative, so a rifled wheellock musket would cost 60sp×7×2=840sp

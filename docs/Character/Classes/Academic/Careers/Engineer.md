@@ -6,6 +6,7 @@ tags:
 # Engineer
 
 **Class**: [Academic](../Academic.md)
+
 **Status**: Silver
 
 **Skills**: [Engineering](Skills#Engineering.md), [Tinkering](Skills#Tinkering.md), [Languages](Skills#Languages.md), [Lore](Skills#Lore.md)

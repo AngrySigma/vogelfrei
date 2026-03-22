@@ -1,5 +1,6 @@
 ---
 title: Read Magic
+class: magic-user
 tags:
   - level_1
   - magic-user

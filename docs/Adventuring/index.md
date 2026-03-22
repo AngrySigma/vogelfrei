@@ -1,10 +1,6 @@
 ---
 title: Adventuring
-order:
-  - Skills
-  - Time and Movement
-  - Hazards
-  - Healing
+icon: lucide/map
 ---
 # Adventuring
 

@@ -6,6 +6,7 @@ tags:
 # Artisan
 
 **Class**: [Townsman](../Townsman.md)
+
 **Status**: Silver
 
 **Skills**: [Trade](Skills#Trade.md), [Evaluate](Skills#Evaluate.md), Any non-special skill

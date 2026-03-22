@@ -5,6 +5,7 @@ tags:
 # Merchant
 
 **Class**: [Halfling](../Halfling.md)
+
 **Status**:
 
 **Skills**:

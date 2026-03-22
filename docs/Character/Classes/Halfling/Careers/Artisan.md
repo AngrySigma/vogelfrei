@@ -5,6 +5,7 @@ tags:
 # Artisan
 
 **Class**: [Halfling](../Halfling.md)
+
 **Status**:
 
 **Skills**:

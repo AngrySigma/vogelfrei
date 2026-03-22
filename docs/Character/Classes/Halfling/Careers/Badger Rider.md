@@ -5,6 +5,7 @@ tags:
 # Badger Rider
 
 **Class**: [Halfling](../Halfling.md)
+
 **Status**:
 
 **Skills**:

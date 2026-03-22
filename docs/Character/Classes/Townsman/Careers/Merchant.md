@@ -5,6 +5,7 @@ tags:
 # Merchant
 
 **Class**: [Townsman](../Townsman.md)
+
 **Status**:
 
 **Skills**:

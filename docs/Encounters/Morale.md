@@ -6,4 +6,5 @@ In general, Morale is checked when an NPC, monster, or monster group first encou
 
 The Referee can apply adjustments to an enemy’s Morale score in some situations, at his discretion. Generally, adjustments should not total more than +2 or –2. No adjustment is ever applied to a Morale score of 12. An NPC that fails a Morale check will generally attempt to flee; intelligent monsters or NPCs may attempt to surrender, if the Referee so desires.
 
-Note that special rules apply to retainers; see the relevant rules in the Retainers section.
+!!! note
+    Special rules apply to retainers morale; see the relevant rules in the [Retainers Section](../Retainers/index.md).

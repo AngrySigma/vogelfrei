@@ -5,6 +5,7 @@ tags:
 # Brewer
 
 **Class**: [Dwarf](../Dwarf.md)
+
 **Status**:
 
 **Skills**:

@@ -5,6 +5,7 @@ tags:
 # Grey Wizard
 
 **Class**: [Magic-User](../Magic-User.md)
+
 **Status**:
 
 **Skills**:

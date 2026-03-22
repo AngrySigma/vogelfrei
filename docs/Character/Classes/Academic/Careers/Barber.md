@@ -6,6 +6,7 @@ tags:
 # Barber
 
 **Class**: [Academic](../Academic.md)
+
 **Status**: Brass
 
 **Skills**: [Heal](Skills#Heal.md), [Sleight of Hand](Skills#Sleight%20of%20Hand.md), [Languages](Skills#Languages.md), [Lore](Skills#Lore.md)

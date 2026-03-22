@@ -6,6 +6,7 @@ tags:
 # Hunter
 
 **Class**: [Peasant](../Peasant.md)
+
 **Status**: Brass
 
 **Skills**: [Bushcraft](Skills#Bushcraft.md), [Searching](Skills#Searching.md), [Stealth](Skills#Stealth.md), [Swim](Skills#Swim.md), [Climb](Skills#Climb.md)

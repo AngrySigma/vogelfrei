@@ -1,5 +1,6 @@
 ---
 title: Turn Undead
+class: cleric
 tags:
   - level_1
   - cleric

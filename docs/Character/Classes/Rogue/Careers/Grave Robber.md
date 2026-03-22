@@ -5,6 +5,7 @@ tags:
 # Grave Robber
 
 **Class**: [Rogue](../Rogue.md)
+
 **Status**:
 
 **Skills**:
