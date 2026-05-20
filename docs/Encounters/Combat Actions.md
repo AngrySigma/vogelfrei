@@ -30,8 +30,10 @@ When a Character makes an attack, follow these steps:
     - They may make an attack against one enemy within range at any point during their movement.
 
 2. *Determine Opponent's AC*
+    A defender's AC is normally a static, precomputed number on the character sheet — built from the following components — so resolving an attack is just a single subtraction against the attacker's roll.
+
     In **Melee** add the following statistics of the Opponent:
-    - 6 (Base AC)
+    - 8 (Base AC)
     - Agility Bonus
     - Weapon Skill
     - Armour Rating
@@ -55,10 +57,12 @@ When a Character makes an attack, follow these steps:
 
     | Weapon Length vs. Opponent | To Hit Bonus |
     | -------------------------- | ------------ |
-    | Longer weapon              | -2           |
+    | Longer weapon              | 0            |
     | Equal length               | 0            |
-    | Shorter weapon             | +2           |
-    | Unarmed                    | +4           |
+    | Shorter weapon             | -2           |
+    | Unarmed                    | -4           |
+
+    The reach advantage of a longer weapon is not a to-hit bonus — it is the Counterattack option (see below). A shorter weapon must work past a longer one to land, taking the listed penalty. Close-combat (inside-the-reach) rules are forthcoming; until then, the Wrestling action covers the case where a shorter-weapon fighter wants to neutralise reach.
 
     - Compare the result to the Opponent's AC. If the roll is higher, the attack lands.
 
@@ -68,19 +72,19 @@ When a Character makes an attack, follow these steps:
 Damage rules are detailed in [Damage](../Adventuring/Hazards/Damage.md) Section.
 
 ??? example
-    **Attacker — Kurt:** Weapon Skill 4, Strength Bonus +1, Short sword (S tier, 1d8)
+    **Attacker — Kurt:** Weapon Skill 4, Strength Bonus +1, Short sword (Small, length 2, 1d6)
 
-    **Defender — Hans:** Weapon Skill 2, Agility Bonus +2, Rapier (M tier), Light Armour (AR 2)
+    **Defender — Hans:** Weapon Skill 2, Agility Bonus +2, Rapier (length 4, 1d8), Light Armour (AR 2)
 
-    **Hans's AC:** 6 (base) + 2 (Agility) + 2 (Weapon Skill) + 2 (Armour Rating) = **12**
+    **Hans's AC:** 8 (base) + 2 (Agility) + 2 (Weapon Skill) + 2 (Armour Rating) = **14**
 
-    Hans has a longer weapon and has not yet acted, so he may Counterattack before Kurt's blow resolves, he goes for parade riposte and does not act before the Kurt's Attack.
+    Hans has the longer weapon and has not yet acted, so he may Counterattack before Kurt's blow resolves. He goes for a parade-riposte; this finishes Hans's Round, and he cannot then act on his initiative.
 
-    *Kurt rolls d20 and adds Weapon Skill (4) + Strength Bonus (+1) + Weapon Length (-2) = +3:*
+    *Kurt is using the shorter weapon, so he rolls d20 and adds Weapon Skill (4) + Strength Bonus (+1) + Weapon Length (-2) = +3:*
 
-    - *Roll = 5: total 7 — miss. Does not exceed AC 12.*
-    - *Roll = 9: total 12 — hit. Exactly AC 12. Kurt rolls 1d8 for damage.*
-    - *Roll = 18: total 21 — hit. Kurt rolls 1d8 for damage.*
+    - *Roll = 5: total 8 — miss. Does not exceed AC 14.*
+    - *Roll = 11: total 14 — hit. Exactly AC 14. Kurt rolls 1d6 for damage.*
+    - *Roll = 18: total 21 — hit. Kurt rolls 1d6 for damage.*
 
 ---
 
