@@ -1,27 +1,17 @@
 # Miracles
 
 Clerics are believed to be divinely inspired, and their powers are granted to Clerics through prayer. Whether higher powers bless Cleric with their might, if these higher powers are what the Cleric believes them to be, or if all Cleric Miracles are merely ritualized forms of sympathetic magic, are all subjects frequently debated. Only one thing is for sure: Cleric magic is indeed magic of a sort. Even though Miracles and Prayers are formalized in a way that Magic-User Spells are not, their results cannot be duplicated by non-Clerics. The process of gaining, preparing, and invoking Miracles is indeed formalized, but only within a religion and even certain sect. Different religions, and even different sects within the same religion, execute their magical rituals differently from one another.
-## Preparing Spells each day
-A Cleric is able to invoke any miracle by a prayer chanted directly from a hymnal, yet the usual way is to fully memorize the prayer. The Cleric must rest for six continuous hours before preparing miracles. After resting, the Cleric must meditate and pray for a number of Turns equal to the highest Casting Number among miracles being prepared. Miracles remain in memory for an unlimited amount of time. The Cleric’s miracle charts give the maximum number of miracles that can be memorized at each level and the Cleric can never have more than this number prepared at one time. A Cleric can simply dismiss miracles from their mind, clearing the space for other miracles when preparing them as usual.
 
-Reversible miracles must be prepared as either the “straight” version or the “reversed” version; the decision cannot be made at the time of invokation. A Cleric can only safely prepare miracles once every twenty-four hours. The mind simply cannot handle any more.
+## Preparing Miracles each day
+Unlike a Magic-User, a Cleric keeps no spellbook. Through prayer a Cleric may prepare any miracle from the Cleric miracle list of a spell level they are able to invoke; the deity grants the prayers it deems fit. The Cleric must rest for six continuous hours before preparing miracles, after which meditation and prayer take one Turn per miracle prepared. The Cleric’s miracle charts give the maximum number of miracles of each spell level that can be memorized at once, and the Cleric can never have more than this number prepared at one time. The same miracle may be prepared more than once, each instance filling a separate slot. A Cleric may dismiss prepared miracles from their mind, clearing the slots so that other miracles can be prepared in their place.
 
-## Casting Miracles
-Spells are cast by a combination of mental concentration, gesticulation and chanting. In order to cast a spell, a Cleric must clutch a holy symbol of his religion and be able to chant freely. A character that is bound, gagged, Silenced, or otherwise unable to gesture or speak, cannot cast spells. Casting a spell cannot be done secretly, stealthily, or disguised as another activity if otherwise not stated; the actions necessary to cast a spell will be obvious to all.
+Reversible miracles must be prepared as either the “straight” version or the “reversed” version; the decision cannot be made at the time of invocation. A Cleric can only safely prepare miracles once every twenty-four hours. The mind simply cannot handle any more.
 
-In order to cast a spell, a player rolls a d6. A spell is successfully cast if the total number rolled exceeds the target Casting Number.
+## Invoking Miracles
+Miracles are invoked by a combination of mental concentration, gesticulation and chanting. In order to invoke a miracle, a Cleric must clutch a holy symbol of his religion and be able to chant freely. A character that is bound, gagged, Silenced, or otherwise unable to gesture or speak cannot invoke miracles. Invoking a miracle cannot be done secretly, stealthily, or disguised as another activity if otherwise not stated; the actions necessary will be obvious to all.
 
-If there is any 1 on the dice rolled, or any pair, triplet or quartet is present, it means the Cleric’s asking has angered the Gods and their Wrath is upon them. Its strength depends on the roll and may increase if the Cleric bears any sins upon their soul. The Referee must decide on the outcome with reference to the table below. Miracles which triggered the Wrath of Gods will still be cast, yet the outcome might not be as desired. In case a miracle is cast successfully and a Wrath of Gods happens, the Gods’ anger comes first to punish the sinful.
+A Cleric can only invoke a miracle that is currently prepared. Invoking the miracle expends it: it leaves the Cleric’s memory and cannot be invoked again until it is prepared anew. A prepared miracle takes effect automatically — there is no roll to invoke it. Invoking one miracle takes a character’s whole action for the round. A Cleric who acts against their deity’s teachings or alignment may be denied miracles until they atone, as the Referee judges.
 
-Wrath of Gods:
+- For any miracle that harms a target or produces a direct effect, the target is allowed a saving throw, negating the effect or halving the damage the miracle produces.
 
-| Roll                                                     | Wrath of Gods | Effects                                                                                                                   |
-| -------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 1 on a single die or a pair                              | Minor         | Holy Visions, daily forbiddance of new Miracle casting or other minor Penances                                            |
-| Triplet                                                  | Major         | Purge of Flesh and Soul.Forbiddance of new Miracles for weeks or major Penances                                           |
-| Quartet                                                  | Catastrophic  | Major Flesh and Soul punishment or excommunication. Daemons might answer the prayers, interfering with the material plane |
-| None, only terrible sins might lead to such consequences | Fatal         | Cleric is summoned to God to answer for their sins. Or some other diabolical host welcomes them                           |
-
-- For any spells that harm a target or make any direct effect, a saving throw is allowed for a target character negating effect or halving the damage the spell produces.
-
-- Spells of 3rd and lower level that search and reveal anything, cannot penetrate 3 ft of dirt or  debris, 1ft of stone, 1’’ of metal or a thin sheet of lead. Detection by spells of 4th and higher levels can only be prevented by special magical defence.
+- Miracles of 3rd and lower level that search and reveal anything cannot penetrate 3 ft of dirt or debris, 1 ft of stone, 1’’ of metal or a thin sheet of lead. Detection by miracles of 4th and higher level can only be prevented by special magical defence.

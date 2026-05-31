@@ -2,7 +2,7 @@
 
 All Clerics are closely watched by their Gods for their doings must be outstanding. The Gods might be silent but not indifferent; they allow Clerics to bless themselves and others. Blessings are minor prayers chanted by Clerics. There is no obvious manifestation of power and many could mix up the blessing effect with great effort, strong will or sheer luck.
 
-Each Cleric knows three blessings given by their God, and new ones may be researched as other Miracles are. In order to chant a blessing, a Cleric should roll a d6. Anything but one means the Gods are in a good mood, and the blessing effect takes place, while one rolled means that the situation is not worthy of even the slightest God’s attention. The blessing holds no power, a minor Wrath of Gods is triggered and no new Blessings or Miracles will hold any effect this day.
+Each Cleric knows three blessings given by their God, and new ones may be researched as other Miracles are. In order to chant a blessing, a Cleric should roll a d6. Anything but one means the Gods are in a good mood, and the blessing effect takes place, while one rolled means that the situation is not worthy of even the slightest God’s attention. The blessing holds no power, and the Cleric’s clumsy entreaty sours their deity’s favour: no new Blessings or Miracles will hold any effect for the rest of the day.
 
 |     | Blessing      | Effect                                  |     | Blessing      | Effect                                          |
 | --- | ------------- | --------------------------------------- | --- | ------------- | ----------------------------------------------- |

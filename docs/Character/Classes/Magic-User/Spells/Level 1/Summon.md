@@ -310,7 +310,7 @@ The possible powers of a summoned entity can be randomly determined on the follo
 
 79. Stone Shape (at will)
 
-80. Summon (as per this spell, no miscast, creatures under control of this creature, not original caster)
+80. Summon (as per this spell, creatures under control of this creature, not original caster)
 
 81. Swallow Whole (on a natural 20 or hitting by 10 or more)
 
