@@ -11,9 +11,9 @@
 | Half-armour          | 600sp  | -     | 4                         |
 | Three-quarter armour | 1000sp | -     | 5                         |
 | Full-plate           | 2000sp | -     | 6                         |
-| Buckler              | 15sp   | -     | -2 Melee AC               |
-| ***Shield***         | 15sp   | 30sp  | -2 Melee AC, -3 Ranged AC |
-| ***Pavise***         | 100sp  | -     | -5 Ranged AC              |
+| Buckler              | 15sp   | -     | +2 Melee AC               |
+| ***Shield***         | 15sp   | 30sp  | +2 Melee AC, +3 Ranged AC |
+| ***Pavise***         | 100sp  | -     | +5 Ranged AC              |
 
-Armor Rating reduces the damage inflicted. For more information on attack rules, refer to the [Combat Actions](../Encounters/Combat Actions.md#attack).
+Armor Rating is added to a character's Armor Class in both Melee and Ranged combat — better armour makes the wearer harder to hit, not damage-resistant. Shields and bucklers further reduce incoming Melee or Ranged AC as listed. For the full attack procedure, refer to [Combat Actions](../Encounters/Combat%20Actions.md#attack).
 
