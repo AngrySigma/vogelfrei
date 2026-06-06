@@ -7,7 +7,7 @@ Each Cleric knows three blessings given by their God, and new ones may be resear
 |     | Blessing      | Effect                                  |     | Blessing      | Effect                                          |
 | --- | ------------- | --------------------------------------- | --- | ------------- | ----------------------------------------------- |
 | 1   | **Battle**    | +1 to next melee Attack                 | 11  | **Might**         | +1 Strength                                     |
-| 2   | **Breath**    | The target does not need to breathe     | 12  | **Protection**    | -1 AC                                           |
+| 2   | **Breath**    | The target does not need to breathe     | 12  | **Protection**    | +1 AC                                           |
 | 3   | **Charisma**  | + 1 Leadership                          | 13  | **Recuperation**  | Removes minor ailments                          |
 | 4   | **Courage**   | +1 Morale                               | 14  | **Resolve**       | +1 Willpower                                    |
 | 5   | **Finesse**   | For next attack, ignore +2 Armor Rating | 15  | **Righteousness** | Weapon counts as Magical                        |

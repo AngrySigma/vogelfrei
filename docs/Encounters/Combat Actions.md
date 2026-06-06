@@ -164,7 +164,7 @@ Significantly larger characters or monsters in a mêlée count as two characters
 ## Cast a Spell
 Casting a spell during combat is a very risky proposition because the caster leaves himself completely helpless and open to attack while doing so. Magic-Users must be able to speak freely to cast a spell. Clerics must also have their holy symbol in one hand for the entire Round.
 
-Spells take effect at the beginning of the next Round before the Initiative is rolled. If a character has taken any damage earlier in a Round, the character cannot cast a spell that Round.
+Spells take effect at the beginning of the next Round, before the Initiative is rolled. Because the effect is delayed, a caster who is struck *after* casting but before the spell resolves loses the spell entirely — it is expended with no effect. If a character has already taken any damage earlier in a Round, they cannot begin casting a spell that Round.
 
 ---
 ## Use an Item
