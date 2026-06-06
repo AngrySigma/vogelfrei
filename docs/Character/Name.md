@@ -1,0 +1,3 @@
+# Name
+
+A Character’s name is, after their Character class, perhaps the most important identifying feature of a Character. The Referee should inform Players as to the general theme of the campaign, and it is important to choose a name that will complement that theme. *Bernard Fitzwilliyam* would not be appropriate if a Referee has declared that the upcoming game is set in the barbaric wastes, for instance. A Character may be around for quite some time, so care should be taken when choosing a name.
