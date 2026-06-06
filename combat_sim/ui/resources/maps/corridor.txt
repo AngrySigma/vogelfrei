@@ -1,0 +1,8 @@
+// A 1-square-wide stone corridor. Single-file combat — neither side
+// can bring outnumbering to bear. Mirrors the C13 sim scenario.
+name: Corridor
+description: A 12-square corridor, 1 square wide.
+---
+############
+12........AB
+############

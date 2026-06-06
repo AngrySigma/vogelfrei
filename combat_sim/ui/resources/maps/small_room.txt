@@ -1,0 +1,13 @@
+// A small interior room with two pillars and an exit alcove.
+// Tight quarters — limited room for kiting, decent room for flanking.
+name: Small Room
+description: A 14x8 stone chamber with two pillars.
+---
+##############
+#1..........A#
+#............#
+#....##......#
+#............#
+#......##....#
+#2..........B#
+##############
