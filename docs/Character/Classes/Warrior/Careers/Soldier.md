@@ -2,6 +2,8 @@
 tags:
   - warrior
   - brass
+image: assets/img/cover.webp
+image_alt: Soldier illustration
 ---
 # Soldier
 

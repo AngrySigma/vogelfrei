@@ -1,6 +1,8 @@
 ---
 title: Vogelfrei
 icon: lucide/home
+image: assets/img/cover.webp
+image_alt: Vogelfrei cover
 ---
 # Vogelfrei
 

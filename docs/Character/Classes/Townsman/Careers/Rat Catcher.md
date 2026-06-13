@@ -2,6 +2,8 @@
 tags:
   - townsman
   - brass
+image: assets/img/cover.webp
+image_alt: Rat Catcher illustration
 ---
 # Rat Catcher
 

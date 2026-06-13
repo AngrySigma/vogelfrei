@@ -1,3 +1,7 @@
+---
+image: assets/img/cover.webp
+image_alt: Priest illustration
+---
 # Priest
 
 | Level | New traits      | 1st | 2nd | 3rd |

@@ -1,6 +1,8 @@
 ---
 tags:
   - magic-user
+image: assets/img/cover.webp
+image_alt: Light Wizard illustration
 ---
 # Light Wizard
 

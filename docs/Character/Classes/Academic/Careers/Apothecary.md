@@ -2,6 +2,8 @@
 tags:
   - academic
   - brass
+image: assets/img/cover.webp
+image_alt: Apothecary illustration
 ---
 # Apothecary
 

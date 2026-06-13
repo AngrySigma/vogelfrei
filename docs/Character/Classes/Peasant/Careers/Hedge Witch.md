@@ -2,6 +2,8 @@
 tags:
   - peasant
   - brass
+image: assets/img/cover.webp
+image_alt: Hedge Witch illustration
 ---
 # Hedge Witch
 

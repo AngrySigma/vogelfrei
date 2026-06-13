@@ -65,11 +65,49 @@ function injectSpellMeta() {
   metaBlock.insertBefore(frag, metaBlock.firstChild);
 }
 
+/* ---- 3. Click-to-zoom lightbox for .vf-figure portraits (cover + careers) ----
+   Uses event delegation on document + a single reused overlay, so it works
+   with instant navigation without re-binding on every page swap.            */
+function setupLightbox() {
+  if (document.body.dataset.vfLightbox) return; /* bind once */
+  document.body.dataset.vfLightbox = "1";
+
+  const overlay = document.createElement("div");
+  overlay.className = "vf-lightbox";
+  overlay.setAttribute("role", "dialog");
+  overlay.setAttribute("aria-modal", "true");
+  overlay.hidden = true;
+  const big = document.createElement("img");
+  overlay.appendChild(big);
+  document.body.appendChild(overlay);
+
+  function open(src, alt) {
+    big.src = src;
+    big.alt = alt || "";
+    overlay.hidden = false;
+    /* next frame so the opacity transition runs */
+    requestAnimationFrame(() => overlay.setAttribute("data-open", ""));
+  }
+  function close() {
+    overlay.removeAttribute("data-open");
+    setTimeout(() => { overlay.hidden = true; big.src = ""; }, 200);
+  }
+
+  document.addEventListener("click", (e) => {
+    const img = e.target.closest(".vf-figure img");
+    if (img) { open(img.currentSrc || img.src, img.alt); return; }
+    if (e.target === overlay || e.target === big) close();
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && !overlay.hidden) close();
+  });
+}
+
 /* ---- Run on load and on every instant-navigation page swap ---- */
 function enhance() {
   colorTagChips();
   injectSpellMeta();
 }
 
-document.addEventListener("DOMContentLoaded", enhance);
-document.addEventListener("DOMContentSwitch",  enhance); /* instant nav */
+document.addEventListener("DOMContentLoaded", () => { setupLightbox(); enhance(); });
+document.addEventListener("DOMContentSwitch", enhance); /* instant nav */

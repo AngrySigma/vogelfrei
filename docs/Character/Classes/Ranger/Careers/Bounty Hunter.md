@@ -2,6 +2,8 @@
 tags:
   - ranger
   - silver
+image: assets/img/cover.webp
+image_alt: Bounty Hunter illustration
 ---
 # Bounty Hunter
 

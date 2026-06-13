@@ -1,3 +1,7 @@
+---
+image: assets/img/cover.webp
+image_alt: Bright Wizard illustration
+---
 # Bright Wizard
 
 | Level | New traits           | 1st | 2nd | 3rd |
