@@ -67,7 +67,7 @@ When a character (or creature) suffers damage, the amount of damage is deducted 
 
 | Roll  | Minor Wound (4-5)                                | Permanent Wound (6-7)                 |
 | ----- | ------------------------------------------------ | ------------------------------------- |
-| **1** | Wrenched arm; -1 AC for d4 days                  | Crushed Elbow; +1 AC                  |
+| **1** | Wrenched arm; -1 AC for d4 days                  | Crushed Elbow; -1 AC                  |
 | **2** | Sprained Wrist; -1 Attack for d4 days            | Mauled Bicep; -1 Attack               |
 | **3** | Torn Muscle; -1 Attack for d4 weeks              | Arterial Damage; Poison save vs death |
 | **4** | Dislocated Shoulder; surgery required to use arm | Arm severed                           |

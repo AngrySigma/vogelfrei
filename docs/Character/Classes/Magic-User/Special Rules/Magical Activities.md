@@ -4,20 +4,24 @@ Scrolls are magical items which allow a Magic-User to cast a spell without prior
 
 ## Writing a Scroll
 Any Magic-User can create a spell scroll for any spell in his spellbook. The process costs 50 sp per day. Even though the scroll is essentially a “one-use” formula for a spell, each must still be individually researched and crafted, and not mass-produced. Indeed, making a copy of a spell scroll will not imbue the copy with magical energy, or at the Referee’s discretion, perhaps making the copy would dissipate all magical energy from the original as well!
+
 # New Spells
 ## Transcribing Spells
 
 - From a Scroll to a Spellbook: If a Magic-User finds a spell scroll containing a spell not already in the Magic-User’s spellbook, he can instead transcribe the spell on the scroll into his spellbook. This will remove the spell from the scroll. The process costs 20 sp per day.
 
 - From Spellbook to Spellbook: Spellbooks are large, bulky things, and valuable at that. While a Magic-User can freely use any spellbook upon which he has cast Read Magic, sometimes a Magic-User may want to consolidate spellbooks or create new ones. This process is similar to writing scrolls, but does not erase the spell from the original source. The process costs 10 sp per day.
+
 ## Researching a Spell
 Many spells can be found during adventures inside foul grimoires and cursed scrolls or may be traded for with other Magic-Users. If a Magic-User wishes to add a spell to a spellbook without a prior reference to the spell (from a scroll or another spellbook), there is more intensive research to be done. A Magic-User can research spells of a higher level than he is able to cast and add them to his spellbook, but he may never prepare such spells. He can, however, write them on scrolls.
 
 A player can invent totally new spells for his character to research. The player must first write the spell in the format of the other spells in the spell lists. The Referee must approve the spell, and should revise the spell for the player in advance of any research (sometimes this will merely involve altering the spell level). If successful, the character now has a spell that no other character has in the game! For spells that are on the standard spell lists, the process costs 25 sp per day. For wholly original spells, the process costs 30sp per day.
 
 *Note: There are many sources of new spells found in published supplements and online sources. It will be up to the Referee to decide whether researching these spells would count as being on a “standard spell list” or not. The Referee also has the right to change the listed level of the spell as suits the campaign, change other details, or even disallow a spell entirely.*
+
 # Creating a Potion
 Spells which affect a person can, for all intents and purposes, be made into liquid form so that the imbiber gains the benefit of the spell. The maker of the potion must be able to cast the spell being turned into a potion. If a Cleric assists the Magic-User, a potion capturing the essence of any of the healing spells (Cure Wounds or Cure Disease) can be made, though the Cleric must be of high enough level to cast the spell in question. The process to make a potion costs 50sp per day.
+
 # Creating a Staff or Wand
 Staves and wands can be used to hold magical power for later use. These are the steps to creating a staff or wand:
 
@@ -26,6 +30,7 @@ Staves and wands can be used to hold magical power for later use. These are the 
 - Enter the Original Charges Once all the work on the physical staff or wand is completed and the proper preparations are made,  a Permanency spell must be cast on the item, followed by at least one casting of every spell to be represented in the staff or wand. However, the maximum number of charges will also be determined at this point, as the total number of spells cast into the wand (not counting the Permanency spell) will determine its maximum number of charges. Usually the lowest level spell is the one cast multiple times in order to increase the charges. These spells must be cast without interruption into the item, so it is usual for a group of mages, or a mass number of scrolls, to be used in the effort. The maximum number of charges a wand can handle is 99, while a staff can handle 49 charges. The base number of charges used by each spell is determined by the levels of spells included. The lowest level spell expends one charge, and the difference between the spell level of their effects determines the number of charges that higher-level effects expend. For example, a wand that can cast Invisibility 10' Radius and Mass Invisibility would lose one charge each time a Invisibility 10' Radius is used, and four charges for each Mass Invisibility, for that spell is four spell levels more than Invisibility 10' Radius.
 
 - Recharging a Staff or Wand The Permanency spell must be cast on a staff or wand in order to recharge it. In this case, and only this case, if the Magic-User fails the saving throw versus Magic and loses a point of Constitution when casting the Permanency spell, this lost Constitution is not lost permanently and is healed at the normal rate. However, recharging a wand or staff is not a definite process, as each time that the spell is cast, the Magic-User must make a save versus Magic, and only on a success does the spell cause the staff or wand to regain a charge. The process of making a staff or wand costs 50 sp per day.
+
 # Time of Magical Activities
 When transcribing or researching spells, the character (and player) will never know exactly how long it will take. Magic is a risky business. The player must declare ahead of time how long the character will take to perform the activity. The Referee will randomly determine the actual necessary length of time it should take according to the table below (which the player can also use to estimate how long they wish to work). The period must be uninterrupted for the character; any significant interruption undoes all work and the project must be started anew. The costs up to that time are wasted. Only after the time passes in-game and the money is spent can success be determined.
 
@@ -35,13 +40,14 @@ The character’s Intelligence modifier is applied to the final number of requir
 
 | Activity                                         | Time Required                        | Cost      |
 | ------------------------------------------------ | ------------------------------------ | --------- |
-| Writing a Scroll                                 | Casting Number × 2d3 Days            | 50 sp/day |
-| Transcribing a Spell from Scroll to Spellbook    | Casting Number × 1d4 Days            | 20 sp/day |
-| Transcribing a Spell from Spellbook to Spellbook | Casting Number × 1d2 Days            | 10 sp/day |
-| Researching a Spell on the Spell List            | Casting Number × 3d3 Days            | 25sp/day  |
-| Researching a New Spell                          | Casting Number × 4d3 Days            | 30 sp/day |
-| Creating a Potion                                | Casting Number × 1d4 Days            | 50 sp/day |
-| Creating a Wand or Staff                         | Total Casting Number × 10 × 1d4 Days | 50 sp/day |
+| Writing a Scroll                                 | Spell Level × 2d6 Days               | 50 sp/day |
+| Transcribing a Spell from Scroll to Spellbook    | Spell Level × 1d6 Days               | 20 sp/day |
+| Transcribing a Spell from Spellbook to Spellbook | Spell Level × 1d3 Days               | 10 sp/day |
+| Researching a Spell on the Spell List            | Spell Level × 3d6 Days               | 25 sp/day |
+| Researching a New Spell                          | Spell Level × 4d6 Days               | 30 sp/day |
+| Creating a Potion                                | Spell Level × 1d6 Days               | 50 sp/day |
+| Creating a Wand or Staff                         | Total Spell Levels × 10 × 1d6 Days   | 50 sp/day |
+
 ## Libraries and Laboratories
 Magic-Users use libraries and laboratories to assist their magical activities. Each library or laboratory is ranked on its cost; for every 500 sp in value a library is worth, a ten foot square is needed to store the books, and every 1,000 sp a laboratory is worth requires a square of space. These are non-transportable (at least, not without major effort, and certainly not as part of normal travel). Laboratory and library elements can only be purchased in large cities. Libraries and laboratories discovered and somehow transported only add 1d100% of their value to the looter’s own, due to possible duplication, differences in methods, etc., between mages.
 
