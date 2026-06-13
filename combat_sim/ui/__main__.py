@@ -156,7 +156,16 @@ def main() -> int:
     # owns the main thread. Setup prompts still use the terminal (the
     # window shows a splash until the first round).
     if args.iso:
-        from .iso import IsoFrontend, run_iso_game
+        try:
+            from .iso import IsoFrontend, run_iso_game
+        except ImportError as exc:
+            # pygame is an optional extra, not a core dependency.
+            print(f"The --iso GUI needs pygame, which isn't installed "
+                  f"({exc.name or exc}).\n"
+                  f"Install the extra:  uv sync --extra sim\n"
+                  f"Then run:           uv run --extra sim "
+                  f"python -m combat_sim.ui --iso ...")
+            return 1
         iso = IsoFrontend(speed=args.speed)
         game_frontend = (_make_preset_frontend(PRESETS[args.scenario], iso)
                          if args.scenario else iso)

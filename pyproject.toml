@@ -7,3 +7,21 @@ requires-python = ">=3.10"
 dependencies = [
     "zensical>=0.0.28",
 ]
+
+[project.optional-dependencies]
+# The isometric combat-sim GUI (`python -m combat_sim.ui --iso`) needs
+# pygame. It's an extra, not a core dep, so the site/docs build and the
+# nightly cron stay lean. Install with: uv sync --extra sim
+sim = [
+    "pygame>=2.5",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+pythonpath = ["."]
