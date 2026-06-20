@@ -1,6 +1,8 @@
 ---
 tags:
   - rogue
+image: assets/img/cover.webp
+image_alt: Thief illustration
 ---
 # Thief
 

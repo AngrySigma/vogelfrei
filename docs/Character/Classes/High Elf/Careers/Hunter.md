@@ -1,6 +1,8 @@
 ---
 tags:
   - high-elf
+image: assets/img/cover.webp
+image_alt: Hunter illustration
 ---
 # Hunter
 

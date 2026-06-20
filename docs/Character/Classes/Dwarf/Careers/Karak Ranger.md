@@ -1,6 +1,8 @@
 ---
 tags:
   - dwarf
+image: assets/img/cover.webp
+image_alt: Karak Ranger illustration
 ---
 # Karak Ranger
 

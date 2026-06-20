@@ -1,3 +1,7 @@
+---
+image: assets/img/cover.webp
+image_alt: Wizard illustration
+---
 # Wizard
 
 | Level | New traits        | 1st | 2nd | 3rd |

@@ -1,6 +1,8 @@
 ---
 tags:
   - wood-elf
+image: assets/img/cover.webp
+image_alt: Wizard illustration
 ---
 # Wizard
 

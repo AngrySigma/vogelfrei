@@ -1,6 +1,8 @@
 ---
 tags:
   - dwarf
+image: assets/img/cover.webp
+image_alt: Troll Slayer illustration
 ---
 # Troll Slayer
 

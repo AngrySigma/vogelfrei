@@ -2,6 +2,8 @@
 tags:
   - warrior
   - gold
+image: assets/img/cover.webp
+image_alt: Knight illustration
 ---
 # Knight
 

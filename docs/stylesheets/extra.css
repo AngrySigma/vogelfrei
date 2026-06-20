@@ -145,3 +145,96 @@
 }
 
 
+/* =====================================================================
+   Illustrations
+   =====================================================================
+   .vf-figure       — frontmatter-driven portrait, floated top-right of the
+                      article (cover + career art). Injected by overrides/
+                      main.html; click-to-zoom wired in javascripts/extra.js.
+   .vf-figure--cover — home-page cover (book proportions, a touch wider).
+   .vf-plate        — inline decorative image:  ![](…){ .vf-plate }
+   .vf-lightbox     — full-screen zoom overlay.
+   ===================================================================== */
+
+/* ---- Floated portrait (cover + careers) ---- */
+
+.md-typeset .vf-figure {
+  float:        right;
+  width:        260px;
+  max-width:    40%;
+  margin:       0.2rem 0 1rem 1.6rem;
+  clear:        right;
+}
+
+.md-typeset .vf-figure--cover {
+  width: 300px;
+}
+
+.md-typeset .vf-figure img {
+  display:       block;
+  width:         100%;
+  height:        auto;
+  border:        1px solid var(--vf-meta-border);
+  border-radius: 4px;
+  box-shadow:    0 2px 10px rgba(0, 0, 0, 0.25);
+  cursor:        zoom-in;
+}
+
+/* On narrow viewports the portrait stops floating and centers above the
+   prose, so it never crowds the text or the home-page navigation links. */
+@media screen and (max-width: 44.9375em) {
+  .md-typeset .vf-figure {
+    float:     none;
+    width:     min(280px, 80%);
+    max-width: 80%;
+    margin:    0 auto 1.2rem;
+  }
+}
+
+/* ---- Inline decorative plates ---- */
+
+.md-typeset .vf-plate {
+  display:       block;
+  margin:        1.6rem auto;
+  max-width:     100%;
+  height:        auto;
+  border:        1px solid var(--vf-meta-border);
+  border-radius: 4px;
+}
+
+/* ---- Lightbox overlay ---- */
+
+.vf-lightbox {
+  position:        fixed;
+  inset:           0;
+  z-index:         1000;
+  display:         flex;
+  align-items:     center;
+  justify-content: center;
+  padding:         2.5vmin;
+  background:      rgba(0, 0, 0, 0.85);
+  cursor:          zoom-out;
+  opacity:         0;
+  transition:      opacity 0.18s ease;
+}
+
+/* `display: flex` above would otherwise override the [hidden] attribute,
+   leaving an invisible full-screen overlay that swallows every click. */
+.vf-lightbox[hidden] {
+  display: none;
+}
+
+.vf-lightbox[data-open] {
+  opacity: 1;
+}
+
+.vf-lightbox img {
+  max-width:     95vw;
+  max-height:    95vh;
+  width:         auto;
+  height:        auto;
+  border-radius: 4px;
+  box-shadow:    0 4px 30px rgba(0, 0, 0, 0.5);
+}
+
+

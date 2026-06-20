@@ -1,6 +1,8 @@
 ---
 tags:
   - townsman
+image: assets/img/cover.webp
+image_alt: Beggar illustration
 ---
 # Beggar
 

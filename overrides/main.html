@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{#-
+  Vogelfrei: inject a frontmatter-driven illustration into the article.
+
+  Any page with `image:` in its frontmatter gets a figure floated to the
+  top-right of the content; the title and prose wrap to its left. The
+  home page (empty page.url) gets the `--cover` modifier (book-cover
+  proportions). The figure is zoomable via the lightbox in
+  javascripts/extra.js. Pages without `image:` are unaffected.
+-#}
+{% block content %}
+  {% if page.meta and page.meta.image %}
+    <figure class="vf-figure{% if not page.url %} vf-figure--cover{% endif %}">
+      <img
+        src="{{ page.meta.image | url }}"
+        alt="{{ page.meta.image_alt | d(page.title, true) }}"
+        loading="lazy"
+      >
+    </figure>
+  {% endif %}
+  {% include "partials/content.html" %}
+{% endblock %}

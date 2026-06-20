@@ -2,6 +2,8 @@
 tags:
   - academic
   - silver
+image: assets/img/cover.webp
+image_alt: Engineer illustration
 ---
 # Engineer
 

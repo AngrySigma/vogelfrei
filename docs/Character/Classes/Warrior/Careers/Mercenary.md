@@ -2,6 +2,8 @@
 tags:
   - warrior
   - silver
+image: assets/img/cover.webp
+image_alt: Mercenary illustration
 ---
 # Mercenary
 

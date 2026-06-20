@@ -1,6 +1,8 @@
 ---
 tags:
   - cleric
+image: assets/img/cover.webp
+image_alt: Zealot illustration
 ---
 # Zealot
 

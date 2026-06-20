@@ -1,6 +1,8 @@
 ---
 tags:
   - halfling
+image: assets/img/cover.webp
+image_alt: Scout illustration
 ---
 # Scout
 
