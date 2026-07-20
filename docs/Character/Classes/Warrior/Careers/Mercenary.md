@@ -11,7 +11,7 @@ image_alt: Mercenary illustration
 
 **Status**: Silver
 
-**Combat Skills**: WS or BS
+**Combat Skills**: Gains both
 
 !!! tip "Trait"
     Mercenary can draw a single stowed or holstered weapon, or switch weapons and attack in the same round without penalty. If surprised, Mercenary may still draw a weapon but cannot take any other actions during that round.
