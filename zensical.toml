@@ -234,6 +234,9 @@ nav = [
                     "Character/Classes/Halfling/Careers/Scout.md",
                 ] },
             ] },
+            { "Phoenix" = [
+                "Character/Classes/Halfling/index.md",
+            ] }
         ] },
         "Character/Alignment.md",
         "Character/Starting Possessions.md",
