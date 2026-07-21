@@ -11,8 +11,11 @@ image_alt: Scion illustration
 **Status**:
 
 **Skills**:
+
 * Weapon Skill (Maximum 2)
+
 * Languages
+
 * Lore
 
 A Scion can hire one more Retainer than the usual. This number increases by one on each level.
