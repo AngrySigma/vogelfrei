@@ -235,7 +235,7 @@ nav = [
                 ] },
             ] },
             { "Phoenix" = [
-                "Character/Classes/Halfling/index.md",
+                "Character/Classes/Phoenix/index.md",
             ] }
         ] },
         "Character/Alignment.md",

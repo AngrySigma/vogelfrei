@@ -11,12 +11,10 @@ image_alt: Scion illustration
 **Status**:
 
 **Skills**:
+* Weapon Skill (Maximum 2)
+* Languages
+* Lore
 
-| Level | Progression |
-| ----- | ----------- |
-| 1     |             |
-| 2     |             |
-| 3     |             |
-| 4     |             |
-| 5     |             |
-| 6     |             |
+A Scion can hire one more Retainer than the usual. This number increases by one on each level.
+
+Paying 10% less than normal Wage to the Scion's Retainers does not result in Loyalty penalty after they are hired.
