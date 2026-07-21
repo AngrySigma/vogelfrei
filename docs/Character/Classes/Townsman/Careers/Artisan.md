@@ -11,7 +11,10 @@ image_alt: Artisan illustration
 
 **Status**: Silver
 
-**Skills**: [Trade](Skills#Trade.md), [Evaluate](Skills#Evaluate.md), Any non-special skill
+**Skills**: 
+* Trade
+* Evaluate
+* Any non-special skill
 
 | Level | Progression |
 | ----- | ----------- |

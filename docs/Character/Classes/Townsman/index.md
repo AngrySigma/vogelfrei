@@ -3,14 +3,14 @@ title: Townsman
 ---
 # Townsman
 
-| Level | Experience | Wounds      | Stamina |
-| ----- | ---------- | ----------- | ------- |
-| 1     | 0          | 1d6 (min 3) | 1d2     |
-| 2     | 1600       | —           | +1d2    |
-| 3     | 3200       | +1          | +1d2    |
-| 4     | 6400       | —           | +1d2    |
-| 5     | 12800      | —           | +1d2    |
-| 6     | 25600      | +1          | +1d2    |
+| Level | Experience | Wounds      | Stamina | Skill Points |
+| ----- | ---------- | ----------- | ------- | ------------ |
+| 1     | 0          | 1d6 (min 3) | 1d2     | 2            |
+| 2     | 1600       | —           | +1d2    | +1           |
+| 3     | 3200       | +1          | +1d2    | +1           |
+| 4     | 6400       | —           | +1d2    | +1           |
+| 5     | 12800      | —           | +1d2    | +1           |
+| 6     | 25600      | +1          | +1d2    | +1           |
 
 #### Saving Throws
 
@@ -26,9 +26,9 @@ title: Townsman
 ---
 ### Starting traits:
 
-- **Skill Points Progression:** Townsmen get Skill Points, which can be used to improve their skills. Each Townsman career has a defined list of skills. Characters start with a base proficiency of 1-in-6 in these skills and can spend Skill Points to improve them.
+- **Skill Points Progression:** Townsmen get Skill Points, which can be used to improve their skills, the list is unique for each Career.
 
-- **Familiar place:** Townsmen gain +2 to Reaction Rolls in urban settings (taverns, markets, guilds). They start with [Haggle](Skills#Haggle.md) at 2-in-6.
+- **Familiar place:** Townsmen gain +1 to Reaction Rolls in urban settings (taverns, markets, guilds).
 
 ---
 

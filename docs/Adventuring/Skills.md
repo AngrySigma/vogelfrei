@@ -69,20 +69,15 @@ Doors made of stronger or heavier materials may need a greater number to open (a
 Engineering skill covers the design and manipulation of machines, engines, and fortifications. It allows a character to construct or sabotage siege engines, reinforce or weaken defenses, improvise mechanical solutions such as pulleys or bridges, and manage large works like mines, mills, or waterworks. Where Architecture identifies what already exists, Engineering actively changes or creates, with success ensuring stability and function, and failure often leading to collapse, malfunction, or wasted effort.
 
 ---
-### Haggle
-
-A successful Haggle roll lets the character strike a better deal when buying or selling, while a failure may worsen the terms.
-
----
 ### *Heal* <span class="badge-special">Special</span>
 
-The **Heal** skill represents a character’s ability to treat wounds, stop bleeding, and perform rudimentary surgery. It cannot restore lost Hit Points directly, but it can prevent death, reduce recovery time, and sometimes downgrade permanent injuries.
+The **Heal** skill represents a character’s ability to treat wounds, stop bleeding, and perform rudimentary surgery. It cannot restore lost Wounds directly, but it can prevent death, reduce recovery time, and sometimes downgrade permanent injuries.
 
 **Using Heal:**
 
 - **Stabilize:** A dying character at negative Hit Points can be stabilized with a successful Heal check. This prevents death but leaves the character unconscious until naturally healed. On failed check the patient must make a Save vs Poison or take 1d4 damage.
 
-- With a successful use of the Heal skill you can bind wounds, doubling the number of hit points recovered by a single patient when resting for that day. If the patient has at least half their hit points, failed attempt means the patient recovers no hit points at all for their rest. If the patient has less than half their hit points, a failure also requires the patient to Save vs Poison or suffer 1d4 damage.
+- With a successful use of the Heal skill you can bind wounds, doubling the number of Wounds recovered by a single patient when resting for that day. If the patient has at least half their hit points, failed attempt means the patient recovers no hit points at all for their rest. If the patient has less than half their hit points, a failure also requires the patient to Save vs Poison or suffer 1d4 damage.
 
 
 !!! note "Bone-saw crew"

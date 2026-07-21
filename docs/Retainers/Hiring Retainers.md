@@ -25,7 +25,7 @@ When the applicant meets the hiring character, there are three or four factors w
 
 Referee will secretly roll 3d6 twice on the following table when a character attempts to hire a retainer. The first roll will determine if the applicant accepts the position, while the second roll on the same table will determine the retainer’s Morale score. Players should never know exactly how loyal their retainers are.
 
-| Roll | Accepts Position | Moarle |
+| Roll | Accepts Position | Morale |
 | ---- | ---------------- | ------ |
 | 3    | No               | 2      |
 | 4    |                  | 3      |
@@ -43,3 +43,8 @@ Referee will secretly roll 3d6 twice on the following table when a character att
 | 16   |                  | 10     |
 | 17   |                  | 11     |
 | 18   |                  | 12     |
+
+---
+### Strength in numbers
+
+There is no limit on the number of regular hired, but the number of Henchmen is limited to 4 + Leadesrhip modifier.
