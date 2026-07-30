@@ -24,6 +24,8 @@ def main():
                     help="swap two ability scores (allowed once, ever)")
     ap.add_argument("--alignment", help="Order, Neutral or Chaos (free classes only)")
     ap.add_argument("--status", help="override career Status if the page leaves it blank")
+    ap.add_argument("--career-bonus", choices=("ws", "bs"),
+                    help="which to raise when the career grants '+1 WS/BS' at level 1")
     ap.add_argument("--seed", type=int)
     args = ap.parse_args()
 
@@ -73,6 +75,26 @@ def main():
         if alignment not in ALIGNMENTS:
             die(f"unknown alignment '{args.alignment}' (options: {', '.join(ALIGNMENTS)})")
 
+    # Level-1 careers may grant combat skill on top of the class row.
+    ws, bs = info["ws"], info["bs"]
+    career_grant = ""
+    if career["combat_choice"]:
+        if not args.career_bonus:
+            die(f"career page {career['page']} grants '+{career['combat_choice']} WS/BS' at "
+                f"level 1; pass --career-bonus ws|bs (the player's choice)")
+        n = career["combat_choice"]
+        if args.career_bonus == "ws":
+            ws += n
+        else:
+            bs += n
+        career_grant = f"+{n} {args.career_bonus.upper()} (career level 1, your choice)"
+    elif career["ws_bonus"] or career["bs_bonus"]:
+        ws += career["ws_bonus"]
+        bs += career["bs_bonus"]
+        parts = [f"+{v} {k}" for k, v in
+                 (("WS", career["ws_bonus"]), ("BS", career["bs_bonus"])) if v]
+        career_grant = f"{', '.join(parts)} (career level 1)"
+
     tough = state["abilities"]["Toughness"]["mod"]
     wounds_roll = dice.roll_expr(info["wounds_die"])
     wounds = max(max(wounds_roll, info["wounds_min"]) + tough, 1)
@@ -87,14 +109,15 @@ def main():
         "career_trait": career["trait"],
         "status": status, "alignment": alignment,
         "wounds": wounds, "stamina": stamina,
-        "saves": info["saves"], "ws": info["ws"], "bs": info["bs"],
+        "saves": info["saves"], "ws": ws, "bs": bs,
         "skill_points": info["skill_points"],
         "money_bp": money_bp,
     })
     log(state, f"Class {klass} / {career['name']} (Status {status}, {alignment})")
     log(state, f"Wounds: {info['wounds_die']} = {wounds_roll} (min {info['wounds_min']}) "
                f"{tough:+d} Toughness -> {wounds}; Stamina {info['stamina_die']} = {stamina}")
-    log(state, f"Saves: {info['saves']}; WS {info['ws']}, BS {info['bs']}"
+    log(state, f"Saves: {info['saves']}; WS {ws}, BS {bs}"
+               + (f" [{career_grant}]" if career_grant else "")
                + (f"; Skill Points {info['skill_points']}" if info["skill_points"] else ""))
     log(state, f"Starting money — {money_desc} ({fmt_money(money_bp)})")
     if career["trait"]:
