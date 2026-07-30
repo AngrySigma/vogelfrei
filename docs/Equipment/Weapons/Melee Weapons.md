@@ -115,7 +115,7 @@
         </tr>
         <tr>
             <td colspan="2">Spear (1/2H)</td>
-            <td>d4/d6</td>
+            <td>d6</td>
             <td>4/5</td>
             <td>5 sp</td>
             <td>3 sp</td>
@@ -145,7 +145,7 @@ The generic “weapon” categories are only for rules and reference purposes. C
 | Small               | One-handed weapons, including arming swords and hand axes. |
 | Minor               | One-handed weapons including daggers and clubs.            |
 
-Halflings cannot wield Medium or Great Weapons.
+Halflings cannot wield Medium or Great Weapons, nor polearms, lances, or any other weapon of comparable size.
 
 ---
 ### Weapon Traits

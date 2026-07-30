@@ -25,11 +25,11 @@ Options, none applied:
 
 ## Smaller open items
 
-- **The Spear is now the only weapon with a damage split.** Medium was
-  flattened to d8 while keeping its `(1/2H)` mode and its 2/3 length; the Lance
-  already had flat d10. The Spear still reads d4/d6 at length 4/5. Worth
-  deciding whether it flattens too, or whether it is deliberately the one
-  weapon that rewards the second hand with damage as well as reach.
+- **What Halflings may not wield.** The rule now reads "Medium or Great
+  Weapons, nor polearms, lances, or any other weapon of comparable size." The
+  closing clause is deliberately open so the Referee can apply it, but it does
+  leave the Staff (2H, length 4) and Spear (length 4/5) allowed — both are
+  long, and if they were also meant to be off-limits the line needs tightening.
 
 - **Which melee weapons carry the training asterisk.** Currently: Rapier,
   Garrote, Mancatcher, Whip, Weighted Net, Lance. All ranged weapons and all
