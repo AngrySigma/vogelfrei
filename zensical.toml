@@ -307,7 +307,16 @@ extra_css = ["stylesheets/extra.css"]
 # The path provided should be relative to the "docs_dir".
 #
 # Read more: https://zensical.org/docs/customization/#additional-javascript
-extra_javascript = ["javascripts/extra.js"]
+#
+# Order matters: vf-view-manifest.js only defines window.VF_TIERS / VF_PAGES,
+# which vf-view.js reads on load, so the manifest must come first. Regenerate
+# it with `python3 scripts/gen_view_manifest.py` after changing any page's
+# `tier:` / `tiers:` frontmatter.
+extra_javascript = [
+    "javascripts/vf-view-manifest.js",
+    "javascripts/extra.js",
+    "javascripts/vf-view.js",
+]
 
 # ----------------------------------------------------------------------------
 # Section for configuring theme options

@@ -103,11 +103,31 @@ function setupLightbox() {
   });
 }
 
-/* ---- Run on load and on every instant-navigation page swap ---- */
+/* ---- Run on load and on every instant-navigation page swap ----
+   This file loads at the end of <body>, so the article is already parsed and
+   we can enhance it before the first paint. document$ is Material's observable
+   of the current document: it replays to late subscribers and emits again on
+   every instant-navigation swap, which is what re-runs the enhancements after
+   the theme swaps in new content. Both steps are idempotent (see the dataset
+   guards above), so the double call on the initial load is harmless.
+
+   Note: there is no "DOMContentSwitch" event — it is dispatched nowhere in the
+   theme bundle. Listening for it silently did nothing, which meant spell and
+   miracle pages reached by instant navigation never got their Class/Level
+   lines injected.                                                          */
 function enhance() {
   colorTagChips();
   injectSpellMeta();
 }
 
-document.addEventListener("DOMContentLoaded", () => { setupLightbox(); enhance(); });
-document.addEventListener("DOMContentSwitch", enhance); /* instant nav */
+function run() {
+  setupLightbox();
+  enhance();
+}
+
+run();
+if (window.document$ && typeof window.document$.subscribe === "function") {
+  window.document$.subscribe(run);
+} else {
+  document.addEventListener("DOMContentLoaded", run);
+}

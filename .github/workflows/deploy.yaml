@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: ["main"]
+    branches: ["master"]
   workflow_dispatch:
 
 permissions:
@@ -23,6 +23,12 @@ jobs:
 
       - name: Install dependencies
         run: uv sync
+
+      # Regenerate rather than trust the committed copy, so a page whose
+      # `tier:` frontmatter changed without the manifest being rebuilt still
+      # deploys correctly. Uses the stdlib only — no venv needed.
+      - name: Generate view manifest
+        run: python3 scripts/gen_view_manifest.py
 
       - name: Build site
         run: uv run zensical build
