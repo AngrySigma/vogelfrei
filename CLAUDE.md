@@ -73,6 +73,8 @@ There is **no `DOMContentSwitch` event** — it is dispatched nowhere in the the
 
 `extra_javascript` in `zensical.toml` is load-ordered: `vf-view-manifest.js` (data only) must precede `vf-view.js` (reads it on load).
 
+**Don't inject anything into the theme header and expect it to stay.** The theme hydrates `.md-header__inner` after `extra_javascript` runs and discards children it doesn't own — a node inserted there vanishes with no error, which is why the tier button silently disappeared after a rebuild. `vf-view.js` handles this with a `MutationObserver` that re-mounts the control, falling back to a floating container after `VF_MAX_HEADER_ATTEMPTS`. If you add a similar observer, have its callback do **only** the idempotent re-mount: an earlier version re-ran the full apply, whose banner insert/remove was itself a mutation, and it looped forever at ~20 Hz.
+
 ## Deployment
 
 `.github/workflows/deploy.yaml` regenerates the view manifest, builds with uv/zensical, and deploys `site/` to GitHub Pages on pushes to `master` (plus manual `workflow_dispatch`). vogelfrei.ru hosts a separate nightly build from its own source, which has drifted from this repo — don't assume the two sites carry the same features.

@@ -159,10 +159,8 @@ function vfRenderBanner(view) {
   reveal.className = "vf-view-banner__btn";
   reveal.textContent = "Switch to " + vfTierLabel(meta.tiers[0]);
   reveal.addEventListener("click", () => {
-    const next = { tier: meta.tiers[0] };
-    vfSetView(next);
-    vfApplyView();
-    vfSyncControl(next);
+    vfSetView({ tier: meta.tiers[0] });
+    vfApplyView(); /* re-syncs the control's radios and label for us */
   });
 
   const dismiss = document.createElement("button");
@@ -175,29 +173,45 @@ function vfRenderBanner(view) {
   container.insertBefore(banner, container.firstChild);
 }
 
-/* ---- Header control -------------------------------------------------- */
-function vfEnsureControl() {
-  if (document.getElementById("vf-view-control")) return;
-  const header = document.querySelector(".md-header__inner");
-  if (!header) return;
+/* ---- The control ----------------------------------------------------
+   Mounted into the theme header when there is one, otherwise into a
+   self-owned floating container. Either way the control is ours and is
+   re-mounted by the observer below if anything removes it — the theme
+   hydrates its header after this script runs and discards foreign children,
+   which is what silently swallowed the button before.                    */
 
-  const view = vfGetView();
+const VF_ICON =
+  '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" ' +
+  'height="24" fill="currentColor" aria-hidden="true"><path d="M12 4.5C7 ' +
+  '4.5 2.7 7.6 1 12c1.7 4.4 6 7.5 11 7.5s9.3-3.1 11-7.5c-1.7-4.4-6-7.5-11' +
+  '-7.5zm0 12.5a5 5 0 110-10 5 5 0 010 10zm0-8a3 3 0 100 6 3 3 0 000-6z"/></svg>';
 
+/* Once the header has taken the control away this many times, stop trying to
+   live there and settle in the floating container, so we never end up in an
+   endless tug of war with the theme. */
+const VF_MAX_HEADER_ATTEMPTS = 3;
+let vfHeaderAttempts = 0;
+
+function vfBuildControl(view) {
   const wrap = document.createElement("div");
   wrap.id = "vf-view-control";
   wrap.className = "vf-view-control";
 
   const toggle = document.createElement("button");
   toggle.type = "button";
-  toggle.className = "md-header__button md-icon vf-view-control__toggle";
+  toggle.className = "vf-view-control__toggle";
   toggle.setAttribute("aria-label", "Game view");
   toggle.setAttribute("aria-expanded", "false");
+  toggle.setAttribute("aria-haspopup", "true");
   toggle.title = "Game view";
-  toggle.innerHTML =
-    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" ' +
-    'height="24" fill="currentColor"><path d="M12 4.5C7 4.5 2.7 7.6 1 12c1.7 ' +
-    '4.4 6 7.5 11 7.5s9.3-3.1 11-7.5c-1.7-4.4-6-7.5-11-7.5zm0 12.5a5 5 0 ' +
-    '110-10 5 5 0 010 10zm0-8a3 3 0 100 6 3 3 0 000-6z"/></svg>';
+  toggle.innerHTML = VF_ICON;
+
+  /* A bare icon in the header read as decoration and was missed entirely;
+     the current tier is spelled out so the control is self-explanatory. */
+  const label = document.createElement("span");
+  label.className = "vf-view-control__label";
+  label.textContent = vfTierLabel(view.tier);
+  toggle.appendChild(label);
 
   const panel = document.createElement("div");
   panel.className = "vf-view-panel";
@@ -238,10 +252,33 @@ function vfEnsureControl() {
   });
 
   wrap.append(toggle, panel);
+  return wrap;
+}
 
-  const anchor = header.querySelector(".md-header__option, .md-header__source");
-  if (anchor) header.insertBefore(wrap, anchor);
-  else header.appendChild(wrap);
+function vfMountControl() {
+  if (document.getElementById("vf-view-control")) return; /* already mounted */
+
+  const wrap = vfBuildControl(vfGetView());
+  const header = document.querySelector(".md-header__inner");
+
+  if (header && vfHeaderAttempts < VF_MAX_HEADER_ATTEMPTS) {
+    vfHeaderAttempts++;
+    /* insertBefore needs a direct child as the reference node, and
+       querySelector can return a deeper descendant — anchor only if the match
+       really is one of our children. */
+    const anchor = [...header.children].find(
+      el => el.matches(".md-header__option, .md-header__source")
+    );
+    wrap.classList.add("vf-view-control--header");
+    if (anchor) header.insertBefore(wrap, anchor);
+    else header.appendChild(wrap);
+    return;
+  }
+
+  /* No header, or the header keeps discarding us: mount somewhere nothing
+     else owns. */
+  wrap.classList.add("vf-view-control--floating");
+  document.body.appendChild(wrap);
 }
 
 /* Close the panel on an outside click or Escape. Bound once on document, not
@@ -264,25 +301,50 @@ document.addEventListener("keydown", e => {
   if (e.key === "Escape") vfClosePanel();
 });
 
-/* Keep the radios in step after a change made from the banner. */
+/* Keep the radios and the button label in step with the current view —
+   needed after a change made from the banner rather than from the panel. */
 function vfSyncControl(view) {
-  const panel = document.querySelector("#vf-view-control .vf-view-panel");
-  if (!panel) return;
-  const input = panel.querySelector('input[name="vf-tier"][value="' + view.tier + '"]');
+  const wrap = document.getElementById("vf-view-control");
+  if (!wrap) return;
+  const input = wrap.querySelector('input[name="vf-tier"][value="' + view.tier + '"]');
   if (input) input.checked = true;
+  const label = wrap.querySelector(".vf-view-control__label");
+  if (label) label.textContent = vfTierLabel(view.tier);
 }
 
 function vfApplyView() {
   const view = vfGetView();
   document.documentElement.dataset.vfTier = view.tier;
+  vfSyncControl(view);
   vfPruneNav(view);
   vfRenderBanner(view);
 }
 
 function vfInit() {
   if (!window.VF_PAGES) return; /* manifest not loaded */
-  vfEnsureControl();
+  vfMountControl();
   vfApplyView();
+}
+
+/* The theme hydrates its header after this script runs and drops children it
+   does not own, so mounting once is not enough — watch for the control going
+   away and put it back.
+
+   This observer calls ONLY vfMountControl, never vfApplyView. That is the
+   whole trick: mounting is a no-op once the control is present, so the single
+   insert it performs settles immediately. An earlier version re-ran the full
+   apply here, whose banner insert/remove was itself a childList mutation, and
+   it re-triggered the observer forever. */
+let vfObserver = null;
+let vfRemountTimer = null;
+function vfWatchControl() {
+  if (vfObserver || typeof MutationObserver === "undefined") return;
+  vfObserver = new MutationObserver(() => {
+    if (document.getElementById("vf-view-control")) return;
+    clearTimeout(vfRemountTimer);
+    vfRemountTimer = setTimeout(vfMountControl, 50);
+  });
+  vfObserver.observe(document.body, { childList: true, subtree: true });
 }
 
 /* This file is loaded at the end of <body>, so the nav and header already
@@ -294,6 +356,7 @@ function vfInit() {
    which is what re-runs the pruning after the theme re-renders the sidebar.
    (There is no "DOMContentSwitch" event — that fires nowhere in the bundle.) */
 vfInit();
+vfWatchControl();
 if (window.document$ && typeof window.document$.subscribe === "function") {
   window.document$.subscribe(vfInit);
 } else {
