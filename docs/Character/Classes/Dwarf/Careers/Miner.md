@@ -6,7 +6,7 @@ image_alt: Miner illustration
 ---
 # Miner
 
-**Class**: [Dwarf](../Dwarf.md)
+**Class**: [Dwarf](../index.md)
 
 **Status**:
 

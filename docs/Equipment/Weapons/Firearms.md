@@ -146,14 +146,8 @@
 
 ---
 
-All Firearms requirements as stated in [Weapon Requirements](Class%20and%20Career#Weapon%20Requirements.md) are the same and depend on the lock type:
-
-| Lock Type           | Requirement                      |
-| ------------------- | -------------------------------- |
-| Matchlock           | Untrained                        |
-| Wheellock           | Trained                          |
-| Flintlock           | Trained                          |
-| Engineering Weapons | Trained                          |
+!!! info "Training"
+    **Every firearm requires training,** whatever its lock. A character with no plausible background with one must spend time learning it before it can be used effectively; the Referee decides what a character's background already covers.
 
 ---
 ### Weapon Traits
@@ -176,7 +170,7 @@ Firearms share the following special traits:
 
 | Weapon           | Effects                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pistol           | Two pistols in a brace count as one item for                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Pistol           | Two pistols in a brace count as one item for encumbrance purposes.                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Musket           | Firing without a fork levies a -2 penalty to hit.                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Duck Foot Pistol | When fired, all targets in range have to pass a Paralysis Save or get d6 damage, assuming no Armor is penetrated. Range penalties are used to modify the Saving Throw. Maximum amount of targets equals to the number of weapon barrels.                                                                                                                                                                                                                            |
 | Pepperbox        | After each shot, may be rotated to use the next loaded barrel, allowing the wielder to fire again on the next Round.                                                                                                                                                                                                                                                                                                                                                |

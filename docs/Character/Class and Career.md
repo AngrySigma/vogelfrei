@@ -20,14 +20,14 @@ You can either choose a class, or roll using the table below.
 
 Elves may opt to use the Wood Elf class if the Referee decides that it is available for campaign. Next, choose a career from the following table
 
-| d6 | [Dwarf](Classes/Dwarf/index.md)         | [Halfling](Classes/Halfling/index.md)      | [Rogue](Classes/Rogue/index.md)              | [Ranger](Classes/Ranger/index.md)            |
-| -- | ------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-| 1  | [Artisan](Classes/Dwarf/Careers/Artisan.md)         | [Artisan](Classes/Halfling/Careers/Artisan.md)          | [Charlatan](Classes/Rogue/Careers/Charlatan.md)          | [Boatman](Classes/Ranger/Careers/Boatman.md)            |
-| 2  | [Karak Ranger](Classes/Dwarf/Careers/Karak%20Ranger.md)  | [Charlatan](Classes/Halfling/Careers/Charlatan.md)       | [Grave Robber](Classes/Rogue/Careers/Grave%20Robber.md)      | [Bounty Hunter](Classes/Ranger/Careers/Bounty%20Hunter.md)    |
-| 3  | [Engineer](Classes/Dwarf/Careers/Engineer.md)       | [Badger Rider](Classes/Halfling/Careers/Badger%20Rider.md)    | [Smuggler](Classes/Rogue/Careers/Smuggler.md)            | [Coachman](Classes/Ranger/Careers/Coachman.md)           |
-| 4  | [Brewer](Classes/Dwarf/Careers/Brewer.md)          | [Herbalist](Classes/Halfling/Careers/Herbalist.md)       | [Thief](Classes/Rogue/Careers/Thief.md)               | [Road Warden](Classes/Ranger/Careers/Road%20Warden.md)       |
-| 5  | [Miner](Classes/Dwarf/Careers/Miner.md)           | [Merchant](Classes/Halfling/Careers/Merchant.md)         | [Wrecker](Classes/Rogue/Careers/Wrecker.md)             | [Peddlar](Classes/Ranger/Careers/Peddlar.md)             |
-| 6  | [Troll Slayer](Classes/Dwarf/Careers/Troll%20Slayer.md)  | [Scout](Classes/Halfling/Careers/Scout.md)              | [Outlaw](Classes/Rogue/Careers/Outlaw.md)              | [Sailor](Classes/Ranger/Careers/Sailor.md)              |
+| d6 | [Dwarf](Classes/Dwarf/index.md)         | [Halfling](Classes/Halfling/index.md)      | [Ranger](Classes/Ranger/index.md)            |
+| -- | ------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------- |
+| 1  | [Artisan](Classes/Dwarf/Careers/Artisan.md)         | [Artisan](Classes/Halfling/Careers/Artisan.md)          | [Boatman](Classes/Ranger/Careers/Boatman.md)            |
+| 2  | [Karak Ranger](Classes/Dwarf/Careers/Karak%20Ranger.md)  | [Charlatan](Classes/Halfling/Careers/Charlatan.md)       | [Bounty Hunter](Classes/Ranger/Careers/Bounty%20Hunter.md)    |
+| 3  | [Engineer](Classes/Dwarf/Careers/Engineer.md)       | [Badger Rider](Classes/Halfling/Careers/Badger%20Rider.md)    | [Coachman](Classes/Ranger/Careers/Coachman.md)           |
+| 4  | [Brewer](Classes/Dwarf/Careers/Brewer.md)          | [Herbalist](Classes/Halfling/Careers/Herbalist.md)       | [Road Warden](Classes/Ranger/Careers/Road%20Warden.md)       |
+| 5  | [Miner](Classes/Dwarf/Careers/Miner.md)           | [Merchant](Classes/Halfling/Careers/Merchant.md)         | [Peddlar](Classes/Ranger/Careers/Peddlar.md)             |
+| 6  | [Troll Slayer](Classes/Dwarf/Careers/Troll%20Slayer.md)  | [Scout](Classes/Halfling/Careers/Scout.md)              | [Sailor](Classes/Ranger/Careers/Sailor.md)              |
 
 | d6 | [Townsman](Classes/Townsman/index.md)    | [Peasant](Classes/Peasant/index.md)        | [Warrior](Classes/Warrior/index.md)          | [Cleric](Classes/Cleric/index.md)            |
 | -- | ------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
@@ -56,10 +56,10 @@ Randomly determine the character’s starting Wounds (W) according to the level 
 | Dwarf      | 6              |
 | Halfling   | 4              |
 | Rogue      | 4              |
-| Ranger     | 4              |
+| Ranger     | 6              |
 | Townsman   | 4              |
 | Peasant    | 4              |
-| Warrior    | 8              |
+| Warrior    | 7              |
 | Cleric     | 4              |
 | Academic   | 3              |
 | Magic-User | 3              |
@@ -84,14 +84,7 @@ Roll the class Stamina die once at first level to determine starting Stamina. Th
 
 Weapon Skill (WS) and Ballistic Skill (BS) modifiers are added to Attack Rolls (as described in [Combat Actions](../Encounters/Combat%20Actions.md)). Many characters, including Player Characters, get a bonus to their Weapon and Ballistic Skills as determined in appropriate tables. WS/BS can be improved after gaining a level.
 
-Apart from determining the success of the attack, WS/BS determines the character’s capability of using certain weapons. For some characters, their region-specific weapons count as Untrained even for Untrained Characters. For example, a Tilean may wield thrusting swords as Untrained weapons.
-
-#### Weapon Requirements
-
-| WS/BS | Melee Weapons (WS)              | Ranged Weapons (BS)                           |
-| ----- | ------------------------------- | --------------------------------------------- |
-| 0 (Untrained) | Axes, Spears            | Darts, Crossbows                              |
-| +1 (Trained)  | Swords, Polearms, Great Weapons | Heavy Crossbows, Flintlocks, Bows, Matchlocks |
+Any character may pick up and use any weapon. A few weapons are marked with an asterisk (\*) in the equipment tables: these take real instruction to use at all, and a character who has no plausible background with one must spend time learning it before it can be wielded effectively. The Referee decides what a given character's background already covers — a huntsman needs no lessons in the bow, and a Tilean duellist none in the rapier.
 
 #### Saving Throws
 

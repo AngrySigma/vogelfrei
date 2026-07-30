@@ -6,7 +6,7 @@ image_alt: Scholar illustration
 ---
 # Scholar
 
-**Class**: [Academic](../Academic.md)
+**Class**: [Academic](../index.md)
 
 **Status**:
 

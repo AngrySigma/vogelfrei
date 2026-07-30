@@ -6,7 +6,7 @@ image_alt: Grey Wizard illustration
 ---
 # Grey Wizard
 
-**Class**: [Magic-User](../Magic-User.md)
+**Class**: [Magic-User](../index.md)
 
 **Status**:
 

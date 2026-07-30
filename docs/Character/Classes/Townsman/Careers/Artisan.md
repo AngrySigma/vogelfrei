@@ -7,7 +7,7 @@ image_alt: Artisan illustration
 ---
 # Artisan
 
-**Class**: [Townsman](../Townsman.md)
+**Class**: [Townsman](../index.md)
 
 **Status**: Silver
 

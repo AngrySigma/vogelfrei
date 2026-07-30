@@ -6,7 +6,7 @@ image_alt: Miner illustration
 ---
 # Miner
 
-**Class**: [Peasant](../Peasant.md)
+**Class**: [Peasant](../index.md)
 
 **Status**:
 

@@ -3,8 +3,6 @@ title: Wood Elf
 ---
 # Wood Elf
 
-> Wood Elves are a demihuman class with a single fixed career path. They do not roll on the human class table.
-
 | Level | Experience | Wounds      | Stamina |
 | ----- | ---------- | ----------- | ------- |
 | 1     | 0          | 1d6 (min 4) | 1d3     |
@@ -26,3 +24,19 @@ title: Wood Elf
 | 6     | 10       | 10     | 13     | 12     | 13    |
 
 ### Starting Skills and Possessions
+
+---
+
+## Careers
+
+Wood Elf careers:
+
+- [Artisan](Careers/Artisan.md)
+
+- [Blade dancer](Careers/Blade%20dancer.md)
+
+- [Hunter](Careers/Hunter.md)
+
+- [Waywatcher](Careers/Waywatcher.md)
+
+- [Wizard](Careers/Wizard.md)

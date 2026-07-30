@@ -17,7 +17,7 @@ Everything needed to bring a character into the world of Vogelfrei.
     *   [Magic-User](./Character/Classes/Magic-User/index.md) — arcane spellcasters; careers include Bright Wizard, Grey Wizard, Light Wizard, Witch, Wizard.
     *   [Cleric](./Character/Classes/Cleric/index.md) — divine miracle-workers; careers include Priest, Warrior Priest, Zealot.
     *   [Ranger](./Character/Classes/Ranger/index.md) — wilderness wanderers; careers include Boatman, Bounty Hunter, Coachman, Peddlar, Road Warden, Sailor.
-    *   [Rogue](./Character/Classes/Rogue/index.md) — urban opportunists; careers include Charlatan, Grave Robber, Outlaw, Smuggler, Thief, Wrecker.
+    *   [Rogue](./Character/Classes/Rogue/index.md) — urban opportunists; a class in itself, with no careers.
     *   [Peasant](./Character/Classes/Peasant/index.md) — common folk; careers include Hedge Witch, Herbalist, Hunter, Miner, Scout, Villager.
     *   [Academic](./Character/Classes/Academic/index.md) — learned scholars; careers include Alchemist, Apothecary, Barber, Cartographer, Engineer, Scholar.
     *   [Townsman](./Character/Classes/Townsman/index.md) — urban civilians; careers include Artisan, Beggar, Merchant, Militia, Rat Catcher, Scion.
@@ -105,6 +105,6 @@ The full encounter pipeline, from first contact to resolution.
 
 *   **[Initiative](./Encounters/Initiative.md)** — how turn order is determined each round.
 
-*   **[Combat Actions](./Encounters/Combat%20Actions.md)** — the full list of actions available in a round: Move, Flee, Attack, Counterattack, Charge, Wrestle, and more.
+*   **[Combat Actions](./Encounters/Combat%20Actions.md)** — the full list of actions available in a round: Move, Flee, Attack, Counterattack, Wrestle, and more.
 
 *   **[Morale](./Encounters/Morale.md)** — when NPCs and monsters check morale and what happens when they fail.

@@ -6,7 +6,7 @@ image_alt: Artisan illustration
 ---
 # Artisan
 
-**Class**: [Halfling](../Halfling.md)
+**Class**: [Halfling](../index.md)
 
 **Status**:
 

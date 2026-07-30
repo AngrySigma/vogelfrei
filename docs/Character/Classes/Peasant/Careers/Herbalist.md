@@ -6,7 +6,7 @@ image_alt: Herbalist illustration
 ---
 # Herbalist
 
-**Class**: [Peasant](../Peasant.md)
+**Class**: [Peasant](../index.md)
 
 **Status**:
 

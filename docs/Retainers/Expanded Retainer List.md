@@ -7,6 +7,7 @@
             <th>Daily Wage</th>
             <th>Monthly Wage</th>
             <th>Live-in Wage</th>
+            <th>Space</th>
             <th>Treasure Share</th>
         </tr>
     </thead>
@@ -16,6 +17,7 @@
             <td>-</td>
             <td>5% of amount handled</td>
             <td>-</td>
+            <td>10'</td>
             <td>-</td>
         </tr>
         <tr>
@@ -23,6 +25,7 @@
             <td>-</td>
             <td>250sp</td>
             <td>200sp</td>
+            <td>10'</td>
             <td>-</td>
         </tr>
         <tr>
@@ -30,6 +33,7 @@
             <td>15sp</td>
             <td>150sp</td>
             <td>120sp</td>
+            <td>10'</td>
             <td>-</td>
         </tr>
         <tr>
@@ -37,6 +41,7 @@
             <td>-</td>
             <td>50sp</td>
             <td>40sp</td>
+            <td>10'</td>
             <td>-</td>
         </tr>
         <tr>
@@ -44,6 +49,7 @@
             <td>-</td>
             <td>150sp</td>
             <td>120sp</td>
+            <td>10'</td>
             <td>-</td>
         </tr>
         <tr>
@@ -51,6 +57,7 @@
             <td>6sp</td>
             <td>60sp</td>
             <td>50sp</td>
+            <td>10'</td>
             <td>-</td>
         </tr>
         <tr>
@@ -58,6 +65,7 @@
             <td>-</td>
             <td>100sp</td>
             <td>80sp</td>
+            <td>10'</td>
             <td>-</td>
         </tr>
         <tr>
@@ -65,6 +73,7 @@
             <td>8sp</td>
             <td>80sp</td>
             <td>60sp</td>
+            <td>10'</td>
             <td>-</td>
         </tr>
         <tr>
@@ -72,6 +81,7 @@
             <td>14sp</td>
             <td>-</td>
             <td>-</td>
+            <td>10'</td>
             <td>0.1</td>
         </tr>
         <tr>
@@ -79,13 +89,15 @@
             <td>-</td>
             <td>-</td>
             <td>-</td>
+            <td>10'</td>
             <td>0.5</td>
         </tr>
         <tr>
             <td colspan="2"><a href="#laborer">Laborer</a></td>
             <td>6sp</td>
             <td>60sp</td>
-            <td>50sp</td>
+            <td>40sp</td>
+            <td>10'</td>
             <td>-</td>
         </tr>
         <tr>
@@ -93,14 +105,16 @@
             <td>4sp</td>
             <td>40sp</td>
             <td>30sp</td>
+            <td>10'</td>
             <td>-</td>
         </tr>
         <tr>
             <td rowspan="4"><a href="#mercenary"><strong>Mercenary</strong></a></td>
             <td>Infantry</td>
-            <td>-</td>
+            <td>10sp</td>
             <td>100sp</td>
-            <td>80sp</td>
+            <td>75sp</td>
+            <td>10'</td>
             <td>0.2</td>
         </tr>
         <tr>
@@ -108,6 +122,7 @@
             <td>-</td>
             <td>150sp</td>
             <td>120sp</td>
+            <td>10'</td>
             <td>0.2</td>
         </tr>
         <tr>
@@ -115,6 +130,7 @@
             <td>-</td>
             <td>130sp</td>
             <td>100sp</td>
+            <td>10'</td>
             <td>0.2</td>
         </tr>
         <tr>
@@ -122,6 +138,7 @@
             <td>-</td>
             <td>200sp</td>
             <td>160sp</td>
+            <td>10'</td>
             <td>0.2</td>
         </tr>
         <tr>
@@ -129,14 +146,16 @@
             <td>28sp</td>
             <td>280sp</td>
             <td>210sp</td>
+            <td>10'</td>
             <td>-</td>
         </tr>
         <tr>
             <td rowspan="4"><a href="#sailor"><strong>Sailor</strong></a></td>
-            <td><a href="#sailor">Sailor</td>
+            <td><a href="#sailor">Sailor</a></td>
             <td>-</td>
             <td>-</td>
             <td>-</td>
+            <td>10'</td>
             <td>0.2</td>
         </tr>
         <tr>
@@ -144,6 +163,7 @@
             <td>-</td>
             <td>-</td>
             <td>-</td>
+            <td>10'</td>
             <td>1</td>
         </tr>
         <tr>
@@ -151,6 +171,7 @@
             <td>-</td>
             <td>-</td>
             <td>-</td>
+            <td>10'</td>
             <td>0.5</td>
         </tr>
         <tr>
@@ -158,6 +179,7 @@
             <td>-</td>
             <td>-</td>
             <td>-</td>
+            <td>10'</td>
             <td>0.2</td>
         </tr>
         <tr>
@@ -165,6 +187,7 @@
             <td>-</td>
             <td>100sp</td>
             <td>80sp</td>
+            <td>10'</td>
             <td>-</td>
         </tr>
         <tr>
@@ -172,6 +195,7 @@
             <td>6sp</td>
             <td>60sp</td>
             <td>50sp</td>
+            <td>10'</td>
             <td>-</td>
         </tr>
         <tr>
@@ -179,6 +203,7 @@
             <td>(1sp)</td>
             <td>-</td>
             <td>-</td>
+            <td>10'</td>
             <td>-</td>
         </tr>
         <tr>
@@ -186,6 +211,7 @@
             <td>-</td>
             <td>70sp</td>
             <td>60sp</td>
+            <td>10'</td>
             <td>-</td>
         </tr>
         <tr>
@@ -193,6 +219,7 @@
             <td>-</td>
             <td>200sp</td>
             <td>-</td>
+            <td>10'</td>
             <td>-</td>
         </tr>
         <tr>
@@ -200,6 +227,7 @@
             <td>10sp</td>
             <td>100sp</td>
             <td>80sp</td>
+            <td>10'</td>
             <td>-</td>
         </tr>
     </tbody>
@@ -256,7 +284,7 @@ A linkboy is a servant who is a torch/lantern bearer. They do not do heavy labor
 
 <a  id="mercenary"></a>
 #### Mercenary
-Mercenaries are paid warriors-for-hire. If recruited from the citizenry, all equipment must be supplied by their employers. To hire an existing mercenary company, its employer must hire at least 20 at once, and even then the standard gear is gambeson and a melee weapon. Mounted mercenary troupes cost ten times the normal amount. For every ten mercenaries hired, there must be one sergeant, who earns double what the average mercenary does, or their Morale drops by one. A hired group of one hundred or more mercenaries must have a captain (paid ten times as much as an individual soldier). Mercenaries are always 0 level, with sergeants being 1st level Fighters. Captains will be from 1st to 3rd level Fighters.
+Mercenaries are paid warriors-for-hire. If recruited from the citizenry, all equipment must be supplied by their employers. To hire an existing mercenary company, its employer must hire at least 20 at once, and even then the standard gear is gambeson and a melee weapon. Mounted mercenary troupes cost ten times the normal amount. For every ten mercenaries hired, there must be one sergeant, who earns double what the average mercenary does, or their Morale drops by one. A hired group of one hundred or more mercenaries must have a captain (paid ten times as much as an individual soldier). Mercenaries are always 0 level, with sergeants being 1st level Warriors. Captains will be from 1st to 3rd level Warriors.
 
 <a  id="physician"></a>
 #### Physician

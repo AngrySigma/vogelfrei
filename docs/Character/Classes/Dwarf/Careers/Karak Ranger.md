@@ -6,7 +6,7 @@ image_alt: Karak Ranger illustration
 ---
 # Karak Ranger
 
-**Class**: [Dwarf](../Dwarf.md)
+**Class**: [Dwarf](../index.md)
 
 **Status**:
 

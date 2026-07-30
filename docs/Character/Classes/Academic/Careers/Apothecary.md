@@ -7,11 +7,11 @@ image_alt: Apothecary illustration
 ---
 # Apothecary
 
-**Class**: [Academic](../Academic.md)
+**Class**: [Academic](../index.md)
 
 **Status**: Brass
 
-**Skills**: [Herbalism](Skills#Herbalism.md), [Heal](Skills#Heal.md), [Languages](Skills#Languages.md), [Lore](Skills#Lore.md)
+**Skills**: [Herbalism](../../../../Adventuring/Skills.md#herbalism), [Heal](../../../../Adventuring/Skills.md#heal), [Languages](../../../../Adventuring/Skills.md#languages), [Lore](../../../../Adventuring/Skills.md#lore)
 
 ***Trait***: You gain +2 to all saving throws against disease and infection.
 

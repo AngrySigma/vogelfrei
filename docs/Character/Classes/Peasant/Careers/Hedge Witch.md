@@ -7,11 +7,11 @@ image_alt: Hedge Witch illustration
 ---
 # Hedge Witch
 
-**Class**: [Peasant](../Peasant.md)
+**Class**: [Peasant](../index.md)
 
 **Status**: Brass
 
-**Skills**: [Bushcraft](Skills#Bushcraft.md), [Lore](Skills#Lore.md)
+**Skills**: [Bushcraft](../../../../Adventuring/Skills.md#bushcraft), [Lore](../../../../Adventuring/Skills.md#lore)
 
 | Level | WP  | Spells Memorized | Max Spell Level |
 | ----- | --- | ---------------- | --------------- |

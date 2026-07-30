@@ -6,7 +6,7 @@ image_alt: Wizard illustration
 ---
 # Wizard
 
-**Class**: [High Elf](../High%20Elf.md)
+**Class**: [High Elf](../index.md)
 
 **Status**:
 

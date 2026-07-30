@@ -6,7 +6,7 @@ image_alt: Brewer illustration
 ---
 # Brewer
 
-**Class**: [Dwarf](../Dwarf.md)
+**Class**: [Dwarf](../index.md)
 
 **Status**:
 

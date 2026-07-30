@@ -6,7 +6,7 @@ image_alt: Boatman illustration
 ---
 # Boatman
 
-**Class**: [Ranger](../Ranger.md)
+**Class**: [Ranger](../index.md)
 
 **Status**:
 

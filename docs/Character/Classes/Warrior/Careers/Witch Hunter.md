@@ -7,7 +7,7 @@ image_alt: Witch Hunter illustration
 ---
 # Witch Hunter
 
-**Class**: [Warrior](../Warrior.md)
+**Class**: [Warrior](../index.md)
 
 **Status**: Silver
 

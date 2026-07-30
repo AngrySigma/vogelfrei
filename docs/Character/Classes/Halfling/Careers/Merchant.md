@@ -6,7 +6,7 @@ image_alt: Merchant illustration
 ---
 # Merchant
 
-**Class**: [Halfling](../Halfling.md)
+**Class**: [Halfling](../index.md)
 
 **Status**:
 

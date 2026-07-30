@@ -6,7 +6,7 @@ image_alt: Badger Rider illustration
 ---
 # Badger Rider
 
-**Class**: [Halfling](../Halfling.md)
+**Class**: [Halfling](../index.md)
 
 **Status**:
 

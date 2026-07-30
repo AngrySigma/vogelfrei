@@ -6,7 +6,7 @@ Experience Points (XP) are a measure of improvement and progress for Player Char
 
 Defeating enemies is a minor way of gaining experience. This is not a game about combat or slaying foes; these activities are simply frequent necessities in the harsh reality of the game. Characters who prefer to fight when it is unnecessary are lunatics, possibly psychotic, and not likely to survive long in a game run by a competent Referee. To count for XP purposes, an “enemy” must be a threat and predisposed to hostility towards the player Characters. Randomly slaying a villager, slaughtering livestock, hunting, etc., does not count towards XP rewards.
 
-For purposes of XP, “defeating” is defined as winning a battle against a foe where force of arms is used or at least threatened. An enemy must be brought to 0hp, or lose a Morale check, or surrender in order to count as having been “defeated.” Sneaking past, tricking, or negotiating with an enemy may prevent combat and lead to other rewards, but it does not translate to XP. Using magic to neutraliize or pacify an enemy does count, so spells such as Sleep or Charm do count towards “defeating” an opponent.
+For purposes of XP, “defeating” is defined as winning a battle against a foe where force of arms is used or at least threatened. An enemy must be brought to 0 Wounds, or lose a Morale check, or surrender in order to count as having been “defeated.” Sneaking past, tricking, or negotiating with an enemy may prevent combat and lead to other rewards, but it does not translate to XP. Using magic to neutralize or pacify an enemy does count, so spells such as Sleep or Charm do count towards “defeating” an opponent.
 
 | Enemy Hit Dice | XP Award |
 | -------------- | -------- |

@@ -6,7 +6,7 @@ image_alt: Hunter illustration
 ---
 # Hunter
 
-**Class**: [Wood Elf](../Wood%20Elf.md)
+**Class**: [Wood Elf](../index.md)
 
 **Status**:
 

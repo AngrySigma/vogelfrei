@@ -150,14 +150,6 @@ nav = [
             ] },
             { "Rogue" = [
                 "Character/Classes/Rogue/index.md",
-                { "Careers" = [
-                    "Character/Classes/Rogue/Careers/Charlatan.md",
-                    "Character/Classes/Rogue/Careers/Grave Robber.md",
-                    "Character/Classes/Rogue/Careers/Outlaw.md",
-                    "Character/Classes/Rogue/Careers/Smuggler.md",
-                    "Character/Classes/Rogue/Careers/Thief.md",
-                    "Character/Classes/Rogue/Careers/Wrecker.md",
-                ] },
             ] },
             { "Peasant" = [
                 "Character/Classes/Peasant/index.md",

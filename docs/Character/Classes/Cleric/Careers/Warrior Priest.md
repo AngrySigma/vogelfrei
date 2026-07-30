@@ -6,7 +6,7 @@ image_alt: Warrior Priest illustration
 ---
 # Warrior Priest
 
-**Class**: [Cleric](../Cleric.md)
+**Class**: [Cleric](../index.md)
 
 **Status**:
 

@@ -6,7 +6,7 @@ image_alt: Engineer illustration
 ---
 # Engineer
 
-**Class**: [Dwarf](../Dwarf.md)
+**Class**: [Dwarf](../index.md)
 
 **Status**:
 

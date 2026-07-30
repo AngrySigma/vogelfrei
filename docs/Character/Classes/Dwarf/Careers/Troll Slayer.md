@@ -6,7 +6,7 @@ image_alt: Troll Slayer illustration
 ---
 # Troll Slayer
 
-**Class**: [Dwarf](../Dwarf.md)
+**Class**: [Dwarf](../index.md)
 
 **Status**:
 

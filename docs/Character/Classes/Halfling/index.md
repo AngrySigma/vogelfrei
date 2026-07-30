@@ -3,8 +3,6 @@ title: Halfling
 ---
 # Halfling
 
-> Halflings are a demihuman class with a single fixed career path. They do not roll on the human class table.
-
 | Level | Experience | Wounds      | Stamina |
 | ----- | ---------- | ----------- | ------- |
 | 1     | 0          | 1d6 (min 4) | 1d3     |
@@ -26,3 +24,21 @@ title: Halfling
 | 6     | 4        | 2      | 4      | 3      | 6     |
 
 ### Starting Skills and Possessions
+
+---
+
+## Careers
+
+Halfling careers:
+
+- [Artisan](Careers/Artisan.md)
+
+- [Badger Rider](Careers/Badger%20Rider.md)
+
+- [Charlatan](Careers/Charlatan.md)
+
+- [Herbalist](Careers/Herbalist.md)
+
+- [Merchant](Careers/Merchant.md)
+
+- [Scout](Careers/Scout.md)

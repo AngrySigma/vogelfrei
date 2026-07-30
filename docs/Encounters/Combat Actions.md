@@ -47,7 +47,7 @@ When a Character makes an attack, follow these steps:
     Most non-human opponents do not use any arms and armour, but their base AC may vary greatly from very high for small agile creatures to almost zero for colossal ones.
 
 3. *Check for a Counterattack*
-    Your enemies don't stand still while you cut them. If the Opponent's **Weapon Length** is at least equal to the Attacker's and they have not yet acted this Round, they may attempt a Counterattack. This option is only available to Trained Characters: those with at least **Weapon Skill 1**.
+    Your enemies don't stand still while you cut them. If the Opponent's **Weapon Length** is at least equal to the Attacker's and they have not yet acted this Round, they may attempt a Counterattack. This option is only available to characters with at least **Weapon Skill 1**.
 
 4. *Roll for Attack*
     - The attacking player rolls **d20**.
@@ -83,7 +83,8 @@ Damage rules are detailed in [Damage](../Adventuring/Hazards/Damage.md) Section.
     *Kurt is using the shorter weapon, so he rolls d20 and adds Weapon Skill (4) + Strength Bonus (+1) + Weapon Length (-2) = +3:*
 
     - *Roll = 5: total 8 — miss. Does not exceed AC 14.*
-    - *Roll = 11: total 14 — hit. Exactly AC 14. Kurt rolls 1d6 for damage.*
+    - *Roll = 11: total 14 — miss. The total must be **higher** than the AC, and 14 only matches it.*
+    - *Roll = 12: total 15 — hit. Kurt rolls 1d6 for damage.*
     - *Roll = 18: total 21 — hit. Kurt rolls 1d6 for damage.*
 
 ---
@@ -92,7 +93,7 @@ Damage rules are detailed in [Damage](../Adventuring/Hazards/Damage.md) Section.
 | ------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | Attacking an Unaware Opponent               | +2 to attack roll; target only retains Armour Rating and Base AC                                   |
 | Attacking a Prone Opponent                  | +4 to attack roll in Melee; −4 to attack roll in Ranged                                            |
-| Trained Opponent has longer or equal weapon | Opponent may Counterattack (see below)                                                              |
+| Opponent with WS 1+ has longer or equal weapon | Opponent may Counterattack (see below)                                                           |
 | Attacking a Helpless Opponent               | Automatically deal maximum weapon damage in Melee                                                   |
 | Outnumbering two-on-one                     | +2 to attack roll                                                                                   |
 | Outnumbering three-on-one                   | +4 to attack roll                                                                                   |
@@ -108,7 +109,7 @@ Damage rules are detailed in [Damage](../Adventuring/Hazards/Damage.md) Section.
 | Mounted combat                              | −4 to ranged attack rolls; +1 to melee attack roll and −1 to Opponent's AC; double damage after running |
 
 ### Counterattack
-When a Trained Character is attacked by an Opponent wielding a weapon of shorter or equal length, and has not yet acted this Round, they may perform a Counterattack: they strike first, before the Attacker's blow resolves.
+When a character with Weapon Skill 1 or better is attacked by an Opponent wielding a weapon of shorter or equal length, and has not yet acted this Round, they may perform a Counterattack: they strike first, before the Attacker's blow resolves.
 
 Committing to an immediate offensive response leaves the Defender exposed: their Weapon Length provides no defence for the remainder of the Round. The Attacker's Weapon Length bonus is unaffected.
 
@@ -120,17 +121,17 @@ Committing to an immediate offensive response leaves the Defender exposed: their
 If a character is not holding the weapon that he wants to use, he can drop what is in his hands and draw a weapon (assuming the weapon is in an accessible place such as on a belt scabbard). There is a –2 penalty to their attack roll during the Round that this happens.
 
 ### Wrestling
-A character may attempt to wrestle another character to either immobilize or take something out of that character's hands. The attacker must have both hands free or wield a weapon effective for grappling. The defender, if he is armed and has not yet acted during the Round, can immediately make an attack against the aggressor before the wrestling attempt is resolved.
+A character may attempt to wrestle another character to either immobilize or take something out of that character's hands. The attacker must have both hands free or wield a weapon effective for wrestling. The defender, if he is armed and has not yet acted during the Round, can immediately make an attack against the aggressor before the wrestling attempt is resolved.
 
-Wrestling is resolved with a contested roll. Both parties roll 1d20 and apply both their Weapon Skill and Strength modifier. Ties are decided by Agility modifier, or a die roll if both are still tied. The winner decides whether the loser is immobilized, if he will attempt to disarm the loser of the contest, or if he releases the loser. An immobilized opponent can usually take no action other than attempting to escape on his next action, but can instead attack a grappling opponent with natural or minor weapons. Resolve this with another wrestling roll. Any character immobilized for three successive wrestling contests is considered pinned and helpless — no further attempts to escape can be made. If disarmament is attempted (and this includes snatching any held object, not just taking away weapons), the defender must make a save versus Paralyzation to keep hold of the object that his attacker is attempting to take.
+Wrestling is resolved with a contested roll. Both parties roll 1d20 and apply both their Weapon Skill and Strength modifier. Ties are decided by Agility modifier, or a die roll if both are still tied. The winner decides whether the loser is immobilized, if he will attempt to disarm the loser of the contest, or if he releases the loser. An immobilized opponent can usually take no action other than attempting to escape on his next action, but can instead attack a wrestling opponent with natural or minor weapons. Resolve this with another wrestling roll. Any character immobilized for three successive wrestling contests is considered pinned and helpless — no further attempts to escape can be made. If disarmament is attempted (and this includes snatching any held object, not just taking away weapons), the defender must make a save versus Paralyzation to keep hold of the object that his attacker is attempting to take.
 
-If there are multiple opponents attempting to wrestle a single defender, all attackers make their rolls as normal, but only the best roll is used with a +1 bonus for each additional attacker. Creatures whose physiology or special abilities suggest that they have an advantage when grappling (tentacles, adhesive, multiple limbs) gain a further +1 bonus to their wrestling roll per Hit Die.
+If there are multiple opponents attempting to wrestle a single defender, all attackers make their rolls as normal, but only the best roll is used with a +1 bonus for each additional attacker. Creatures whose physiology or special abilities suggest that they have an advantage when wrestling (tentacles, adhesive, multiple limbs) gain a further +1 bonus to their wrestling roll per Hit Die.
 
 ### Full Defence
-Characters can decide to focus entirely on defence at the expense of all other activity. A player is free to declare Full Defence at any point during the Round, even out of Initiative sequence, provided that the character has not yet acted. This adds +2 to the Character's AC for the Round, or +4 AC if the Character is Trained in Weapon Skill.
+Characters can decide to focus entirely on defence at the expense of all other activity. A player is free to declare Full Defence at any point during the Round, even out of Initiative sequence, provided that the character has not yet acted. This adds +2 to the Character's AC for the Round, or +4 AC if the Character has Weapon Skill 1 or better.
 
 ### Mounted Combat
-Mounted characters receive +1 to their melee attack rolls (unless using Minor or Small weapons) and reduce the Opponent's AC by 1 when in melee combat against enemies on foot. Mounted characters suffer a −4 penalty to ranged attack rolls while mounted. A Mounted Charge with a polearm deals triple damage.
+Mounted characters receive +1 to their melee attack rolls (unless using Minor or Small weapons) and reduce the Opponent's AC by 1 when in melee combat against enemies on foot. Mounted characters suffer a −4 penalty to ranged attack rolls while mounted. A Mounted Charge deals double damage.
 
 ---
 ## Ranged

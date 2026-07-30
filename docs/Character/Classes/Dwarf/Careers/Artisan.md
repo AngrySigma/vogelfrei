@@ -6,7 +6,7 @@ image_alt: Artisan illustration
 ---
 # Artisan
 
-**Class**: [Dwarf](../Dwarf.md)
+**Class**: [Dwarf](../index.md)
 
 **Status**:
 

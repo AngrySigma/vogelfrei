@@ -6,7 +6,7 @@ image_alt: Peddlar illustration
 ---
 # Peddlar
 
-**Class**: [Ranger](../Ranger.md)
+**Class**: [Ranger](../index.md)
 
 **Status**:
 

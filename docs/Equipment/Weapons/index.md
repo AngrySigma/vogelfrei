@@ -16,5 +16,5 @@ All weapons available for purchase. See the [Equipment](../index.md) page for en
 
 - [Firearms](Firearms.md) — black-powder pistols and long arms
 
-!!! note "Weapon Requirements"
-    Weapons are split into Trained/Untrained requirement. Any character who uses melee weapon with Trained requirement without at least +1 Weapon Skill, treats the weapon as an Improvised. Most ranged weapons cannot be used at all if a Character is Untrained in Ballistic Skill.
+!!! note "Weapons that require training"
+    Any character may pick up and use any weapon. The exceptions are marked with an asterisk (\*) in the melee table, and every ranged weapon and firearm: these take real instruction to use at all. A character with no plausible background with one must spend time learning it first — the Referee decides what a given character's background already covers.

@@ -6,7 +6,7 @@ image_alt: Scion illustration
 ---
 # Scion
 
-**Class**: [Townsman](../Townsman.md)
+**Class**: [Townsman](../index.md)
 
 **Status**:
 

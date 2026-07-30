@@ -25,13 +25,17 @@ title: Cleric
 
 ### Starting Skills and Possessions
 
-- 1GC
-
 - Read/Write talent
 
 ## Careers
 
+Clerics serve a faith and answer to it:
+
 - [Priest](Careers/Priest.md) — ordained minister of a faith, serving a congregation and deity
+
+- [Warrior Priest](Careers/Warrior%20Priest.md)
+
+- [Zealot](Careers/Zealot.md)
 
 ## Special Rules
 
@@ -49,4 +53,4 @@ Clerics operate under divine rules distinct from arcane magic:
 
 ## Miracle List
 
-- [Miracles by Level](../../../index.md)
+- [Miracles by Level](Miracles/index.md)

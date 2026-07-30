@@ -7,7 +7,7 @@ image_alt: Soldier illustration
 ---
 # Soldier
 
-**Class**: [Warrior](../Warrior.md)
+**Class**: [Warrior](../index.md)
 
 **Status**: Brass
 

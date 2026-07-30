@@ -50,7 +50,7 @@ CLASS_ROLL_2D6 = {
 CAREER_ROLL_D6 = {
     "Dwarf": ["Artisan", "Karak Ranger", "Engineer", "Brewer", "Miner", "Troll Slayer"],
     "Halfling": ["Artisan", "Charlatan", "Badger Rider", "Herbalist", "Merchant", "Scout"],
-    "Rogue": ["Charlatan", "Grave Robber", "Smuggler", "Thief", "Wrecker", "Outlaw"],
+    "Rogue": [None, None, None, None, None, None],   # Rogue has no careers
     "Ranger": ["Boatman", "Bounty Hunter", "Coachman", "Road Warden", "Peddlar", "Sailor"],
     "Townsman": ["Artisan", "Rat Catcher", "Beggar", "Militia", "Scion", "Merchant"],
     "Peasant": ["Miner", "Villager", "Herbalist", "Hunter", "Scout", "Hedge Witch"],

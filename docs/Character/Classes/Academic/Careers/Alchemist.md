@@ -6,7 +6,7 @@ image_alt: Alchemist illustration
 ---
 # Alchemist
 
-**Class**: [Academic](../Academic.md)
+**Class**: [Academic](../index.md)
 
 **Status**:
 

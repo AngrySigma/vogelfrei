@@ -7,11 +7,11 @@ image_alt: Engineer illustration
 ---
 # Engineer
 
-**Class**: [Academic](../Academic.md)
+**Class**: [Academic](../index.md)
 
 **Status**: Silver
 
-**Skills**: [Engineering](Skills#Engineering.md), [Tinkering](Skills#Tinkering.md), [Languages](Skills#Languages.md), [Lore](Skills#Lore.md)
+**Skills**: [Engineering](../../../../Adventuring/Skills.md#engineering), [Tinkering](../../../../Adventuring/Skills.md#tinkering), [Languages](../../../../Adventuring/Skills.md#languages), [Lore](../../../../Adventuring/Skills.md#lore)
 
 ***Trait*:** The Engineer gains +1 Ballistic Skill and is trained in the use of all firearms and artillery. At 2, 4 and 5 levels the Engineer gains one additional draft, representing technical diagrams, siege plans, or mechanical schematics they can create and consult.
 

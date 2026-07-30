@@ -22,4 +22,4 @@ When any side has gained the upper hand, you may need the following rules:
 
 1. [Do a Morale Check](Morale.md)
 
-2. [Flee!](Combat%20Actions#==Flee!==.md)
+2. [Flee!](Combat%20Actions.md#flee)

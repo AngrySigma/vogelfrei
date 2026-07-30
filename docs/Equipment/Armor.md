@@ -15,5 +15,5 @@
 | ***Shield***         | 15sp   | 30sp  | +2 Melee AC, +3 Ranged AC |
 | ***Pavise***         | 100sp  | -     | +5 Ranged AC              |
 
-Armor Rating is added to a character's Armor Class in both Melee and Ranged combat — better armour makes the wearer harder to hit, not damage-resistant. Shields and bucklers further reduce incoming Melee or Ranged AC as listed. For the full attack procedure, refer to [Combat Actions](../Encounters/Combat%20Actions.md#attack).
+Armor Rating is added to a character's Armor Class in both Melee and Ranged combat — better armour makes the wearer harder to hit, not damage-resistant. Shields and bucklers add to Melee or Ranged AC as listed; that AC change is their only effect. For the full attack procedure, refer to [Combat Actions](../Encounters/Combat%20Actions.md#attack).
 

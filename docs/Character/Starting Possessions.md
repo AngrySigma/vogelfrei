@@ -6,7 +6,7 @@ All Characters begin their adventuring careers with money and equipment with whi
 
 Note that actual coins and their conversion rates may differ in different regions, and elder gold from the temple of snake-worshipers may be perfectly pure, yet possess less actual value than coins with little to no gold content minted by some respectable Graf from merchant city-hive.
 
-Every character 
+Every character begins play with money determined by their Status:
 
 * Characters of Brass Status begin with 10d6×10 bp.
 

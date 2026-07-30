@@ -6,7 +6,7 @@ image_alt: Zealot illustration
 ---
 # Zealot
 
-**Class**: [Cleric](../Cleric.md)
+**Class**: [Cleric](../index.md)
 
 **Status**:
 
