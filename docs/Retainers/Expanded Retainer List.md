@@ -1,3 +1,6 @@
+---
+tier: base
+---
 # Expanded Retainer List
 
 <table>

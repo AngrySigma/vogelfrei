@@ -1,3 +1,6 @@
+---
+tier: base
+---
 # Hiring Retainers
 
 In most civilized areas, it is not difficult to find people who are out of work. The Referee will determine how many qualified applicants are available for any particular position, and it generally costs about 2 sp to get word out about the job opening with additional funding raising the chance of successful applicant search.

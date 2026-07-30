@@ -1,3 +1,6 @@
+---
+tier: base
+---
 # Morale Checks
 
 For domestic retainers, Morale should be checked in any of the following cases:

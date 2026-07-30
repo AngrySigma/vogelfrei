@@ -238,3 +238,111 @@
 }
 
 
+
+
+/* =====================================================================
+   Game view switcher — injected by javascripts/vf-view.js
+   =====================================================================
+   .vf-view-control  — header button + dropdown wrapper.
+   .vf-view-panel    — the tier radio list.
+   .vf-view-banner   — shown on a page hidden in the reader's current view.
+   ===================================================================== */
+
+.vf-view-control {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.vf-view-control__toggle {
+  cursor: pointer;
+}
+
+.vf-view-panel {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  z-index: 10;
+  min-width: 11rem;
+  margin-top: 0.3rem;
+  padding: 0.6rem 0.8rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.2rem;
+  box-shadow: var(--md-shadow-z2);
+  font-size: 0.7rem;
+}
+
+/* `display: flex` on the options would otherwise beat the [hidden]
+   attribute; the panel itself needs the same guard for the same reason. */
+.vf-view-panel[hidden] {
+  display: none;
+}
+
+.vf-view-panel__group {
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+.vf-view-panel__group legend {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 0.62rem;
+  color: var(--vf-label, var(--md-default-fg-color--light));
+  margin-bottom: 0.25rem;
+  padding: 0;
+}
+
+.vf-view-panel__opt {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.18rem 0;
+  cursor: pointer;
+}
+
+.vf-view-panel__opt input {
+  margin: 0;
+  accent-color: var(--md-primary-fg-color);
+}
+
+
+/* ---- Hidden-page banner ---- */
+
+.md-typeset .vf-view-banner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem;
+  margin: 0 0 1.2rem;
+  padding: 0.7rem 1rem;
+  border-left: 4px solid var(--vf-meta-border, var(--md-primary-fg-color));
+  background: var(--vf-meta-bg, var(--md-code-bg-color));
+  border-radius: 0 0.2rem 0.2rem 0;
+  font-size: 0.8rem;
+}
+
+.md-typeset .vf-view-banner p {
+  margin: 0;
+  flex: 1 1 16rem;
+}
+
+.vf-view-banner__btn {
+  cursor: pointer;
+  border: none;
+  border-radius: 0.2rem;
+  padding: 0.3rem 0.7rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  background: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+}
+
+.vf-view-banner__btn--ghost {
+  background: transparent;
+  color: var(--md-default-fg-color--light);
+  border: 1px solid var(--md-default-fg-color--lightest);
+}

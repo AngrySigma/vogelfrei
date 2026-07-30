@@ -4,6 +4,7 @@ class: cleric
 tags:
   - level_2
   - cleric
+tier: advanced
 ---
 # Heat Metal
 

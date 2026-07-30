@@ -1,3 +1,6 @@
+---
+tiers: [simple]
+---
 # Basic Retainers
 
 | Retainer  | Daily Wage | Monthly Wage | Live-in Wage | Treasure Share |
