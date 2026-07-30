@@ -252,10 +252,53 @@
   position: relative;
   display: flex;
   align-items: center;
+  z-index: 5;
+}
+
+/* Fallback mount: used when there is no theme header to live in, or when the
+   header keeps discarding the control. Parks it out of the text column. */
+.vf-view-control--floating {
+  position: fixed;
+  top: 0.5rem;
+  right: 0.6rem;
+  z-index: 6;
 }
 
 .vf-view-control__toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
   cursor: pointer;
+  margin: 0.2rem;
+  padding: 0.25rem 0.5rem;
+  color: var(--md-default-fg-color);
+  background: var(--md-default-bg-color--light, var(--md-default-bg-color));
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.2rem;
+  font-size: 0.66rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  transition: opacity 0.25s;
+}
+
+.vf-view-control__toggle:hover {
+  opacity: 0.75;
+}
+
+/* The theme sizes bare `.md-icon svg` at 1rem and paints it in a very light
+   grey; the button owns its icon here so it stays legible either way. */
+.vf-view-control__toggle svg {
+  display: block;
+  width: 0.9rem;
+  height: 0.9rem;
+  fill: currentcolor;
+  flex-shrink: 0;
+}
+
+.vf-view-control__label {
+  line-height: 1;
+  white-space: nowrap;
 }
 
 .vf-view-panel {
