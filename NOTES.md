@@ -25,16 +25,11 @@ Options, none applied:
 
 ## Smaller open items
 
-- **Spear and Lance still carry the `(1/2H)` split** (d4/d6 at length 4/5, and
-  d10 at length 5). Medium was collapsed to a flat d8 as instructed; these two
-  were left alone because the Spear's two-handed mode has a distinct rules hook
-  (attack from the second rank, receive a charge). Worth deciding whether they
-  should collapse too.
-
-- **Halflings.** "Halflings must wield Medium Weapons in two hands" became
-  meaningless once Medium stopped splitting by hands, so the line now reads
-  only "Halflings cannot wield Great Weapons." If the intent was a real
-  restriction on Halflings and Medium weapons, it needs restating.
+- **The Spear is now the only weapon with a damage split.** Medium was
+  flattened to d8 while keeping its `(1/2H)` mode and its 2/3 length; the Lance
+  already had flat d10. The Spear still reads d4/d6 at length 4/5. Worth
+  deciding whether it flattens too, or whether it is deliberately the one
+  weapon that rewards the second hand with damage as well as reach.
 
 - **Which melee weapons carry the training asterisk.** Currently: Rapier,
   Garrote, Mancatcher, Whip, Weighted Net, Lance. All ranged weapons and all

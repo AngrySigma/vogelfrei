@@ -86,9 +86,9 @@
             <td>-</td>
         </tr>
         <tr>
-            <td>Medium</td>
+            <td>Medium (1/2H)</td>
             <td>d8</td>
-            <td>3</td>
+            <td>2/3</td>
             <td>20 sp</td>
             <td>50 sp</td>
         </tr>
@@ -145,7 +145,7 @@ The generic “weapon” categories are only for rules and reference purposes. C
 | Small               | One-handed weapons, including arming swords and hand axes. |
 | Minor               | One-handed weapons including daggers and clubs.            |
 
-Halflings cannot wield Great Weapons.
+Halflings cannot wield Medium or Great Weapons.
 
 ---
 ### Weapon Traits
