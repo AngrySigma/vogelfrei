@@ -25,8 +25,6 @@ title: Magic-User
 
 ### Starting Skills and Possessions
 
-- 6SS
-
 - Second Sight talent
 
 - Spellcasting Talent
@@ -35,7 +33,15 @@ title: Magic-User
 
 ## Careers
 
+Magic-Users belong to the arcane traditions:
+
 - [Bright Wizard](Careers/Bright%20Wizard.md) — a fire mage of the Imperial colleges, volatile and dramatic
+
+- [Grey Wizard](Careers/Grey%20Wizard.md)
+
+- [Light Wizard](Careers/Light%20Wizard.md)
+
+- [Witch](Careers/Witch.md)
 
 - [Wizard](Careers/Wizard.md) — a studious arcane scholar of more orthodox tradition
 
@@ -47,8 +53,8 @@ Magic-Users follow specific rules for their arcane abilities:
 
 - [Spells](Special%20Rules/Spells.md) — how spells are prepared, memorized, and cast
 
-> **Important:** Magic-Users cannot wear armour or use shields. Their power comes at the cost of physical fragility.
+> **Important:** A Magic-User cannot cast while more than Lightly encumbered, which in practice rules out anything heavier than the lightest armour. Their power comes at the cost of physical fragility.
 
 ## Spell List
 
-- [Level 1 Spells](../../../index.md)
+- [Spells by Level](Spells/index.md)

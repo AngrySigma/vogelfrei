@@ -7,7 +7,7 @@ image_alt: Knight illustration
 ---
 # Knight
 
-**Class**: [Warrior](../Warrior.md)
+**Class**: [Warrior](../index.md)
 
 **Status**: Gold
 

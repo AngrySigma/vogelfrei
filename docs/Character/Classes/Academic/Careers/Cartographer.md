@@ -6,7 +6,7 @@ image_alt: Cartographer illustration
 ---
 # Cartographer
 
-**Class**: [Academic](../Academic.md)
+**Class**: [Academic](../index.md)
 
 **Status**:
 

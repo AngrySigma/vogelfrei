@@ -6,7 +6,7 @@ image_alt: Blade dancer illustration
 ---
 # Blade dancer
 
-**Class**: [Wood Elf](../Wood%20Elf.md)
+**Class**: [Wood Elf](../index.md)
 
 **Status**:
 

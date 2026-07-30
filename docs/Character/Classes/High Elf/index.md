@@ -3,8 +3,6 @@ title: High Elf
 ---
 # High Elf
 
-> High Elves are a demihuman class with a single fixed career path. They do not roll on the human class table.
-
 | Level | Experience | Wounds      | Stamina |
 | ----- | ---------- | ----------- | ------- |
 | 1     | 0          | 1d6 (min 4) | 1d3     |
@@ -26,3 +24,19 @@ title: High Elf
 | 6     | 11       | 10     | 13     | 11     | 13    |
 
 ### Starting Skills and Possessions
+
+---
+
+## Careers
+
+High Elf careers:
+
+- [Artisan](Careers/Artisan.md)
+
+- [Hunter](Careers/Hunter.md)
+
+- [Shadow](Careers/Shadow.md)
+
+- [Sword-master](Careers/Sword-master.md)
+
+- [Wizard](Careers/Wizard.md)

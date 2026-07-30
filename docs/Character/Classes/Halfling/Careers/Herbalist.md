@@ -6,7 +6,7 @@ image_alt: Herbalist illustration
 ---
 # Herbalist
 
-**Class**: [Halfling](../Halfling.md)
+**Class**: [Halfling](../index.md)
 
 **Status**:
 

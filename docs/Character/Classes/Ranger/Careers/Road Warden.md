@@ -6,7 +6,7 @@ image_alt: Road Warden illustration
 ---
 # Road Warden
 
-**Class**: [Ranger](../Ranger.md)
+**Class**: [Ranger](../index.md)
 
 **Status**:
 

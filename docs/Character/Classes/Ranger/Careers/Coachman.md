@@ -6,7 +6,7 @@ image_alt: Coachman illustration
 ---
 # Coachman
 
-**Class**: [Ranger](../Ranger.md)
+**Class**: [Ranger](../index.md)
 
 **Status**:
 

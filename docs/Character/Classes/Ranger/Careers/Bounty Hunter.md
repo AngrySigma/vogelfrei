@@ -7,11 +7,11 @@ image_alt: Bounty Hunter illustration
 ---
 # Bounty Hunter
 
-**Class**: [Ranger](../Ranger.md)
+**Class**: [Ranger](../index.md)
 
 **Status**: Silver
 
-**Skills**: [Evaluate](Skills#Evaluate.md), Any non-special skills
+**Skills**: [Evaluate](../../../../Adventuring/Skills.md#evaluate), Any non-special skills
 
 | Level | Progression       |
 | ----- | ----------------- |

@@ -6,7 +6,7 @@ image_alt: Witch illustration
 ---
 # Witch
 
-**Class**: [Magic-User](../Magic-User.md)
+**Class**: [Magic-User](../index.md)
 
 **Status**:
 

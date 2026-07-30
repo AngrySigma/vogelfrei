@@ -5,7 +5,7 @@ title: Townsman
 
 | Level | Experience | Wounds      | Stamina | Skill Points |
 | ----- | ---------- | ----------- | ------- | ------------ |
-| 1     | 0          | 1d6 (min 3) | 1d2     | 2            |
+| 1     | 0          | 1d6 (min 4) | 1d2     | 2            |
 | 2     | 1600       | —           | +1d2    | +1           |
 | 3     | 3200       | +1          | +1d2    | +1           |
 | 4     | 6400       | —           | +1d2    | +1           |
@@ -36,6 +36,14 @@ title: Townsman
 
 Townsmen are urban craftspeople and workers with practical trade skills:
 
-- [Artisan](../Dwarf/Careers/Artisan.md) — a skilled craftsperson in a recognized guild trade
+- [Artisan](Careers/Artisan.md) — a skilled craftsperson in a recognized guild trade
+
+- [Beggar](Careers/Beggar.md)
+
+- [Merchant](Careers/Merchant.md)
+
+- [Militia](Careers/Militia.md)
 
 - [Rat Catcher](Careers/Rat%20Catcher.md) — an exterminator and vermin-hunter with surprising underworld contacts
+
+- [Scion](Careers/Scion.md)

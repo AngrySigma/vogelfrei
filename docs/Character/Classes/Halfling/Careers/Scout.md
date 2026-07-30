@@ -6,7 +6,7 @@ image_alt: Scout illustration
 ---
 # Scout
 
-**Class**: [Halfling](../Halfling.md)
+**Class**: [Halfling](../index.md)
 
 **Status**:
 

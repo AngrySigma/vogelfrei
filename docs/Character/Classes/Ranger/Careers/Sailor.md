@@ -7,11 +7,11 @@ image_alt: Sailor illustration
 ---
 # Sailor
 
-**Class**: [Ranger](../Ranger.md)
+**Class**: [Ranger](../index.md)
 
 **Status**: Silver
 
-**Skills**: [Sailing](Skills#Sailing.md), Any non-special skills
+**Skills**: [Sailing](../../../../Adventuring/Skills.md#sailing), Any non-special skills
 
 | Level | Progression |
 | ----- | ----------- |

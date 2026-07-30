@@ -6,7 +6,7 @@ image_alt: Scout illustration
 ---
 # Scout
 
-**Class**: [Peasant](../Peasant.md)
+**Class**: [Peasant](../index.md)
 
 **Status**:
 

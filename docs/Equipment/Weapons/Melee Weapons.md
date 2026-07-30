@@ -7,7 +7,6 @@
             <th rowspan="2">Damage</th>
             <th rowspan="2">Length</th>
             <th colspan="2">Cost</th>
-            <th rowspan="2">Requirements</th>
         </tr>
         <tr>
             <th>City</th>
@@ -21,7 +20,6 @@
             <td>0</td>
             <td> - </td>
             <td> - </td>
-            <td>Untrained</td>
         </tr>
         <tr>
             <td colspan="2"><em>Cestus</em></td>
@@ -29,23 +27,20 @@
             <td>0</td>
             <td>10 sp</td>
             <td>-</td>
-            <td>Untrained</td>
         </tr>
         <tr>
-            <td colspan="2"><em>Garrote (2H)</em></td>
+            <td colspan="2"><em>Garrote (2H)</em>*</td>
             <td>d6</td>
             <td>0</td>
             <td>5 sp</td>
             <td>-</td>
-            <td>Untrained</td>
         </tr>
         <tr>
-            <td colspan="2"><strong><em>Mancatcher (2H)</em></strong></td>
+            <td colspan="2"><strong><em>Mancatcher (2H)</em></strong>*</td>
             <td>d6</td>
             <td>2</td>
             <td>20 sp</td>
             <td>-</td>
-            <td>Untrained</td>
         </tr>
         <tr>
             <td colspan="2">Staff (2H)</td>
@@ -53,23 +48,20 @@
             <td>4</td>
             <td>5 sp</td>
             <td>3 sp</td>
-            <td>Untrained</td>
         </tr>
         <tr>
-            <td colspan="2">Whip</td>
+            <td colspan="2">Whip*</td>
             <td>d3</td>
             <td>0</td>
             <td>10 sp</td>
             <td>25 sp</td>
-            <td>Untrained</td>
         </tr>
         <tr>
-            <td colspan="2">Weighted Net</td>
+            <td colspan="2">Weighted Net*</td>
             <td>-</td>
             <td>0</td>
             <td>15 sp</td>
             <td>15 sp</td>
-            <td>Untrained</td>
         </tr>
         <tr>
             <td rowspan="4"><strong>Weapon</strong></td>
@@ -78,7 +70,6 @@
             <td>2</td>
             <td>10 sp</td>
             <td>10 sp</td>
-            <td>Untrained</td>
         </tr>
         <tr>
             <td>Minor</td>
@@ -86,7 +77,6 @@
             <td>1</td>
             <td>5 sp</td>
             <td>5 sp</td>
-            <td>Untrained</td>
         </tr>
         <tr>
             <td>Great (2H)</td>
@@ -94,23 +84,20 @@
             <td>4</td>
             <td>50 sp</td>
             <td>-</td>
-            <td>Trained</td>
         </tr>
         <tr>
             <td>Medium (1/2H)</td>
-            <td>d4/d8</td>
+            <td>d8</td>
             <td>2/3</td>
             <td>20 sp</td>
             <td>50 sp</td>
-            <td>Trained</td>
         </tr>
         <tr>
-            <td colspan="2"><strong><em>Lance (1/2H)</em></strong></td>
+            <td colspan="2"><strong><em>Lance (1/2H)</em></strong>*</td>
             <td>d10</td>
             <td>5</td>
             <td>30 sp</td>
             <td>-</td>
-            <td>Trained</td>
         </tr>
         <tr>
             <td colspan="2"><strong><em>Polearm (2H)</em></strong></td>
@@ -118,23 +105,20 @@
             <td>5</td>
             <td>30 sp</td>
             <td>-</td>
-            <td>Trained</td>
         </tr>
         <tr>
-            <td colspan="2">Rapier</td>
+            <td colspan="2">Rapier*</td>
             <td>d8</td>
             <td>4</td>
             <td>15 sp</td>
             <td>-</td>
-            <td>Trained</td>
         </tr>
         <tr>
             <td colspan="2">Spear (1/2H)</td>
-            <td>d4/d6</td>
+            <td>d6</td>
             <td>4/5</td>
             <td>5 sp</td>
             <td>3 sp</td>
-            <td>Trained</td>
         </tr>
         <tr>
             <td colspan="2">Warflail (2H)</td>
@@ -142,10 +126,12 @@
             <td>3</td>
             <td>20 sp</td>
             <td>10 sp</td>
-            <td>Trained</td>
         </tr>
     </tbody>
 </table>
+
+!!! info "Weapons marked \*"
+    A weapon marked with an asterisk takes real instruction to use at all. A character with no plausible background with one must spend time learning it before it can be wielded effectively; the Referee decides what a character's background already covers.
 
 ---
 ### Generic Weapons
@@ -159,20 +145,20 @@ The generic “weapon” categories are only for rules and reference purposes. C
 | Small               | One-handed weapons, including arming swords and hand axes. |
 | Minor               | One-handed weapons including daggers and clubs.            |
 
-Halflings must wield Medium Weapons in two hands, and they cannot wield Great Weapons.
+Halflings cannot wield Medium or Great Weapons, nor polearms, lances, or any other weapon of comparable size.
 
 ---
 ### Weapon Traits
 
 | Weapon       | Effects                                                                                                                                                                                                          |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Garrote      | Use of this weapon requires an attack from surprise, or a successful grapple. If a hit is scored, the target is considered grappled and will take 1d6 damage per round.                                          |
+| Garrote      | Use of this weapon requires an attack from surprise, or a successful wrestling attempt. If a hit is scored, the target is considered immobilized and will take 1d6 damage per round.                                          |
 | Lance        | This weapon can be used one-handed if charging on horseback. Otherwise, it is effectively a pike polearm.                                                                                                        |
 | Mancatcher   | A successful hit with this weapon requires the victim to pass a Paralysis Save or become helpless, as is the wielder of the mancatcher while the target is being held for purposes of defending against attacks. |
 | Polearm      | This weapon can be used to attack from the second rank or to receive a charge.                                                                                                                                   |
-| Rapier        | This weapon suffers -2 penalty to hit opponents with wearing armor with Armor Rating of 4 and higher.                                                                                                             |
+| Rapier        | This weapon suffers a -2 penalty to hit opponents wearing armor with an Armor Rating of 4 or higher.                                                                                                             |
 | Spear        | When wielded in both hands, this can be used to attack from the second rank or to receive a charge.                                                                                                              |
-| Whip         | This weapon is ineffective against targets with in metal armor, but allows melee attacks on opponents up to 10' away.                                                                                            |
+| Whip         | This weapon is ineffective against targets in metal armor, but allows melee attacks on opponents up to 10' away.                                                                                            |
 | Weighted Net | A successful hit with this weapon requires the victim to pass a Paralysis Save or become helpless. A new Paralysis Save is allowed on each next Round.                                                           |
 
 Some weapons can attack “from the second rank.” This is used when there is a definite battle line in combat. Usually only those on the front line of battle can strike, but those weapons usable from the second rank allow anyone immediately behind the battle line to strike as well.

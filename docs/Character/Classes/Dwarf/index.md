@@ -3,8 +3,6 @@ title: Dwarf
 ---
 # Dwarf
 
-> Dwarves are a demihuman class with a single fixed career path. They do not roll on the human class table.
-
 | Level | Experience | Wounds       | Stamina |
 | ----- | ---------- | ------------ | ------- |
 | 1     | 0          | 1d10 (min 6) | 1d4     |
@@ -26,3 +24,21 @@ title: Dwarf
 | 6     | 8        | 6      | 10     | 7      | 10    |
 
 ### Starting Skills and Possessions
+
+---
+
+## Careers
+
+Dwarf careers:
+
+- [Artisan](Careers/Artisan.md)
+
+- [Brewer](Careers/Brewer.md)
+
+- [Engineer](Careers/Engineer.md)
+
+- [Karak Ranger](Careers/Karak%20Ranger.md)
+
+- [Miner](Careers/Miner.md)
+
+- [Troll Slayer](Careers/Troll%20Slayer.md)

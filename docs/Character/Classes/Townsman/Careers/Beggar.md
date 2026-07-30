@@ -6,7 +6,7 @@ image_alt: Beggar illustration
 ---
 # Beggar
 
-**Class**: [Townsman](../Townsman.md)
+**Class**: [Townsman](../index.md)
 
 **Status**:
 

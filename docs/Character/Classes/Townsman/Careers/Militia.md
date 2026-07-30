@@ -6,7 +6,7 @@ image_alt: Militia illustration
 ---
 # Militia
 
-**Class**: [Townsman](../Townsman.md)
+**Class**: [Townsman](../index.md)
 
 **Status**:
 

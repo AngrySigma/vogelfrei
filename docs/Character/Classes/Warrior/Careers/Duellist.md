@@ -7,7 +7,7 @@ image_alt: Duellist illustration
 ---
 # Duellist
 
-**Class**: [Warrior](../Warrior.md)
+**Class**: [Warrior](../index.md)
 
 **Status**: Silver
 

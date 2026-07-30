@@ -7,7 +7,7 @@ image_alt: Rat Catcher illustration
 ---
 # Rat Catcher
 
-**Class**: [Townsman](../Townsman.md)
+**Class**: [Townsman](../index.md)
 
 **Status**: Silver
 

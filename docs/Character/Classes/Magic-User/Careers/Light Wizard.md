@@ -6,7 +6,7 @@ image_alt: Light Wizard illustration
 ---
 # Light Wizard
 
-**Class**: [Magic-User](../Magic-User.md)
+**Class**: [Magic-User](../index.md)
 
 **Status**:
 

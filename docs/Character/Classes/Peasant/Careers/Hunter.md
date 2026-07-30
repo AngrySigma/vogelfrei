@@ -7,11 +7,11 @@ image_alt: Hunter illustration
 ---
 # Hunter
 
-**Class**: [Peasant](../Peasant.md)
+**Class**: [Peasant](../index.md)
 
 **Status**: Brass
 
-**Skills**: [Bushcraft](Skills#Bushcraft.md), [Searching](Skills#Searching.md), [Stealth](Skills#Stealth.md), [Swim](Skills#Swim.md), [Climb](Skills#Climb.md)
+**Skills**: [Bushcraft](../../../../Adventuring/Skills.md#bushcraft), [Search](../../../../Adventuring/Skills.md#search), [Stealth](../../../../Adventuring/Skills.md#stealth), [Swim](../../../../Adventuring/Skills.md#swim), [Climb](../../../../Adventuring/Skills.md#climb)
 
 | Level | Progression         |
 | ----- | ------------------- |

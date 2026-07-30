@@ -3,7 +3,7 @@
 ### Falling
 Characters suffer 1d6 points of damage per 10' that they fall, up to a maximum of 20d6 for a 200' fall. Falling bypasses Stamina — it happens too fast for trained reflexes to intercept.
 
-**Exception:** Characters with an acrobatics or tumbling skill — at the Referee's discretion, typically available through Rogue careers and similar — may make a skill check when falling. On a success, the fall damage is absorbed by Stamina as normal, representing a roll on landing, a last-moment grab, or using the fall's momentum to redirect impact.
+**Exception:** Characters trained in acrobatics — at the Referee's discretion, typically Rogues and similar — may make a check when falling. On a success, the fall damage is absorbed by Stamina as normal, representing a roll on landing, a last-moment grab, or using the fall's momentum to redirect impact.
 ### Traps
 Dungeons and ruins frequently contain traps, including spear-throwers, covered pits, etc. The Referee will decide what is required to trigger a trap, and what happens when the trap is triggered. In general, there must be some way to avoid or reduce the effect of the trap being sprung. For instance, a save versus Paralyzation is often used to avoid falling into a covered pit, while spearthrowers, automated crossbows, and the like are sometimes treated as if they were monsters (attacking the victim’s Armor Class at a given Attack Bonus).
 

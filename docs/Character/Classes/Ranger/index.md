@@ -28,7 +28,7 @@ title: Ranger
 
 - **Skill Points Progression:** Rangers get Skill Points, which can be used to improve their skills. Each Ranger career has a defined list of skills. Characters start with a base proficiency of 1-in-6 in these skills and can spend Skill Points to improve them.
 
-- **Seasoned Traveler:** Rangers apply 1d4 + Constitution modifier to their per-day travel distance.
+- **Seasoned Traveler:** Rangers apply 1d4 + Toughness modifier to their per-day travel distance.
 
 ---
 
@@ -36,6 +36,14 @@ title: Ranger
 
 Rangers operate in the margins between civilization and the wilds:
 
+- [Boatman](Careers/Boatman.md)
+
 - [Bounty Hunter](Careers/Bounty%20Hunter.md) — a professional tracker who hunts people for pay
+
+- [Coachman](Careers/Coachman.md)
+
+- [Peddlar](Careers/Peddlar.md)
+
+- [Road Warden](Careers/Road%20Warden.md)
 
 - [Sailor](Careers/Sailor.md) — an experienced mariner, at home on sea and along coasts

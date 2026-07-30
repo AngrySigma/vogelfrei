@@ -6,7 +6,7 @@ image_alt: Charlatan illustration
 ---
 # Charlatan
 
-**Class**: [Halfling](../Halfling.md)
+**Class**: [Halfling](../index.md)
 
 **Status**:
 

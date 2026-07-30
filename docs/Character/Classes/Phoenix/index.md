@@ -30,13 +30,13 @@ Not born but made. Somewhere, an alchemist's Great Work succeeded — a rooster 
 
 ## Special Rules
 
-The Phoenix is a bird the size of a large raven. It speaks all languages it knew in the vessel, and its voice carries strangely, like words remembered rather than heard.
+The Phoenix is a bird the size of a pelican. It speaks all languages it knew in the vessel, and its voice carries strangely, like words remembered rather than heard.
 
 
 - **Flight.** Flies at three times the usual speed; walks and hops at half a man's pace.
 - **Talons and beak.** Manipulation as a clever corvid: it can carry one small object, tug a lever, worry at a simple knot or latch — given time and, for fine work, an Agility check. It cannot wield weapons, wear armor, load a firearm, or carry more than a tenth of what a man carries.
 - **Small and quick.** +2 to melee AC and, while flying, +2 to ranged AC. It has no armor and never will.
-- **Enucmbrance** is limited by 2 given the bag or a sack is carried. Otherwise a Phoenix can carry a three items or a single encumbering one.
+- **Encumbrance** is limited to 2 points if a bag or sack is carried. Otherwise a Phoenix can carry three items, or a single encumbering one.
 
 
 ### Phoenix Traits
@@ -66,7 +66,7 @@ At each level past the first, roll 1d20 on the list below. Rolling a Gift alread
 
 | d20 | Gift |
 | --- | ---- |
-| 1  | **Elemental Sense.** Feel open flame and embers within 60', through walls.
+| 1  | **Elemental Sense.** Feel open flame and embers within 60', through walls. |
 | 2  | **Herald.** Small omens announce you always — candles gutter, hair rises, compasses wander. Involuntary. +1 reaction from witches and the learned; −1 from the pious. |
 | 3  | **Quickened Tongue.** Speak with the creatures of your domain such as salamanders and things of ash |
 | 4  | **Arc.** Your Spark leaps to a second target within 10' of the first. *Deepened:* a third target, or +1 damage die size. |
@@ -82,8 +82,8 @@ At each level past the first, roll 1d20 on the list below. Rolling a Gift alread
 | 14 | **Feather of Ransom.** Pluck a living feather (take 1 Wound; it does not regrow until your next rebirth). The feather holds one use of your Spark and anyone may spend it. It can be given, sold, or stolen. |
 | 15 | **Awe.** Unfurl and blaze: hostile beasts check Morale; men save versus Magic or hesitate one round. Once per encounter — and it also triggers *involuntarily* the first time you take a Wound in a fight. |
 | 16 | **The Element's Due.** Your Ward becomes full immunity to fire. *Deepened:* allies within 10' gain your original Ward. |
-| 17 | **Lodestone.** Heat and tallow answers you: at 20' put out or burn a torch, make some flammable object catch fire, head and jak some clockwork. *Deepened (surge):* damage a metal item. Weapons gain -1 to attack, armor gets -1 AC, complex mechanisms require full maintenance. |
-| 18 | **Moult of Ash.** *(surge)*Burst into ash and reform 10' away, escaping any bond, grasp, or snare. Anything carried stays behind. |
+| 17 | **Lodestone.** Heat and tallow answers you: at 20' put out or burn a torch, make some flammable object catch fire, or heat and jam some clockwork. *Deepened (surge):* damage a metal item. Weapons gain -1 to attack, armor gets -1 AC, complex mechanisms require full maintenance. |
+| 18 | **Moult of Ash.** *(surge)* Burst into ash and reform 10' away, escaping any bond, grasp, or snare. Anything carried stays behind. |
 | 19 | **Long Memory.** Touch what your fire has marked — the scorch, the extinguished fire, the bullet hole — and glimpse the moment it happened. |
 | 20 | **Unruly Gift.** Roll twice more and keep both — but every use of either invites surge one step easier. |
 
@@ -139,7 +139,7 @@ If the nest is charged when the Phoenix dies:
 
 #### The Span
 
-The made body lasts **d10** from its cooking. When the span runs out, the Phoenix must enter the nest and be reborn — paying every cost above, willingly or not. Each rebirth begins a new few years, less the years already burned.
+The made body lasts **d10 years** from its cooking. When the span runs out, the Phoenix must enter the nest and be reborn — paying every cost above, willingly or not. Each rebirth begins a new few years, less the years already burned.
 
 ---
 

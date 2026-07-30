@@ -7,7 +7,7 @@ image_alt: Mercenary illustration
 ---
 # Mercenary
 
-**Class**: [Warrior](../Warrior.md)
+**Class**: [Warrior](../index.md)
 
 **Status**: Silver
 

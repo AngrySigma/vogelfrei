@@ -2,7 +2,7 @@
 
 All Clerics are closely watched by their Gods for their doings must be outstanding. The Gods might be silent but not indifferent; they allow Clerics to bless themselves and others. Blessings are minor prayers chanted by Clerics. There is no obvious manifestation of power and many could mix up the blessing effect with great effort, strong will or sheer luck.
 
-Each Cleric knows three blessings given by their God, and new ones may be researched as other Miracles are. In order to chant a blessing, a Cleric should roll a d6. Anything but one means the Gods are in a good mood, and the blessing effect takes place, while one rolled means that the situation is not worthy of even the slightest God’s attention. The blessing holds no power, and the Cleric’s clumsy entreaty sours their deity’s favour: no new Blessings or Miracles will hold any effect for the rest of the day.
+Each Cleric knows three blessings given by their God, determined randomly by rolling 1d20 three times on the table below (reroll duplicates), and new ones may be researched as other Miracles are. In order to chant a blessing, a Cleric should roll a d6. Anything but one means the Gods are in a good mood, and the blessing effect takes place, while one rolled means that the situation is not worthy of even the slightest God’s attention. The blessing holds no power, and the Cleric’s clumsy entreaty sours their deity’s favour: no new Blessings or Miracles will hold any effect for the rest of the day.
 
 |     | Blessing      | Effect                                  |     | Blessing      | Effect                                          |
 | --- | ------------- | --------------------------------------- | --- | ------------- | ----------------------------------------------- |
@@ -15,5 +15,5 @@ Each Cleric knows three blessings given by their God, and new ones may be resear
 | 7   | **Grace**     | +1 to next saving throw                 | 17  | **Tenacity**      | +1 Toughness                                    |
 | 8   | **Hardiness** | +1 Wound if not at 0 Wounds             | 18  | **Wisdom**        | +1 Intelligence                                 |
 | 9   | **Healing**   | Restore 1 Wound                         | 19  | **Wit**           | +1 Agility                                      |
-| 10  | **Hunt**      | +1 to next ranged Attack                | 20  | **Zeal**          | Do not become incapacitated at 0 Wounds         |
+| 10  | **Hunt**      | +1 to next ranged Attack                | 20  | **Zeal**          | At 0 Wounds and lower you can still move, fight and attack |
 

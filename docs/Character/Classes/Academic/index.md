@@ -36,8 +36,14 @@ title: Academic
 
 Academics represent trained professionals and learned specialists:
 
+- [Alchemist](Careers/Alchemist.md)
+
 - [Apothecary](Careers/Apothecary.md) — a herbalist and medicinal practitioner
 
 - [Barber](Careers/Barber.md) — a barber-surgeon skilled in field medicine and minor surgery
 
-- [Engineer](../Dwarf/Careers/Engineer.md) — a technical specialist in construction, siege machinery, and devices
+- [Cartographer](Careers/Cartographer.md)
+
+- [Engineer](Careers/Engineer.md) — a technical specialist in construction, siege machinery, and devices
+
+- [Scholar](Careers/Scholar.md)

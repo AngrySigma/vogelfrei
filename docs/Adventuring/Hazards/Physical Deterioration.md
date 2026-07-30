@@ -66,7 +66,7 @@ For example, the Green River Fever has an incubation period of one week, an inte
 
 ---
 ### Starvation
-A character must eat at least one full meal a day and drink water every day or suffer ill effects. For every 24 hours that a character goes without food, the character must make a save versus Poison or one Constitution point is lost. For every 24 hours that a character goes without water, his Constitution drops by half unless he makes a save versus Poison. After three such failed saves against Poison due to a lack of water, the character will be dead. Constitution losses due to dehydration or starvation recover at twice the usual rate with rest and proper nourishment.
+A character must eat at least one full meal a day and drink water every day or suffer ill effects. For every 24 hours that a character goes without food, the character must make a save versus Poison or one Toughness point is lost. For every 24 hours that a character goes without water, his Toughness drops by half unless he makes a save versus Poison. After three such failed saves against Poison due to a lack of water, the character will be dead. Toughness losses due to dehydration or starvation recover at twice the usual rate with rest and proper nourishment.
 
 ---
 ### Sleep Deprivation

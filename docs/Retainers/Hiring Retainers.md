@@ -50,4 +50,4 @@ Referee will secretly roll 3d6 twice on the following table when a character att
 ---
 ### Strength in numbers
 
-There is no limit on the number of regular hired, but the number of Henchmen is limited to 4 + Leadesrhip modifier.
+There is no limit on the number of regular retainers hired, but the number of Henchmen is limited to 4 + Leadership modifier.

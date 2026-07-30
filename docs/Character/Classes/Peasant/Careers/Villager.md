@@ -6,7 +6,7 @@ image_alt: Villager illustration
 ---
 # Villager
 
-**Class**: [Peasant](../Peasant.md)
+**Class**: [Peasant](../index.md)
 
 **Status**:
 

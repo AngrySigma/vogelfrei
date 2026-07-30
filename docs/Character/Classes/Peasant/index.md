@@ -38,4 +38,12 @@ Peasants come from the lowest rungs of society but carry knowledge the nobility 
 
 - [Hedge Witch](Careers/Hedge%20Witch.md) — a village wise-person with folk magic and herbalism
 
+- [Herbalist](Careers/Herbalist.md)
+
 - [Hunter](Careers/Hunter.md) — a trapper and forager at home in the wilderness
+
+- [Miner](Careers/Miner.md)
+
+- [Scout](Careers/Scout.md)
+
+- [Villager](Careers/Villager.md)
