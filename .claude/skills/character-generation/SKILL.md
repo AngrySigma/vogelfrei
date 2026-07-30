@@ -149,8 +149,9 @@ play) are finished by a per-class skill run on the same `--file`:
 | Class | Skill |
 | --- | --- |
 | Warrior | `class-warrior` (.claude/skills/class-warrior/SKILL.md) |
-| Magic-User | `class-magic-user` — **not written yet** |
-| Cleric | `class-cleric` — **not written yet** |
+| Magic-User | `class-magic-user` (.claude/skills/class-magic-user/SKILL.md) |
+| Cleric | `class-cleric` (.claude/skills/class-cleric/SKILL.md) |
+| Rogue | `class-rogue` (.claude/skills/class-rogue/SKILL.md) |
 | others | none planned yet |
 
 If the class skill exists, follow it now. If not, do the minimum by hand:

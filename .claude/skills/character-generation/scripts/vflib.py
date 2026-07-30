@@ -371,11 +371,33 @@ def find_career(career: str, klass: str | None = None) -> Path:
     die(f"career '{career}' not found{hint}")
 
 
+def career_level1(text: str) -> str:
+    """The level-1 cell of a career's progression table ('' when blank/absent).
+
+    Covers both layouts: '| Level | Progression |' and the spellcaster
+    '| Level | New traits | 1st | 2nd | 3rd |' — the wanted cell is the second
+    one either way.
+    """
+    for line in text.splitlines():
+        m = re.match(r"\|\s*1\s*\|([^|]*)\|", line)
+        if m:
+            return m.group(1).strip()
+    return ""
+
+
+# '+1 BS', '+ 1 WS/BS' — a level-1 combat grant on the career table.
+_COMBAT_GRANT = re.compile(r"\+\s*(\d+)\s*(WS\s*/\s*BS|BS\s*/\s*WS|WS|BS)\b", re.I)
+
+
 def parse_career(path: Path) -> dict:
     text = path.read_text(encoding="utf-8")
     info = {"name": path.stem, "page": str(path.relative_to(repo_root())),
-            "status": None, "combat_skills": None, "skills": None, "trait": None}
-    m = re.search(r"\*\*Status\*\*:\s*([A-Za-z]+)", text)
+            "status": None, "combat_skills": None, "skills": None, "trait": None,
+            "level1": "", "ws_bonus": 0, "bs_bonus": 0, "combat_choice": 0}
+    # NB: the field regexes below use [^\S\n]* rather than \s* on purpose — a
+    # blank '**Skills**:' line must stay blank, not swallow the table that
+    # follows it on the next line.
+    m = re.search(r"\*\*Status\*\*:[^\S\n]*([A-Za-z]+)", text)
     if m:
         info["status"] = m.group(1).capitalize()
     else:
@@ -384,15 +406,26 @@ def parse_career(path: Path) -> dict:
             tag = re.search(r"-\s*(brass|silver|gold)\b", fm.group(1), re.I)
             if tag:
                 info["status"] = tag.group(1).capitalize()
-    m = re.search(r"\*\*Combat Skills\*\*:\s*(.+)", text)
+    m = re.search(r"\*\*Combat Skills\*\*:[^\S\n]*(\S.*)", text)
     if m:
-        info["combat_skills"] = strip_links(m.group(1))
-    m = re.search(r"\*\*Skills\*\*:\s*(.+)", text)
+        info["combat_skills"] = strip_links(m.group(1).strip())
+    m = re.search(r"\*\*Skills\*\*:[^\S\n]*(\S.*)", text)
     if m:
-        info["skills"] = strip_links(m.group(1))
+        info["skills"] = strip_links(m.group(1).strip())
     m = re.search(r'!!!\s+tip\s+"Trait"\n((?:[ \t]+\S.*\n?)*)', text)
     if m:
         info["trait"] = " ".join(line.strip() for line in m.group(1).splitlines()).strip()
+
+    info["level1"] = career_level1(text)
+    g = _COMBAT_GRANT.search(info["level1"])
+    if g:
+        amount, kind = int(g.group(1)), g.group(2).upper().replace(" ", "")
+        if kind in ("WS/BS", "BS/WS"):
+            info["combat_choice"] = amount   # player picks WS or BS
+        elif kind == "WS":
+            info["ws_bonus"] = amount
+        else:
+            info["bs_bonus"] = amount
     return info
 
 
