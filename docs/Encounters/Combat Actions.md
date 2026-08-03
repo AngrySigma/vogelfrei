@@ -4,7 +4,7 @@ Each character can perform a single action on their turn. These given options ce
 
 ---
 ## Move
-A character can move their full movement rate at any round using either normal movement speed, or running one. In case the Character is running through reach of any opponent who did not yet act that turn, they may perform an attack against the Character. That attack can be declared as a wrestling attempt.
+A character can move their full movement rate at any round using either normal movement speed, or running one. In case the Character is running through reach of any opponent who did not yet act that turn, they may perform an attack against the Character. That attack costs the opponent their action for the Round, and can be declared as a wrestling attempt.
 
 If the Character moves their normal combat distance, they can perform a usual Attack afterwards.
 
@@ -46,10 +46,7 @@ When a Character makes an attack, follow these steps:
 
     Most non-human opponents do not use any arms and armour, but their base AC may vary greatly from very high for small agile creatures to almost zero for colossal ones.
 
-3. *Check for a Counterattack*
-    Your enemies don't stand still while you cut them. If the Opponent's **Weapon Length** is at least equal to the Attacker's and they have not yet acted this Round, they may attempt a Counterattack. This option is only available to characters with at least **Weapon Skill 1**.
-
-4. *Roll for Attack*
+3. *Roll for Attack*
     - The attacking player rolls **d20**.
     - Add **Weapon Skill** to the roll in **Melee** or **Ballistic Skill** in **Ranged**
     - Apply **Strength Bonus** to the roll in **Melee** or **Agility Bonus** in **Ranged**
@@ -62,14 +59,25 @@ When a Character makes an attack, follow these steps:
     | Shorter weapon             | -2           |
     | Unarmed                    | -4           |
 
-    The reach advantage of a longer weapon is not a to-hit bonus — it is the Counterattack option (see below). A shorter weapon must work past a longer one to land, taking the listed penalty. Close-combat (inside-the-reach) rules are forthcoming; until then, the Wrestling action covers the case where a shorter-weapon fighter wants to neutralise reach.
+    The reach advantage of a longer weapon is not a to-hit bonus — it is the penalty the shorter weapon pays to work its way past. This table applies **at measure**, the distance at which a fight opens. A fighter who gets inside a longer weapon escapes it entirely, and can turn it against its owner; see [Measure and Reach](Measure%20and%20Reach.md).
 
-    - Compare the result to the Opponent's AC. If the roll is higher, the attack lands.
+    - Compare the result to the Opponent's AC. **If the roll equals or exceeds the AC, the attack lands.**
 
-5. *Calculate Damage*
+4. *Calculate Damage*
     - Roll the **Weapon Damage** die to determine damage dealt.
 
 Damage rules are detailed in [Damage](../Adventuring/Hazards/Damage.md) Section.
+
+### Critical Hits
+
+A **natural 20** on an attack roll always hits, whatever the target's AC and whatever the modifiers. A **natural 1** always misses. This mirrors the convention already used for saving throws.
+
+A natural 20 is a **Critical Hit**. Its damage is applied **directly to Wounds**, bypassing Stamina — and because losing Wounds costs an equal amount of Stamina, the target pays the damage total twice over, once from each pool. No amount of battle-readiness closes the gap a perfect blow finds.
+
+Against a target with **no Stamina** — monsters and unintelligent creatures, or anyone already reduced to 0 — a Critical Hit instead deals **double damage** to Wounds.
+
+!!! note "Double damage"
+    Wherever this book calls for double damage — a Mounted Charge, a braced weapon receiving a charge — roll the weapon's damage dice **twice** and total the result. Double damage is applied normally, depleting Stamina first. It is not a Critical Hit and does not bypass Stamina.
 
 ??? example
     **Attacker — Kurt:** Weapon Skill 4, Strength Bonus +1, Short sword (Small, length 2, 1d6)
@@ -78,14 +86,19 @@ Damage rules are detailed in [Damage](../Adventuring/Hazards/Damage.md) Section.
 
     **Hans's AC:** 8 (base) + 2 (Agility) + 2 (Weapon Skill) + 2 (Armour Rating) = **14**
 
-    Hans has the longer weapon and has not yet acted, so he may Counterattack before Kurt's blow resolves. He goes for a parade-riposte; this finishes Hans's Round, and he cannot then act on his initiative.
-
     *Kurt is using the shorter weapon, so he rolls d20 and adds Weapon Skill (4) + Strength Bonus (+1) + Weapon Length (-2) = +3:*
 
-    - *Roll = 5: total 8 — miss. Does not exceed AC 14.*
-    - *Roll = 11: total 14 — miss. The total must be **higher** than the AC, and 14 only matches it.*
-    - *Roll = 12: total 15 — hit. Kurt rolls 1d6 for damage.*
+    - *Roll = 5: total 8 — miss.*
+    - *Roll = 11: total 14 — hit. The total need only **match** the AC, not beat it.*
     - *Roll = 18: total 21 — hit. Kurt rolls 1d6 for damage.*
+    - *Roll = 1: miss regardless of the total.*
+    - *Roll = 20: hit regardless of the total, and a Critical Hit. Kurt's 1d6 comes straight off Hans's Wounds, taking an equal bite out of his Stamina with it.*
+
+    **Now suppose Hans answers.** Kurt declares his attack; before any dice are rolled, Hans declares a **Counterattack**. His rapier is a proper weapon for it and he has not yet acted.
+
+    Hans's Weapon Skill no longer counts toward his AC, which drops to **12** — so Kurt now hits on a roll of 9 rather than 11. In exchange, Hans strikes at the same moment: d20 + Weapon Skill (2) + Weapon Length (0, his rapier is longer) against Kurt's AC.
+
+    Both blows land together. If each kills the other, both die — Hans has bought a guaranteed answer with the opening in his guard.
 
 ---
 
@@ -93,7 +106,10 @@ Damage rules are detailed in [Damage](../Adventuring/Hazards/Damage.md) Section.
 | ------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | Attacking an Unaware Opponent               | +2 to attack roll; target only retains Armour Rating and Base AC                                   |
 | Attacking a Prone Opponent                  | +4 to attack roll in Melee; −4 to attack roll in Ranged                                            |
-| Opponent with WS 1+ has longer or equal weapon | Opponent may Counterattack (see below)                                                           |
+| Attacking an Opponent with WS 1+ and a proper weapon | Opponent may spend their action to Counterattack (see below)                                   |
+| Natural 20 on the attack roll               | Always hits; damage applies directly to Wounds, bypassing Stamina                                   |
+| Natural 1 on the attack roll                | Always misses                                                                                       |
+| Fighting inside an Opponent's reach         | Weapon Length does not apply; a weapon 2+ grades longer deals only d3                               |
 | Attacking a Helpless Opponent               | Automatically deal maximum weapon damage in Melee                                                   |
 | Outnumbering two-on-one                     | +2 to attack roll                                                                                   |
 | Outnumbering three-on-one                   | +4 to attack roll                                                                                   |
@@ -109,19 +125,36 @@ Damage rules are detailed in [Damage](../Adventuring/Hazards/Damage.md) Section.
 | Mounted combat                              | −4 to ranged attack rolls; +1 to melee attack roll and −1 to Opponent's AC; double damage after running |
 
 ### Counterattack
-When a character with Weapon Skill 1 or better is attacked by an Opponent wielding a weapon of shorter or equal length, and has not yet acted this Round, they may perform a Counterattack: they strike first, before the Attacker's blow resolves.
+Your enemies do not stand still while you cut them. A character attacked in melee, who has **Weapon Skill 1 or better**, holds a **proper weapon**, and has **not yet acted** this Round, may declare a Counterattack. They strike back at the same moment as the blow aimed at them.
 
-Committing to an immediate offensive response leaves the Defender exposed: their Weapon Length provides no defence for the remainder of the Round. The Attacker's Weapon Length bonus is unaffected.
+- The Counterattack must be declared **before the attack roll is made**. A defender who waits to see whether the blow lands has waited too long.
+- It costs the Defender their action for the Round. They cannot act again on their own initiative.
+- For the rest of the Round, the Defender's **Weapon Skill does not count toward their AC** — every attacker benefits, not just the one they answered. They still add Weapon Skill to the Counterattack roll itself.
+- Both attacks are resolved and their damage applied **simultaneously**, exactly as with tied [Initiative](Initiative.md). A dying man's arm still finishes its stroke, and two fighters can quite easily kill one another.
+
+Otherwise the Counterattack is an ordinary attack: Weapon Length, reach, and every other modifier apply as usual.
+
+!!! tip "A proper weapon"
+    A Counterattack demands a weapon you can check mid-stroke and send back along another line. A sword, a rapier, a staff, even a zweihander in trained hands — all fine. A club, an axe, a pike, a flail, or whatever you snatched off the table is not: once it is swinging, it goes where it was sent. The Referee has the final say, and should rule on how the weapon is *used*, not on what the table calls it.
+
+!!! note "Why anyone would"
+    The Defender's AC drops and the Attacker's does not, so striking first is still better than waiting to answer — initiative keeps its value. What the Counterattack buys is certainty: a blow that cannot be pre-empted, landing even if it kills you. Answer a foe who might drop you in one hit; do not answer a mob.
+
+### Brace
+A character wielding a weapon long enough to be set against an approach — a Polearm, a Spear in both hands, or a Lance on foot — may spend their action to Brace it.
+
+Until the character's next turn, they attack **simultaneously** with the **first** enemy who reaches them, striking [at measure](Measure%20and%20Reach.md) as that enemy closes the distance. If that enemy was **charging** — running to reach them — the braced weapon deals **double damage**.
+
+Only the first enemy is met this way. A braced pike is a terrible thing to run onto, and no help at all against the second man behind him.
 
 !!! note
-    The Counterattack finishes the actions of both the Attacker and the Defender for the Round. The Attacker still resolves their attack afterwards, unless they are slain by the Counterattack.
-
+    An opponent who spends their action attempting to get **inside** the braced weapon's reach is an enemy reaching the wielder, and triggers the Brace. Closing on a set spear is exactly as unwise as it sounds — though a Close attempt at a walk is not a charge, and does not suffer the doubling.
 
 ### Change Weapons and Attack
 If a character is not holding the weapon that he wants to use, he can drop what is in his hands and draw a weapon (assuming the weapon is in an accessible place such as on a belt scabbard). There is a –2 penalty to their attack roll during the Round that this happens.
 
 ### Wrestling
-A character may attempt to wrestle another character to either immobilize or take something out of that character's hands. The attacker must have both hands free or wield a weapon effective for wrestling. The defender, if he is armed and has not yet acted during the Round, can immediately make an attack against the aggressor before the wrestling attempt is resolved.
+A character may attempt to wrestle another character to either immobilize or take something out of that character's hands. The attacker must have both hands free or wield a weapon effective for wrestling. A defender who is armed and has not yet acted may answer with a [Counterattack](#counterattack) on the usual terms — it costs their action and their Weapon Skill no longer counts toward their AC — resolved simultaneously with the wrestling attempt.
 
 Wrestling is resolved with a contested roll. Both parties roll 1d20 and apply both their Weapon Skill and Strength modifier. Ties are decided by Agility modifier, or a die roll if both are still tied. The winner decides whether the loser is immobilized, if he will attempt to disarm the loser of the contest, or if he releases the loser. An immobilized opponent can usually take no action other than attempting to escape on his next action, but can instead attack a wrestling opponent with natural or minor weapons. Resolve this with another wrestling roll. Any character immobilized for three successive wrestling contests is considered pinned and helpless — no further attempts to escape can be made. If disarmament is attempted (and this includes snatching any held object, not just taking away weapons), the defender must make a save versus Paralyzation to keep hold of the object that his attacker is attempting to take.
 
@@ -182,3 +215,7 @@ During this time, the Character can be attacked as an Unaware Opponent; if the C
 ---
 ## Hold Action
 Sometimes winning the Initiative over a foe is not all that advantageous because it is important to know what the opponent is going to do before deciding for oneself. Any action can be held until the end of the Round, and at the time the action is taken, it happens simultaneously, not before other actions are taken. For instance, if waiting for an enemy to close later in the Round before attacking, when that enemy closes both attacks happen simultaneously; the one holding his action does not act first.
+
+Waiting with a weapon half-raised costs something: a held action suffers **−2** when it is finally taken.
+
+The Character must name the **trigger** when the action is held — an enemy closing, a caster beginning his incantation, a door opening. Holding an action is a prediction, not a reaction; a defender who wants to answer a blow already aimed at him is making a [Counterattack](#counterattack), and pays for it in AC rather than accuracy.

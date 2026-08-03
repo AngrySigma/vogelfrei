@@ -16,7 +16,7 @@ Encounter pipeline is as follows:
 
 4. [Roll for initiative at the start of each Round](Initiative.md)
 
-5. [Move to Combat](Combat%20Actions.md)
+5. [Move to Combat](Combat%20Actions.md), minding [Measure and Reach](Measure%20and%20Reach.md)
 
 When any side has gained the upper hand, you may need the following rules:
 

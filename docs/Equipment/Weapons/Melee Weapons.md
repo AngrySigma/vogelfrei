@@ -133,6 +133,8 @@
 !!! info "Weapons marked \*"
     A weapon marked with an asterisk takes real instruction to use at all. A character with no plausible background with one must spend time learning it before it can be wielded effectively; the Referee decides what a character's background already covers.
 
+**Length** is the weapon's grade of reach, from 0 (a fist or an improvised object) to 5 (a pike). It decides who can strike whom at a distance and what happens when a fighter works their way inside — see [Measure and Reach](../../Encounters/Measure%20and%20Reach.md).
+
 ---
 ### Generic Weapons
 
@@ -153,11 +155,11 @@ Halflings cannot wield Medium or Great Weapons, nor polearms, lances, or any oth
 | Weapon       | Effects                                                                                                                                                                                                          |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Garrote      | Use of this weapon requires an attack from surprise, or a successful wrestling attempt. If a hit is scored, the target is considered immobilized and will take 1d6 damage per round.                                          |
-| Lance        | This weapon can be used one-handed if charging on horseback. Otherwise, it is effectively a pike polearm.                                                                                                        |
+| Lance        | This weapon can be used one-handed if charging on horseback. Otherwise, it is effectively a pike polearm, and can be used to [Brace](../../Encounters/Combat%20Actions.md#brace) on foot.                        |
 | Mancatcher   | A successful hit with this weapon requires the victim to pass a Paralysis Save or become helpless, as is the wielder of the mancatcher while the target is being held for purposes of defending against attacks. |
-| Polearm      | This weapon can be used to attack from the second rank or to receive a charge.                                                                                                                                   |
+| Polearm      | This weapon can be used to attack from the second rank, or to [Brace](../../Encounters/Combat%20Actions.md#brace) against an approaching enemy.                                                                   |
 | Rapier        | This weapon suffers a -2 penalty to hit opponents wearing armor with an Armor Rating of 4 or higher.                                                                                                             |
-| Spear        | When wielded in both hands, this can be used to attack from the second rank or to receive a charge.                                                                                                              |
+| Spear        | When wielded in both hands, this can be used to attack from the second rank, or to [Brace](../../Encounters/Combat%20Actions.md#brace) against an approaching enemy.                                             |
 | Whip         | This weapon is ineffective against targets in metal armor, but allows melee attacks on opponents up to 10' away.                                                                                            |
 | Weighted Net | A successful hit with this weapon requires the victim to pass a Paralysis Save or become helpless. A new Paralysis Save is allowed on each next Round.                                                           |
 
