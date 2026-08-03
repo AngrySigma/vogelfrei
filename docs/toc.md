@@ -50,7 +50,7 @@ All items available for purchase during character creation or between expedition
 *   **[Armor](./Equipment/Armor.md)** — armor types, their Armor Rating, and encumbrance.
 
 *   **[Weapons](./Equipment/Weapons/index.md)** — weapon categories, requirements, and combat properties:
-    *   [Melee Weapons](./Equipment/Weapons/Melee%20Weapons.md) — hand-to-hand weapons, reach, and special qualities.
+    *   [Melee Weapons](./Equipment/Weapons/Melee%20Weapons.md) — hand-to-hand weapons, length, and special qualities.
     *   [Ranged Weapons](./Equipment/Weapons/Ranged%20Weapons.md) — bows, crossbows, slings, and thrown weapons.
     *   [Firearms](./Equipment/Weapons/Firearms.md) — black powder weapons and their rules.
 
@@ -105,6 +105,8 @@ The full encounter pipeline, from first contact to resolution.
 
 *   **[Initiative](./Encounters/Initiative.md)** — how turn order is determined each round.
 
-*   **[Combat Actions](./Encounters/Combat%20Actions.md)** — the full list of actions available in a round: Move, Flee, Attack, Counterattack, Wrestle, and more.
+*   **[Combat Actions](./Encounters/Combat%20Actions.md)** — the full list of actions available in a round: Move, Flee, Attack, Counterattack, Brace, Wrestle, and more.
+
+*   **[Measure and Reach](./Encounters/Measure%20and%20Reach.md)** — fighting distance: closing inside a long weapon's reach, and forcing it back out.
 
 *   **[Morale](./Encounters/Morale.md)** — when NPCs and monsters check morale and what happens when they fail.

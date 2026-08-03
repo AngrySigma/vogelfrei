@@ -7,6 +7,11 @@ Stamina represents the ability of a trained character to control a dangerous sit
 !!! important "Battle-ready"
     **Stamina is a separate pool from Wounds.** All incoming damage depletes Stamina first. Only when Stamina reaches 0 does excess damage carry over into Wounds. A character with Stamina remaining cannot be pushed below 0 Wounds in a single hit unless the damage exceeds both pools combined.
 
+!!! danger "A wound takes the fight out of you"
+    **Whenever a character loses Wounds, they lose an equal amount of Stamina**, to a minimum of 0. Torn flesh does not leave a fighter's readiness intact: a knife in the kidney costs you both the blood and the will to keep dancing.
+
+    This matters most for damage that skips the Stamina pool entirely. A poisoned or ambushed character cannot be driven to their last Wound and then carry on fighting fresh — the wound strips their Stamina with it, and the next ordinary blow goes straight to the bone.
+
 !!! tip "Beast Nature"
     **Only intelligent, trained beings have Stamina.** Monsters and unintelligent creatures do not — all damage they receive goes directly to their Wounds. Their durability comes from toughness, size, and natural armour, not from experience or readiness.
 
@@ -18,6 +23,8 @@ Not all damage can be avoided through skill. The following sources go directly t
 
 - **Attacking a helpless or paralyzed target** — the body cannot answer; skill is irrelevant
 
+- **Critical hits** — a natural 20 finds the gap no amount of readiness can close (see [Combat Actions](../../Encounters/Combat%20Actions.md#critical-hits))
+
 - **Poison and venoms** — physiological; no amount of experience stops a toxin already in the blood
 
 - **Falling** — too fast for trained reflexes to intercept; see [Environmental](Environmental.md) for the exception available to certain careers
@@ -27,7 +34,7 @@ Area effects — explosions, spell blasts, breath weapons, collapsing ceilings �
 ---
 ### Damage
 
-When a character (or creature) suffers damage, the amount is deducted from Stamina first; only once Stamina is exhausted does damage reduce Wounds.
+When a character (or creature) suffers damage, the amount is deducted from Stamina first; only once Stamina is exhausted does damage reduce Wounds. Any Wounds lost carry an equal loss of Stamina with them, whether the damage arrived through the Stamina pool or bypassed it.
 
 A character reduced to **0 Wounds or fewer** cannot carry equipment or stand, and can do nothing but crawl at a movement rate of 10'. They may instead spend a single action — casting a spell, or standing up to move and attack — after which they faint for 1d6 hours.
 
