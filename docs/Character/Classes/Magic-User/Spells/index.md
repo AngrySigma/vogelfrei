@@ -47,3 +47,45 @@ class: magic-user
 20. [Summon](Level%201/Summon.md)
 
 21. [Unseen Servant](Level%201/Unseen%20Servant.md)
+
+### Level 2
+
+1. [Audible Glamour](Level%202/Audible%20Glamour.md)
+
+2. [Change Self](Level%202/Change%20Self.md)
+
+3. [Detect Invisible](Level%202/Detect%20Invisible.md)
+
+4. [ESP](Level%202/ESP.md)
+
+5. [Force of Forbidment](Level%202/Force%20of%20Forbidment.md)
+
+6. [Forget](Level%202/Forget.md)
+
+7. [Invisibility](Level%202/Invisibility.md)
+
+8. [Knock](Level%202/Knock.md)
+
+9. [Levitate](Level%202/Levitate.md)
+
+10. [Light, Continual](Level%202/Light%2C%20Continual.md)
+
+11. [Locate Object](Level%202/Locate%20Object.md)
+
+12. [Magic Mouth](Level%202/Magic%20Mouth.md)
+
+13. [Mirror Image](Level%202/Mirror%20Image.md)
+
+14. [Phantasmal Force](Level%202/Phantasmal%20Force.md)
+
+15. [Ray of Enfeeblement](Level%202/Ray%20of%20Enfeeblement.md)
+
+16. [Speak with Animals](Level%202/Speak%20with%20Animals.md)
+
+17. [Stinking Cloud](Level%202/Stinking%20Cloud.md)
+
+18. [Wall of Fog](Level%202/Wall%20of%20Fog.md)
+
+19. [Web](Level%202/Web.md)
+
+20. [Wizard Lock](Level%202/Wizard%20Lock.md)

@@ -7,6 +7,106 @@ window.VF_PAGES = {
       "advanced"
     ]
   },
+  "Character/Classes/Magic-User/Spells/Level 2/Audible Glamour/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 2/Change Self/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 2/Detect Invisible/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 2/ESP/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 2/Force of Forbidment/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 2/Forget/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 2/Invisibility/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 2/Knock/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 2/Levitate/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 2/Light, Continual/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 2/Locate Object/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 2/Magic Mouth/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 2/Mirror Image/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 2/Phantasmal Force/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 2/Ray of Enfeeblement/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 2/Speak with Animals/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 2/Stinking Cloud/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 2/Wall of Fog/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 2/Web/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 2/Wizard Lock/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
   "Retainers/Basic Retainers/": {
     "tiers": [
       "simple"
