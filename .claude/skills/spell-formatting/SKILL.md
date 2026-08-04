@@ -6,20 +6,31 @@ description: Format a Vogelfrei spell or miracle page into the fixed docs layout
 # Spell & miracle page formatting
 
 Turns spell text into a docs page that matches the existing pages exactly,
-and **reports** anything that does not line up with the current rules
-instead of quietly fixing it.
+and **reports** the places where its mechanics no longer fit Vogelfrei's
+rules instead of quietly fixing them.
 
 Two separate jobs, both mandatory:
 
 1. **Fix the format.** The frontmatter and the details card are a strict
    contract — the CSS and JS both parse them (see `CLAUDE.md`). Get these
    byte-exact.
-2. **Mark the inconsistencies.** Anything in the source text that conflicts
-   with Vogelfrei's rules is *left in place* and listed in your response for
-   the user to decide. You do not invent rulings.
+2. **Mark the mechanical inconsistencies.** Where the spell drives a
+   subsystem Vogelfrei has rebuilt, leave the text as it stands and list it
+   in your response for the user to rule on.
 
-Never resolve a rules conflict on your own initiative. Formatting is yours;
-rules are the user's.
+An inconsistency is **mechanical, not verbal**. Wording is yours to
+normalise silently; rules are the user's to decide.
+
+- Not an inconsistency: the source says *Armor Class*, *mêlée*, *Evil*,
+  *Fighter*. Standardise these on the majority spelling in `docs/` without
+  mentioning it — see `reference/house-style.md`.
+- **Is** an inconsistency: the spell deals damage on a scale built for hit
+  points, when Vogelfrei characters have a handful of Wounds. Or it grants
+  a flat Armor Class when Vogelfrei builds AC from components. That is a
+  rules decision and it goes in the report.
+
+Never invent a conversion factor, rescale a die, or reinterpret an effect
+on your own initiative.
 
 ## Where the page goes
 
@@ -74,6 +85,10 @@ Rules the parsers depend on:
   existing page has both. If the source has neither or has extra fields
   (`Area of Effect`, `Reversed`), keep the two-line card and report it.
 - Blank line after the card, then the body.
+- **`tier:`** goes last, after `tags`, when the page is gated to a game tier
+  (`tier: advanced` — shorthand for that tier and every higher one; `tiers:
+  [simple]` for an exact set). No key means the page shows in every tier.
+  Adding or changing it means re-running the manifest generator, below.
 
 ### Body
 
@@ -120,38 +135,56 @@ Collect them while converting and put them at the **end of your response**,
 never inside the page. Do not edit the rules to match, and do not silently
 drop the offending sentence.
 
-`reference/terminology.md` has the known LotFP → Vogelfrei mappings and the
-places where the docs already disagree with themselves. Apply the settled
-mappings silently — those are not inconsistencies. Report anything else.
+`reference/mechanics.md` documents the rebuilt subsystems, with the numbers
+and the already-converted precedents. Read it before converting anything
+that deals damage, heals, or touches AC.
 
-What to report:
+What counts — the spell drives one of these:
 
-- **Unmapped terminology** — a term with no Vogelfrei equivalent, or one
-  where the docs are split (`Armor Rating` vs `Armor Class`).
-- **Missing subsystem** — the text leans on a rule Vogelfrei has not
-  defined, or one it defines differently.
-- **Existing page conflict** — the spell already exists in `docs/` with
-  different numbers. Vogelfrei has deliberately rebalanced some spells
-  (Magic Missile is `1d3`/level, not `1d4`). **Never overwrite a
-  divergence** — keep the existing page's numbers and report the difference.
-- **Dangling cross-reference** — a link target that does not exist.
-- **Missing home** — no `Level N` directory or nav block for that level yet.
-- **Class mismatch** — the source lists the spell for a class Vogelfrei
-  assigns differently.
+- **Damage that bypasses Stamina** — poison above all, and effects on
+  unaware, helpless or paralyzed targets. Wounds alone are about a third of
+  the pool the source balanced against, so this damage is roughly three
+  times as lethal. Damage that runs through Stamina first is close to
+  proportionate and is the milder case.
+- **Healing.** Restores Wounds directly, so it is worth about three times
+  what the source intended — a `1d6+level` heal covers a Warrior's whole
+  Wound track by 5th level.
+- **Per-level damage**, which outruns a Wound track that barely grows.
+- **Stamina, unstated.** Damage should say whether it lands on Stamina first
+  or bypasses it. The source predates the pool and never says.
+- **Armor Class.** LotFP grants absolute values ("AC 19"); Vogelfrei
+  composes AC and needs an explicit bonus, split Melee/Ranged where the
+  source distinguishes missiles from other attacks.
+- **Damage reduction.** Vogelfrei armour makes you harder to hit and is
+  explicitly *not* damage-resistant, so any flat "reduces damage" grant
+  conflicts with the stated principle.
+- **Death and 0 Wounds.** Save-or-die and "kills anything under N HD"
+  effects bypass the critical-injury table that Vogelfrei resolves dying
+  through.
+- **Undefined subsystem.** The effect needs a rule Vogelfrei has not
+  written.
 
-Report as a table, most blocking first, each row saying what the source
-said, what the docs say, and what you did:
+Also report, though these are cheaper to settle:
+
+- **Existing page conflict** — the spell already exists with different
+  numbers. Some are deliberate rebalances. **Never overwrite one**: keep the
+  page's values and report the difference.
+- **Dangling cross-reference**, and **missing home** (no `Level N`
+  directory or nav block yet).
+
+Report as a table, most blocking first:
 
 ```markdown
 ### Inconsistencies
 
-| Spell | Kind | Source says | Vogelfrei | Left as |
+| Spell | Subsystem | Source | Vogelfrei | Left as |
 |---|---|---|---|---|
-| Magic Missile | Existing conflict | 1d4/level | 1d3/level | kept 1d3, not overwritten |
-| Cloudkill | Missing subsystem | kills ≤3 HD outright | no HD-threshold rule | verbatim, needs a ruling |
+| Fireball | Damage scale | 1d6/level, ~17 at L5 | Warrior peaks near 12 Wounds | verbatim — needs a ruling |
+| Cloudkill | Death | kills ≤3 HD outright | critical injury at 0 Wounds | verbatim — bypasses the table |
+| Prismatic Sphere | Armor Class | absolute AC | AC is composed | verbatim — needs a bonus |
 ```
 
 If nothing conflicts, say so in one line — do not pad the table.
 
-When converting in bulk, still report per spell. A long table is the
-correct output; do not summarise it away or truncate it to examples.
+When converting in bulk, still report per spell. A long table is the correct
+output; do not summarise it away or truncate it to examples.
