@@ -42,8 +42,6 @@ Dungeon doors are rarely cooperative. Locked and stuck doors are handled by the 
 
 **Listening at doors:** in a quiet moment, any Character has a 1 in 6 chance to make out faint sounds through a door — muttering, shuffling, the click of claws. The Referee always rolls this in secret, so the listener never knows whether the roll failed or there is simply nothing to hear. Each Character gets one attempt per door. Some things — the patient dead among them — make no sound at all.
 
-**Doors swing shut:** doors opened by explorers tend to close behind them, by weight, draft, or worse. A door can be held open with an iron spike or other wedge. The denizens of a dungeon can usually open their own doors freely, even ones that stick fast for intruders — unless the door is spiked, barred, or held by magic.
-
 **A failed attempt to force a door** ends any chance of Surprise against whatever waits on the other side.
 
 ## Searching
