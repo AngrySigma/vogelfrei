@@ -188,12 +188,12 @@ Cover is protection behind something that can actually block incoming attacks. E
 ### Firing into Melee
 Firing into melee with a missile weapon is a very uncertain thing. The Character suffers −4 to their attack roll. If the attack misses solely because of this penalty, it still hits — but the target is determined randomly among all engaged characters.
 
-Significantly larger characters or monsters in a mêlée count as two characters for random targeting purposes, and truly gargantuan creatures can be fired upon using the normal rules.
+Significantly larger characters or monsters in a melee count as two characters for random targeting purposes, and truly gargantuan creatures can be fired upon using the normal rules.
 
 ### Firing into Crowds
 A Character may choose to fire into a group of targets standing together. They gain +1 to their attack roll for each target after the first. If the attack hits, the target is determined randomly among all characters in the group.
 
-Significantly larger characters or monsters in a mêlée count as two characters for random targeting purposes, and truly gargantuan creatures can be fired upon using the normal rules.
+Significantly larger characters or monsters in a melee count as two characters for random targeting purposes, and truly gargantuan creatures can be fired upon using the normal rules.
 
 ---
 ## Cast a Spell

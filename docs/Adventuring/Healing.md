@@ -18,7 +18,7 @@ Healing restores Wounds and ability scores only to their normal maximum, never m
 
 Stamina recovers faster than Wounds, but it still demands rest. Characters with depleted Stamina are not injured — they are exhausted, and increasingly exposed to real harm with every fight they take.
 
-**1-hour rest:** After 6 Turns (one hour) of uninterrupted rest, a character rolls their class Stamina die (d4, d3, or d2 depending on class tier) and recovers that many Stamina points, up to their maximum. This may be taken anywhere, including inside a dungeon, but the Referee makes a Wandering Encounter check for each Turn spent resting. Characters on watch or actively moving cannot benefit.
+**1-hour rest:** After 6 Turns (one hour) of uninterrupted rest, a character rolls their class Stamina die (d4, d3, or d2 depending on class tier), adds their Toughness modifier, and recovers that many Stamina points (always at least 1), up to their maximum. This may be taken anywhere, including inside a dungeon, but the Referee makes a Wandering Encounter check for each Turn spent resting. Characters on watch or actively moving cannot benefit.
 
 **Full recovery:** A full night of sleep in a safe location (an inn, a secured camp) restores Stamina completely. The same conditions that prevent Wounds recovery apply: characters in a dungeon or similarly hostile environment cannot fully restore Stamina there.
 

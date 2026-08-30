@@ -8,7 +8,7 @@ icon: lucide/table-of-contents
 ## 📜 Character Creation
 Everything needed to bring a character into the world of Vogelfrei.
 
-*   **[Ability Scores](./Character/Ability%20Scores.md)** — roll 3d6 in order for Strength, Toughness, Agility, Intelligence, Willpower, and Leadership; note modifiers and decide on one swap.
+*   **[Ability Scores](./Character/Ability%20Scores.md)** — roll 3d6 in order for Strength, Intelligence, Willpower, Agility, Toughness, and Leadership; note modifiers and decide on one swap.
 
 *   **[Class and Career](./Character/Class%20and%20Career.md)** — roll or choose a social class, then your career within it; determines Wounds, Weapon Skill, Ballistic Skill, Saving Throws, and starting Talents.
 
