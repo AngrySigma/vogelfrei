@@ -48,6 +48,15 @@ The character’s Intelligence modifier is applied to the final number of requir
 | Creating a Potion                                | Spell Level × 1d6 Days               | 50 sp/day |
 | Creating a Wand or Staff                         | Total Spell Levels × 10 × 1d6 Days   | 50 sp/day |
 
+!!! example "Worked Example: Researching a New Spell"
+    Grete, a 3rd level Grey Wizard with Intelligence 15 (+1), wants a spell of her own invention: *Doorstep*, which steps the caster through a closed door and out the other side. She writes it up in the format of the other spells in the lists and shows the Referee, who compares it against existing magic — it does less than a true passage spell, more than Hold Portal undone — and judges it a fair **2nd level spell**. It is a wholly original spell, so research costs 30sp per day.
+
+    Grete's library is worth 2,500sp — above the 1,000sp per spell level required — so the time is not doubled. The true time needed is Spell Level × 4d6 days: the Referee secretly rolls 4d6 = 13, for 26 days, less 1 day for Grete's Intelligence modifier — **25 days**, a number only the Referee knows.
+
+    Now the player must commit blind. Declaring too few days loses everything; every day declared costs 30sp whether needed or not. She declares **28 days** and pays 840sp. Twenty-eight days of uninterrupted work pass in game — and since 28 is at least the secret 25, the research succeeds. *Doorstep* is entered into her spellbook: a spell no other character in the game possesses.
+
+    Had she gambled on 20 days, the entire 600sp and every day of work would have been wasted, with a 10% chance of a curse into the bargain — and no way to know any of it until the twentieth day had come and gone.
+
 ## Libraries and Laboratories
 Magic-Users use libraries and laboratories to assist their magical activities. Each library or laboratory is ranked on its cost; for every 500 sp in value a library is worth, a ten foot square is needed to store the books, and every 1,000 sp a laboratory is worth requires a square of space. These are non-transportable (at least, not without major effort, and certainly not as part of normal travel). Laboratory and library elements can only be purchased in large cities. Libraries and laboratories discovered and somehow transported only add 1d100% of their value to the looter’s own, due to possible duplication, differences in methods, etc., between mages.
 

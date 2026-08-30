@@ -23,8 +23,6 @@ Not all damage can be avoided through skill. The following sources go directly t
 
 - **Attacking a helpless or paralyzed target** — the body cannot answer; skill is irrelevant
 
-- **Critical hits** — a natural 20 finds the gap no amount of readiness can close (see [Combat Actions](../../Encounters/Combat%20Actions.md#critical-hits))
-
 - **Poison and venoms** — physiological; no amount of experience stops a toxin already in the blood
 
 - **Falling** — too fast for trained reflexes to intercept; see [Environmental](Environmental.md) for the exception available to certain careers
@@ -36,36 +34,31 @@ Area effects — explosions, spell blasts, breath weapons, collapsing ceilings �
 
 When a character (or creature) suffers damage, the amount is deducted from Stamina first; only once Stamina is exhausted does damage reduce Wounds. Any Wounds lost carry an equal loss of Stamina with them, whether the damage arrived through the Stamina pool or bypassed it.
 
-A character reduced to **0 Wounds or fewer** cannot carry equipment or stand, and can do nothing but crawl at a movement rate of 10'. They may instead spend a single action — casting a spell, or standing up to move and attack — after which they faint for 1d6 hours.
-
-Being reduced to 0 Wounds or fewer also causes a **critical injury**. Roll 1d4 and add the number of Wounds below zero the character has reached. For example, a character with 2 Wounds who takes 4 damage is driven to -2 Wounds and rolls 1d4+2. Any damage received while already at 0 Wounds or fewer kills the character instantly.
+What happens when a character's Wounds run out depends on exactly how far past zero the damage drives them. The outcome is read straight from the total — there is no separate severity roll. Damage taken while already at 0 or below pushes the total further negative as usual; apply the outcome for the new total.
 
 !!! note "Examples assume no Stamina"
     Every damage example in this book is written as though the character has already been reduced to 0 Stamina. Stamina always depletes first, so a character with Stamina remaining absorbs the blow there instead and never reaches the Wounds column at all.
 
-| Roll Total | Effect                         |
-| ---------- | ------------------------------ |
-| 1-3        | Knocked out. No lasting damage |
-| 4-5        | Minor wound                    |
-| 6-7        | Permanent injury               |
-| 8+         | Death                          |
+| Wounds | Outcome |
+| ------ | ------- |
+| 0 | **Helpless but conscious.** Cannot carry equipment or stand; can do nothing but crawl at 10'. |
+| −1 | **Falls unconscious.** No lasting harm. |
+| −2 | **Unconscious, with a light injury** at the struck location — a scar, a broken bone, lost teeth, or a bleeding wound that will kill within moments unless someone binds it. |
+| −3 | **Unconscious, with a permanent injury** at the struck location — severed tendons, a lost eye, a ruined limb. |
+| −4 | **Dying.** Too far gone to fight, but granted one Turn of final lucidity — enough for last words — and then death, whatever is done. |
+| −5 or lower | **Instant death.** |
+
+**The final action:** at 0 Wounds or any negative total short of −5, the character may first complete one single action — finishing a spell, or standing up to move and strike one last blow. A dying hand still closes. After that action, the outcome above takes hold; a character at exactly 0 Wounds who spends it faints for 1d6 hours instead.
 
 #### Determine target location
 
-Severity tells you how bad the injury is; location tells you where it landed. Roll 1d6 for the region struck, then roll on that region's table for the exact spot. The Referee narrates what that means in play.
+When the outcome includes an injury (−2 and −3), roll **d66** for where it landed — two d6, the first read as tens, the second as ones. The first die is the region: 1 is the head, 2–3 the torso, 4 the primary arm, 5 the off arm, 6 a leg (the Referee picks which, or any odd–even roll decides). The Referee narrates what the spot means in play.
 
-| d6  | Region |
-| --- | ------ |
-| 1   | Head   |
-| 2-3 | Torso  |
-| 4-5 | Arm    |
-| 6   | Leg    |
-
-| d6 | Head        | Torso    | Arm (d2: primary / secondary) | Leg (d2: left / right) |
-| -- | ----------- | -------- | ----------------------------- | ---------------------- |
-| 1  | Scalp       | Shoulder | Shoulder joint                | Hip                    |
-| 2  | Face        | Chest    | Upper arm                     | Thigh                  |
-| 3  | Jaw         | Ribs     | Elbow                         | Knee                   |
-| 4  | Ear         | Gut      | Forearm                       | Shin                   |
-| 5  | Eye         | Back     | Wrist                         | Ankle                  |
-| 6  | Skull       | Spine    | Hand                          | Foot                   |
+| d66 | 1 | 2 | 3 | 4 | 5 | 6 |
+| --- | -- | -- | -- | -- | -- | -- |
+| **1 — Head** | Scalp | Face | Jaw | Ear | Eye | Skull |
+| **2 — Torso** | Shoulder | Chest | Ribs | Gut | Back | Spine |
+| **3 — Torso** | Shoulder | Chest | Ribs | Gut | Back | Spine |
+| **4 — Primary arm** | Shoulder joint | Upper arm | Elbow | Forearm | Wrist | Hand |
+| **5 — Off arm** | Shoulder joint | Upper arm | Elbow | Forearm | Wrist | Hand |
+| **6 — Leg** | Hip | Thigh | Knee | Shin | Ankle | Foot |

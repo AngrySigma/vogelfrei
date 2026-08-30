@@ -5,7 +5,7 @@ title: Classes
 
 Each character belongs to one Class, which defines their core abilities and available Careers. Human classes have multiple Careers to choose from; demihuman classes have a single fixed path.
 
-> **Note:** Class and Career are determined by rolling on the [Class and Career](../index.md) table — you do not freely choose your class. However, knowing the options helps when reviewing your roll.
+> **Note:** Rolling on the [Class and Career](../Class%20and%20Career.md) tables is an option, not an obligation — a player is always free to simply choose their class and career instead. Roll when you want the dice to decide who you were born as.
 
 ## Human Classes
 

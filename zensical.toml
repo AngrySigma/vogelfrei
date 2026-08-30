@@ -261,8 +261,11 @@ nav = [
     ] },
     { "Adventuring" = [
         "Adventuring/index.md",
+        "Adventuring/Party Organization.md",
         "Adventuring/Skills.md",
         "Adventuring/Time and Movement.md",
+        "Adventuring/Dungeon Exploration.md",
+        "Adventuring/Wilderness Travel.md",
         { "Hazards" = [
             "Adventuring/Hazards/index.md",
             "Adventuring/Hazards/Damage.md",
@@ -280,6 +283,7 @@ nav = [
         "Encounters/Initiative.md",
         "Encounters/Combat Actions.md",
         "Encounters/Measure and Reach.md",
+        "Encounters/Monsters and NPCs.md",
         "Encounters/Morale.md",
     ] },
 ]

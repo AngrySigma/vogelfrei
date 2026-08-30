@@ -68,16 +68,12 @@ When a Character makes an attack, follow these steps:
 
 Damage rules are detailed in [Damage](../Adventuring/Hazards/Damage.md) Section.
 
-### Critical Hits
+### Natural 1 and 20
 
-A **natural 20** on an attack roll always hits, whatever the target's AC and whatever the modifiers. A **natural 1** always misses. This mirrors the convention already used for saving throws.
-
-A natural 20 is a **Critical Hit**. Its damage is applied **directly to Wounds**, bypassing Stamina — and because losing Wounds costs an equal amount of Stamina, the target pays the damage total twice over, once from each pool. No amount of battle-readiness closes the gap a perfect blow finds.
-
-Against a target with **no Stamina** — monsters and unintelligent creatures, or anyone already reduced to 0 — a Critical Hit instead deals **double damage** to Wounds.
+A **natural 20** on an attack roll always hits, whatever the target's AC and whatever the modifiers, and deals normal damage. A **natural 1** always misses. This mirrors the convention already used for saving throws.
 
 !!! note "Double damage"
-    Wherever this book calls for double damage — a Mounted Charge, a braced weapon receiving a charge — roll the weapon's damage dice **twice** and total the result. Double damage is applied normally, depleting Stamina first. It is not a Critical Hit and does not bypass Stamina.
+    Wherever this book calls for double damage — a Mounted Charge, a braced weapon receiving a charge — roll the weapon's damage dice **twice** and total the result. Double damage is applied normally, depleting Stamina first.
 
 ??? example
     **Attacker — Kurt:** Weapon Skill 4, Strength Bonus +1, Short sword (Small, length 2, 1d6)
@@ -92,7 +88,7 @@ Against a target with **no Stamina** — monsters and unintelligent creatures, o
     - *Roll = 11: total 14 — hit. The total need only **match** the AC, not beat it.*
     - *Roll = 18: total 21 — hit. Kurt rolls 1d6 for damage.*
     - *Roll = 1: miss regardless of the total.*
-    - *Roll = 20: hit regardless of the total, and a Critical Hit. Kurt's 1d6 comes straight off Hans's Wounds, taking an equal bite out of his Stamina with it.*
+    - *Roll = 20: hit regardless of the total. Kurt rolls his 1d6 damage as usual.*
 
     **Now suppose Hans answers.** Kurt declares his attack; before any dice are rolled, Hans declares a **Counterattack**. His rapier is a proper weapon for it and he has not yet acted.
 
@@ -107,7 +103,7 @@ Against a target with **no Stamina** — monsters and unintelligent creatures, o
 | Attacking an Unaware Opponent               | +2 to attack roll; target only retains Armour Rating and Base AC                                   |
 | Attacking a Prone Opponent                  | +4 to attack roll in Melee; −4 to attack roll in Ranged                                            |
 | Attacking an Opponent with WS 1+ and a proper weapon | Opponent may spend their action to Counterattack (see below)                                   |
-| Natural 20 on the attack roll               | Always hits; damage applies directly to Wounds, bypassing Stamina                                   |
+| Natural 20 on the attack roll               | Always hits                                                                                         |
 | Natural 1 on the attack roll                | Always misses                                                                                       |
 | Fighting inside an Opponent's reach         | Weapon Length does not apply; a weapon 2+ grades longer deals only d3                               |
 | Attacking a Helpless Opponent               | Automatically deal maximum weapon damage in Melee                                                   |
@@ -159,6 +155,11 @@ A character may attempt to wrestle another character to either immobilize or tak
 Wrestling is resolved with a contested roll. Both parties roll 1d20 and apply both their Weapon Skill and Strength modifier. Ties are decided by Agility modifier, or a die roll if both are still tied. The winner decides whether the loser is immobilized, if he will attempt to disarm the loser of the contest, or if he releases the loser. An immobilized opponent can usually take no action other than attempting to escape on his next action, but can instead attack a wrestling opponent with natural or minor weapons. Resolve this with another wrestling roll. Any character immobilized for three successive wrestling contests is considered pinned and helpless — no further attempts to escape can be made. If disarmament is attempted (and this includes snatching any held object, not just taking away weapons), the defender must make a save versus Paralyzation to keep hold of the object that his attacker is attempting to take.
 
 If there are multiple opponents attempting to wrestle a single defender, all attackers make their rolls as normal, but only the best roll is used with a +1 bonus for each additional attacker. Creatures whose physiology or special abilities suggest that they have an advantage when wrestling (tentacles, adhesive, multiple limbs) gain a further +1 bonus to their wrestling roll per Hit Die.
+
+### Subdue
+A character can try to beat an intelligent opponent senseless rather than kill them — for ransom, for questioning, or for the watch. The intent must be declared before the attack, and only **blunt blows** qualify: bludgeons, fists, a pommel, or the flat of a blade. Bladed weapons used flat-side suffer a −2 penalty to the attack roll.
+
+Attack and damage are rolled normally, but **subdual damage** is noted separately from real damage. It depletes Stamina first like any other damage; an opponent whose Wounds would be reduced to 0 by subdual damage instead falls senseless or surrenders, having understood perfectly well that the victor could have killed them. No injury is rolled and there is no risk of death. Subdual damage fades quickly — all of it recovers after an hour of rest.
 
 ### Full Defence
 Characters can decide to focus entirely on defence at the expense of all other activity. A player is free to declare Full Defence at any point during the Round, even out of Initiative sequence, provided that the character has not yet acted. This adds +2 to the Character's AC for the Round, or +4 AC if the Character has Weapon Skill 1 or better.

@@ -148,3 +148,10 @@ Other uses of Tinkering (setting traps, for example, or jury-rigging impromptu d
 A character gets one attempt to use Tinkering on any particular object. If that one attempt fails, the character must gain a level before attempting to manipulate that object again.
 
 The base chance of success for Tinkering is 1 in 6.
+
+---
+### Ability Checks <span class="badge-special">Optional</span> { #ability-checks }
+
+Skills come first: if any skill on this list plausibly covers the task at hand, roll that skill — the Referee determines which one applies. But when a challenge fits no skill at all — holding a door shut against something heaving on the other side, drinking a rival under the table, recalling a face glimpsed years ago — the Referee may instead call for an ability check.
+
+To make an ability check, roll 1d20 and try to get **equal to or under** the relevant ability score. The Referee may apply a modifier for difficulty: −4 to the roll for an easy task, +4 for a hard one. Because the check is roll-under, the extreme rolls invert their usual meaning: a natural 1 always succeeds, and a natural 20 always fails.

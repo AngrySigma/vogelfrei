@@ -4,7 +4,7 @@ Damaged characters who have at least half of their Wounds remaining recover 1 Wo
 
 Characters who have less than half of their Wounds remaining are in worse shape. They recover nothing from a night’s rest, and recover only 1 Wound by resting a full day.
 
-A character at 0 Wounds or fewer cannot carry equipment or stand, and can do nothing but crawl at a movement rate of 10'. They may instead spend a single action — casting a spell, or standing up to move and attack — after which they faint for 1d6 hours. See [Damage](Hazards/Damage.md) for the full rule.
+A character at 0 Wounds is helpless but conscious — able to do nothing but crawl, or spend one final action and faint for 1d6 hours. Characters driven below 0 are unconscious, injured, or dead by how far past zero they fell. See [Damage](Hazards/Damage.md) for the full rule.
 
 If the character rests the entire day in a comfortable bed in a clean room, then an additional 1 Wound is recovered.
 
