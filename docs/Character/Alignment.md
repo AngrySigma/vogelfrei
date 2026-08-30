@@ -14,4 +14,4 @@ The howling maelstrom beyond the veil of shadows and existence is the source of 
 
 # Neutral
 
-To be Neutral is merely to exist between the forces of Order and Chaos. Mortal beings exist as Neutral creatures, and remain so throughout their existence unless taking specific steps (often unwittingly) to align themselves otherwise. In fact, most beings would be rather displeased with the notion of pure Order and Chaos, as they are defined in alignment terms. Even most who would claim allegiance to Order or Chaos are not actually Orderly or Chaotic. In the real world, every human being that has ever existed has been Neutral.
+To be Neutral is merely to exist between the forces of Order and Chaos. Mortal beings exist as Neutral creatures, and remain so throughout their existence unless taking specific steps (often unwittingly) to align themselves otherwise. Even most who would claim allegiance to Order or Chaos are not actually Orderly or Chaotic. In the real world, every human being that has ever existed has been Neutral.

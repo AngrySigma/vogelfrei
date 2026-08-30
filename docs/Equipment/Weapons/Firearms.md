@@ -193,7 +193,7 @@ Matchlocks use the following rules:
 
 * Damp conditions (most dungeons count as being damp) double the chances of misfiring (which in this case means the powder is too wet to ignite).
 
-* Wet conditions (rain, etc.) quadruples the chances of misfiring (powder too wet to ignite).
+* Wet conditions (rain, etc.) quadruples the chances of misfiring.
 
 * Wet cord or powder cannot be used until it dries.
 ### Wheellock
@@ -220,7 +220,6 @@ Flintlock modification to the firearms rules:
 * Does not require a burning match, allowing for stealth movement
 ### Rifled Barrel
 
-Rifled guns are slower to load as the same thing that controls a bullet leaving the barrel makes it impossible to quickly jam shot, powder, and wadding down the barrel in the first place.
 Rifling:
 
 * Eliminates the increased range penalties of firearms.

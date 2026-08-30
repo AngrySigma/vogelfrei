@@ -14,7 +14,7 @@ Underground and indoor exploration — ruins, crypts, mines, cellars, and every 
 
 ## Movement
 
-When exploring unknown areas, Characters cover their movement rate in feet per Turn — see [Time and Movement](Time%20and%20Movement.md) for rates by encumbrance. This pace looks absurdly slow on paper. It accounts for darkness, caution, mapping, watching the floor for tripwires and the ceiling for worse, and being able to react when something happens.
+When exploring unknown areas, Characters cover their movement rate in feet per Turn — see [Time and Movement](Time%20and%20Movement.md) for rates by encumbrance. The pace accounts for darkness, caution, mapping, watching the floor for tripwires and the ceiling for worse, and being able to react when something happens.
 
 In areas the party already knows, the Referee may allow faster movement — three times the exploring rate is reasonable. Running is possible, and is what [Flee!](../Encounters/Combat%20Actions.md#flee) is for.
 
@@ -22,7 +22,7 @@ In areas the party already knows, the Referee may allow faster movement — thre
 
 After five Turns of exploration, Characters must rest for one Turn. A party that presses on without resting suffers a −1 penalty to attack and damage rolls until it rests for a full Turn.
 
-This is distinct from the one-hour rest that restores Stamina — six uninterrupted Turns, with a Wandering Encounter check for each; see [Healing](Healing.md). The short rest keeps the party functional; the long one restores its readiness. Neither restores anything if interrupted by unwelcome company.
+This is distinct from the one-hour rest that restores Stamina — six uninterrupted Turns, with a Wandering Encounter check for each; see [Healing](Healing.md). Neither restores anything if interrupted by unwelcome company.
 
 ## Light and Darkness
 
@@ -58,7 +58,7 @@ Beyond the creatures the Referee has placed, dungeons have traffic: patrols, sca
 
 - Wandering monsters arrive from a direction of the Referee's choosing, moving toward the party; determine the starting gap with [Encounter Distance](../Encounters/Encounter%20Distance.md) — underground, visibility is the ceiling.
 
-- Wanderers are met on the move, away from their lairs and their hoards. They carry danger and, usually, nothing worth dying for. The XP is a pittance and the treasure is their teeth: the correct response to most wandering monsters is to not be there.
+- Wanderers are met on the move, away from their lairs and their hoards. They carry danger and, usually, nothing worth dying for.
 
 ## Dungeon Levels
 

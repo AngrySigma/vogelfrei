@@ -11,7 +11,7 @@ This is where fights begin, and where they stay unless somebody does something a
 
 - The **Weapon Length** table from [Combat Actions](Combat%20Actions.md) applies as written: −2 for the shorter weapon, −4 unarmed.
 - A [Braced](Combat%20Actions.md#brace) weapon strikes here, as the enemy comes on.
-- Long weapons are unhindered. This is what they are for.
+- Long weapons are unhindered.
 
 ---
 ## Getting Inside
@@ -20,7 +20,7 @@ This is where fights begin, and where they stay unless somebody does something a
 
 Roll **d20 + Weapon Skill** against **8 + the opponent's Weapon Skill**. Equal or greater succeeds, as with any attack.
 
-No Strength, no Agility, no Armour Rating, no shield. This is footwork and timing against footwork and timing, and nothing else. Between two fighters of equal skill it is a coin-flip, as it should be.
+No Strength, no Agility, no Armour Rating, no shield. This is footwork and timing against footwork and timing, and nothing else.
 
 On a success you are **inside the reach** of that opponent.
 
@@ -32,9 +32,7 @@ On a success you are **inside the reach** of that opponent.
 While two fighters are inside one another's reach:
 
 - The **Weapon Length** table does not apply between them. Neither takes the shorter-weapon penalty. A dagger is as good as a sword here.
-- If one weapon is **two or more length grades longer** than the other, the longer weapon deals only **d3** damage and gains nothing whatever from its length. There is no room to use it. Its wielder is reduced to shoving with the haft and hoping.
-
-This is the whole reason to close, and it is decisive rather than incremental — worth losing a Round over.
+- If one weapon is **two or more length grades longer** than the other, the longer weapon deals only **d3** damage and gains nothing whatever from its length. There is no room to use it.
 
 | Matchup | Grades apart | Inside the reach |
 | --- | --- | --- |
@@ -48,8 +46,6 @@ This is the whole reason to close, and it is decisive rather than incremental �
 
 Re-opening the measure is also your **action** for the Round, and it is contested by the same roll — **d20 + Weapon Skill** against **8 + the opponent's Weapon Skill**. The man inside your guard is working just as hard to stay there as you are to be rid of him.
 
-This is why a spearman cannot simply step back and stab every Round. Once someone is inside your reach, getting them back out costs you as much as it cost them to arrive.
-
 !!! note
     Movement alone never changes the measure. Withdrawing from the fight entirely is a different matter, and still provokes an attack from any opponent whose reach you run through — see [Move](Combat%20Actions.md#move).
 
@@ -60,7 +56,4 @@ Measure is tracked **between two fighters**, never for the battlefield as a whol
 
 A pikeman with a cutpurse inside his reach is still **at measure** with everyone else. He is in real trouble with the cutpurse — d3 and no length — and can still set his pike against the thug charging in from the flank. Each is a separate argument about distance, and each is resolved on its own terms.
 
-In practice a character tracks one opponent at most, so this stays manageable at the table. Note it on the character sheet, or put the two figures touching.
-
-!!! tip "For the Referee"
-    This is the rule that keeps polearms honest without making them useless. A formation of spearmen is devastating until somebody gets in among them, and then it is a shambles — but only for the spearmen who actually have someone in among them. That is exactly how it went historically, and it gives light-armed troops something to do besides die.
+Note it on the character sheet, or put the two figures touching.

@@ -238,7 +238,7 @@ tier: base
 
 <a  id="accountant"></a>
 #### Accountant
-Households are largely disorganized affairs. Any household with five or more retainers that does not include an accountant, increases its running costs by 1d20% in any particular month as money slips through the cracks.
+Any household with five or more retainers that does not include an accountant, increases its running costs by 1d20% in any particular month as money slips through the cracks.
 
 <a  id="alchemist"></a>
 #### Alchemist
@@ -246,7 +246,7 @@ An alchemist reduces the amount of laboratory time needed for any magical resear
 
 <a  id="animal-handler"></a>
 #### Animal Handler
-While it is assumed that an odd animal here and there can be taken care of by its owner, having large numbers of animals on a property without anyone to see to their proper management creates a chaos of its own. Any property which has at least five animals (meant for hauling, work, or riding) needs an Animal Handler, and one Handler is required for each twenty such animals.
+Any property which has at least five animals (meant for hauling, work, or riding) needs an Animal Handler, and one Handler is required for each twenty such animals.
 
 <a  id="armorer"></a>
 #### Armorer
@@ -254,7 +254,7 @@ Armorers are required to forge new armor and weapons and to keep existing armame
 
 <a  id="butler"></a>
 #### Butler
-A household can be a very disorganized place. If a character wanted to deal with all of the aspects of handling the day-to-day issues of running both his household and his retainers, then he would be a boss rather than an adventurer or explorer. A Butler (sometimes called a Steward) acts as head of the household and interacts with the staff so that the master of the house does not have to. If there are at least three different types of retainers (not counting sailors or mercenaries), then a Butler is necessary or the Morale of the retainers drops by one.
+A Butler (sometimes called a Steward) acts as head of the household and interacts with the staff so that the master of the house does not have to. If there are at least three different types of retainers (not counting sailors or mercenaries), then a Butler is necessary or the Morale of the retainers drops by one.
 
 <a  id="coachman"></a>
 #### Coachman
@@ -295,11 +295,11 @@ A character under the care of a physician in comfortable, safe surroundings (not
 
 <a  id="sailor"></a>
 #### Sailor
-Sailors, it will come as no surprise, man ships of the sea. They can handle every duty on board, from scrubbing the decks to repelling pirates. For every ten sailors, there must be a mate to organize them or the sailors’ Morale drops by one. Sailors are assumed to live on their ship.
+Sailors man ships of the sea. They can handle every duty on board, from scrubbing the decks to repelling pirates. For every ten sailors, there must be a mate to organize them or the sailors’ Morale drops by one. Sailors are assumed to live on their ship.
 
 <a  id="sailor-captain"></a>
 #### Sailor, Captain
-A ship full of sailors is not going to respect a landlubber, no matter how competent (or rich) he is. A proper sea captain is necessary to organize and command a ship’s crew, else the crew’s Morale drops by one.
+A proper sea captain is necessary to organize and command a ship’s crew, else the crew’s Morale drops by one.
 
 <a  id="sailor-navigator"></a>
 #### Sailor, Navigator
@@ -315,21 +315,21 @@ A scholar reduces the amount of laboratory time needed for any magical research 
 
 <a  id="servant"></a>
 #### Servant
-Every proper household requires servants to answer the door, bring the tea, cook meals, tidy up, run messages, and generally make life convenient and comfortable for the master of the house. Guests of importance will feel that they are in a home of ill-breeding if they are not greeted, and waited upon, by a servant. There should be one servant per five rooms on the property and one servant per ten individuals living on the premises.
+Every proper household requires servants to answer the door, bring the tea, cook meals, tidy up, run messages, and generally make life convenient and comfortable for the master of the house. There should be one servant per five rooms on the property and one servant per ten individuals living on the premises.
 
 <a  id="slave"></a>
 #### Slave
-Slaves are intelligent beings who are owned by others. Many societies frown upon (to various degrees, some quite severely) the owning of slaves that are the same race/religion/ethnicity as the predominant population, but look back to real world history and one can find a great many examples of slavery in practice. The role and extent of slavery in the campaign world is determined by the Referee.
+Slaves are intelligent beings who are owned by others. The role and extent of slavery in the campaign world is determined by the Referee.
 
-A slave costs 50 sp, or 20 sp if purchased as a child. A slave will cost more if he has a specialized skill. A slave counts as half a person in a property’s food budget since they are often fed leftovers or sub-standard fare, even when otherwise treated well. Slaves also require half the usual space of living space required.
+A slave costs 50 sp, or 20 sp if purchased as a child. A slave will cost more if he has a specialized skill. A slave counts as half a person in a property’s food budget and requires half the usual living space.
 
 <a  id="slave-master"></a>
 #### Slave Master
-Even well-treated slaves are still slaves and not willing workers. For every ten slaves, a slave master is needed to oversee them.
+For every ten slaves, a slave master is needed to oversee them.
 
 <a  id="spy"></a>
 #### Spy
-Well-to-do households and powerful families need to know what is happening in the private halls of others like them—even if just to be made aware of hostile intentions. Just the same, every household of influence will be targeted by others hoping to get information about it and its master. As his cover, a spy will perform the tasks of a regular retainer, but is paid an extra sum to snoop around a bit and report all relevant information back to his employer. A spy is always a long-term employee.
+As his cover, a spy will perform the tasks of a regular retainer, but is paid an extra sum to snoop around a bit and report all relevant information back to his employer. A spy is always a long-term employee.
 
 <a  id="teamster"></a>
 #### Teamster

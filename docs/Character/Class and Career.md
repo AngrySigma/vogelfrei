@@ -1,7 +1,7 @@
 # Roll a character class and career
 
-Every Player Character must choose a class or roll for it. All people encountered in the game world will have a class, most with no career advances, and those are known as zero level characters. 
-Class represents the social stratum of a character. Most Characters can expect others to instantly recognize their occupation and social position, and many Characters wear livery that clearly identifies their exact origin. Magic-users are a special class as they form a very specific community within themselves and rarely fit well with commoners. Lastly, other races never blend with human society, and such minorities as Dwarves, Elves and Halflings always form a separate social group, many believe them to be lost to history or be just a myth from the start.
+All people encountered in the game world will have a class, most with no career advances, and those are known as zero level characters. 
+Class represents the social stratum of a character. Most Characters can expect others to instantly recognize their occupation and social position, and many Characters wear livery that clearly identifies their exact origin. Magic-users are a special class as they form a very specific community within themselves and rarely fit well with commoners. Lastly, other races never blend with human society, and such minorities as Dwarves, Elves and Halflings always form a separate social group.
 You can either choose a class, or roll using the table below.
 
 | 2d6 roll | Class                                              |
@@ -66,7 +66,7 @@ Randomly determine the character’s starting Wounds (W) according to the level 
 | High Elf   | 4              |
 | Wood Elf   | 4              |
 
-The character’s starting Wounds are the maximum Wounds the character can ever have without gaining a level. While the character will lose Wounds in various ways during the course of adventuring, there are different methods of healing damage done. No amount of healing can cause the character to gain more than his normal maximum number of Wounds.
+The character’s starting Wounds are the maximum Wounds the character can ever have without gaining a level. No amount of healing can cause the character to gain more than his normal maximum number of Wounds.
 
 # Determine Stamina
 

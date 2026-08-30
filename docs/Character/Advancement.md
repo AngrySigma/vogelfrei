@@ -1,10 +1,10 @@
 # Advancement
 
-Experience Points (XP) are a measure of improvement and progress for Player Characters. They are the way that the game “keeps score.” However, like many other concepts in this game, XP is an abstract concept and not a literal measure of the experiences that a Character has had or what a Character has learned. Not all Character actions and successes will result in XP awards, nor will all adventures involve XP. At the end of every session of play, Experience Points will be awarded to Characters who participated in the game. These Experience awards are to be divided equally amongst the surviving participants of the adventure. Characters present for portions of the adventure should only get a share of Experience for the activities in which they participated. Experience Points are gained in two ways — Defeating Enemies and Recovering Treasure.
+Experience Points (XP) are a measure of improvement and progress for Player Characters. At the end of every session of play, Experience Points will be awarded to Characters who participated in the game, divided equally amongst the surviving participants of the adventure. Characters present for portions of the adventure should only get a share of Experience for the activities in which they participated. Experience Points are gained in two ways — Defeating Enemies and Recovering Treasure.
 
 # Defeating Enemies
 
-Defeating enemies is a minor way of gaining experience. This is not a game about combat or slaying foes; these activities are simply frequent necessities in the harsh reality of the game. Characters who prefer to fight when it is unnecessary are lunatics, possibly psychotic, and not likely to survive long in a game run by a competent Referee. To count for XP purposes, an “enemy” must be a threat and predisposed to hostility towards the player Characters. Randomly slaying a villager, slaughtering livestock, hunting, etc., does not count towards XP rewards.
+Defeating enemies is a minor way of gaining experience. To count for XP purposes, an “enemy” must be a threat and predisposed to hostility towards the player Characters. Randomly slaying a villager, slaughtering livestock, hunting, etc., does not count towards XP rewards.
 
 For purposes of XP, “defeating” is defined as winning a battle against a foe where force of arms is used or at least threatened. An enemy must be brought to 0 Wounds, or lose a Morale check, or surrender in order to count as having been “defeated.” Sneaking past, tricking, or negotiating with an enemy may prevent combat and lead to other rewards, but it does not translate to XP. Using magic to neutralize or pacify an enemy does count, so spells such as Sleep or Charm do count towards “defeating” an opponent.
 
@@ -62,7 +62,7 @@ When a Character earns enough Experience Points to qualify for the next level, t
 
 If the class table shows a Wounds increase at this level (+1 in the Wounds column), add 1 to both the current and maximum Wounds in the same way, regardless of any injuries the Character has sustained.
 
-Spellcasting Characters must still prepare all spells as normal. The increased number of spells available to cast does not automatically make the number of spells already prepared instantly increase as well.
+Spellcasting Characters must still prepare all spells as normal.
 
 Magic-Users and Elves who gain a free spell for their spellbook must still research that spell as usual and take the usual amount of time. It simply will not cost the money that researching a spell usually does.
 

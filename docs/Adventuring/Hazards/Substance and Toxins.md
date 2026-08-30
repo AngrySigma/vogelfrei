@@ -3,13 +3,13 @@
 ### Drugs & Alcohol
 Drugs are treated much as poison would be, but the effects of a failed saving throw (no save if intentionally using drugs) are usually much less severe than death. The Referee will determine the effects of specific drugs in his campaign.
 
-Alcohol is far more pernicious, as it is quite common for most everyone to use it to excess, as beer and wine are often safer to drink than plain water. Teetotalers will be extremely rare. Drunk characters are –2 to Agility and all saving throws.
+Alcohol is far more pernicious, as it is quite common for most everyone to use it to excess, as beer and wine are often safer to drink than plain water. Drunk characters are –2 to Agility and all saving throws.
 
 ---
 ### Poison
 There are a variety of ways that a character can become poisoned. When exposed to poison, the character must make a saving throw against Poison or suffer the effects. Typical effects of a poison are instant death, falling into a deep slumber, the loss of Wounds, or perhaps the reduction in one or more ability scores. Only all-or-nothing effects are considered to be poison. Poisons that cause gradual or incremental effects are considered to be drugs for rules purposes.
 
-Poison bypasses Stamina entirely: no amount of experience stops a toxin already in the blood. See [Damage](Damage.md).
+Poison bypasses Stamina entirely; see [Damage](Damage.md).
 
 ---
 ### Poisons for Purchase
@@ -24,7 +24,7 @@ Each poison is described by:
 
 - **Onset** — the delay before the effect strikes. "Instant" means before the victim can react in any way.
 
-- **Effect** — what a failed (and, for ingested poisons, a successful) save brings. Damage from poison goes straight to Wounds.
+- **Effect** — what a failed (and, for ingested poisons, a successful) save brings.
 
 #### Bloodstream Poisons
 

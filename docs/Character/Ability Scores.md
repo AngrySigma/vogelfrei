@@ -31,7 +31,7 @@ Strength is a measure of a character’s raw power. Strength modifiers affect a 
 | Stuck doors | Added to the Doors skill chance |
 
 **Intelligence**
-Intelligence is the measure of a character’s knowledge prior to the start of play. Intelligence does not measure a character’s memory or ability to solve puzzles; it is the player’s wits that must be used in these situations. Intelligence modifiers affect the character’s ability to learn languages, are added to the character’s own saving throw rolls against Magic-User spells, and for Magic-Users it affects the time (and thus expense) required to research spells and create magic items.
+Intelligence is the measure of a character’s knowledge prior to the start of play. Intelligence modifiers affect the character’s ability to learn languages, are added to the character’s own saving throw rolls against Magic-User spells, and for Magic-Users it affects the time (and thus expense) required to research spells and create magic items.
 
 | Intelligence Modifier | Effect |
 | --------------------- | ------ |
@@ -40,7 +40,7 @@ Intelligence is the measure of a character’s knowledge prior to the start of p
 | Magic-User research and scribing | Reduces the required days by the modifier |
 
 **Willpower**
-Willpower is the measure of a character’s connection to the greater universe, and the strength of the character’s spirit. Willpower modifiers affect the character’s non-spell related saving throw rolls, and for Clerics it affects the time (and thus expense) required to research spells and create holy items. Willpower cannot tell if a character should flee the battle or fight to death, it is the player’s own judgement which must be used in these situations.
+Willpower is the measure of a character’s connection to the greater universe, and the strength of the character’s spirit. Willpower modifiers affect the character’s non-spell related saving throw rolls, and for Clerics it affects the time (and thus expense) required to research spells and create holy items.
 
 | Willpower Modifier | Effect |
 | ------------------ | ------ |
@@ -66,7 +66,7 @@ Toughness is the measure of a character’s health, vitality, and overall consti
 | Stamina recovery | Added to the Stamina die rolled after an hour’s rest |
 
 **Leadership**
-Leadership is the measure of a character’s aptitude for gaining obeyance and the respect that others bestow on the character’s authority. It is not a measure of the appeal of a character’s personality (the player must portray the character’s personality) nor a measure of the character’s beauty. Leadership modifiers affect the character’s ability to hire retainers and secure their loyalty, and set the limit on henchmen.
+Leadership is the measure of a character’s aptitude for gaining obeyance and the respect that others bestow on the character’s authority. Leadership modifiers affect the character’s ability to hire retainers and secure their loyalty, and set the limit on henchmen.
 
 | Leadership Modifier | Effect |
 | ------------------- | ------ |

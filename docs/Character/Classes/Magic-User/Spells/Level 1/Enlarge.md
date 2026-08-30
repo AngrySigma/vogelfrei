@@ -10,7 +10,7 @@ tags:
 **Duration**: 1 Turn/level  
 **Range**: 5'/level  
 
-The forces of magic do not recognize the relationships of size and distance between things; it is the limitations of the mind’s ability to master magic that results in strictures such as “spell range,” but sometimes the infinite nature of magic can be applied to material objects. This spell causes instant growth (and corresponding increase in weight and damage done) of a single object or creature that is in visible range. This increase changes a creature’s size by **20% per caster level**, up to three times the original size of the creature. The effectiveness of this spell is half of this on non-living objects, which are only enlarged **10% per level** and to a maximum of double the original size of the object.  
+This spell causes instant growth (and corresponding increase in weight and damage done) of a single object or creature that is in visible range. This increase changes a creature’s size by **20% per caster level**, up to three times the original size of the creature. The effectiveness of this spell is half of this on non-living objects, which are only enlarged **10% per level** and to a maximum of double the original size of the object.  
 
 The caster can affect:
 
