@@ -34,7 +34,7 @@ Area effects — explosions, spell blasts, breath weapons, collapsing ceilings �
 
 When a character (or creature) suffers damage, the amount is deducted from Stamina first; only once Stamina is exhausted does damage reduce Wounds. Any Wounds lost carry an equal loss of Stamina with them, whether the damage arrived through the Stamina pool or bypassed it.
 
-What happens when a character's Wounds run out depends on exactly how far past zero the damage drives them. The outcome is read straight from the total — there is no separate severity roll. Damage taken while already at 0 or below pushes the total further negative as usual; apply the outcome for the new total.
+What happens when a character's Wounds run out depends on exactly how far past zero the damage drives them: the outcome is read straight from the total. Damage taken while already at 0 or below pushes the total further negative as usual; apply the outcome for the new total.
 
 !!! note "Examples assume no Stamina"
     Every damage example in this book is written as though the character has already been reduced to 0 Stamina. Stamina always depletes first, so a character with Stamina remaining absorbs the blow there instead and never reaches the Wounds column at all.

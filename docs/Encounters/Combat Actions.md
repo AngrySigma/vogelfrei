@@ -159,7 +159,7 @@ If there are multiple opponents attempting to wrestle a single defender, all att
 ### Subdue
 A character can try to beat an intelligent opponent senseless rather than kill them — for ransom, for questioning, or for the watch. The intent must be declared before the attack, and only **blunt blows** qualify: bludgeons, fists, a pommel, or the flat of a blade. Bladed weapons used flat-side suffer a −2 penalty to the attack roll.
 
-Attack and damage are rolled normally, but **subdual damage** is noted separately from real damage. It depletes Stamina first like any other damage; an opponent whose Wounds would be reduced to 0 by subdual damage instead falls senseless or surrenders, having understood perfectly well that the victor could have killed them. No injury is rolled and there is no risk of death. Subdual damage fades quickly — all of it recovers after an hour of rest.
+Attack and damage are rolled normally, but **subdual damage** is noted separately from real damage. It depletes Stamina first like any other damage; an opponent whose Wounds would be reduced to 0 by subdual damage instead falls senseless or surrenders, having understood perfectly well that the victor could have killed them. They suffer no injury and are in no danger of death. Subdual damage fades quickly — all of it recovers after an hour of rest.
 
 ### Full Defence
 Characters can decide to focus entirely on defence at the expense of all other activity. A player is free to declare Full Defence at any point during the Round, even out of Initiative sequence, provided that the character has not yet acted. This adds +2 to the Character's AC for the Round, or +4 AC if the Character has Weapon Skill 1 or better.
