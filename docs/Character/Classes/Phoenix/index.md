@@ -34,7 +34,7 @@ The Phoenix is a bird the size of a pelican. It speaks all languages it knew in 
 
 
 - **Flight.** Flies at three times the usual speed; walks and hops at half a man's pace.
-- **Talons and beak.** Manipulation as a clever corvid: it can carry one small object, tug a lever, worry at a simple knot or latch — given time and, for fine work, an Agility check. It cannot wield weapons, wear armor, load a firearm, or carry more than a tenth of what a man carries.
+- **Talons and beak.** Manipulation as a clever corvid: it can carry one small object, tug a lever, worry at a simple knot or latch — given time and, for fine work, a [skill](../../../Adventuring/Skills.md) roll, the Referee determining which skill applies each time. It cannot wield weapons, wear armor, load a firearm, or carry more than a tenth of what a man carries.
 - **Small and quick.** +2 to melee AC and, while flying, +2 to ranged AC. It has no armor and never will.
 - **Encumbrance** is limited to 2 points if a bag or sack is carried. Otherwise a Phoenix can carry three items, or a single encumbering one.
 

@@ -4,7 +4,7 @@ Damaged characters who have at least half of their Wounds remaining recover 1 Wo
 
 Characters who have less than half of their Wounds remaining are in worse shape. They recover nothing from a night’s rest, and recover only 1 Wound by resting a full day.
 
-A character at 0 Wounds or fewer cannot carry equipment or stand, and can do nothing but crawl at a movement rate of 10'. They may instead spend a single action — casting a spell, or standing up to move and attack — after which they faint for 1d6 hours. See [Damage](Hazards/Damage.md) for the full rule.
+A character at 0 Wounds is helpless but conscious — able to do nothing but crawl, or spend one final action and faint for 1d6 hours. Characters driven below 0 are unconscious, injured, or dead by how far past zero they fell. See [Damage](Hazards/Damage.md) for the full rule.
 
 If the character rests the entire day in a comfortable bed in a clean room, then an additional 1 Wound is recovered.
 
@@ -18,7 +18,7 @@ Healing restores Wounds and ability scores only to their normal maximum, never m
 
 Stamina recovers faster than Wounds, but it still demands rest. Characters with depleted Stamina are not injured — they are exhausted, and increasingly exposed to real harm with every fight they take.
 
-**1-hour rest:** After 6 Turns (one hour) of uninterrupted rest, a character rolls their class Stamina die (d4, d3, or d2 depending on class tier) and recovers that many Stamina points, up to their maximum. This may be taken anywhere, including inside a dungeon, but the Referee makes a Wandering Encounter check for each Turn spent resting. Characters on watch or actively moving cannot benefit.
+**1-hour rest:** After 6 Turns (one hour) of uninterrupted rest, a character rolls their class Stamina die (d4, d3, or d2 depending on class tier), adds their Toughness modifier, and recovers that many Stamina points (always at least 1), up to their maximum. This may be taken anywhere, including inside a dungeon, but the Referee makes a Wandering Encounter check for each Turn spent resting. Characters on watch or actively moving cannot benefit.
 
 **Full recovery:** A full night of sleep in a safe location (an inn, a secured camp) restores Stamina completely. The same conditions that prevent Wounds recovery apply: characters in a dungeon or similarly hostile environment cannot fully restore Stamina there.
 

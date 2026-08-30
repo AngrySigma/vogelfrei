@@ -28,4 +28,7 @@ The Retainers are listed in tables on pages above, the tables contain the follow
 
 Each live-in Retainer also requires one square of living space on the property. Some Retainers may also require an additional work space for their practice.
 
+!!! note "Mustering — to come"
+    The military and specialist side of hired help is still being written: mercenary companies fielded as troops — pike blocks, marksmen, and cavalry as formations with their own morale — along with siege specialists and other experts beyond the current list. For now, the Mercenary and specialist entries in the tables cover individual hire, and the Referee adjudicates anything larger.
+
 It is common for retainers to negotiate for their families to receive death benefits should they die while in service. Any full-time retainer who does not receive shares is due a death benefit payable to his family (or the local magistrate should no family be known) equal to one hundred times his daily wage (or twelve times their monthly wage if no daily wage is given). The family of the retainer who would normally receive shares can expect a death benefit equal to half of the usual share that the retainer would normally receive. In either case, the death benefit received is paid out in silver rather than Experience Points. Should a retainer die in service, there is a 50% chance that the recently deceased retainer has a family that will try to collect the death benefit.

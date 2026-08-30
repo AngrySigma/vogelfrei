@@ -68,16 +68,12 @@ When a Character makes an attack, follow these steps:
 
 Damage rules are detailed in [Damage](../Adventuring/Hazards/Damage.md) Section.
 
-### Critical Hits
+### Natural 1 and 20
 
-A **natural 20** on an attack roll always hits, whatever the target's AC and whatever the modifiers. A **natural 1** always misses. This mirrors the convention already used for saving throws.
-
-A natural 20 is a **Critical Hit**. Its damage is applied **directly to Wounds**, bypassing Stamina — and because losing Wounds costs an equal amount of Stamina, the target pays the damage total twice over, once from each pool. No amount of battle-readiness closes the gap a perfect blow finds.
-
-Against a target with **no Stamina** — monsters and unintelligent creatures, or anyone already reduced to 0 — a Critical Hit instead deals **double damage** to Wounds.
+A **natural 20** on an attack roll always hits, whatever the target's AC and whatever the modifiers, and its damage is applied **directly to Wounds**, bypassing Stamina — and because losing Wounds costs an equal amount of Stamina, the target pays the damage total twice over, once from each pool. A **natural 1** always misses. This mirrors the convention already used for saving throws.
 
 !!! note "Double damage"
-    Wherever this book calls for double damage — a Mounted Charge, a braced weapon receiving a charge — roll the weapon's damage dice **twice** and total the result. Double damage is applied normally, depleting Stamina first. It is not a Critical Hit and does not bypass Stamina.
+    Wherever this book calls for double damage — a Mounted Charge, a braced weapon receiving a charge — roll the weapon's damage dice **twice** and total the result. Double damage is applied normally, depleting Stamina first.
 
 ??? example
     **Attacker — Kurt:** Weapon Skill 4, Strength Bonus +1, Short sword (Small, length 2, 1d6)
@@ -92,7 +88,7 @@ Against a target with **no Stamina** — monsters and unintelligent creatures, o
     - *Roll = 11: total 14 — hit. The total need only **match** the AC, not beat it.*
     - *Roll = 18: total 21 — hit. Kurt rolls 1d6 for damage.*
     - *Roll = 1: miss regardless of the total.*
-    - *Roll = 20: hit regardless of the total, and a Critical Hit. Kurt's 1d6 comes straight off Hans's Wounds, taking an equal bite out of his Stamina with it.*
+    - *Roll = 20: hit regardless of the total. Kurt's 1d6 comes straight off Hans's Wounds, taking an equal bite out of his Stamina with it.*
 
     **Now suppose Hans answers.** Kurt declares his attack; before any dice are rolled, Hans declares a **Counterattack**. His rapier is a proper weapon for it and he has not yet acted.
 
@@ -160,6 +156,11 @@ Wrestling is resolved with a contested roll. Both parties roll 1d20 and apply bo
 
 If there are multiple opponents attempting to wrestle a single defender, all attackers make their rolls as normal, but only the best roll is used with a +1 bonus for each additional attacker. Creatures whose physiology or special abilities suggest that they have an advantage when wrestling (tentacles, adhesive, multiple limbs) gain a further +1 bonus to their wrestling roll per Hit Die.
 
+### Subdue
+A character can try to beat an intelligent opponent senseless rather than kill them — for ransom, for questioning, or for the watch. The intent must be declared before the attack. Pulling blows takes effort: every subdual attack suffers a **−2 penalty** to the attack roll, or **−4** if the weapon is ill suited to the work — anything made to cut or pierce rather than bruise.
+
+Attack and damage are rolled normally, but **subdual damage** is noted separately from real damage. It depletes Stamina first like any other damage; an opponent whose Wounds would be reduced to 0 by subdual damage instead falls senseless or surrenders, having understood perfectly well that the victor could have killed them. They suffer no injury and are in no danger of death. Subdual damage recovers exactly as Stamina does, whichever pool it was marked against — an hour's rest restores the Stamina die plus Toughness modifier of it, and a full night in safety clears it entirely (see [Healing](../Adventuring/Healing.md)).
+
 ### Full Defence
 Characters can decide to focus entirely on defence at the expense of all other activity. A player is free to declare Full Defence at any point during the Round, even out of Initiative sequence, provided that the character has not yet acted. This adds +2 to the Character's AC for the Round, or +4 AC if the Character has Weapon Skill 1 or better.
 
@@ -187,12 +188,12 @@ Cover is protection behind something that can actually block incoming attacks. E
 ### Firing into Melee
 Firing into melee with a missile weapon is a very uncertain thing. The Character suffers −4 to their attack roll. If the attack misses solely because of this penalty, it still hits — but the target is determined randomly among all engaged characters.
 
-Significantly larger characters or monsters in a mêlée count as two characters for random targeting purposes, and truly gargantuan creatures can be fired upon using the normal rules.
+Significantly larger characters or monsters in a melee count as two characters for random targeting purposes, and truly gargantuan creatures can be fired upon using the normal rules.
 
 ### Firing into Crowds
 A Character may choose to fire into a group of targets standing together. They gain +1 to their attack roll for each target after the first. If the attack hits, the target is determined randomly among all characters in the group.
 
-Significantly larger characters or monsters in a mêlée count as two characters for random targeting purposes, and truly gargantuan creatures can be fired upon using the normal rules.
+Significantly larger characters or monsters in a melee count as two characters for random targeting purposes, and truly gargantuan creatures can be fired upon using the normal rules.
 
 ---
 ## Cast a Spell

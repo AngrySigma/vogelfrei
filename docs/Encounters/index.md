@@ -23,3 +23,5 @@ When any side has gained the upper hand, you may need the following rules:
 1. [Do a Morale Check](Morale.md)
 
 2. [Flee!](Combat%20Actions.md#flee)
+
+For how the other side of the table attacks and saves, see [Monsters and NPCs](Monsters%20and%20NPCs.md).

@@ -8,7 +8,7 @@ icon: lucide/table-of-contents
 ## 📜 Character Creation
 Everything needed to bring a character into the world of Vogelfrei.
 
-*   **[Ability Scores](./Character/Ability%20Scores.md)** — roll 3d6 in order for Strength, Toughness, Agility, Intelligence, Willpower, and Leadership; note modifiers and decide on one swap.
+*   **[Ability Scores](./Character/Ability%20Scores.md)** — roll 3d6 in order for Strength, Intelligence, Willpower, Agility, Toughness, and Leadership; note modifiers and decide on one swap.
 
 *   **[Class and Career](./Character/Class%20and%20Career.md)** — roll or choose a social class, then your career within it; determines Wounds, Weapon Skill, Ballistic Skill, Saving Throws, and starting Talents.
 
@@ -82,9 +82,15 @@ The support network that keeps an expedition running.
 ## 🗺️ Adventuring
 Rules governing what happens outside of direct combat.
 
-*   **[Skills](./Adventuring/Skills.md)** — skill checks, the 1-in-6 base chance, natural affinities, career advances, and situational modifiers.
+*   **[Party Organization](./Adventuring/Party%20Organization.md)** — marching order, the caller and the mapper, and dividing the spoils.
 
-*   **[Time and Movement](./Adventuring/Time%20and%20Movement.md)** — turn structure, movement rates in dungeon and wilderness, light sources, and encumbrance.
+*   **[Skills](./Adventuring/Skills.md)** — skill checks, the 1-in-6 base chance, natural affinities, career advances, situational modifiers, and optional ability checks.
+
+*   **[Time and Movement](./Adventuring/Time%20and%20Movement.md)** — turn structure, movement rates in dungeon and wilderness, and encumbrance.
+
+*   **[Dungeon Exploration](./Adventuring/Dungeon%20Exploration.md)** — the dungeon Turn, light sources, doors, searching, and wandering monsters.
+
+*   **[Wilderness Travel](./Adventuring/Wilderness%20Travel.md)** — the travel day, getting lost, wilderness encounters, and rest on the road.
 
 *   **[Healing](./Adventuring/Healing.md)** — natural recovery of Wounds and Stamina, magical healing, and long-term rest.
 
@@ -108,5 +114,7 @@ The full encounter pipeline, from first contact to resolution.
 *   **[Combat Actions](./Encounters/Combat%20Actions.md)** — the full list of actions available in a round: Move, Flee, Attack, Counterattack, Brace, Wrestle, and more.
 
 *   **[Measure and Reach](./Encounters/Measure%20and%20Reach.md)** — fighting distance: closing inside a long weapon's reach, and forcing it back out.
+
+*   **[Monsters and NPCs](./Encounters/Monsters%20and%20NPCs.md)** — how monsters attack and save, and level 0 characters.
 
 *   **[Morale](./Encounters/Morale.md)** — when NPCs and monsters check morale and what happens when they fail.

@@ -178,7 +178,7 @@ The possible powers of a summoned entity can be randomly determined on the follo
 
 13. Bonus Attack (if initial attack hits, opportunity for another attack)
 
-14. Bonus Damage on Great Hit (does one greater die damage on critical hit)
+14. Bonus Damage on Great Hit (does one greater die damage on a natural 20)
 
 15. Chaos (at will, one at a time)
 

@@ -72,7 +72,7 @@ The character’s starting Wounds are the maximum Wounds the character can ever 
 
 Stamina represents a character’s ability to control a dangerous situation — the reflex to duck under a swing, redirect a blow before it lands, or keep moving when exhaustion sets in. It is not physical toughness but trained readiness. See [Damage](../Adventuring/Hazards/Damage.md) for the full rules on how Stamina interacts with combat and what bypasses it.
 
-Roll the class Stamina die once at first level to determine starting Stamina. The Toughness modifier never applies to Stamina.
+Roll the class Stamina die once at first level to determine starting Stamina. The Toughness modifier is not added to this roll, nor to the Stamina gained on levelling up — it only speeds Stamina recovery when resting, as described in [Healing](../Adventuring/Healing.md).
 
 | Class tier | Classes | Stamina die |
 | ---------- | ------- | ----------- |
