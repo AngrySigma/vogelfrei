@@ -48,7 +48,7 @@ What happens when a character's Wounds run out depends on exactly how far past z
 | −4 | **Dying.** Too far gone to fight, but granted one Turn of final lucidity — enough for last words — and then death, whatever is done. |
 | −5 or lower | **Instant death.** |
 
-**The final action:** at 0 Wounds or any negative total short of −5, the character may first complete one single action — finishing a spell, or standing up to move and strike one last blow. A dying hand still closes. After that action, the outcome above takes hold; a character at exactly 0 Wounds who spends it faints for 1d6 hours instead.
+**The final action:** at 0 Wounds or any negative total short of −5, the character may first complete one single action — finishing a spell, or standing up to move and strike one last blow. A dying hand still closes. The price depends on how deep the wound runs: a character at exactly 0 Wounds who spends the action faints for 1d6 hours; a character at any negative total who spends it dies the moment it is done, whatever the number.
 
 #### Determine target location
 
