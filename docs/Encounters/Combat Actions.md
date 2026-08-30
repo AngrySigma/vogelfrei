@@ -70,7 +70,7 @@ Damage rules are detailed in [Damage](../Adventuring/Hazards/Damage.md) Section.
 
 ### Natural 1 and 20
 
-A **natural 20** on an attack roll always hits, whatever the target's AC and whatever the modifiers, and deals normal damage. A **natural 1** always misses. This mirrors the convention already used for saving throws.
+A **natural 20** on an attack roll always hits, whatever the target's AC and whatever the modifiers, and its damage is applied **directly to Wounds**, bypassing Stamina — and because losing Wounds costs an equal amount of Stamina, the target pays the damage total twice over, once from each pool. A **natural 1** always misses. This mirrors the convention already used for saving throws.
 
 !!! note "Double damage"
     Wherever this book calls for double damage — a Mounted Charge, a braced weapon receiving a charge — roll the weapon's damage dice **twice** and total the result. Double damage is applied normally, depleting Stamina first.
@@ -88,7 +88,7 @@ A **natural 20** on an attack roll always hits, whatever the target's AC and wha
     - *Roll = 11: total 14 — hit. The total need only **match** the AC, not beat it.*
     - *Roll = 18: total 21 — hit. Kurt rolls 1d6 for damage.*
     - *Roll = 1: miss regardless of the total.*
-    - *Roll = 20: hit regardless of the total. Kurt rolls his 1d6 damage as usual.*
+    - *Roll = 20: hit regardless of the total. Kurt's 1d6 comes straight off Hans's Wounds, taking an equal bite out of his Stamina with it.*
 
     **Now suppose Hans answers.** Kurt declares his attack; before any dice are rolled, Hans declares a **Counterattack**. His rapier is a proper weapon for it and he has not yet acted.
 
@@ -103,7 +103,7 @@ A **natural 20** on an attack roll always hits, whatever the target's AC and wha
 | Attacking an Unaware Opponent               | +2 to attack roll; target only retains Armour Rating and Base AC                                   |
 | Attacking a Prone Opponent                  | +4 to attack roll in Melee; −4 to attack roll in Ranged                                            |
 | Attacking an Opponent with WS 1+ and a proper weapon | Opponent may spend their action to Counterattack (see below)                                   |
-| Natural 20 on the attack roll               | Always hits                                                                                         |
+| Natural 20 on the attack roll               | Always hits; damage applies directly to Wounds, bypassing Stamina                                   |
 | Natural 1 on the attack roll                | Always misses                                                                                       |
 | Fighting inside an Opponent's reach         | Weapon Length does not apply; a weapon 2+ grades longer deals only d3                               |
 | Attacking a Helpless Opponent               | Automatically deal maximum weapon damage in Melee                                                   |
