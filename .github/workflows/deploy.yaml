@@ -24,14 +24,29 @@ jobs:
       - name: Install dependencies
         run: uv sync
 
-      # Regenerate rather than trust the committed copy, so a page whose
-      # `tier:` frontmatter changed without the manifest being rebuilt still
-      # deploys correctly. Uses the stdlib only — no venv needed.
+      # Regenerate rather than trust the committed copies, so content whose
+      # frontmatter changed without the generators being re-run still deploys
+      # correctly. All three use the stdlib only — no venv needed.
+      #
+      # Order matters: gen_game_data rewrites the spell/miracle metadata blocks
+      # from frontmatter, and gen_llms_txt reads the finished pages, so the
+      # index it writes describes what actually ships.
       - name: Generate view manifest
         run: python3 scripts/gen_view_manifest.py
 
+      - name: Generate game data
+        run: python3 scripts/gen_game_data.py
+
+      - name: Generate llms.txt
+        run: python3 scripts/gen_llms_txt.py
+
       - name: Build site
         run: uv run zensical build
+
+      # Post-build: drop each page's Markdown source next to its rendered
+      # HTML, so appending "index.md" to any page URL returns the source.
+      - name: Emit raw Markdown pages
+        run: python3 scripts/gen_llms_txt.py --site-dir site
 
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v4
