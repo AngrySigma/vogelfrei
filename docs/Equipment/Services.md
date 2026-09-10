@@ -1,3 +1,6 @@
+---
+tier: base
+---
 # Services
 
 <table>

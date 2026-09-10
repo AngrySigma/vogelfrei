@@ -1,3 +1,6 @@
+---
+tier: base
+---
 # Morale
 
 NPCs and monsters do not always fight to the death; in fact, most will try to avoid death whenever possible. Each NPC, monster, or group of the same monsters should include a Morale score, a figure between 2 and 12. To make a Morale check, roll 2d6; if the roll is equal to or less than the Morale score, the NPC, monster, or monster group is willing to stand and fight. If the roll is higher than the score, the NPC, monster, or monster group has lost their nerve. NPCs, monsters, or monster groups with a Morale score of 12 never fail a Morale check; they always fight to the death.

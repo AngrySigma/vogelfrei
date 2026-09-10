@@ -1,7 +1,7 @@
 ---
 title: Phoenix
+tier: advanced
 ---
-
 # Phoenix
 
 Not born but made. Somewhere, an alchemist's Great Work succeeded — a rooster stuffed with a human brain and heart, cooked in an athanor — and out of the vessel came a thing that speaks, remembers, and does not stay dead. It wears the body of a bird the size of a pelican. Whose work it was, and whether the debt on it is paid, is a question best not asked in front of a Witch Hunter.

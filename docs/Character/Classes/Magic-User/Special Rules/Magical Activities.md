@@ -1,3 +1,6 @@
+---
+tier: advanced
+---
 # Spell Scrolls
 
 Scrolls are magical items which allow a Magic-User to cast a spell without prior memorization, even if the spell is of a higher level than the Magic-User is able to cast. A Magic-User must cast Read Magic in order to read a scroll (even to identify the spells contained on it!), but at any point thereafter the spell can be cast from a scroll. A scroll can have multiple spells on it, but only one spell can be cast at a time. Casting a spell from a scroll erases it from the scroll. A character must hold the scroll with both hands in order to read/use it, and if in combat it takes the caster an entire action to use. All spells cast from scrolls use the level of the reader, not the writer, to determine the effects of the spell.

@@ -1,3 +1,6 @@
+---
+tier: base
+---
 # Wilderness Travel
 
 Beyond the walls, time is counted in days. Distances covered, terrain, weather, and encumbrance are handled in [Time and Movement](Time%20and%20Movement.md); finding food and water is the [Bushcraft](Skills.md#bushcraft) skill. This page gives the day its structure — and its ways of going wrong.

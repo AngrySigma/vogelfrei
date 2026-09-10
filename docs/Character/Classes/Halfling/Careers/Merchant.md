@@ -3,6 +3,7 @@ tags:
   - halfling
 image: assets/img/cover.webp
 image_alt: Merchant illustration
+tier: base
 ---
 # Merchant
 

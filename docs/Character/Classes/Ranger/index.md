@@ -1,5 +1,6 @@
 ---
 title: Ranger
+tier: base
 ---
 # Ranger
 

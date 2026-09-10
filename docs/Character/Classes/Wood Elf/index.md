@@ -1,5 +1,6 @@
 ---
 title: Wood Elf
+tier: base
 ---
 # Wood Elf
 

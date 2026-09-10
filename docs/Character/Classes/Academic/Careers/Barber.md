@@ -4,6 +4,7 @@ tags:
   - brass
 image: assets/img/cover.webp
 image_alt: Barber illustration
+tier: base
 ---
 # Barber
 

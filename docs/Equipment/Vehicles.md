@@ -1,3 +1,6 @@
+---
+tier: advanced
+---
 # Vehicles
 
 <table>

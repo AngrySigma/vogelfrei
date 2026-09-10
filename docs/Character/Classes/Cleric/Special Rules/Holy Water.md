@@ -1,3 +1,6 @@
+---
+tier: base
+---
 # Holy Water
 
 ## Creating Holy Water

@@ -1,3 +1,6 @@
+---
+tier: advanced
+---
 # Measure and Reach
 
 A fight is not fought at one distance. A spearman and a knifeman both know exactly where they want to be standing, and most of the fight is the argument about it.

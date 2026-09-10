@@ -1,3 +1,6 @@
+---
+tier: base
+---
 # Encounter Distance
 
 Encounters begin with the closest opposing characters 3d6×10' apart, unless there are specific details which would define the encounter distance, such as being in fog or a forest. In environments with limited visibility (such as underground), the maximum encounter distance will be the visibility distance.

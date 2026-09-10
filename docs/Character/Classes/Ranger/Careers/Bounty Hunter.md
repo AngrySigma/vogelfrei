@@ -4,6 +4,7 @@ tags:
   - silver
 image: assets/img/cover.webp
 image_alt: Bounty Hunter illustration
+tier: base
 ---
 # Bounty Hunter
 
