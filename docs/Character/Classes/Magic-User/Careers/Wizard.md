@@ -1,5 +1,5 @@
 ---
-image: assets/img/cover.webp
+image: assets/img/careers/wizard.webp
 image_alt: Wizard illustration
 ---
 # Wizard

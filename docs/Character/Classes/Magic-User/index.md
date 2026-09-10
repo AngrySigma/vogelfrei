@@ -1,5 +1,7 @@
 ---
 title: Magic-User
+image: assets/img/careers/wizard.webp
+image_alt: Magic-User illustration
 ---
 # Magic-User
 
