@@ -1,0 +1,1604 @@
+{
+  "count": 60,
+  "careers": [
+    {
+      "name": "Alchemist",
+      "class": "Academic",
+      "class_slug": "academic",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "academic"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Academic/Careers/Alchemist/",
+      "source": "Character/Classes/Academic/Careers/Alchemist.md"
+    },
+    {
+      "name": "Apothecary",
+      "class": "Academic",
+      "class_slug": "academic",
+      "status": "Brass",
+      "combat_skills": null,
+      "skills": "[Herbalism](../../../../Adventuring/Skills.md#herbalism), [Heal](../../../../Adventuring/Skills.md#heal), [Languages](../../../../Adventuring/Skills.md#languages), [Lore](../../../../Adventuring/Skills.md#lore)",
+      "trait": null,
+      "progression": [
+        {
+          "level": "1",
+          "progression": "*Apothecary trait*"
+        },
+        {
+          "level": "2",
+          "progression": "+ 1 potion recipe"
+        },
+        {
+          "level": "3",
+          "progression": "+ 2 Poison Save"
+        },
+        {
+          "level": "4",
+          "progression": "+ 1 potion recipe"
+        },
+        {
+          "level": "5",
+          "progression": "+ 2 Magic Save"
+        },
+        {
+          "level": "6",
+          "progression": "+ 1 potion recipe"
+        }
+      ],
+      "complete": true,
+      "tags": [
+        "academic",
+        "brass"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Academic/Careers/Apothecary/",
+      "source": "Character/Classes/Academic/Careers/Apothecary.md"
+    },
+    {
+      "name": "Barber",
+      "class": "Academic",
+      "class_slug": "academic",
+      "status": "Brass",
+      "combat_skills": null,
+      "skills": "[Heal](../../../../Adventuring/Skills.md#heal), [Sleight of Hand](../../../../Adventuring/Skills.md#sleight-of-hand), [Languages](../../../../Adventuring/Skills.md#languages), [Lore](../../../../Adventuring/Skills.md#lore)",
+      "trait": null,
+      "progression": [
+        {
+          "level": "1",
+          "progression": "*Barber trait*"
+        },
+        {
+          "level": "2",
+          "progression": "+ 2 Poison save"
+        },
+        {
+          "level": "3",
+          "progression": "+ 1 hit"
+        },
+        {
+          "level": "4",
+          "progression": "+ 2 Poison save"
+        },
+        {
+          "level": "5",
+          "progression": "+ 1 hit"
+        },
+        {
+          "level": "6",
+          "progression": "+ 2 Poison save"
+        }
+      ],
+      "complete": true,
+      "tags": [
+        "academic",
+        "brass"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Academic/Careers/Barber/",
+      "source": "Character/Classes/Academic/Careers/Barber.md"
+    },
+    {
+      "name": "Cartographer",
+      "class": "Academic",
+      "class_slug": "academic",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "academic"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Academic/Careers/Cartographer/",
+      "source": "Character/Classes/Academic/Careers/Cartographer.md"
+    },
+    {
+      "name": "Engineer",
+      "class": "Academic",
+      "class_slug": "academic",
+      "status": "Silver",
+      "combat_skills": null,
+      "skills": "[Engineering](../../../../Adventuring/Skills.md#engineering), [Tinkering](../../../../Adventuring/Skills.md#tinkering), [Languages](../../../../Adventuring/Skills.md#languages), [Lore](../../../../Adventuring/Skills.md#lore)",
+      "trait": null,
+      "progression": [
+        {
+          "level": "1",
+          "progression": "*Engineer trait*"
+        },
+        {
+          "level": "2",
+          "progression": "+ 1 Draft"
+        },
+        {
+          "level": "3",
+          "progression": "+ 1 BS"
+        },
+        {
+          "level": "4",
+          "progression": "+ 1 Draft"
+        },
+        {
+          "level": "5",
+          "progression": "+ 1 BS"
+        },
+        {
+          "level": "6",
+          "progression": "+ 1 Draft"
+        }
+      ],
+      "complete": true,
+      "tags": [
+        "academic",
+        "silver"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Academic/Careers/Engineer/",
+      "source": "Character/Classes/Academic/Careers/Engineer.md"
+    },
+    {
+      "name": "Scholar",
+      "class": "Academic",
+      "class_slug": "academic",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "academic"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Academic/Careers/Scholar/",
+      "source": "Character/Classes/Academic/Careers/Scholar.md"
+    },
+    {
+      "name": "Priest",
+      "class": "Cleric",
+      "class_slug": "cleric",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [
+        {
+          "level": "1",
+          "new traits": "Blessing Talent",
+          "1st": "—",
+          "2nd": "—",
+          "3rd": "—"
+        },
+        {
+          "level": "2",
+          "new traits": "Invoke Talent",
+          "1st": "1",
+          "2nd": "—",
+          "3rd": "—"
+        },
+        {
+          "level": "3",
+          "new traits": "—",
+          "1st": "2",
+          "2nd": "—",
+          "3rd": "—"
+        },
+        {
+          "level": "4",
+          "new traits": "—",
+          "1st": "2",
+          "2nd": "1",
+          "3rd": "—"
+        },
+        {
+          "level": "5",
+          "new traits": "—",
+          "1st": "2",
+          "2nd": "2",
+          "3rd": "—"
+        },
+        {
+          "level": "6",
+          "new traits": "—",
+          "1st": "2",
+          "2nd": "2",
+          "3rd": "1"
+        }
+      ],
+      "complete": true,
+      "tags": [],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Cleric/Careers/Priest/",
+      "source": "Character/Classes/Cleric/Careers/Priest.md"
+    },
+    {
+      "name": "Warrior Priest",
+      "class": "Cleric",
+      "class_slug": "cleric",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "cleric"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Cleric/Careers/Warrior Priest/",
+      "source": "Character/Classes/Cleric/Careers/Warrior Priest.md"
+    },
+    {
+      "name": "Zealot",
+      "class": "Cleric",
+      "class_slug": "cleric",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "cleric"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Cleric/Careers/Zealot/",
+      "source": "Character/Classes/Cleric/Careers/Zealot.md"
+    },
+    {
+      "name": "Artisan",
+      "class": "Dwarf",
+      "class_slug": "dwarf",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "dwarf"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Dwarf/Careers/Artisan/",
+      "source": "Character/Classes/Dwarf/Careers/Artisan.md"
+    },
+    {
+      "name": "Brewer",
+      "class": "Dwarf",
+      "class_slug": "dwarf",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "dwarf"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Dwarf/Careers/Brewer/",
+      "source": "Character/Classes/Dwarf/Careers/Brewer.md"
+    },
+    {
+      "name": "Engineer",
+      "class": "Dwarf",
+      "class_slug": "dwarf",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "dwarf"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Dwarf/Careers/Engineer/",
+      "source": "Character/Classes/Dwarf/Careers/Engineer.md"
+    },
+    {
+      "name": "Karak Ranger",
+      "class": "Dwarf",
+      "class_slug": "dwarf",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "dwarf"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Dwarf/Careers/Karak Ranger/",
+      "source": "Character/Classes/Dwarf/Careers/Karak Ranger.md"
+    },
+    {
+      "name": "Miner",
+      "class": "Dwarf",
+      "class_slug": "dwarf",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "dwarf"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Dwarf/Careers/Miner/",
+      "source": "Character/Classes/Dwarf/Careers/Miner.md"
+    },
+    {
+      "name": "Troll Slayer",
+      "class": "Dwarf",
+      "class_slug": "dwarf",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "dwarf"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Dwarf/Careers/Troll Slayer/",
+      "source": "Character/Classes/Dwarf/Careers/Troll Slayer.md"
+    },
+    {
+      "name": "Artisan",
+      "class": "Halfling",
+      "class_slug": "halfling",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "halfling"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Halfling/Careers/Artisan/",
+      "source": "Character/Classes/Halfling/Careers/Artisan.md"
+    },
+    {
+      "name": "Badger Rider",
+      "class": "Halfling",
+      "class_slug": "halfling",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "halfling"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Halfling/Careers/Badger Rider/",
+      "source": "Character/Classes/Halfling/Careers/Badger Rider.md"
+    },
+    {
+      "name": "Charlatan",
+      "class": "Halfling",
+      "class_slug": "halfling",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "halfling"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Halfling/Careers/Charlatan/",
+      "source": "Character/Classes/Halfling/Careers/Charlatan.md"
+    },
+    {
+      "name": "Herbalist",
+      "class": "Halfling",
+      "class_slug": "halfling",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "halfling"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Halfling/Careers/Herbalist/",
+      "source": "Character/Classes/Halfling/Careers/Herbalist.md"
+    },
+    {
+      "name": "Merchant",
+      "class": "Halfling",
+      "class_slug": "halfling",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "halfling"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Halfling/Careers/Merchant/",
+      "source": "Character/Classes/Halfling/Careers/Merchant.md"
+    },
+    {
+      "name": "Scout",
+      "class": "Halfling",
+      "class_slug": "halfling",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "halfling"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Halfling/Careers/Scout/",
+      "source": "Character/Classes/Halfling/Careers/Scout.md"
+    },
+    {
+      "name": "Artisan",
+      "class": "High Elf",
+      "class_slug": "high-elf",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "high-elf"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/High Elf/Careers/Artisan/",
+      "source": "Character/Classes/High Elf/Careers/Artisan.md"
+    },
+    {
+      "name": "Hunter",
+      "class": "High Elf",
+      "class_slug": "high-elf",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "high-elf"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/High Elf/Careers/Hunter/",
+      "source": "Character/Classes/High Elf/Careers/Hunter.md"
+    },
+    {
+      "name": "Shadow",
+      "class": "High Elf",
+      "class_slug": "high-elf",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "high-elf"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/High Elf/Careers/Shadow/",
+      "source": "Character/Classes/High Elf/Careers/Shadow.md"
+    },
+    {
+      "name": "Sword-master",
+      "class": "High Elf",
+      "class_slug": "high-elf",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "high-elf"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/High Elf/Careers/Sword-master/",
+      "source": "Character/Classes/High Elf/Careers/Sword-master.md"
+    },
+    {
+      "name": "Wizard",
+      "class": "High Elf",
+      "class_slug": "high-elf",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "high-elf"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/High Elf/Careers/Wizard/",
+      "source": "Character/Classes/High Elf/Careers/Wizard.md"
+    },
+    {
+      "name": "Bright Wizard",
+      "class": "Magic-User",
+      "class_slug": "magic-user",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [
+        {
+          "level": "1",
+          "new traits": "Read/Write Talent",
+          "1st": "1",
+          "2nd": "—",
+          "3rd": "—"
+        },
+        {
+          "level": "2",
+          "new traits": "Lore of Aqshy Talent",
+          "1st": "2",
+          "2nd": "—",
+          "3rd": "—"
+        },
+        {
+          "level": "3",
+          "new traits": "—",
+          "1st": "2",
+          "2nd": "1",
+          "3rd": "—"
+        },
+        {
+          "level": "4",
+          "new traits": "—",
+          "1st": "2",
+          "2nd": "2",
+          "3rd": "—"
+        },
+        {
+          "level": "5",
+          "new traits": "—",
+          "1st": "2",
+          "2nd": "2",
+          "3rd": "1"
+        },
+        {
+          "level": "6",
+          "new traits": "—",
+          "1st": "2",
+          "2nd": "2",
+          "3rd": "2"
+        }
+      ],
+      "complete": true,
+      "tags": [],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Magic-User/Careers/Bright Wizard/",
+      "source": "Character/Classes/Magic-User/Careers/Bright Wizard.md"
+    },
+    {
+      "name": "Grey Wizard",
+      "class": "Magic-User",
+      "class_slug": "magic-user",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "magic-user"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Magic-User/Careers/Grey Wizard/",
+      "source": "Character/Classes/Magic-User/Careers/Grey Wizard.md"
+    },
+    {
+      "name": "Light Wizard",
+      "class": "Magic-User",
+      "class_slug": "magic-user",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "magic-user"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Magic-User/Careers/Light Wizard/",
+      "source": "Character/Classes/Magic-User/Careers/Light Wizard.md"
+    },
+    {
+      "name": "Witch",
+      "class": "Magic-User",
+      "class_slug": "magic-user",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "magic-user"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Magic-User/Careers/Witch/",
+      "source": "Character/Classes/Magic-User/Careers/Witch.md"
+    },
+    {
+      "name": "Wizard",
+      "class": "Magic-User",
+      "class_slug": "magic-user",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [
+        {
+          "level": "1",
+          "new traits": "Read/Write Talent",
+          "1st": "1",
+          "2nd": "—",
+          "3rd": "—"
+        },
+        {
+          "level": "2",
+          "new traits": "—",
+          "1st": "2",
+          "2nd": "—",
+          "3rd": "—"
+        },
+        {
+          "level": "3",
+          "new traits": "—",
+          "1st": "2",
+          "2nd": "1",
+          "3rd": "—"
+        },
+        {
+          "level": "4",
+          "new traits": "—",
+          "1st": "2",
+          "2nd": "2",
+          "3rd": "—"
+        },
+        {
+          "level": "5",
+          "new traits": "—",
+          "1st": "2",
+          "2nd": "2",
+          "3rd": "1"
+        },
+        {
+          "level": "6",
+          "new traits": "—",
+          "1st": "2",
+          "2nd": "2",
+          "3rd": "2"
+        }
+      ],
+      "complete": true,
+      "tags": [],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Magic-User/Careers/Wizard/",
+      "source": "Character/Classes/Magic-User/Careers/Wizard.md"
+    },
+    {
+      "name": "Hedge Witch",
+      "class": "Peasant",
+      "class_slug": "peasant",
+      "status": "Brass",
+      "combat_skills": null,
+      "skills": "[Bushcraft](../../../../Adventuring/Skills.md#bushcraft), [Lore](../../../../Adventuring/Skills.md#lore)",
+      "trait": null,
+      "progression": [
+        {
+          "level": "1",
+          "wp": "1",
+          "spells memorized": "1",
+          "max spell level": "1"
+        },
+        {
+          "level": "2",
+          "wp": "2",
+          "spells memorized": "2",
+          "max spell level": "1"
+        },
+        {
+          "level": "3",
+          "wp": "4",
+          "spells memorized": "3",
+          "max spell level": "2"
+        },
+        {
+          "level": "4",
+          "wp": "5",
+          "spells memorized": "4",
+          "max spell level": "2"
+        },
+        {
+          "level": "5",
+          "wp": "7",
+          "spells memorized": "4",
+          "max spell level": "3"
+        },
+        {
+          "level": "6",
+          "wp": "8",
+          "spells memorized": "5",
+          "max spell level": "3"
+        }
+      ],
+      "complete": true,
+      "tags": [
+        "peasant",
+        "brass"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Peasant/Careers/Hedge Witch/",
+      "source": "Character/Classes/Peasant/Careers/Hedge Witch.md"
+    },
+    {
+      "name": "Herbalist",
+      "class": "Peasant",
+      "class_slug": "peasant",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "peasant"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Peasant/Careers/Herbalist/",
+      "source": "Character/Classes/Peasant/Careers/Herbalist.md"
+    },
+    {
+      "name": "Hunter",
+      "class": "Peasant",
+      "class_slug": "peasant",
+      "status": "Brass",
+      "combat_skills": null,
+      "skills": "[Bushcraft](../../../../Adventuring/Skills.md#bushcraft), [Search](../../../../Adventuring/Skills.md#search), [Stealth](../../../../Adventuring/Skills.md#stealth), [Swim](../../../../Adventuring/Skills.md#swim), [Climb](../../../../Adventuring/Skills.md#climb)",
+      "trait": null,
+      "progression": [
+        {
+          "level": "1",
+          "progression": "+1 BS"
+        },
+        {
+          "level": "2",
+          "progression": "Surprised only on 1"
+        },
+        {
+          "level": "3",
+          "progression": "+1 BS"
+        },
+        {
+          "level": "4",
+          "progression": "+ 2 Paralyze save"
+        },
+        {
+          "level": "5",
+          "progression": "+1 BS"
+        },
+        {
+          "level": "6",
+          "progression": "+ 2 Breath save"
+        }
+      ],
+      "complete": true,
+      "tags": [
+        "peasant",
+        "brass"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Peasant/Careers/Hunter/",
+      "source": "Character/Classes/Peasant/Careers/Hunter.md"
+    },
+    {
+      "name": "Miner",
+      "class": "Peasant",
+      "class_slug": "peasant",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "peasant"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Peasant/Careers/Miner/",
+      "source": "Character/Classes/Peasant/Careers/Miner.md"
+    },
+    {
+      "name": "Scout",
+      "class": "Peasant",
+      "class_slug": "peasant",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "peasant"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Peasant/Careers/Scout/",
+      "source": "Character/Classes/Peasant/Careers/Scout.md"
+    },
+    {
+      "name": "Villager",
+      "class": "Peasant",
+      "class_slug": "peasant",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "peasant"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Peasant/Careers/Villager/",
+      "source": "Character/Classes/Peasant/Careers/Villager.md"
+    },
+    {
+      "name": "Boatman",
+      "class": "Ranger",
+      "class_slug": "ranger",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "ranger"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Ranger/Careers/Boatman/",
+      "source": "Character/Classes/Ranger/Careers/Boatman.md"
+    },
+    {
+      "name": "Bounty Hunter",
+      "class": "Ranger",
+      "class_slug": "ranger",
+      "status": "Silver",
+      "combat_skills": null,
+      "skills": "[Evaluate](../../../../Adventuring/Skills.md#evaluate), Any non-special skills",
+      "trait": null,
+      "progression": [
+        {
+          "level": "1",
+          "progression": "+ 1 WS/BS"
+        },
+        {
+          "level": "2",
+          "progression": "+ 2 Paralyze save"
+        },
+        {
+          "level": "3",
+          "progression": "+ 1 WS/BS"
+        },
+        {
+          "level": "4",
+          "progression": "+ 2 Breath save"
+        },
+        {
+          "level": "5",
+          "progression": "+ 1 WS/BS"
+        },
+        {
+          "level": "6",
+          "progression": "+ 2 Poison save"
+        }
+      ],
+      "complete": true,
+      "tags": [
+        "ranger",
+        "silver"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Ranger/Careers/Bounty Hunter/",
+      "source": "Character/Classes/Ranger/Careers/Bounty Hunter.md"
+    },
+    {
+      "name": "Coachman",
+      "class": "Ranger",
+      "class_slug": "ranger",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "ranger"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Ranger/Careers/Coachman/",
+      "source": "Character/Classes/Ranger/Careers/Coachman.md"
+    },
+    {
+      "name": "Peddlar",
+      "class": "Ranger",
+      "class_slug": "ranger",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "ranger"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Ranger/Careers/Peddlar/",
+      "source": "Character/Classes/Ranger/Careers/Peddlar.md"
+    },
+    {
+      "name": "Road Warden",
+      "class": "Ranger",
+      "class_slug": "ranger",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "ranger"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Ranger/Careers/Road Warden/",
+      "source": "Character/Classes/Ranger/Careers/Road Warden.md"
+    },
+    {
+      "name": "Sailor",
+      "class": "Ranger",
+      "class_slug": "ranger",
+      "status": "Silver",
+      "combat_skills": null,
+      "skills": "[Sailing](../../../../Adventuring/Skills.md#sailing), Any non-special skills",
+      "trait": null,
+      "progression": [
+        {
+          "level": "1",
+          "progression": "+ 1 WS/BS"
+        },
+        {
+          "level": "2",
+          "progression": "+ 1 hit"
+        },
+        {
+          "level": "3",
+          "progression": "+ 1 WS/BS"
+        },
+        {
+          "level": "4",
+          "progression": "+ 1 hit"
+        },
+        {
+          "level": "5",
+          "progression": "+ 1 WS/BS"
+        },
+        {
+          "level": "6",
+          "progression": "+ 1 hit"
+        }
+      ],
+      "complete": true,
+      "tags": [
+        "ranger",
+        "silver"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Ranger/Careers/Sailor/",
+      "source": "Character/Classes/Ranger/Careers/Sailor.md"
+    },
+    {
+      "name": "Artisan",
+      "class": "Townsman",
+      "class_slug": "townsman",
+      "status": "Silver",
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": true,
+      "tags": [
+        "townsman",
+        "silver"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Townsman/Careers/Artisan/",
+      "source": "Character/Classes/Townsman/Careers/Artisan.md"
+    },
+    {
+      "name": "Beggar",
+      "class": "Townsman",
+      "class_slug": "townsman",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "townsman"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Townsman/Careers/Beggar/",
+      "source": "Character/Classes/Townsman/Careers/Beggar.md"
+    },
+    {
+      "name": "Merchant",
+      "class": "Townsman",
+      "class_slug": "townsman",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "townsman"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Townsman/Careers/Merchant/",
+      "source": "Character/Classes/Townsman/Careers/Merchant.md"
+    },
+    {
+      "name": "Militia",
+      "class": "Townsman",
+      "class_slug": "townsman",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "townsman"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Townsman/Careers/Militia/",
+      "source": "Character/Classes/Townsman/Careers/Militia.md"
+    },
+    {
+      "name": "Rat Catcher",
+      "class": "Townsman",
+      "class_slug": "townsman",
+      "status": "Silver",
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": true,
+      "tags": [
+        "townsman",
+        "brass"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Townsman/Careers/Rat Catcher/",
+      "source": "Character/Classes/Townsman/Careers/Rat Catcher.md"
+    },
+    {
+      "name": "Scion",
+      "class": "Townsman",
+      "class_slug": "townsman",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "townsman"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Townsman/Careers/Scion/",
+      "source": "Character/Classes/Townsman/Careers/Scion.md"
+    },
+    {
+      "name": "Duellist",
+      "class": "Warrior",
+      "class_slug": "warrior",
+      "status": "Silver",
+      "combat_skills": "WS or BS",
+      "skills": null,
+      "trait": "Duellist may wield a weapon in either hand, one of which must be small or minor sized, and rolls both weapon damage dice when he attacks, using whichever result is higher.",
+      "progression": [],
+      "complete": true,
+      "tags": [
+        "warrior",
+        "silver"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Warrior/Careers/Duellist/",
+      "source": "Character/Classes/Warrior/Careers/Duellist.md"
+    },
+    {
+      "name": "Knight",
+      "class": "Warrior",
+      "class_slug": "warrior",
+      "status": "Gold",
+      "combat_skills": "WS",
+      "skills": null,
+      "trait": "At start, a Knight gains a 0-level squire as a henchman. The Squire taknes 0.5 of Treasure share and gains Experience Points, reaching Level 1 at 500. Then the Squire progresses as a Knight. All of the Knight’s henchmen add 1 to Loyalty and Morale checks.",
+      "progression": [],
+      "complete": true,
+      "tags": [
+        "warrior",
+        "gold"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Warrior/Careers/Knight/",
+      "source": "Character/Classes/Warrior/Careers/Knight.md"
+    },
+    {
+      "name": "Mercenary",
+      "class": "Warrior",
+      "class_slug": "warrior",
+      "status": "Silver",
+      "combat_skills": "Gains both",
+      "skills": null,
+      "trait": "Mercenary can draw a single stowed or holstered weapon, or switch weapons and attack in the same round without penalty. If surprised, Mercenary may still draw a weapon but cannot take any other actions during that round.",
+      "progression": [],
+      "complete": true,
+      "tags": [
+        "warrior",
+        "silver"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Warrior/Careers/Mercenary/",
+      "source": "Character/Classes/Warrior/Careers/Mercenary.md"
+    },
+    {
+      "name": "Pit Fighter",
+      "class": "Warrior",
+      "class_slug": "warrior",
+      "status": "Brass",
+      "combat_skills": "WS",
+      "skills": null,
+      "trait": "Pit Fighter is good at wrestling and unarmed attacks. They add their Strength AND Agility bonus to Wrestling checks, and automatically win ties (unless wrestling with another Pit Fighter or creature with a natural wrestling ability). Pit Fighter's unarmed attacks deal d4 damage.",
+      "progression": [],
+      "complete": true,
+      "tags": [
+        "warrior",
+        "brass"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Warrior/Careers/Pit Fighter/",
+      "source": "Character/Classes/Warrior/Careers/Pit Fighter.md"
+    },
+    {
+      "name": "Soldier",
+      "class": "Warrior",
+      "class_slug": "warrior",
+      "status": "Brass",
+      "combat_skills": "WS",
+      "skills": null,
+      "trait": "Soldiers reduce their Encumbrance by 1 and suffer only half damage from [forced marches](../../../../Adventuring/Time%20and%20Movement.md). Soldiers require 1 hour less sleep than normal.",
+      "progression": [],
+      "complete": true,
+      "tags": [
+        "warrior",
+        "brass"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Warrior/Careers/Soldier/",
+      "source": "Character/Classes/Warrior/Careers/Soldier.md"
+    },
+    {
+      "name": "Witch Hunter",
+      "class": "Warrior",
+      "class_slug": "warrior",
+      "status": "Silver",
+      "combat_skills": "WS or BS",
+      "skills": null,
+      "trait": "Witch Hunters add half their level (rounded up) to all magic-related saving throws.",
+      "progression": [],
+      "complete": true,
+      "tags": [
+        "warrior",
+        "silver"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Warrior/Careers/Witch Hunter/",
+      "source": "Character/Classes/Warrior/Careers/Witch Hunter.md"
+    },
+    {
+      "name": "Artisan",
+      "class": "Wood Elf",
+      "class_slug": "wood-elf",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "wood-elf"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Wood Elf/Careers/Artisan/",
+      "source": "Character/Classes/Wood Elf/Careers/Artisan.md"
+    },
+    {
+      "name": "Blade dancer",
+      "class": "Wood Elf",
+      "class_slug": "wood-elf",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "wood-elf"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Wood Elf/Careers/Blade dancer/",
+      "source": "Character/Classes/Wood Elf/Careers/Blade dancer.md"
+    },
+    {
+      "name": "Hunter",
+      "class": "Wood Elf",
+      "class_slug": "wood-elf",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "wood-elf"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Wood Elf/Careers/Hunter/",
+      "source": "Character/Classes/Wood Elf/Careers/Hunter.md"
+    },
+    {
+      "name": "Waywatcher",
+      "class": "Wood Elf",
+      "class_slug": "wood-elf",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "wood-elf"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Wood Elf/Careers/Waywatcher/",
+      "source": "Character/Classes/Wood Elf/Careers/Waywatcher.md"
+    },
+    {
+      "name": "Wizard",
+      "class": "Wood Elf",
+      "class_slug": "wood-elf",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "wood-elf"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Wood Elf/Careers/Wizard/",
+      "source": "Character/Classes/Wood Elf/Careers/Wizard.md"
+    }
+  ]
+}

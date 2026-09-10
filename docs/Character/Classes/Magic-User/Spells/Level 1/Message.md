@@ -1,12 +1,17 @@
 ---
 title: Message
 class: magic-user
+level: 1
+duration: Instantaneous
+range: 60' + 10'/level
 tags:
   - level_1
   - magic-user
 ---
 # Message
 
+**Class**: Magic-User  
+**Level**: 1  
 **Duration**: Instantaneous  
 **Range**: 60' + 10'/level  
 

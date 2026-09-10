@@ -1,12 +1,17 @@
 ---
 title: Magic Aura
 class: magic-user
+level: 1
+duration: Permanent
+range: Touch
 tags:
   - level_1
   - magic-user
 ---
 # Magic Aura
 
+**Class**: Magic-User  
+**Level**: 1  
 **Duration**: Permanent  
 **Range**: Touch  
 

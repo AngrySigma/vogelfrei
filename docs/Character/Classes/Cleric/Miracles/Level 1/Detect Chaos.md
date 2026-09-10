@@ -1,12 +1,17 @@
 ---
 title: Detect Chaos
 class: cleric
+level: 1
+duration: Instantaneous
+range: Line of Sight
 tags:
   - level_1
   - cleric
 ---
 # Detect Chaos
 
+**Class**: Cleric  
+**Level**: 1  
 **Duration**: Instantaneous  
 **Range**: Line of Sight  
 

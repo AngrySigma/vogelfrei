@@ -1,12 +1,17 @@
 ---
 title: Identify
 class: magic-user
+level: 1
+duration: Instantaneous
+range: Touch
 tags:
   - level_1
   - magic-user
 ---
 # Identify
 
+**Class**: Magic-User  
+**Level**: 1  
 **Duration**: Instantaneous  
 **Range**: Touch  
 

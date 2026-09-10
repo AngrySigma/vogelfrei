@@ -1,12 +1,17 @@
 ---
 title: Mending
 class: magic-user
+level: 1
+duration: Instantaneous
+range: 30'
 tags:
   - level_1
   - magic-user
 ---
 # Mending
 
+**Class**: Magic-User  
+**Level**: 1  
 **Duration**: Instantaneous  
 **Range**: 30'  
 

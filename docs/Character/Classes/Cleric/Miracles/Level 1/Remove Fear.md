@@ -1,12 +1,17 @@
 ---
 title: Remove Fear
 class: cleric
+level: 1
+duration: See Below
+range: Touch
 tags:
   - level_1
   - cleric
 ---
 # Remove Fear
 
+**Class**: Cleric  
+**Level**: 1  
 **Duration**: See Below  
 **Range**: Touch  
 

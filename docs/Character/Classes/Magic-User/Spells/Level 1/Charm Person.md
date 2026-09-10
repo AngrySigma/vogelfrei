@@ -1,12 +1,17 @@
 ---
 title: Charm Person
 class: magic-user
+level: 1
+duration: See Below
+range: 120'
 tags:
   - level_1
   - magic-user
 ---
 # Charm Person
 
+**Class**: Magic-User  
+**Level**: 1  
 **Duration**: See Below  
 **Range**: 120'  
 

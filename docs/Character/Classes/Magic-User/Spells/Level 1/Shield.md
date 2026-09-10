@@ -1,12 +1,17 @@
 ---
 title: Shield
 class: magic-user
+level: 1
+duration: 2 Turns
+range: Touch
 tags:
   - level_1
   - magic-user
 ---
 # Shield
 
+**Class**: Magic-User  
+**Level**: 1  
 **Duration**: 2 Turns  
 **Range**: Touch  
 

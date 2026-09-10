@@ -1,12 +1,17 @@
 ---
 title: Turn Undead
 class: cleric
+level: 1
+duration: 1d4+2 Turns
+range: 120'
 tags:
   - level_1
   - cleric
 ---
 # Turn Undead
 
+**Class**: Cleric  
+**Level**: 1  
 **Duration**: 1d4+2 Turns  
 **Range**: 120'  
 

@@ -1,12 +1,17 @@
 ---
 title: Command
 class: cleric
+level: 1
+duration: 1 Round
+range: 10'
 tags:
   - level_1
   - cleric
 ---
 # Command
 
+**Class**: Cleric  
+**Level**: 1  
 **Duration**: 1 Round  
 **Range**: 10'  
 

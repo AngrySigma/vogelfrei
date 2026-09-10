@@ -1,6 +1,9 @@
 ---
 title: Heat Metal
 class: cleric
+level: 2
+duration: 7 Rounds
+range: 40'
 tags:
   - level_2
   - cleric
@@ -8,6 +11,8 @@ tier: advanced
 ---
 # Heat Metal
 
+**Class**: Cleric  
+**Level**: 2  
 **Duration**: 7 Rounds  
 **Range**: 40'  
 

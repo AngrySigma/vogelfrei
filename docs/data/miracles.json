@@ -1,0 +1,223 @@
+{
+  "count": 11,
+  "miracles": [
+    {
+      "name": "Bless",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 1,
+      "duration": "Instantaneous",
+      "range": "Touch",
+      "text": "This spell bestows the favor of the Cleric's deity upon the subject. That subject receives a number of points (1d6 + caster's level) to allocate to any future die rolls — To-Hit, saving throws, skill checks, surprise checks, whatever the subject desires — except damage rolls. The subject trades the points on a one-for-one basis and can adjust the roll by that many points however they see fit. The number of points to be used on a roll must be declared before the roll is made. All unused points are lost at dawn the following day.\n\nNo rolls concerning the use of magic can be modified by Bless. Elves and other intrinsically magical creatures cannot benefit from Bless.",
+      "tags": [
+        "level_1",
+        "cleric"
+      ],
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 1/Bless/",
+      "source": "Character/Classes/Cleric/Miracles/Level 1/Bless.md"
+    },
+    {
+      "name": "Command",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 1,
+      "duration": "1 Round",
+      "range": "10'",
+      "text": "When a Cleric casts this spell, they can give the subject a single word command, which it obeys to the best of its ability. The single word must make sense as a single command, such as approach, drop, fall, flee, halt, surrender, sleep, etc. Although a target could be instructed to die, this will only make the target collapse into a comatose state for a single Round. Note that the target must comprehend the speech of the caster. Any intended target that has more than 5 levels or Hit Dice, or an Intelligence of over 12 is entitled to a saving throw versus Magic. This spell is ineffective against undead.",
+      "tags": [
+        "level_1",
+        "cleric"
+      ],
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 1/Command/",
+      "source": "Character/Classes/Cleric/Miracles/Level 1/Command.md"
+    },
+    {
+      "name": "Cure Light Wounds",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 1,
+      "duration": "Instantaneous",
+      "range": "Touch",
+      "text": "By the power of the Cleric’s faith, this spell restores **1d6 Wounds** to one damaged character, plus a number of points equal to the level of the caster. For example, if the caster is **5th level**, the spell restores **1d6+5 Wounds**.  \n\nThe spell can also be used to remove **one temporary negative condition** instead of restoring lost Wounds. For example, if a character is **paralyzed, stunned, or blinded** for a set period of time, this spell will remove any of these conditions. It will **not** work on permanent conditions, and only **one condition (or damage) can be treated per casting** of the spell. Casting a spell on a long-term effect reduces its restoration time by one day, but this can only be done once per day.\n\nRecipients of the spell can only be restored to their **normal maximum Wounds**; excess points are lost.  \n\nThe **reverse of the spell** can only be used to inflict damage.",
+      "tags": [
+        "level_1",
+        "cleric"
+      ],
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 1/Cure Light Wounds/",
+      "source": "Character/Classes/Cleric/Miracles/Level 1/Cure Light Wounds.md"
+    },
+    {
+      "name": "Detect Chaos",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 1,
+      "duration": "Instantaneous",
+      "range": "Line of Sight",
+      "text": "This spell allows the caster to know if anything within their field of vision (or on their person) is **Chaotic**. For the purposes of this spell, Chaotic is defined as, but not limited to:  \n\n- **Undead creatures**\n\n- **Any extra-dimensional or extra-planar creatures**\n\n- **Any creature with innate magical abilities**\n\n- **Artifacts, symbols, or sacred places dedicated to evil gods**\n\n- **Supernatural creatures incapable of being good**\n\nMortal creatures, physical objects not directly connected to evil deities, traps, poison, or places where great atrocities have taken place are **not** considered Chaotic or evil for the purposes of this spell.\n\nThis spell **does not detect magical items or effects**.  \n\nThe **reverse of this spell, Detect Order, detects Order instead of Chaos**.",
+      "tags": [
+        "level_1",
+        "cleric"
+      ],
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 1/Detect Chaos/",
+      "source": "Character/Classes/Cleric/Miracles/Level 1/Detect Chaos.md"
+    },
+    {
+      "name": "Invisibility to Undead",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 1,
+      "duration": "1 Turn/level",
+      "range": "Touch",
+      "text": "For the duration of the spell, undead creatures cannot see, hear, or smell the subject at all, until the subject does something to intentionally gain an undead creature’s attention (including attacking). This breaks the spell completely, with all undead in the area being then able to sense the subject.  \n\nThe reverse of this spell, **Undead Attraction**, causes all present undead to ignore all living beings other than the subject until the subject is dead or until one of the ignored beings attacks the undead.",
+      "tags": [
+        "level_1",
+        "cleric"
+      ],
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 1/Invisibility to Undead/",
+      "source": "Character/Classes/Cleric/Miracles/Level 1/Invisibility to Undead.md"
+    },
+    {
+      "name": "Protection from Chaos",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 1,
+      "duration": "1 Round/level",
+      "range": "Touch",
+      "text": "The subject of this spell becomes more resistant to Chaotic creatures and effects. Any Chaotic creature suffers a penalty to hit the subject in melee combat equal to the level of the caster, and the subject gets a +1 bonus per level of the caster to save against any attack or effect caused by a Chaotic creature. Protection from Chaos also allows a saving throw against Magic-User spells and effects against the subject which normally do not grant saves (spells which deliver damage do half on a successful save, other spells fail entirely on a successful save), but the subject must also save against the effects of the beneficial spells they want to be cast on them.\n\nFor purposes of this spell, “Chaotic creatures” include undead creatures, monsters with any sort of magical ability or attack, any creature that is able to use magic (including Magic-Users and Elves, but not Clerics), beings carrying magical items (potions and scrolls do not count, but wands and staves do), and any sort of supernatural creature incapable of acting beneficently.\n\nBeings and manifestations that have no real-world essence without the forces of Chaos or magic (incorporeal undead, demons, extra-dimensional beings, Elves, etc.) are not able to physically touch those protected by this spell at all.  \n\nThe reverse of this spell, Protection from Order, instead protects against creatures of Order and Cleric magic.",
+      "tags": [
+        "level_1",
+        "cleric"
+      ],
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 1/Protection from Chaos/",
+      "source": "Character/Classes/Cleric/Miracles/Level 1/Protection from Chaos.md"
+    },
+    {
+      "name": "Purify Food and Drink",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 1,
+      "duration": "Instantaneous",
+      "range": "30'",
+      "text": "Enough food and water for up to a dozen people is made pure, removing all spoilage and poisons.  \nThe reverse of the spell, Foul Food and Drink, contaminates food and water and will spoil holy water.",
+      "tags": [
+        "level_1",
+        "cleric"
+      ],
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 1/Purify Food and Drink/",
+      "source": "Character/Classes/Cleric/Miracles/Level 1/Purify Food and Drink.md"
+    },
+    {
+      "name": "Remove Fear",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 1,
+      "duration": "See Below",
+      "range": "Touch",
+      "text": "This spell instills courage in the subject, and potentially removes the effect of magic-induced fear by allowing the target a saving throw versus Magic to attempt to remove the effects. The subject receives a saving throw bonus of +1 per level of the caster. The subject automatically succeeds in any morale checks for a number of Rounds equal to the caster’s level. Remove Fear spell counters and dispels Cause Fear.\n\nThe reverse, **Cause Fear**, will cause a subject who is touched to run away, hysterical, at full running movement for a number of Rounds equal to the caster’s level.",
+      "tags": [
+        "level_1",
+        "cleric"
+      ],
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 1/Remove Fear/",
+      "source": "Character/Classes/Cleric/Miracles/Level 1/Remove Fear.md"
+    },
+    {
+      "name": "Sanctuary",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 1,
+      "duration": "2 Rounds/level",
+      "range": "Touch",
+      "text": "This spell allows the subject to be attacked less often by foes. Any creature attempting to attack the subject must first make a saving throw versus Magic, or else it is not permitted to make an attack. The attacker does not lose its turn; it can still attack another target, move, or do anything else it is normally allowed to do. This restriction applies to area effect attacks as well, unless there is another target within that area.\n\nThe spell ends immediately if the subject makes any violent or offensive action.",
+      "tags": [
+        "level_1",
+        "cleric"
+      ],
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 1/Sanctuary/",
+      "source": "Character/Classes/Cleric/Miracles/Level 1/Sanctuary.md"
+    },
+    {
+      "name": "Turn Undead",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 1,
+      "duration": "1d4+2 Turns",
+      "range": "120'",
+      "text": "One true measure of divine power is the command over life and death. In particular, power over the walking dead. They are abominations, a crime against creation. One of a Cleric’s first duties is to ensure that the dead shall dead remain. And so they have the power to first ward against, and later outright destroy, these creations.  \n\nWhen the spell is cast, the Cleric’s player rolls 2d6. The Referee will then reference the result on the Turn Undead table below. If the roll is less than the listed number, then the undead are seemingly unaffected (but see below).\n\nFirst column is a Cleric level, others are Undead Hit Dice.\n\n| Level | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 | 13 | 14 | 15 |\n|-------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|\n| 1     | 7  | 9  | 11 | 12 | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |\n| 2     | 5  | 7  | 9  | 11 | 12 | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |\n| 3     | 3  | 5  | 7  | 9  | 11 | 12 | –  | –  | –  | –  | –  | –  | –  | –  | –  |\n| 4     | T  | 3  | 5  | 7  | 9  | 11 | 12 | –  | –  | –  | –  | –  | –  | –  | –  |\n| 5     | T  | T  | 3  | 5  | 7  | 9  | 11 | 12 | –  | –  | –  | –  | –  | –  | –  |\n| 6     | T  | T  | T  | 3  | 5  | 7  | 9  | 11 | 12 | –  | –  | –  | –  | –  | –  |\n| 7     | T* | T  | T  | T  | 3  | 5  | 7  | 9  | 11 | 12 | –  | –  | –  | –  | –  |\n| 8     | T* | T* | T  | T  | T  | 3  | 5  | 7  | 9  | 11 | 12 | –  | –  | –  | –  |\n| 9     | T* | T* | T* | T  | T  | T  | 3  | 5  | 7  | 9  | 11 | 12 | –  | –  | –  |\n| 10    | D  | T* | T* | T* | T  | T  | 3  | 5  | 7  | 9  | 11 | 12 | –  | –  | –  |\n| 11    | D  | D  | T* | T* | T* | T  | T  | 3  | 5  | 7  | 9  | 11 | 12 | –  | –  |\n| 12    | D  | D  | D  | T* | T* | T* | T  | 3  | 5  | 7  | 9  | 11 | 12 | –  | –  |\n| 13    | D* | D  | D  | D  | T* | T* | T* | T  | 3  | 5  | 7  | 9  | 11 | 12 | –  |\n| 14    | D* | D* | D  | D  | D  | T* | T* | T* | T  | 3  | 5  | 7  | 9  | 11 | –  |\n| 15    | D* | D* | D* | D  | D  | D  | T* | T* | T  | T  | 3  | 5  | 7  | 9  | –  |\n\nIf the roll is greater than or equal to the listed number, then undead totaling no more than 1d6 + the level of the casting Cleric in Hit Dice will flee to the best of their ability for the duration of the spell. Surplus Hit Dice are lost (so if the Cleric is turning four creatures of two Hit Dice each, and the roll is a 7, then only three are turned). If there are undead of multiple Hit Dice values, only one roll is made, and the roll is applied to all types. Lower Hit Dice undead are always turned before greater Hit Dice undead.\n\n- A “T” signifies that no roll is necessary; the undead are automatically turned.\n\n- A “D” signifies that the power of the Cleric is so great that the undead are instantly destroyed, rather than turned. Alternatively, a Cleric can instead choose to command the undead, making them the Cleric’s loyal slaves until destroyed. Note that intelligent undead creatures are allowed a saving throw versus Magic to avoid a “D” result; if successful, the creature is simply turned.\n\n- A “–” signifies that a Cleric of that level cannot turn an undead creature of that many Hit Dice.\n\n- An asterisk (*) denotes that twice the usual number of undead are turned.\n\nIf the turning was successful and there are still unturned undead remaining, the Cleric can roll to turn additional undead every Round until they fail a turning roll or the spell ends.\n\nRegardless of the result, as long as the Cleric is concentrating (neither movement nor fighting nor other spellcasting allowed) and holding their holy symbol before them, undead creatures cannot approach within ten feet of them. If already within that distance, they will back away.",
+      "tags": [
+        "level_1",
+        "cleric"
+      ],
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 1/Turn Undead/",
+      "source": "Character/Classes/Cleric/Miracles/Level 1/Turn Undead.md"
+    },
+    {
+      "name": "Heat Metal",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 2,
+      "duration": "7 Rounds",
+      "range": "40'",
+      "text": "Those who would dare take up arms against the gods' chosen shall burn. This spell targets one opponent and causes all metal arms and armor (including impromptu weapons!) to become hot enough to burn flesh. The caster's own arms and armor heat up as well.  \nThe metal warms, sears, and cools again over the spell's duration, as shown on the table below:\n\n| Round | Metal Temperature | Damage   |\n|-------|-------------------|----------|\n| 1     | Warm              | None     |\n| 2     | Hot               | 1d4      |\n| 3–5   | Scorching         | 2d4      |\n| 6     | Hot               | 1d4      |\n| 7     | Warm              | None     |\n\nNote that when searing damage is delivered, additional effects occur depending on the body parts which are in contact with metal. A target may experience more than one of these effects if metal is contacting multiple body parts. Effects are as follows:  \n\n- **Extremities** (hands, feet): unusable  \n\n- **Body** (covered by metal armor): bedridden from extreme burns  \n\n- **Head** (covered by a helmet): severely burned, victim is unconscious  \n\nThese effects remain until the damage caused by the spell heals. If searing metal makes contact with flammable material (leather, cloth, etc.), it burns, dealing an additional **1d4 damage** on the next Round.",
+      "tags": [
+        "level_2",
+        "cleric"
+      ],
+      "tiers": [
+        "advanced"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 2/Heat Metal/",
+      "source": "Character/Classes/Cleric/Miracles/Level 2/Heat Metal.md"
+    }
+  ]
+}

@@ -1,12 +1,17 @@
 ---
 title: Purify Food and Drink
 class: cleric
+level: 1
+duration: Instantaneous
+range: 30'
 tags:
   - level_1
   - cleric
 ---
 # Purify Food and Drink
 
+**Class**: Cleric  
+**Level**: 1  
 **Duration**: Instantaneous  
 **Range**: 30'  
 

@@ -1,12 +1,17 @@
 ---
 title: Hold Portal
 class: magic-user
+level: 1
+duration: 2d6 Turns
+range: 10'
 tags:
   - level_1
   - magic-user
 ---
 # Hold Portal
 
+**Class**: Magic-User  
+**Level**: 1  
 **Duration**: 2d6 Turns  
 **Range**: 10'  
 

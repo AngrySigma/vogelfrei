@@ -1,12 +1,17 @@
 ---
 title: Light
 class: magic-user
+level: 1
+duration: 3 Turns/caster level
+range: 120'
 tags:
   - level_1
   - magic-user
 ---
 # Light
 
+**Class**: Magic-User  
+**Level**: 1  
 **Duration**: 3 Turns/caster level  
 **Range**: 120'  
 

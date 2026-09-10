@@ -1,14 +1,19 @@
 ---
 title: Floating Disc
 class: magic-user
+level: 1
+duration: 6 Turns
+range: 20'
 tags:
   - level_1
   - magic-user
 ---
 # Floating Disc
 
+**Class**: Magic-User  
+**Level**: 1  
 **Duration**: 6 Turns  
-**Range**: 20' 
+**Range**: 20'  
 
 The caster creates a slightly concave, circular plane of force that follows them about and carries a heavy load for them. The disk is **3 feet** in diameter and **1 inch** deep at its center. It can hold **500 pounds**. If used to transport a liquid, its capacity is **2 gallons**.  
 

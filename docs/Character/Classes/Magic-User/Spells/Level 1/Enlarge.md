@@ -1,12 +1,17 @@
 ---
 title: Enlarge
 class: magic-user
+level: 1
+duration: 1 Turn/level
+range: 5'/level
 tags:
   - level_1
   - magic-user
 ---
 # Enlarge
 
+**Class**: Magic-User  
+**Level**: 1  
 **Duration**: 1 Turn/level  
 **Range**: 5'/level  
 

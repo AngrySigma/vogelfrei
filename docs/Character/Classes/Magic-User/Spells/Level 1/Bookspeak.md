@@ -1,12 +1,17 @@
 ---
 title: Bookspeak
 class: magic-user
+level: 1
+duration: 1 Round/level
+range: Touch
 tags:
   - level_1
   - magic-user
 ---
 # Bookspeak
 
+**Class**: Magic-User  
+**Level**: 1  
 **Duration**: 1 Round/level  
 **Range**: Touch  
 

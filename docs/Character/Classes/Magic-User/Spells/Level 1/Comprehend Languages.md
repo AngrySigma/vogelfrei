@@ -1,12 +1,17 @@
 ---
 title: Comprehend Languages
 class: magic-user
+level: 1
+duration: 1 Turn/level
+range: "0"
 tags:
   - level_1
   - magic-user
 ---
 # Comprehend Languages
 
+**Class**: Magic-User  
+**Level**: 1  
 **Duration**: 1 Turn/level  
 **Range**: 0  
 
