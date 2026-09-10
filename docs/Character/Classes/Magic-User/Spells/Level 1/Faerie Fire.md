@@ -1,12 +1,17 @@
 ---
 title: Faerie Fire
 class: magic-user
+level: 1
+duration: 2 Rounds/level
+range: 80'
 tags:
   - level_1
   - magic-user
 ---
 # Faerie Fire
 
+**Class**: Magic-User  
+**Level**: 1  
 **Duration**: 2 Rounds/level  
 **Range**: 80'  
 

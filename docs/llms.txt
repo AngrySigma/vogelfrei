@@ -1,0 +1,308 @@
+# Vogelfrei
+
+> An OSR tabletop role-playing game of exile, survival, and fortune.
+
+This is the complete rulebook. Pages are listed in reading order.
+
+The book ships three views of itself — `simple`, `base` and `advanced` —
+and a page can belong to any set of them; a bracketed note marks any page
+that is not in all three. Nothing is hidden from the reader by tier: the
+gating only prunes the site navigation.
+
+## Book
+
+- [Vogelfrei](https://angrysigma.github.io/vogelfrei/): Vogelfrei is structured into several chapters:
+- [Table of Contents](https://angrysigma.github.io/vogelfrei/toc/)
+
+## Character Creation
+
+- [Character Creation](https://angrysigma.github.io/vogelfrei/Character/): Character creation follows these steps in order:
+- [Ability Scores](https://angrysigma.github.io/vogelfrei/Character/Ability%20Scores/): Roll 3d6 for each ability score (Strength, Intelligence, Willpower, Agility, Toughness, Leadership) in order, and record them on your character sheet.
+- [Roll a character class and career](https://angrysigma.github.io/vogelfrei/Character/Class%20and%20Career/): All people encountered in the game world will have a class, most with no career advances, and those are known as zero level characters.
+
+## Character Creation › Classes
+
+- [Classes](https://angrysigma.github.io/vogelfrei/Character/Classes/): Each character belongs to one Class, which defines their core abilities and available Careers.
+
+## Character Creation › Classes › Warrior
+
+- [Warrior](https://angrysigma.github.io/vogelfrei/Character/Classes/Warrior/): Warriors are the most career-diverse class.
+
+## Character Creation › Classes › Warrior › Careers
+
+- [Duellist](https://angrysigma.github.io/vogelfrei/Character/Classes/Warrior/Careers/Duellist/): Duellist may wield a weapon in either hand, one of which must be small or minor sized, and rolls both weapon damage dice when he attacks, using whichever result is higher.
+- [Knight](https://angrysigma.github.io/vogelfrei/Character/Classes/Warrior/Careers/Knight/): At start, a Knight gains a 0-level squire as a henchman.
+- [Mercenary](https://angrysigma.github.io/vogelfrei/Character/Classes/Warrior/Careers/Mercenary/): Mercenary can draw a single stowed or holstered weapon, or switch weapons and attack in the same round without penalty.
+- [Pit Fighter](https://angrysigma.github.io/vogelfrei/Character/Classes/Warrior/Careers/Pit%20Fighter/): Pit Fighter is good at wrestling and unarmed attacks.
+- [Soldier](https://angrysigma.github.io/vogelfrei/Character/Classes/Warrior/Careers/Soldier/): Soldiers reduce their Encumbrance by 1 and suffer only half damage from forced marches.
+- [Witch Hunter](https://angrysigma.github.io/vogelfrei/Character/Classes/Warrior/Careers/Witch%20Hunter/): Witch Hunters add half their level (rounded up) to all magic-related saving throws.
+
+## Character Creation › Classes › Magic-User
+
+- [Magic-User](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/): Magic-Users belong to the arcane traditions:
+
+## Character Creation › Classes › Magic-User › Careers
+
+- [Bright Wizard](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Careers/Bright%20Wizard/): The numbered columns show how many spells of each spell level the Bright Wizard may keep memorized at one time.
+- [Grey Wizard](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Careers/Grey%20Wizard/)
+- [Light Wizard](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Careers/Light%20Wizard/)
+- [Witch](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Careers/Witch/)
+- [Wizard](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Careers/Wizard/): The numbered columns show how many spells of each spell level the Wizard may keep memorized at one time.
+
+## Character Creation › Classes › Magic-User › Special Rules
+
+- [Spell Scrolls](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Special%20Rules/Magical%20Activities/): Scrolls are magical items which allow a Magic-User to cast a spell without prior memorization, even if the spell is of a higher level than the Magic-User is able to cast. [advanced only]
+- [Spells](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Special%20Rules/Spells/): Magic-Users' minds are often above using a simple book to store their knowledge, so, depending on their learning origin, they might use clay tablets, inscribed weapons or their own body parts to write down spells.
+
+## Character Creation › Classes › Magic-User › List of Magic-User Spells
+
+- [List of Magic-User Spells](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/)
+
+## Character Creation › Classes › Magic-User › List of Magic-User Spells › Level 1
+
+- [Bookspeak](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Bookspeak/): When the subject of this spell touches a book, it animates, forming a mouth around the edge where the paper shows.
+- [Charm Person](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Charm%20Person/): The Charm Person spell makes a single subject utterly enamored with the caster and desperate to please them if the saving throw versus Magic is failed.
+- [Comprehend Languages](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Comprehend%20Languages/): The caster can understand the spoken words of creatures or read otherwise incomprehensible written messages by summoning the spirits of the all-knowing dead to translate for them.
+- [Detect Magic](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Detect%20Magic/): This spell allows the caster to know if anything within their field of vision (or on their person) is in any way magical.
+- [Enlarge](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Enlarge/): This spell causes instant growth (and corresponding increase in weight and damage done) of a single object or creature that is in visible range.
+- [Faerie Fire](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Faerie%20Fire/): A pale glow surrounds and outlines the subjects, making them hypervisible.
+- [Feather Fall](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Feather%20Fall/): The affected creatures or objects in range fall slowly.
+- [Floating Disc](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Floating%20Disc/): The caster creates a slightly concave, circular plane of force that follows them about and carries a heavy load for them.
+- [Hold Portal](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Hold%20Portal/): This spell magically holds shut a door, gate, window, or shutter of wood, metal, or stone.
+- [Identify](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Identify/): This spell allows the Magic-User to discern the magical properties of an item.
+- [Light](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Light/): This spell creates a light source equivalent to that of a torch in the target area of the spell.
+- [Magic Aura](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Magic%20Aura/): This spell makes an object appealing to the microcosmic forces of magic, giving the item an aura that causes it to register to Detect spells (and spells with similar capabilities) as though it were magical.
+- [Magic Missile](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Magic%20Missile/): A missile of magical energy shoots forth from the caster’s fingertip and strikes its target, dealing damage equal to 1d3 per level of the caster (so a second-level Magic-User deals 2d3 points of damage).
+- [Mending](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Mending/): Mending repairs small breaks or tears in objects.
+- [Message](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Message/): This spell grants the caster the ability to whisper messages and receive whispered replies.
+- [Read Magic](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Read%20Magic/): By means of Read Magic, the caster can decipher magical inscriptions on objects—books, scrolls, weapons, and the like—that would otherwise be unintelligible.
+- [Shield](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Shield/): Magic-Users are masters of matter and as such can command objects racing towards them to stop.
+- [Sleep](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Sleep/): A Sleep spell causes a magical slumber to come upon creatures with 4+1 or fewer Hit Dice.
+- [Spider Climb](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Spider%20Climb/): The subject can climb and travel on vertical surfaces or even traverse ceilings as a spider does.
+- [Summon](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Summon/): Magic fundamentally works by ripping a hole in the fabric of space and time and pulling out energy that interacts with and warps our reality.
+- [Unseen Servant](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Unseen%20Servant/): An Unseen Servant is an invisible, mindless, shapeless force that performs simple tasks at the caster’s command.
+
+## Character Creation › Classes › Cleric
+
+- [Cleric](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/): Clerics serve a faith and answer to it:
+
+## Character Creation › Classes › Cleric › Careers
+
+- [Priest](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Careers/Priest/): The numbered columns show how many miracles of each spell level the Priest may keep memorized at one time.
+- [Warrior Priest](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Careers/Warrior%20Priest/)
+- [Zealot](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Careers/Zealot/)
+
+## Character Creation › Classes › Cleric › Special Rules
+
+- [Blessings](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Special%20Rules/Blessings/): The Gods might be silent but not indifferent; they allow Clerics to bless themselves and others.
+- [Spell Scrolls](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Special%20Rules/Holy%20Activities/): Using a scroll to invoke a miracle erases it from the scroll. [advanced only]
+- [Holy Water](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Special%20Rules/Holy%20Water/): Most “holy water” used in religious rituals and services is merely symbolic. [base, advanced only]
+- [Miracles](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Special%20Rules/Miracles/): Clerics are believed to be divinely inspired, and their powers are granted to Clerics through prayer.
+
+## Character Creation › Classes › Cleric › List of Cleric Miracles
+
+- [List of Cleric Miracles](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/)
+
+## Character Creation › Classes › Cleric › List of Cleric Miracles › Level 1
+
+- [Bless](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%201/Bless/): This spell bestows the favor of the Cleric's deity upon the subject.
+- [Command](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%201/Command/): When a Cleric casts this spell, they can give the subject a single word command, which it obeys to the best of its ability.
+- [Cure Light Wounds](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%201/Cure%20Light%20Wounds/): By the power of the Cleric’s faith, this spell restores 1d6 Wounds to one damaged character, plus a number of points equal to the level of the caster.
+- [Detect Chaos](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%201/Detect%20Chaos/): This spell allows the caster to know if anything within their field of vision (or on their person) is Chaotic.
+- [Invisibility to Undead](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%201/Invisibility%20to%20Undead/): For the duration of the spell, undead creatures cannot see, hear, or smell the subject at all, until the subject does something to intentionally gain an undead creature’s attention (including attacking).
+- [Protection from Chaos](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%201/Protection%20from%20Chaos/): The subject of this spell becomes more resistant to Chaotic creatures and effects.
+- [Purify Food and Drink](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%201/Purify%20Food%20and%20Drink/): Enough food and water for up to a dozen people is made pure, removing all spoilage and poisons.
+- [Remove Fear](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%201/Remove%20Fear/): This spell instills courage in the subject, and potentially removes the effect of magic-induced fear by allowing the target a saving throw versus Magic to attempt to remove the effects.
+- [Sanctuary](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%201/Sanctuary/): This spell allows the subject to be attacked less often by foes.
+- [Turn Undead](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%201/Turn%20Undead/): One true measure of divine power is the command over life and death.
+
+## Character Creation › Classes › Cleric › List of Cleric Miracles › Level 2
+
+- [Heat Metal](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%202/Heat%20Metal/): Those who would dare take up arms against the gods' chosen shall burn. [advanced only]
+
+## Character Creation › Classes › Ranger
+
+- [Ranger](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/): Rangers operate in the margins between civilization and the wilds: [base, advanced only]
+
+## Character Creation › Classes › Ranger › Careers
+
+- [Boatman](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Boatman/) [base, advanced only]
+- [Bounty Hunter](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Bounty%20Hunter/) [base, advanced only]
+- [Coachman](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Coachman/) [base, advanced only]
+- [Peddlar](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Peddlar/) [base, advanced only]
+- [Road Warden](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Road%20Warden/) [base, advanced only]
+- [Sailor](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Sailor/) [base, advanced only]
+
+## Character Creation › Classes › Rogue
+
+- [Rogue](https://angrysigma.github.io/vogelfrei/Character/Classes/Rogue/): Rogues are defined by their adaptability and their lack of official social standing.
+
+## Character Creation › Classes › Peasant
+
+- [Peasant](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/): Peasants come from the lowest rungs of society but carry knowledge the nobility lacks: [base, advanced only]
+
+## Character Creation › Classes › Peasant › Careers
+
+- [Hedge Witch](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Hedge%20Witch/): Witchcraft is not about arcane precision and following magical formulae, but about primal incantations and manipulating raw magical energies. [base, advanced only]
+- [Herbalist](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Herbalist/) [base, advanced only]
+- [Hunter](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Hunter/) [base, advanced only]
+- [Miner](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Miner/) [base, advanced only]
+- [Scout](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Scout/) [base, advanced only]
+- [Villager](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Villager/) [base, advanced only]
+
+## Character Creation › Classes › Academic
+
+- [Academic](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/): Academics represent trained professionals and learned specialists: [base, advanced only]
+
+## Character Creation › Classes › Academic › Careers
+
+- [Alchemist](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Alchemist/) [base, advanced only]
+- [Apothecary](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Apothecary/) [base, advanced only]
+- [Barber](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Barber/) [base, advanced only]
+- [Cartographer](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Cartographer/) [base, advanced only]
+- [Engineer](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Engineer/) [base, advanced only]
+- [Scholar](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Scholar/) [base, advanced only]
+
+## Character Creation › Classes › Townsman
+
+- [Townsman](https://angrysigma.github.io/vogelfrei/Character/Classes/Townsman/): Townsmen are urban craftspeople and workers with practical trade skills: [base, advanced only]
+
+## Character Creation › Classes › Townsman › Careers
+
+- [Artisan](https://angrysigma.github.io/vogelfrei/Character/Classes/Townsman/Careers/Artisan/) [base, advanced only]
+- [Beggar](https://angrysigma.github.io/vogelfrei/Character/Classes/Townsman/Careers/Beggar/) [base, advanced only]
+- [Merchant](https://angrysigma.github.io/vogelfrei/Character/Classes/Townsman/Careers/Merchant/) [base, advanced only]
+- [Militia](https://angrysigma.github.io/vogelfrei/Character/Classes/Townsman/Careers/Militia/) [base, advanced only]
+- [Rat Catcher](https://angrysigma.github.io/vogelfrei/Character/Classes/Townsman/Careers/Rat%20Catcher/) [base, advanced only]
+- [Scion](https://angrysigma.github.io/vogelfrei/Character/Classes/Townsman/Careers/Scion/): A Scion can hire one more Retainer than the usual. [base, advanced only]
+
+## Character Creation › Classes › Dwarf
+
+- [Dwarf](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/): Dwarf careers: [base, advanced only]
+
+## Character Creation › Classes › Dwarf › Careers
+
+- [Artisan](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Artisan/) [base, advanced only]
+- [Brewer](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Brewer/) [base, advanced only]
+- [Engineer](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Engineer/) [base, advanced only]
+- [Karak Ranger](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Karak%20Ranger/) [base, advanced only]
+- [Miner](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Miner/) [base, advanced only]
+- [Troll Slayer](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Troll%20Slayer/) [base, advanced only]
+
+## Character Creation › Classes › High Elf
+
+- [High Elf](https://angrysigma.github.io/vogelfrei/Character/Classes/High%20Elf/): High Elf careers: [base, advanced only]
+
+## Character Creation › Classes › High Elf › Careers
+
+- [Artisan](https://angrysigma.github.io/vogelfrei/Character/Classes/High%20Elf/Careers/Artisan/) [base, advanced only]
+- [Hunter](https://angrysigma.github.io/vogelfrei/Character/Classes/High%20Elf/Careers/Hunter/) [base, advanced only]
+- [Shadow](https://angrysigma.github.io/vogelfrei/Character/Classes/High%20Elf/Careers/Shadow/) [base, advanced only]
+- [Sword-master](https://angrysigma.github.io/vogelfrei/Character/Classes/High%20Elf/Careers/Sword-master/) [base, advanced only]
+- [Wizard](https://angrysigma.github.io/vogelfrei/Character/Classes/High%20Elf/Careers/Wizard/) [base, advanced only]
+
+## Character Creation › Classes › Wood Elf
+
+- [Wood Elf](https://angrysigma.github.io/vogelfrei/Character/Classes/Wood%20Elf/): Wood Elf careers: [base, advanced only]
+
+## Character Creation › Classes › Wood Elf › Careers
+
+- [Artisan](https://angrysigma.github.io/vogelfrei/Character/Classes/Wood%20Elf/Careers/Artisan/) [base, advanced only]
+- [Blade dancer](https://angrysigma.github.io/vogelfrei/Character/Classes/Wood%20Elf/Careers/Blade%20dancer/) [base, advanced only]
+- [Hunter](https://angrysigma.github.io/vogelfrei/Character/Classes/Wood%20Elf/Careers/Hunter/) [base, advanced only]
+- [Waywatcher](https://angrysigma.github.io/vogelfrei/Character/Classes/Wood%20Elf/Careers/Waywatcher/) [base, advanced only]
+- [Wizard](https://angrysigma.github.io/vogelfrei/Character/Classes/Wood%20Elf/Careers/Wizard/) [base, advanced only]
+
+## Character Creation › Classes › Halfling
+
+- [Halfling](https://angrysigma.github.io/vogelfrei/Character/Classes/Halfling/): Halfling careers: [base, advanced only]
+
+## Character Creation › Classes › Halfling › Careers
+
+- [Artisan](https://angrysigma.github.io/vogelfrei/Character/Classes/Halfling/Careers/Artisan/) [base, advanced only]
+- [Badger Rider](https://angrysigma.github.io/vogelfrei/Character/Classes/Halfling/Careers/Badger%20Rider/) [base, advanced only]
+- [Charlatan](https://angrysigma.github.io/vogelfrei/Character/Classes/Halfling/Careers/Charlatan/) [base, advanced only]
+- [Herbalist](https://angrysigma.github.io/vogelfrei/Character/Classes/Halfling/Careers/Herbalist/) [base, advanced only]
+- [Merchant](https://angrysigma.github.io/vogelfrei/Character/Classes/Halfling/Careers/Merchant/) [base, advanced only]
+- [Scout](https://angrysigma.github.io/vogelfrei/Character/Classes/Halfling/Careers/Scout/) [base, advanced only]
+
+## Character Creation › Classes › Phoenix
+
+- [Phoenix](https://angrysigma.github.io/vogelfrei/Character/Classes/Phoenix/): Not born but made. [advanced only]
+
+## Character Creation
+
+- [Alignment](https://angrysigma.github.io/vogelfrei/Character/Alignment/): Alignment defines a character’s side in the eternal war between the forces of Order and the Chaos Gods.
+- [Starting Possessions](https://angrysigma.github.io/vogelfrei/Character/Starting%20Possessions/): All Characters begin play with money and equipment.
+- [Name](https://angrysigma.github.io/vogelfrei/Character/Name/): The Referee should inform Players as to the general theme of the campaign, and it is important to choose a name that will complement that theme. [base, advanced only]
+- [Advancement](https://angrysigma.github.io/vogelfrei/Character/Advancement/): Experience Points (XP) are a measure of improvement and progress for Player Characters.
+
+## Equipment
+
+- [Equipment](https://angrysigma.github.io/vogelfrei/Equipment/): All equipment a character may purchase or acquire during play.
+- [Armor](https://angrysigma.github.io/vogelfrei/Equipment/Armor/): Armor Rating is added to a character's Armor Class in both Melee and Ranged combat.
+
+## Equipment › Weapons
+
+- [Weapons](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/): All weapons available for purchase.
+- [Melee Weapons](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Melee%20Weapons/): Length is the weapon's grade of reach, from 0 (a fist or an improvised object) to 5 (a pike).
+- [Ranged Weapons](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Ranged%20Weapons/): Every ranged weapon requires training.
+- [Firearms](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Firearms/): Firearms share the following special traits: [base, advanced only]
+
+## Equipment
+
+- [Animals](https://angrysigma.github.io/vogelfrei/Equipment/Animals/) [base, advanced only]
+- [Containers](https://angrysigma.github.io/vogelfrei/Equipment/Containers/): A quiver plus the arrows or bolts it carries (20 maximum) count as one item together for encumbrance purposes. [base, advanced only]
+- [Food](https://angrysigma.github.io/vogelfrei/Equipment/Food/) [base, advanced only]
+- [Lodging](https://angrysigma.github.io/vogelfrei/Equipment/Lodging/): Costs are per day, unless noted. [base, advanced only]
+- [Vehicles](https://angrysigma.github.io/vogelfrei/Equipment/Vehicles/): Good quality boats cost 5% more. [advanced only]
+- [Services](https://angrysigma.github.io/vogelfrei/Equipment/Services/) [base, advanced only]
+- [Miscellaneous](https://angrysigma.github.io/vogelfrei/Equipment/Miscellaneous/): Holy water, if in a glass container or flask, can be thrown with the same range modifiers as a rock. [base, advanced only]
+
+## Retainers
+
+- [Retainers](https://angrysigma.github.io/vogelfrei/Retainers/): An adventuring party is often more than just the sum of the player characters.
+- [Hiring Retainers](https://angrysigma.github.io/vogelfrei/Retainers/Hiring%20Retainers/): In most civilized areas, it is not difficult to find people who are out of work. [base, advanced only]
+- [Morale Checks](https://angrysigma.github.io/vogelfrei/Retainers/Morale%20Checks/): For domestic retainers, Morale should be checked in any of the following cases: [base, advanced only]
+- [Basic Retainers](https://angrysigma.github.io/vogelfrei/Retainers/Basic%20Retainers/) [simple only]
+- [Expanded Retainer List](https://angrysigma.github.io/vogelfrei/Retainers/Expanded%20Retainer%20List/): A slave costs 50 sp, or 20 sp if purchased as a child. [base, advanced only]
+
+## Adventuring
+
+- [Adventuring](https://angrysigma.github.io/vogelfrei/Adventuring/): Rules governing what happens outside of direct combat — travel, exploration, survival, and recovery.
+- [Party Organization](https://angrysigma.github.io/vogelfrei/Adventuring/Party%20Organization/): An expedition that sorts itself out before the torches are lit moves twice as fast at the table and dies half as often in play.
+- [Skills](https://angrysigma.github.io/vogelfrei/Adventuring/Skills/): Characters may possess various skills such as but not limited to: Architecture, Tinkering, Search.
+- [Time and Movement](https://angrysigma.github.io/vogelfrei/Adventuring/Time%20and%20Movement/): Within the game, time passes as is convenient for play.
+- [Dungeon Exploration](https://angrysigma.github.io/vogelfrei/Adventuring/Dungeon%20Exploration/): Underground and indoor exploration — ruins, crypts, mines, cellars, and every other place the sun does not reach — is played out in Turns of ten minutes.
+- [Wilderness Travel](https://angrysigma.github.io/vogelfrei/Adventuring/Wilderness%20Travel/): Beyond the walls, time is counted in days. [base, advanced only]
+
+## Adventuring › Hazards
+
+- [Hazards](https://angrysigma.github.io/vogelfrei/Adventuring/Hazards/): Hazards are the non-combat dangers characters face in the world.
+- [Damage](https://angrysigma.github.io/vogelfrei/Adventuring/Hazards/Damage/): Stamina represents the ability of a trained character to control a dangerous situation: to duck at the last moment, roll with a blow, twist away from a blade, and keep fighting despite exhaustion.
+- [Physical Deterioration](https://angrysigma.github.io/vogelfrei/Adventuring/Hazards/Physical%20Deterioration/): A character who falls to zero in any ability score dies. [advanced only]
+- [Substance and Toxins](https://angrysigma.github.io/vogelfrei/Adventuring/Hazards/Substance%20and%20Toxins/): Alcohol is far more pernicious, as it is quite common for most everyone to use it to excess, as beer and wine are often safer to drink than plain water. [advanced only]
+- [Environmental](https://angrysigma.github.io/vogelfrei/Adventuring/Hazards/Environmental/): Exception: Characters trained in acrobatics — at the Referee's discretion, typically Rogues and similar — may make a check when falling. [base, advanced only]
+
+## Adventuring
+
+- [Healing](https://angrysigma.github.io/vogelfrei/Adventuring/Healing/): Damaged characters who have at least half of their Wounds remaining recover 1 Wound after a peaceful night’s rest.
+
+## Encounters
+
+- [Encounters](https://angrysigma.github.io/vogelfrei/Encounters/): Encounters are any situation where the player characters meet other characters or creatures in uncertain circumstances.
+- [Surprise](https://angrysigma.github.io/vogelfrei/Encounters/Surprise/): When surprise is possible, roll 1d6 for each side which might be surprised; most normal characters are surprised on a roll of 1–2.
+- [Encounter Distance](https://angrysigma.github.io/vogelfrei/Encounters/Encounter%20Distance/): Encounters begin with the closest opposing characters 3d6×10' apart, unless there are specific details which would define the encounter distance, such as being in fog or a forest. [base, advanced only]
+- [Reaction Roll](https://angrysigma.github.io/vogelfrei/Encounters/Reaction%20Roll/): In most instances, NPCs’ reactions will be obvious based on the circumstance of the encounter.
+- [Initiative](https://angrysigma.github.io/vogelfrei/Encounters/Initiative/): At the start of each round, one player rolls 1d6 for the player characters’ side, and the Referee rolls 1d6 for each opposing party.
+- [Combat Actions](https://angrysigma.github.io/vogelfrei/Encounters/Combat%20Actions/): Each character can perform a single action on their turn.
+- [Measure and Reach](https://angrysigma.github.io/vogelfrei/Encounters/Measure%20and%20Reach/): A fight is not fought at one distance. [advanced only]
+- [Monsters and NPCs](https://angrysigma.github.io/vogelfrei/Encounters/Monsters%20and%20NPCs/): Player Characters attack with Weapon Skill or Ballistic Skill and save by their class tables.
+- [Morale](https://angrysigma.github.io/vogelfrei/Encounters/Morale/): NPCs and monsters do not always fight to the death; in fact, most will try to avoid death whenever possible. [base, advanced only]
+
+## Machine-readable
+
+- [Full text](https://angrysigma.github.io/vogelfrei/llms-full.txt): every page above concatenated into one Markdown file.
+- [Spells](https://angrysigma.github.io/vogelfrei/data/spells.json): Magic-User spells with class, level, duration, range and rules text.
+- [Miracles](https://angrysigma.github.io/vogelfrei/data/miracles.json): Cleric miracles, same shape as the spells.
+- [Careers](https://angrysigma.github.io/vogelfrei/data/careers.json): careers by class, with status, traits and level progression.

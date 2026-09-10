@@ -1,3 +1,6 @@
+---
+tier: advanced
+---
 # Substance and Toxins
 
 ### Drugs & Alcohol

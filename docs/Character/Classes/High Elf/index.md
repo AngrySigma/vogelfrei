@@ -1,5 +1,6 @@
 ---
 title: High Elf
+tier: base
 ---
 # High Elf
 

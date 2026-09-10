@@ -1,5 +1,6 @@
 ---
 title: Academic
+tier: base
 ---
 # Academic
 

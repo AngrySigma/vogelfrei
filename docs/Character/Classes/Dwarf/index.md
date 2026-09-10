@@ -1,5 +1,6 @@
 ---
 title: Dwarf
+tier: base
 ---
 # Dwarf
 

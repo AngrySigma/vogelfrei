@@ -208,3 +208,9 @@ __marimo__/
 
 # Generated characters (character-generation skill)
 characters/
+
+# Vogelfrei: llms-full.txt is the whole book concatenated by
+# scripts/gen_llms_txt.py. Committing it would duplicate every prose edit in
+# git history, so it is built in CI instead. llms.txt and docs/data/*.json are
+# small and are committed.
+docs/llms-full.txt

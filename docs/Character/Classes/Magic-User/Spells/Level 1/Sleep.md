@@ -1,12 +1,17 @@
 ---
 title: Sleep
 class: magic-user
+level: 1
+duration: d4 Turns
+range: 30' + 10'/level
 tags:
   - level_1
   - magic-user
 ---
 # Sleep
 
+**Class**: Magic-User  
+**Level**: 1  
 **Duration**: d4 Turns  
 **Range**: 30' + 10'/level  
 

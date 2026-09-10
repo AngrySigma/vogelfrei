@@ -1,12 +1,17 @@
 ---
 title: Bless
 class: cleric
+level: 1
+duration: Instantaneous
+range: Touch
 tags:
   - level_1
   - cleric
 ---
 # Bless
 
+**Class**: Cleric  
+**Level**: 1  
 **Duration**: Instantaneous  
 **Range**: Touch  
 

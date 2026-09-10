@@ -1,12 +1,17 @@
 ---
 title: Summon
 class: magic-user
+level: 1
+duration: See Below
+range: 10'
 tags:
   - level_1
   - magic-user
 ---
 # Summon
 
+**Class**: Magic-User  
+**Level**: 1  
 **Duration**: See Below  
 **Range**: 10'  
 
@@ -442,4 +447,3 @@ Thaumaturgic Circles are magical diagrams (or mathematical equations which are n
     Instead of summoning a creature, a portal was opened to a dimension of infinite liquid. Whether this liquid is something mundane like water or something more exotic is up to the Referee. The sea level will begin to rise immediately, worldwide, at a rate of 10' per Turn until the water reaches a level 50' higher than the caster was when the spell was cast. Once it reaches this level, it will drain away at a rate of 1d10 feet per day.
     
     Summon spells to call specific beings can be researched (or discovered). They will be first level spells but must be researched as if they were a level equal to the summoned creature’s Hit Dice + Number of Powers.
-

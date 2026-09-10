@@ -1,12 +1,17 @@
 ---
 title: Unseen Servant
 class: magic-user
+level: 1
+duration: 6 Turns +1 Turn/level
+range: "0"
 tags:
   - level_1
   - magic-user
 ---
 # Unseen Servant
 
+**Class**: Magic-User  
+**Level**: 1  
 **Duration**: 6 Turns +1 Turn/level  
 **Range**: 0  
 

@@ -1,14 +1,19 @@
 ---
 title: Feather Fall
 class: magic-user
+level: 1
+duration: See Below
+range: 10'/level
 tags:
   - level_1
   - magic-user
 ---
 # Feather Fall
 
+**Class**: Magic-User  
+**Level**: 1  
 **Duration**: See Below  
-**Range**: 10'/level
+**Range**: 10'/level  
 
 The affected creatures or objects in range fall slowly. **Feather Fall** instantly changes the rate at which the targets fall to that of a feather (about **5' per Round**), and the subjects take no damage upon landing while the spell is in effect. The spell ends immediately when the subject stops falling.  
 

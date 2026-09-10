@@ -1,12 +1,17 @@
 ---
 title: Protection from Chaos
 class: cleric
+level: 1
+duration: 1 Round/level
+range: Touch
 tags:
   - level_1
   - cleric
 ---
 # Protection from Chaos
 
+**Class**: Cleric  
+**Level**: 1  
 **Duration**: 1 Round/level  
 **Range**: Touch  
 

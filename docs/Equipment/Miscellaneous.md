@@ -1,3 +1,6 @@
+---
+tier: base
+---
 # Miscellaneous
 
 <div class="tables-inline">

@@ -3,6 +3,7 @@ tags:
   - dwarf
 image: assets/img/cover.webp
 image_alt: Artisan illustration
+tier: base
 ---
 # Artisan
 

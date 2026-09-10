@@ -3,6 +3,7 @@ tags:
   - peasant
 image: assets/img/cover.webp
 image_alt: Scout illustration
+tier: base
 ---
 # Scout
 

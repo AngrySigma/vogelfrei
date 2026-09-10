@@ -3,6 +3,7 @@ tags:
   - ranger
 image: assets/img/cover.webp
 image_alt: Boatman illustration
+tier: base
 ---
 # Boatman
 

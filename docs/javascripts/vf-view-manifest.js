@@ -2,8 +2,445 @@
    Maps page URLs to the game tiers they appear in, for javascripts/vf-view.js. */
 window.VF_TIERS = ["simple", "base", "advanced"];
 window.VF_PAGES = {
+  "Adventuring/Hazards/Environmental/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Adventuring/Hazards/Physical Deterioration/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Adventuring/Hazards/Substance and Toxins/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Adventuring/Wilderness Travel/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Academic/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Academic/Careers/Alchemist/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Academic/Careers/Apothecary/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Academic/Careers/Barber/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Academic/Careers/Cartographer/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Academic/Careers/Engineer/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Academic/Careers/Scholar/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
   "Character/Classes/Cleric/Miracles/Level 2/Heat Metal/": {
     "tiers": [
+      "advanced"
+    ]
+  },
+  "Character/Classes/Cleric/Special Rules/Holy Activities/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Character/Classes/Cleric/Special Rules/Holy Water/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Dwarf/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Dwarf/Careers/Artisan/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Dwarf/Careers/Brewer/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Dwarf/Careers/Engineer/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Dwarf/Careers/Karak Ranger/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Dwarf/Careers/Miner/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Dwarf/Careers/Troll Slayer/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Halfling/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Halfling/Careers/Artisan/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Halfling/Careers/Badger Rider/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Halfling/Careers/Charlatan/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Halfling/Careers/Herbalist/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Halfling/Careers/Merchant/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Halfling/Careers/Scout/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/High Elf/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/High Elf/Careers/Artisan/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/High Elf/Careers/Hunter/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/High Elf/Careers/Shadow/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/High Elf/Careers/Sword-master/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/High Elf/Careers/Wizard/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Magic-User/Special Rules/Magical Activities/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Character/Classes/Peasant/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Peasant/Careers/Hedge Witch/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Peasant/Careers/Herbalist/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Peasant/Careers/Hunter/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Peasant/Careers/Miner/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Peasant/Careers/Scout/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Peasant/Careers/Villager/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Phoenix/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Character/Classes/Ranger/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Ranger/Careers/Boatman/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Ranger/Careers/Bounty Hunter/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Ranger/Careers/Coachman/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Ranger/Careers/Peddlar/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Ranger/Careers/Road Warden/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Ranger/Careers/Sailor/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Townsman/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Townsman/Careers/Artisan/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Townsman/Careers/Beggar/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Townsman/Careers/Merchant/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Townsman/Careers/Militia/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Townsman/Careers/Rat Catcher/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Townsman/Careers/Scion/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Wood Elf/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Wood Elf/Careers/Artisan/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Wood Elf/Careers/Blade dancer/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Wood Elf/Careers/Hunter/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Wood Elf/Careers/Waywatcher/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Wood Elf/Careers/Wizard/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Name/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Encounters/Encounter Distance/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Encounters/Measure and Reach/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Encounters/Morale/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Equipment/Animals/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Equipment/Containers/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Equipment/Food/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Equipment/Lodging/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Equipment/Miscellaneous/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Equipment/Services/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Equipment/Vehicles/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Equipment/Weapons/Firearms/": {
+    "tiers": [
+      "base",
       "advanced"
     ]
   },

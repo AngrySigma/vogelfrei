@@ -1,12 +1,17 @@
 ---
 title: Sanctuary
 class: cleric
+level: 1
+duration: 2 Rounds/level
+range: Touch
 tags:
   - level_1
   - cleric
 ---
 # Sanctuary
 
+**Class**: Cleric  
+**Level**: 1  
 **Duration**: 2 Rounds/level  
 **Range**: Touch  
 

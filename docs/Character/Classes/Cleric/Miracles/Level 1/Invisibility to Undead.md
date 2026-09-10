@@ -1,12 +1,17 @@
 ---
 title: Invisibility to Undead
 class: cleric
+level: 1
+duration: 1 Turn/level
+range: Touch
 tags:
   - level_1
   - cleric
 ---
 # Invisibility to Undead
 
+**Class**: Cleric  
+**Level**: 1  
 **Duration**: 1 Turn/level  
 **Range**: Touch  
 

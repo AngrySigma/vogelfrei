@@ -1,12 +1,17 @@
 ---
 title: Cure Light Wounds
 class: cleric
+level: 1
+duration: Instantaneous
+range: Touch
 tags:
   - level_1
   - cleric
 ---
 # Cure Light Wounds
 
+**Class**: Cleric  
+**Level**: 1  
 **Duration**: Instantaneous  
 **Range**: Touch  
 

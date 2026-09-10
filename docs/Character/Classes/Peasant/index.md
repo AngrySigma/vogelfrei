@@ -1,5 +1,6 @@
 ---
 title: Peasant
+tier: base
 ---
 # Peasant
 

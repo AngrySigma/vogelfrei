@@ -1,3 +1,6 @@
+---
+tier: advanced
+---
 # Physical Deterioration
 
 !!! note "War of Attrition"

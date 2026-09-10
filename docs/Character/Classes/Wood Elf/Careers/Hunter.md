@@ -3,6 +3,7 @@ tags:
   - wood-elf
 image: assets/img/cover.webp
 image_alt: Hunter illustration
+tier: base
 ---
 # Hunter
 

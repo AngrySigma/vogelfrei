@@ -1,12 +1,17 @@
 ---
 title: Read Magic
 class: magic-user
+level: 1
+duration: Instantaneous
+range: "0"
 tags:
   - level_1
   - magic-user
 ---
 # Read Magic
 
+**Class**: Magic-User  
+**Level**: 1  
 **Duration**: Instantaneous  
 **Range**: 0  
 

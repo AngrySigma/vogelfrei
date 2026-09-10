@@ -1,12 +1,17 @@
 ---
 title: Detect Magic
 class: magic-user
+level: 1
+duration: Instantaneous
+range: Line of Sight
 tags:
   - level_1
   - magic-user
 ---
 # Detect Magic
 
+**Class**: Magic-User  
+**Level**: 1  
 **Duration**: Instantaneous  
 **Range**: Line of Sight  
 

@@ -1,3 +1,6 @@
+---
+tier: advanced
+---
 # Spell Scrolls
 Scrolls are magical items which allow a Cleric to invoke a miracle without prior memorization, even if the miracle is of a higher spell level than the Cleric is able to invoke. The scrolls are written in the language of the writer, so no Read Magic spell is necessary as it is for Magic-User spells, but to use a scroll a Cleric must be able to read the language of the writer. Scrolls written by Clerics of different religions can be used with no penalty or modification.
 

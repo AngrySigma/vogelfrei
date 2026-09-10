@@ -1,15 +1,17 @@
-/* Vogelfrei – spell page enhancements
+/* Vogelfrei – page enhancements
    1. Colour .md-tag chips by text content (fallback when tags plugin is off)
-   2. Inject Class + Level lines into the Duration/Range metadata block        */
+   2. Click-to-zoom lightbox for .vf-figure portraits
+
+   The Class and Level lines of a spell/miracle metadata block used to be
+   injected here from the page's tag chips. They are now written into the page
+   itself by scripts/gen_game_data.py, which generates the block from the
+   frontmatter that also feeds docs/data/*.json — so the rules text and the
+   structured data cannot drift apart, and the lines are present in the HTML
+   for search, for print, and for anything reading the page without JS.      */
 
 const TAG_COLORS = {
   "magic-user": { bg: "var(--vf-tag-mu)", color: "var(--vf-tag-mu-text)" },
   "cleric":     { bg: "var(--vf-tag-cl)", color: "var(--vf-tag-cl-text)" },
-};
-
-const CLASS_LABELS = {
-  "magic-user": "Magic-User",
-  "cleric":     "Cleric",
 };
 
 /* ---- 1. Colour non-linked tag chips ---- */
@@ -24,48 +26,7 @@ function colorTagChips() {
   });
 }
 
-/* ---- 2. Inject Class / Level into the metadata block ---- */
-function injectSpellMeta() {
-  /* Collect tag chip text (works for both <a> and <span> chips) */
-  const chipTexts = [...document.querySelectorAll(".md-tag")]
-    .map(el => el.textContent.trim().toLowerCase());
-
-  const classTag = chipTexts.find(t => CLASS_LABELS[t]);
-  const levelTag = chipTexts.find(t => /^level_\d+$/.test(t));
-
-  if (!classTag && !levelTag) return; /* not a spell/miracle page */
-
-  /* Find the metadata block: first <p> whose first element child is <strong>
-     and which contains a <br> — the Duration/Range paragraph              */
-  const metaBlock = [...document.querySelectorAll(".md-typeset p")].find(p => {
-    const first = p.firstElementChild;
-    return first && first.tagName === "STRONG" && p.querySelector("br");
-  });
-
-  if (!metaBlock) return;
-
-  /* Avoid double-injection on instant-nav revisits */
-  if (metaBlock.dataset.vfInjected) return;
-  metaBlock.dataset.vfInjected = "1";
-
-  /* Build lines to prepend */
-  const lines = [];
-  if (classTag) lines.push(["Class", CLASS_LABELS[classTag]]);
-  if (levelTag) lines.push(["Level", levelTag.replace("level_", "")]);
-
-  const frag = document.createDocumentFragment();
-  lines.forEach(([label, value]) => {
-    const strong = document.createElement("strong");
-    strong.textContent = label;
-    frag.appendChild(strong);
-    frag.appendChild(document.createTextNode(": " + value));
-    frag.appendChild(document.createElement("br"));
-  });
-
-  metaBlock.insertBefore(frag, metaBlock.firstChild);
-}
-
-/* ---- 3. Click-to-zoom lightbox for .vf-figure portraits (cover + careers) ----
+/* ---- 2. Click-to-zoom lightbox for .vf-figure portraits (cover + careers) ----
    Uses event delegation on document + a single reused overlay, so it works
    with instant navigation without re-binding on every page swap.            */
 function setupLightbox() {
@@ -112,17 +73,11 @@ function setupLightbox() {
    guards above), so the double call on the initial load is harmless.
 
    Note: there is no "DOMContentSwitch" event — it is dispatched nowhere in the
-   theme bundle. Listening for it silently did nothing, which meant spell and
-   miracle pages reached by instant navigation never got their Class/Level
-   lines injected.                                                          */
-function enhance() {
-  colorTagChips();
-  injectSpellMeta();
-}
-
+   theme bundle. Listening for it silently does nothing, so anything that must
+   re-run after an instant-navigation swap has to go through document$.     */
 function run() {
   setupLightbox();
-  enhance();
+  colorTagChips();
 }
 
 run();

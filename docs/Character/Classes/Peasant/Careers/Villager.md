@@ -3,6 +3,7 @@ tags:
   - peasant
 image: assets/img/cover.webp
 image_alt: Villager illustration
+tier: base
 ---
 # Villager
 

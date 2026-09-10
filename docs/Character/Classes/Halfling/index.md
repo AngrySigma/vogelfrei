@@ -1,5 +1,6 @@
 ---
 title: Halfling
+tier: base
 ---
 # Halfling
 
