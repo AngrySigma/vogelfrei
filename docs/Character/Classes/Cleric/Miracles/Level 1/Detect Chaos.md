@@ -22,8 +22,8 @@ This spell allows the caster to know if anything within their field of vision (o
 
 - **Supernatural creatures incapable of being good**
 
-Mortal creatures, physical objects not directly connected to evil deities, traps, poison, or places where great atrocities have taken place are **not** considered Chaotic or evil for the purposes of this spell. It detects **supernatural disturbances**, not **ill intent or foul deeds**.
+Mortal creatures, physical objects not directly connected to evil deities, traps, poison, or places where great atrocities have taken place are **not** considered Chaotic or evil for the purposes of this spell.
 
-Curiously, this spell **does not detect magical items or effects**.  
+This spell **does not detect magical items or effects**.  
 
 The **reverse of this spell, Detect Order, detects Order instead of Chaos**.  

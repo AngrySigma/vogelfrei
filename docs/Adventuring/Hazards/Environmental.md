@@ -1,7 +1,7 @@
 # Environmental
 
 ### Falling
-Characters suffer 1d6 points of damage per 10' that they fall, up to a maximum of 20d6 for a 200' fall. Falling bypasses Stamina — it happens too fast for trained reflexes to intercept.
+Characters suffer 1d6 points of damage per 10' that they fall, up to a maximum of 20d6 for a 200' fall. Falling bypasses Stamina.
 
 **Exception:** Characters trained in acrobatics — at the Referee's discretion, typically Rogues and similar — may make a check when falling. On a success, the fall damage is absorbed by Stamina as normal, representing a roll on landing, a last-moment grab, or using the fall's momentum to redirect impact.
 ### Traps

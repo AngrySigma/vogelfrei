@@ -30,7 +30,7 @@ Once the Summon spell is cast, there are a number of steps to resolve:
 The caster must decide how powerful a creature — expressed in terms of Hit Dice — he will attempt to summon. This cannot be more than two times the caster's level, but this effective level for this purpose can be modified by Thaumaturgic Circles and Sacrifices — see below.  
 
 ## Step two  
-The caster must make a saving throw versus Magic. Failing this saving throw means a more powerful creature than anticipated might come through the tear in the fabric of reality, which can have dire consequences for all present.  
+The caster must make a saving throw versus Magic. Failing this saving throw means a more powerful creature than anticipated might come through the tear in the fabric of reality.  
 
 ## Step three  
 The creature's form and powers will be randomly determined on the following tables, with different results altering the creature's basic stats.  
@@ -81,7 +81,7 @@ To determine the creature’s basic form, roll 1d12 if the original casting save
 
 If an Abstract Form (20) is rolled, ignore the rest of the steps and go straight to the particular Abstract Form description below.
 
-Each basic form that is not from the **Abstract Forms** category will have a number of additional features. The base Hit Dice (HD) of the creature determines the die type used to determine the additional features. The base Hit Dice of the creature that the caster wished to summon determines the die type used to determine additional features as follows:
+Each basic form that is not from the **Abstract Forms** category will have a number of additional features. The base Hit Dice (HD) of the creature that the caster wished to summon determines the die type used to determine additional features as follows:
 
 | Hit Dice (HD)  | Die Type |
 | -------------- | -------- |
@@ -148,7 +148,7 @@ To determine the number of powers that a creature has, use the base Hit Dice of 
 | 11–13          | 1d12     |
 | 14+            | 1d20     |
 
-Roll the indicated die type… This is the Base Number. Roll that die again. If the initial saving throw in Step Two was successful, the entity has a special power if the second roll is less than the Base Number. Roll again and keep adding special powers until a new roll greater than, or equal to, the previous roll is made. However, if the initial saving throw was failed, a new power is gained on a roll less than, or equal to, the Base Number, so the creature will have a greater chance to have more powers than if the casting was more controlled. If a 1 is rolled, however, no further rolls can be made.
+Roll the indicated die type… This is the Base Number. Roll that die again. If the initial saving throw in Step Two was successful, the entity has a special power if the second roll is less than the Base Number. Roll again and keep adding special powers until a new roll greater than, or equal to, the previous roll is made. However, if the initial saving throw was failed, a new power is gained on a roll less than, or equal to, the Base Number. If a 1 is rolled, however, no further rolls can be made.
 
 The possible powers of a summoned entity can be randomly determined on the following table. Reroll any duplicate results.
 
@@ -393,7 +393,7 @@ Using Thaumaturgic Circles and offering Sacrifice while casting the spell makes 
 
 Each full 2 Hit Dice of sacrifices gives the caster a +1 bonus to the Domination roll, or 1 Hit Die for a +1 bonus if the sacrifice is the same race as the caster. To count as a sacrifice, the victim must be helpless at the time of the slaying and purposefully slain for just this purpose. Combat deaths do not count.
 
-Thaumaturgic Circles are magical diagrams (or mathematical equations which are nonsense in our world, but important in some other) used to focus magical energy and give the caster greater control over his summoning. The diagrams are not enough, though. The materials used to draw and decorate the circles are crucial to communicating their information to the summoned creatures. 500 sp worth of materials is required to invest in a circle for every +1 bonus to the caster's Domination roll, and this is consumed with every casting.
+Thaumaturgic Circles are magical diagrams (or mathematical equations which are nonsense in our world, but important in some other) used to focus magical energy and give the caster greater control over his summoning. 500 sp worth of materials is required to invest in a circle for every +1 bonus to the caster's Domination roll, and this is consumed with every casting.
 
 #### Abstract Forms
 
@@ -440,8 +440,6 @@ Thaumaturgic Circles are magical diagrams (or mathematical equations which are n
 
 10. **World Under Water**  
     Instead of summoning a creature, a portal was opened to a dimension of infinite liquid. Whether this liquid is something mundane like water or something more exotic is up to the Referee. The sea level will begin to rise immediately, worldwide, at a rate of 10' per Turn until the water reaches a level 50' higher than the caster was when the spell was cast. Once it reaches this level, it will drain away at a rate of 1d10 feet per day.
-    
-    The Referee is of course free to add his own Forms, Appendages, and Powers to the tables, replace or remove certain powers, or devise his own unique tables to suit his individual campaigns, as well as invent specific Thaumaturgic Circles which have more specific effects.
     
     Summon spells to call specific beings can be researched (or discovered). They will be first level spells but must be researched as if they were a level equal to the summoned creature’s Hit Dice + Number of Powers.
 

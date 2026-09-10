@@ -53,7 +53,7 @@ Magic-Users follow specific rules for their arcane abilities:
 
 - [Spells](Special%20Rules/Spells.md) — how spells are prepared, memorized, and cast
 
-> **Important:** A Magic-User cannot cast while more than Lightly encumbered, which in practice rules out anything heavier than the lightest armour. Their power comes at the cost of physical fragility.
+> **Important:** A Magic-User cannot cast while more than Lightly encumbered, which in practice rules out anything heavier than the lightest armour.
 
 ## Spell List
 

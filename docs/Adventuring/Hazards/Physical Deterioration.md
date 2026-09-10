@@ -1,7 +1,7 @@
 # Physical Deterioration
 
 !!! note "War of Attrition"
-    Physical Deterioration is cumulative and permanent until treated — do not ignore hunger, thirst, or fatigue.
+    Physical Deterioration is cumulative and permanent until treated.
 
 
 ### Ability Score Loss
@@ -56,7 +56,7 @@ If a character is aged by magical means, then all saving throws that would have 
 
 ---
 ### Disease
-Characters exploring in godforsaken ruins, ancient tombs, and trackless wilderness can become exposed to all sorts of plagues and illnesses. Natural, chronic illnesses will not normally be a part of the game as far as player characters are concerned. That said, the Referee is free to introduce an NPC stricken by cancer or some other illness.
+Characters exploring in godforsaken ruins, ancient tombs, and trackless wilderness can become exposed to all sorts of plagues and illnesses. Natural, chronic illnesses will not normally be a part of the game as far as player characters are concerned.
 
 Diseases are individual in nature, but all have the following characteristics: incubation period, infection time, interval, and effect.
 

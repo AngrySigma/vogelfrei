@@ -1,6 +1,6 @@
 # Combat Actions
 
-Each character can perform a single action on their turn. These given options certainly do not contain an exhaustive list of possible actions. The Referee has the final say in what can or cannot be done in one Round.
+Each character can perform a single action on their turn. These options are not an exhaustive list. The Referee has the final say in what can or cannot be done in one Round.
 
 ---
 ## Move
@@ -13,9 +13,9 @@ If the Character moves their normal combat distance, they can perform a usual At
 
 ---
 ## Flee!
-When one character or party is running from another, it is not merely a matter of movement rate which decides the outcome unless the chase is over open territory. Otherwise, both sides in a pursuit roll 1d20 and add their movement rate divided by 10. For example, characters with 120' movement roll d20+12. The higher roll wins. Individual rolls for those with different movement rates can be used at the Referee's discretion. You do not have to outrun the enemy, you just have to outrun your slowest ally!
+When one character or party is running from another, it is not merely a matter of movement rate which decides the outcome unless the chase is over open territory. Otherwise, both sides in a pursuit roll 1d20 and add their movement rate divided by 10. For example, characters with 120' movement roll d20+12. The higher roll wins. Individual rolls for those with different movement rates can be used at the Referee's discretion.
 
-No mapping or other record keeping is allowed during a pursuit. The Referee will declare in general terms where the character goes. "You run down the corridor, past two doors, and duck to the left in a passageway," is a perfectly fine description in a dungeon, with the character not being told details along the way. After all, the character has been running for his life with a flickering light source through hostile territory! Wilderness pursuit will be rather less mysterious of course.
+No mapping or other record keeping is allowed during a pursuit. The Referee will declare in general terms where the character goes. "You run down the corridor, past two doors, and duck to the left in a passageway," is a perfectly fine description in a dungeon, with the character not being told details along the way. Wilderness pursuit will be rather less mysterious of course.
 
 Dropping items or money or treasure or food might make pursuers break off pursuit, depending on why they are pursuing. If a character drops valuable goods, or treasure, in the path of treasure-seeking enemies, those enemies must make a Morale check to stop pursuit. If an unintelligent creature is pursuing, then food is what it wants, and the appropriate food dropped causes a Morale check, with failure meaning the creature stops to eat the food. Dropping an obstacle, such as flaming oil, will normally stop pursuit as well.
 
@@ -30,7 +30,7 @@ When a Character makes an attack, follow these steps:
     - They may make an attack against one enemy within range at any point during their movement.
 
 2. *Determine Opponent's AC*
-    A defender's AC is normally a static, precomputed number on the character sheet — built from the following components — so resolving an attack is just a single subtraction against the attacker's roll.
+    A defender's AC is normally a static, precomputed number on the character sheet, built from the following components.
 
     In **Melee** add the following statistics of the Opponent:
     - 8 (Base AC)
@@ -59,7 +59,7 @@ When a Character makes an attack, follow these steps:
     | Shorter weapon             | -2           |
     | Unarmed                    | -4           |
 
-    The reach advantage of a longer weapon is not a to-hit bonus — it is the penalty the shorter weapon pays to work its way past. This table applies **at measure**, the distance at which a fight opens. A fighter who gets inside a longer weapon escapes it entirely, and can turn it against its owner; see [Measure and Reach](Measure%20and%20Reach.md).
+    This table applies **at measure**, the distance at which a fight opens. A fighter who gets inside a longer weapon escapes it entirely, and can turn it against its owner; see [Measure and Reach](Measure%20and%20Reach.md).
 
     - Compare the result to the Opponent's AC. **If the roll equals or exceeds the AC, the attack lands.**
 
@@ -70,7 +70,7 @@ Damage rules are detailed in [Damage](../Adventuring/Hazards/Damage.md) Section.
 
 ### Natural 1 and 20
 
-A **natural 20** on an attack roll always hits, whatever the target's AC and whatever the modifiers, and its damage is applied **directly to Wounds**, bypassing Stamina — and because losing Wounds costs an equal amount of Stamina, the target pays the damage total twice over, once from each pool. A **natural 1** always misses. This mirrors the convention already used for saving throws.
+A **natural 20** on an attack roll always hits, whatever the target's AC and whatever the modifiers, and its damage is applied **directly to Wounds**, bypassing Stamina — and because losing Wounds costs an equal amount of Stamina, the target pays the damage total twice over, once from each pool. A **natural 1** always misses.
 
 !!! note "Double damage"
     Wherever this book calls for double damage — a Mounted Charge, a braced weapon receiving a charge — roll the weapon's damage dice **twice** and total the result. Double damage is applied normally, depleting Stamina first.
@@ -123,28 +123,25 @@ A **natural 20** on an attack roll always hits, whatever the target's AC and wha
 ### Counterattack
 Your enemies do not stand still while you cut them. A character attacked in melee, who has **Weapon Skill 1 or better**, holds a **proper weapon**, and has **not yet acted** this Round, may declare a Counterattack. They strike back at the same moment as the blow aimed at them.
 
-- The Counterattack must be declared **before the attack roll is made**. A defender who waits to see whether the blow lands has waited too long.
-- It costs the Defender their action for the Round. They cannot act again on their own initiative.
+- The Counterattack must be declared **before the attack roll is made**.
+- It costs the Defender their action for the Round.
 - For the rest of the Round, the Defender's **Weapon Skill does not count toward their AC** — every attacker benefits, not just the one they answered. They still add Weapon Skill to the Counterattack roll itself.
-- Both attacks are resolved and their damage applied **simultaneously**, exactly as with tied [Initiative](Initiative.md). A dying man's arm still finishes its stroke, and two fighters can quite easily kill one another.
+- Both attacks are resolved and their damage applied **simultaneously**, exactly as with tied [Initiative](Initiative.md). A dying man's arm still finishes its stroke.
 
 Otherwise the Counterattack is an ordinary attack: Weapon Length, reach, and every other modifier apply as usual.
 
 !!! tip "A proper weapon"
     A Counterattack demands a weapon you can check mid-stroke and send back along another line. A sword, a rapier, a staff, even a zweihander in trained hands — all fine. A club, an axe, a pike, a flail, or whatever you snatched off the table is not: once it is swinging, it goes where it was sent. The Referee has the final say, and should rule on how the weapon is *used*, not on what the table calls it.
 
-!!! note "Why anyone would"
-    The Defender's AC drops and the Attacker's does not, so striking first is still better than waiting to answer — initiative keeps its value. What the Counterattack buys is certainty: a blow that cannot be pre-empted, landing even if it kills you. Answer a foe who might drop you in one hit; do not answer a mob.
-
 ### Brace
 A character wielding a weapon long enough to be set against an approach — a Polearm, a Spear in both hands, or a Lance on foot — may spend their action to Brace it.
 
 Until the character's next turn, they attack **simultaneously** with the **first** enemy who reaches them, striking [at measure](Measure%20and%20Reach.md) as that enemy closes the distance. If that enemy was **charging** — running to reach them — the braced weapon deals **double damage**.
 
-Only the first enemy is met this way. A braced pike is a terrible thing to run onto, and no help at all against the second man behind him.
+Only the first enemy is met this way.
 
 !!! note
-    An opponent who spends their action attempting to get **inside** the braced weapon's reach is an enemy reaching the wielder, and triggers the Brace. Closing on a set spear is exactly as unwise as it sounds — though a Close attempt at a walk is not a charge, and does not suffer the doubling.
+    An opponent who spends their action attempting to get **inside** the braced weapon's reach is an enemy reaching the wielder, and triggers the Brace. A Close attempt at a walk is not a charge, and does not suffer the doubling.
 
 ### Change Weapons and Attack
 If a character is not holding the weapon that he wants to use, he can drop what is in his hands and draw a weapon (assuming the weapon is in an accessible place such as on a belt scabbard). There is a –2 penalty to their attack roll during the Round that this happens.
@@ -159,7 +156,7 @@ If there are multiple opponents attempting to wrestle a single defender, all att
 ### Subdue
 A character can try to beat an intelligent opponent senseless rather than kill them — for ransom, for questioning, or for the watch. The intent must be declared before the attack. Pulling blows takes effort: every subdual attack suffers a **−2 penalty** to the attack roll, or **−4** if the weapon is ill suited to the work — anything made to cut or pierce rather than bruise.
 
-Attack and damage are rolled normally, but **subdual damage** is noted separately from real damage. It depletes Stamina first like any other damage; an opponent whose Wounds would be reduced to 0 by subdual damage instead falls senseless or surrenders, having understood perfectly well that the victor could have killed them. They suffer no injury and are in no danger of death. Subdual damage recovers exactly as Stamina does, whichever pool it was marked against — an hour's rest restores the Stamina die plus Toughness modifier of it, and a full night in safety clears it entirely (see [Healing](../Adventuring/Healing.md)).
+Attack and damage are rolled normally, but **subdual damage** is noted separately from real damage. It depletes Stamina first like any other damage; an opponent whose Wounds would be reduced to 0 by subdual damage instead falls senseless or surrenders. They suffer no injury and are in no danger of death. Subdual damage recovers exactly as Stamina does, whichever pool it was marked against — an hour's rest restores the Stamina die plus Toughness modifier of it, and a full night in safety clears it entirely (see [Healing](../Adventuring/Healing.md)).
 
 ### Full Defence
 Characters can decide to focus entirely on defence at the expense of all other activity. A player is free to declare Full Defence at any point during the Round, even out of Initiative sequence, provided that the character has not yet acted. This adds +2 to the Character's AC for the Round, or +4 AC if the Character has Weapon Skill 1 or better.
@@ -191,15 +188,13 @@ Firing into melee with a missile weapon is a very uncertain thing. The Character
 Significantly larger characters or monsters in a melee count as two characters for random targeting purposes, and truly gargantuan creatures can be fired upon using the normal rules.
 
 ### Firing into Crowds
-A Character may choose to fire into a group of targets standing together. They gain +1 to their attack roll for each target after the first. If the attack hits, the target is determined randomly among all characters in the group.
-
-Significantly larger characters or monsters in a melee count as two characters for random targeting purposes, and truly gargantuan creatures can be fired upon using the normal rules.
+A Character may choose to fire into a group of targets standing together. They gain +1 to their attack roll for each target after the first. If the attack hits, the target is determined randomly among all characters in the group. Larger and gargantuan creatures count for random targeting as above.
 
 ---
 ## Cast a Spell
 Casting a spell during combat is a very risky proposition because the caster leaves himself completely helpless and open to attack while doing so. Magic-Users must be able to speak freely to cast a spell. Clerics must also have their holy symbol in one hand for the entire Round.
 
-Spells take effect at the beginning of the next Round, before the Initiative is rolled. Because the effect is delayed, a caster who is struck *after* casting but before the spell resolves loses the spell entirely — it is expended with no effect. If a character has already taken any damage earlier in a Round, they cannot begin casting a spell that Round.
+Spells take effect at the beginning of the next Round, before the Initiative is rolled. A caster who is struck *after* casting but before the spell resolves loses the spell entirely — it is expended with no effect. If a character has already taken any damage earlier in a Round, they cannot begin casting a spell that Round.
 
 ---
 ## Use an Item
@@ -211,12 +206,12 @@ Character might want to use some item in their possession, taking time according
 | In a pouch              | 1d3 Rounds        |
 | In a sack or a backpack | 3d6 Rounds        |
 
-During this time, the Character can be attacked as an Unaware Opponent; if the Character defends themselves with their normal AC, the Round does not count as searching for an item as they are concentrating on avoiding being hit rather than readying the desired item. It is not a good idea to sit there and rifle through one's pack while somebody is trying to kill you.
+During this time, the Character can be attacked as an Unaware Opponent; if the Character defends themselves with their normal AC, the Round does not count as searching for the item.
 
 ---
 ## Hold Action
-Sometimes winning the Initiative over a foe is not all that advantageous because it is important to know what the opponent is going to do before deciding for oneself. Any action can be held until the end of the Round, and at the time the action is taken, it happens simultaneously, not before other actions are taken. For instance, if waiting for an enemy to close later in the Round before attacking, when that enemy closes both attacks happen simultaneously; the one holding his action does not act first.
+Any action can be held until the end of the Round, and at the time the action is taken, it happens simultaneously, not before other actions are taken. For instance, if waiting for an enemy to close later in the Round before attacking, when that enemy closes both attacks happen simultaneously; the one holding his action does not act first.
 
-Waiting with a weapon half-raised costs something: a held action suffers **−2** when it is finally taken.
+A held action suffers **−2** when it is finally taken.
 
 The Character must name the **trigger** when the action is held — an enemy closing, a caster beginning his incantation, a door opening. Holding an action is a prediction, not a reaction; a defender who wants to answer a blow already aimed at him is making a [Counterattack](#counterattack), and pays for it in AC rather than accuracy.

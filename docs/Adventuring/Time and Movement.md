@@ -4,7 +4,7 @@
 
 Within the game, time passes as is convenient for play. If the characters are simply waiting for whatever reason, then the Referee can say, “Two days pass,” or whatever is needed. If nothing of importance happens, then players merely mark off their characters’ food supplies or upkeep costs as appropriate, and handle any other business that occurs during that time.
 
-There are periods when keeping a strict record of time is important. Most measures of time are self-explanatory in the rules, as they match our real measurements of time. However, there are two units of time that have special meaning in the game.
+There are periods when keeping a strict record of time is important. Two units of time have special meaning in the game.
 
 The “Turn” is ten minutes long. This is often used as a measure of time for spell durations and underground exploring.
 
@@ -12,7 +12,7 @@ The “Round” is ten seconds long. This is primarily used for time management 
 
 ---
 ## Encumbrance
-A character’s movement rate is determined by how much gear he is carrying, or how much he is encumbered. In the strictest sense, this should be determined by adding up the weight of all the gear that a character is carrying. Realistically, no one keeps track of such things during a game. However, the Referee has the authority to call an audit of a character’s inventory at any time, so each player should make sure that their character is carrying a reasonable amount of equipment and that all of the equipment fits somewhere on the character or in a pack. Worn items, such as cloaks, jewelry, backpacks, etc., do not themselves count as items for encumbrance purposes. Carried sacks full of stuff count as an oversize item. 100 coins count as one regular item.
+A character’s movement rate is determined by how much gear he is carrying, or how much he is encumbered. The Referee has the authority to call an audit of a character’s inventory at any time, so each player should make sure that their character is carrying a reasonable amount of equipment and that all of the equipment fits somewhere on the character or in a pack. Worn items, such as cloaks, jewelry, backpacks, etc., do not themselves count as items for encumbrance purposes. Carried sacks full of stuff count as an oversize item. 100 coins count as one regular item.
 
 | Criterion                                               | Effect    |
 | ------------------------------------------------------- | --------- |
@@ -21,7 +21,7 @@ A character’s movement rate is determined by how much gear he is carrying, or 
 | Per 5 items the Character is carrying                   | +1 Point  |
 | Character is carrying an oversize item                  | +1 Point  |
 
-Very small single items do not count for encumbrance purposes. Multiple small items of the same type (spikes, arrows, etc.) count as one item. Worn clothing, armor, and jewelry do not count for encumbrance purposes. All weapons count as separate items. Oversize items are counted separately. Such items include great and other two handed weapons, and any item that requires two hands to carry or is as tall as the carrying character.
+Very small single items do not count for encumbrance purposes. Multiple small items of the same type (spikes, arrows, etc.) count as one item. All weapons count as separate items. Oversize items are counted separately. Such items include great and other two handed weapons, and any item that requires two hands to carry or is as tall as the carrying character.
 
 ---
 ## Movement

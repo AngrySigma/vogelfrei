@@ -11,8 +11,8 @@ tier: advanced
 **Duration**: 7 Rounds  
 **Range**: 40'  
 
-Those who would dare take up arms against the gods' chosen shall burn. This spell targets one opponent and causes all metal arms and armor (including impromptu weapons!) to become hot enough to burn flesh. As insurance against hypocrisy, the caster's arms and armor heats up as well.  
-On the first Round of the spell, the metal becomes warm and uncomfortable to touch, but deals no damage. The same effect also occurs on the last Round of the spell's duration. During the second (and also the next-to-last) Round, intense heat causes pain and damage. In the third, fourth, and fifth Rounds, the metal is searing hot, causing more damage, as shown on the table below:
+Those who would dare take up arms against the gods' chosen shall burn. This spell targets one opponent and causes all metal arms and armor (including impromptu weapons!) to become hot enough to burn flesh. The caster's own arms and armor heat up as well.  
+The metal warms, sears, and cools again over the spell's duration, as shown on the table below:
 
 | Round | Metal Temperature | Damage   |
 |-------|-------------------|----------|

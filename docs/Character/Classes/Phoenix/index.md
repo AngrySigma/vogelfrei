@@ -30,7 +30,7 @@ Not born but made. Somewhere, an alchemist's Great Work succeeded — a rooster 
 
 ## Special Rules
 
-The Phoenix is a bird the size of a pelican. It speaks all languages it knew in the vessel, and its voice carries strangely, like words remembered rather than heard.
+The Phoenix speaks all languages it knew in the vessel, and its voice carries strangely, like words remembered rather than heard.
 
 
 - **Flight.** Flies at three times the usual speed; walks and hops at half a man's pace.
@@ -44,7 +44,7 @@ The Phoenix is a bird the size of a pelican. It speaks all languages it knew in 
 - **Glow.** Phoenix always sheds light as a lantern. This costs nothing and never runs out.
 - **Spark.** A melee attack dealing 1d4 damage.
 - **Ward.** The Phoenix saves against fire at +4 or takes half damage if there is no save.
-- **Miscats** The Phoenix is not a scholar with a grimoire; it is the fire wearing feathers. Whenever it uses a **Gift** (not the traits above), roll 1d6 alongside. On a **1**, the power slips the leash — roll on the **Surge** table. Gifts marked *(surge)* are worse: they slip on a **1–2**. The initial Gift still takes effect.
+- **Miscats** Whenever the Phoenix uses a **Gift** (not the traits above), roll 1d6 alongside. On a **1**, the power slips the leash — roll on the **Surge** table. Gifts marked *(surge)* are worse: they slip on a **1–2**. The initial Gift still takes effect.
 
 #### Surge (1d6)
 
@@ -122,7 +122,7 @@ The nest is a vessel: an athanor, a lead-lined bath of horrible but valuable sub
 | 5 | 9600sp |
 | 6 | 19200sp|
 
-The nest is stationary, physical, and vulnerable. It can be robbed, desecrated, or held hostage. The Phoenix would do well to keep its address a secret.
+The nest is stationary, physical, and vulnerable. It can be robbed, desecrated, or held hostage.
 
 #### Rebirth
 
@@ -132,7 +132,7 @@ If the nest is charged when the Phoenix dies:
 2. It wakes **one level lower** than it died, but level 1 at least.
 3. It loses **1 point of Toughness, permanently**, and bears a visible mark of the death.
 4. **1d4 years** burn off its span (below).
-5. The charge is consumed. An empty nest saves no one. If the nest is **not charged**, the Phoenix is dead. Truly.
+5. The charge is consumed. If the nest is **not charged**, the Phoenix is dead. Truly.
 
 
 > **Tip:** the Rooster Clause: at the GM's whim, an uncharged nest yields not death but a mere mundane rooster, witless and flightless, until someone brews the bath and cooks it again — paying the double charge and all costs of rebirth.
@@ -145,4 +145,4 @@ The made body lasts **d10 years** from its cooking. When the span runs out, the 
 
 ## Careers
 
-The Phoenix has no careers. It is not a trade a man takes up; it is a thing that happened in a vessel once, and is still happening.
+The Phoenix has no careers.

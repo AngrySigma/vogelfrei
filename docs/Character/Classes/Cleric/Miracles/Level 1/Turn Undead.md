@@ -12,9 +12,9 @@ tags:
 
 One true measure of divine power is the command over life and death. In particular, power over the walking dead. They are abominations, a crime against creation. One of a Cleric’s first duties is to ensure that the dead shall dead remain. And so they have the power to first ward against, and later outright destroy, these creations.  
 
-When the spell is cast, the Cleric’s player rolls 2d6. The Referee will then reference the result on the Turn Undead table on the previous page. If the roll is less than the listed number, then the undead are seemingly unaffected (but see below).
+When the spell is cast, the Cleric’s player rolls 2d6. The Referee will then reference the result on the Turn Undead table below. If the roll is less than the listed number, then the undead are seemingly unaffected (but see below).
 
-First column is a Cleric level, others are Undead Dit Dice.
+First column is a Cleric level, others are Undead Hit Dice.
 
 | Level | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 | 13 | 14 | 15 |
 |-------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
