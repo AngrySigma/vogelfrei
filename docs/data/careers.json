@@ -376,7 +376,7 @@
       "source": "Character/Classes/Dwarf/Careers/Engineer.md"
     },
     {
-      "name": "Karak Ranger",
+      "name": "Hold Ranger",
       "class": "Dwarf",
       "class_slug": "dwarf",
       "status": null,
@@ -393,8 +393,8 @@
         "base",
         "advanced"
       ],
-      "url": "Character/Classes/Dwarf/Careers/Karak Ranger/",
-      "source": "Character/Classes/Dwarf/Careers/Karak Ranger.md"
+      "url": "Character/Classes/Dwarf/Careers/Hold Ranger/",
+      "source": "Character/Classes/Dwarf/Careers/Hold Ranger.md"
     },
     {
       "name": "Miner",
@@ -418,7 +418,7 @@
       "source": "Character/Classes/Dwarf/Careers/Miner.md"
     },
     {
-      "name": "Troll Slayer",
+      "name": "Oathbound",
       "class": "Dwarf",
       "class_slug": "dwarf",
       "status": null,
@@ -435,8 +435,8 @@
         "base",
         "advanced"
       ],
-      "url": "Character/Classes/Dwarf/Careers/Troll Slayer/",
-      "source": "Character/Classes/Dwarf/Careers/Troll Slayer.md"
+      "url": "Character/Classes/Dwarf/Careers/Oathbound/",
+      "source": "Character/Classes/Dwarf/Careers/Oathbound.md"
     },
     {
       "name": "Artisan",
@@ -586,6 +586,27 @@
       "source": "Character/Classes/High Elf/Careers/Artisan.md"
     },
     {
+      "name": "Blademaster",
+      "class": "High Elf",
+      "class_slug": "high-elf",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "high-elf"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/High Elf/Careers/Blademaster/",
+      "source": "Character/Classes/High Elf/Careers/Blademaster.md"
+    },
+    {
       "name": "Hunter",
       "class": "High Elf",
       "class_slug": "high-elf",
@@ -628,27 +649,6 @@
       "source": "Character/Classes/High Elf/Careers/Shadow.md"
     },
     {
-      "name": "Sword-master",
-      "class": "High Elf",
-      "class_slug": "high-elf",
-      "status": null,
-      "combat_skills": null,
-      "skills": null,
-      "trait": null,
-      "progression": [],
-      "complete": false,
-      "tags": [
-        "high-elf"
-      ],
-      "image": "assets/img/cover.webp",
-      "tiers": [
-        "base",
-        "advanced"
-      ],
-      "url": "Character/Classes/High Elf/Careers/Sword-master/",
-      "source": "Character/Classes/High Elf/Careers/Sword-master.md"
-    },
-    {
       "name": "Wizard",
       "class": "High Elf",
       "class_slug": "high-elf",
@@ -670,7 +670,51 @@
       "source": "Character/Classes/High Elf/Careers/Wizard.md"
     },
     {
-      "name": "Bright Wizard",
+      "name": "Glamourist",
+      "class": "Magic-User",
+      "class_slug": "magic-user",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "magic-user"
+      ],
+      "image": "assets/img/careers/wizard.webp",
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Magic-User/Careers/Glamourist/",
+      "source": "Character/Classes/Magic-User/Careers/Glamourist.md"
+    },
+    {
+      "name": "Luminary",
+      "class": "Magic-User",
+      "class_slug": "magic-user",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "magic-user"
+      ],
+      "image": "assets/img/careers/wizard.webp",
+      "tiers": [
+        "simple",
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Magic-User/Careers/Luminary/",
+      "source": "Character/Classes/Magic-User/Careers/Luminary.md"
+    },
+    {
+      "name": "Pyromancer",
       "class": "Magic-User",
       "class_slug": "magic-user",
       "status": null,
@@ -680,14 +724,14 @@
       "progression": [
         {
           "level": "1",
-          "new traits": "Read/Write Talent",
+          "new traits": "Literate",
           "1st": "1",
           "2nd": "—",
           "3rd": "—"
         },
         {
           "level": "2",
-          "new traits": "Lore of Aqshy Talent",
+          "new traits": "+1 Lore (Fire)",
           "1st": "2",
           "2nd": "—",
           "3rd": "—"
@@ -729,52 +773,8 @@
         "base",
         "advanced"
       ],
-      "url": "Character/Classes/Magic-User/Careers/Bright Wizard/",
-      "source": "Character/Classes/Magic-User/Careers/Bright Wizard.md"
-    },
-    {
-      "name": "Grey Wizard",
-      "class": "Magic-User",
-      "class_slug": "magic-user",
-      "status": null,
-      "combat_skills": null,
-      "skills": null,
-      "trait": null,
-      "progression": [],
-      "complete": false,
-      "tags": [
-        "magic-user"
-      ],
-      "image": "assets/img/careers/wizard.webp",
-      "tiers": [
-        "simple",
-        "base",
-        "advanced"
-      ],
-      "url": "Character/Classes/Magic-User/Careers/Grey Wizard/",
-      "source": "Character/Classes/Magic-User/Careers/Grey Wizard.md"
-    },
-    {
-      "name": "Light Wizard",
-      "class": "Magic-User",
-      "class_slug": "magic-user",
-      "status": null,
-      "combat_skills": null,
-      "skills": null,
-      "trait": null,
-      "progression": [],
-      "complete": false,
-      "tags": [
-        "magic-user"
-      ],
-      "image": "assets/img/careers/wizard.webp",
-      "tiers": [
-        "simple",
-        "base",
-        "advanced"
-      ],
-      "url": "Character/Classes/Magic-User/Careers/Light Wizard/",
-      "source": "Character/Classes/Magic-User/Careers/Light Wizard.md"
+      "url": "Character/Classes/Magic-User/Careers/Pyromancer/",
+      "source": "Character/Classes/Magic-User/Careers/Pyromancer.md"
     },
     {
       "name": "Witch",
@@ -1073,53 +1073,6 @@
       "source": "Character/Classes/Ranger/Careers/Boatman.md"
     },
     {
-      "name": "Bounty Hunter",
-      "class": "Ranger",
-      "class_slug": "ranger",
-      "status": "Silver",
-      "combat_skills": null,
-      "skills": "[Evaluate](../../../../Adventuring/Skills.md#evaluate), Any non-special skills",
-      "trait": null,
-      "progression": [
-        {
-          "level": "1",
-          "progression": "+ 1 WS/BS"
-        },
-        {
-          "level": "2",
-          "progression": "+ 2 Paralyze save"
-        },
-        {
-          "level": "3",
-          "progression": "+ 1 WS/BS"
-        },
-        {
-          "level": "4",
-          "progression": "+ 2 Breath save"
-        },
-        {
-          "level": "5",
-          "progression": "+ 1 WS/BS"
-        },
-        {
-          "level": "6",
-          "progression": "+ 2 Poison save"
-        }
-      ],
-      "complete": true,
-      "tags": [
-        "ranger",
-        "silver"
-      ],
-      "image": "assets/img/cover.webp",
-      "tiers": [
-        "base",
-        "advanced"
-      ],
-      "url": "Character/Classes/Ranger/Careers/Bounty Hunter/",
-      "source": "Character/Classes/Ranger/Careers/Bounty Hunter.md"
-    },
-    {
       "name": "Coachman",
       "class": "Ranger",
       "class_slug": "ranger",
@@ -1228,6 +1181,53 @@
       ],
       "url": "Character/Classes/Ranger/Careers/Sailor/",
       "source": "Character/Classes/Ranger/Careers/Sailor.md"
+    },
+    {
+      "name": "Thief-Taker",
+      "class": "Ranger",
+      "class_slug": "ranger",
+      "status": "Silver",
+      "combat_skills": null,
+      "skills": "[Evaluate](../../../../Adventuring/Skills.md#evaluate), Any non-special skills",
+      "trait": null,
+      "progression": [
+        {
+          "level": "1",
+          "progression": "+ 1 WS/BS"
+        },
+        {
+          "level": "2",
+          "progression": "+ 2 Paralyze save"
+        },
+        {
+          "level": "3",
+          "progression": "+ 1 WS/BS"
+        },
+        {
+          "level": "4",
+          "progression": "+ 2 Breath save"
+        },
+        {
+          "level": "5",
+          "progression": "+ 1 WS/BS"
+        },
+        {
+          "level": "6",
+          "progression": "+ 2 Poison save"
+        }
+      ],
+      "complete": true,
+      "tags": [
+        "ranger",
+        "silver"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Ranger/Careers/Thief-Taker/",
+      "source": "Character/Classes/Ranger/Careers/Thief-Taker.md"
     },
     {
       "name": "Artisan",
@@ -1559,7 +1559,7 @@
       "source": "Character/Classes/Wood Elf/Careers/Hunter.md"
     },
     {
-      "name": "Waywatcher",
+      "name": "Pathwarden",
       "class": "Wood Elf",
       "class_slug": "wood-elf",
       "status": null,
@@ -1576,8 +1576,8 @@
         "base",
         "advanced"
       ],
-      "url": "Character/Classes/Wood Elf/Careers/Waywatcher/",
-      "source": "Character/Classes/Wood Elf/Careers/Waywatcher.md"
+      "url": "Character/Classes/Wood Elf/Careers/Pathwarden/",
+      "source": "Character/Classes/Wood Elf/Careers/Pathwarden.md"
     },
     {
       "name": "Wizard",

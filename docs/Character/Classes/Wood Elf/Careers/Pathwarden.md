@@ -1,13 +1,13 @@
 ---
 tags:
-  - dwarf
+  - wood-elf
 image: assets/img/cover.webp
-image_alt: Troll Slayer illustration
+image_alt: Pathwarden illustration
 tier: base
 ---
-# Troll Slayer
+# Pathwarden
 
-**Class**: [Dwarf](../index.md)
+**Class**: [Wood Elf](../index.md)
 
 **Status**:
 

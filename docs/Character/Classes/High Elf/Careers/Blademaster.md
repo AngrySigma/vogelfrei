@@ -1,13 +1,13 @@
 ---
 tags:
-  - dwarf
+  - high-elf
 image: assets/img/cover.webp
-image_alt: Karak Ranger illustration
+image_alt: Blademaster illustration
 tier: base
 ---
-# Karak Ranger
+# Blademaster
 
-**Class**: [Dwarf](../index.md)
+**Class**: [High Elf](../index.md)
 
 **Status**:
 

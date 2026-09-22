@@ -1,13 +1,13 @@
 ---
 tags:
-  - high-elf
+  - dwarf
 image: assets/img/cover.webp
-image_alt: Sword-master illustration
+image_alt: Oathbound illustration
 tier: base
 ---
-# Sword-master
+# Oathbound
 
-**Class**: [High Elf](../index.md)
+**Class**: [Dwarf](../index.md)
 
 **Status**:
 

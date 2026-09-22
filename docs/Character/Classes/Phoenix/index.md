@@ -73,7 +73,7 @@ At each level past the first, roll 1d20 on the list below. Rolling a Gift alread
 | 5  | **Discharge** *(surge)*. Hurl a bolt at Ballistic Skill, range 30', for 1d8 element damage. *Deepened:* 1d10, range 60'. |
 | 6  | **Mantle** *(surge)*. For one turn your body is sheathed in fire; anyone striking you in melee takes your Spark. |
 | 7  | **Passage** *(surge)*. Travel an instant between two fires or through flammable material for up to 120'. Carried objects stay behind. |
-| 8  | **Galvanism** *(surge)*. The small mercy: restart a heart stopped within the last turn, or quicken a fresh corpse to answer one question. One attempt per body, ever. |
+| 8  | **Vital Spark** *(surge)*. The small mercy: restore the fleeing vital spirit to one whose heart stopped within the last Turn, or quicken a fresh corpse to answer one question. One attempt per body, ever. |
 | 9  | **Weatherwise.** Over an hour of display and cry, call or quiet fire in the sky and land around: feed or starve a blaze, turn water into steam. |
 | 10 | **Second Wind.** Burn the body to feed the wing: once a day, take 1 Wound to gain an extra action or double movement for one round. |
 | 11 | **Brand.** Mark a creature or object with your sigil. You always know its direction. One brand at a time; a new one burns out the old dealing the Spark damage. |

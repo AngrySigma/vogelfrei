@@ -1,13 +1,12 @@
 ---
 tags:
-  - wood-elf
-image: assets/img/cover.webp
-image_alt: Waywatcher illustration
-tier: base
+  - magic-user
+image: assets/img/careers/wizard.webp
+image_alt: Glamourist illustration
 ---
-# Waywatcher
+# Glamourist
 
-**Class**: [Wood Elf](../index.md)
+**Class**: [Magic-User](../index.md)
 
 **Status**:
 

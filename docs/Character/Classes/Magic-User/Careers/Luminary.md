@@ -2,9 +2,9 @@
 tags:
   - magic-user
 image: assets/img/careers/wizard.webp
-image_alt: Grey Wizard illustration
+image_alt: Luminary illustration
 ---
-# Grey Wizard
+# Luminary
 
 **Class**: [Magic-User](../index.md)
 

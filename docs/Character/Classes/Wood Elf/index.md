@@ -38,6 +38,6 @@ Wood Elf careers:
 
 - [Hunter](Careers/Hunter.md)
 
-- [Waywatcher](Careers/Waywatcher.md)
+- [Pathwarden](Careers/Pathwarden.md)
 
 - [Wizard](Careers/Wizard.md)

@@ -1,12 +1,13 @@
 ---
 tags:
-  - magic-user
-image: assets/img/careers/wizard.webp
-image_alt: Light Wizard illustration
+  - dwarf
+image: assets/img/cover.webp
+image_alt: Hold Ranger illustration
+tier: base
 ---
-# Light Wizard
+# Hold Ranger
 
-**Class**: [Magic-User](../index.md)
+**Class**: [Dwarf](../index.md)
 
 **Status**:
 

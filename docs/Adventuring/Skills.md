@@ -94,7 +94,23 @@ Herbalism skill represents a character’s knowledge of plants and their practic
 ---
 ### Languages
 
-Most Characters are assumed to begin play being fully fluent in their native tongue, and are literate as well if they have an Intelligence of 7 or greater. Elves and Dwarfs will know the local human tongue in addition to the tongue of their particular clan (Halflings use the local human language).
+Most characters begin fully fluent in their native tongue. Elves and Dwarfs know the local human tongue in addition to the tongue of their particular clan (Halflings use the local human language).
+
+#### Literacy
+
+Letters are not a talent. They are a thing bought for a child by someone who could afford to buy it, and in this century that means the question is not how clever a character is but what their family was. Roll **1d20 and add the Intelligence modifier**, once, at character creation:
+
+| Status | Reads on | Writes on |
+| --- | ---: | ---: |
+| Brass | 17+ | 20+ |
+| Silver | 10+ | 13+ |
+| Gold | 0+ | 3+ |
+
+Reading and writing are separate rolls. A character who can read but not write is the ordinary case of a man who was taught his letters badly or taught them for one purpose only — a merchant's tallies, a psalter — and there is no shame in it.
+
+A class or career that requires letters grants them outright, whatever the roll: an Academic, a Magic-User, or anyone whose written career table says so begins able to read and write. The Referee may likewise rule that a stated background settles it — a parish clerk can read.
+
+Literacy in one tongue or script does not grant it in another. A man who reads English does not thereby read Latin, and neither of them helps him with a grimoire.
 
 When a character comes into contact with another language, his chances of knowing the language is 1 in 6, with the character’s Intelligence modifier applying. If a character has a Languages skill at a greater level than 1 in 6, use that as the base chance instead.
 

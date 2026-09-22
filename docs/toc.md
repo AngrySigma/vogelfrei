@@ -14,16 +14,16 @@ Everything needed to bring a character into the world of Vogelfrei.
 
 *   **[Classes](./Character/Classes/index.md)** — all available classes with their careers, special rules, and advancement tables:
     *   [Warrior](./Character/Classes/Warrior/index.md) — the martial class; careers include Mercenary, Pit Fighter, Soldier, Knight, Witch Hunter, Duellist.
-    *   [Magic-User](./Character/Classes/Magic-User/index.md) — arcane spellcasters; careers include Bright Wizard, Grey Wizard, Light Wizard, Witch, Wizard.
+    *   [Magic-User](./Character/Classes/Magic-User/index.md) — arcane spellcasters; careers include Pyromancer, Glamourist, Luminary, Witch, Wizard.
     *   [Cleric](./Character/Classes/Cleric/index.md) — divine miracle-workers; careers include Priest, Warrior Priest, Zealot.
-    *   [Ranger](./Character/Classes/Ranger/index.md) — wilderness wanderers; careers include Boatman, Bounty Hunter, Coachman, Peddlar, Road Warden, Sailor.
+    *   [Ranger](./Character/Classes/Ranger/index.md) — wilderness wanderers; careers include Boatman, Thief-Taker, Coachman, Peddlar, Road Warden, Sailor.
     *   [Rogue](./Character/Classes/Rogue/index.md) — urban opportunists; a class in itself, with no careers.
     *   [Peasant](./Character/Classes/Peasant/index.md) — common folk; careers include Hedge Witch, Herbalist, Hunter, Miner, Scout, Villager.
     *   [Academic](./Character/Classes/Academic/index.md) — learned scholars; careers include Alchemist, Apothecary, Barber, Cartographer, Engineer, Scholar.
     *   [Townsman](./Character/Classes/Townsman/index.md) — urban civilians; careers include Artisan, Beggar, Merchant, Militia, Rat Catcher, Scion.
-    *   [Dwarf](./Character/Classes/Dwarf/index.md) — stoic demihuman; careers include Artisan, Brewer, Engineer, Karak Ranger, Miner, Troll Slayer.
-    *   [High Elf](./Character/Classes/High%20Elf/index.md) — ancient demihuman; careers include Artisan, Hunter, Shadow, Sword-master, Wizard.
-    *   [Wood Elf](./Character/Classes/Wood%20Elf/index.md) — forest demihuman; careers include Artisan, Blade Dancer, Hunter, Waywatcher, Wizard.
+    *   [Dwarf](./Character/Classes/Dwarf/index.md) — stoic demihuman; careers include Artisan, Brewer, Engineer, Hold Ranger, Miner, Oathbound.
+    *   [High Elf](./Character/Classes/High%20Elf/index.md) — ancient demihuman; careers include Artisan, Hunter, Shadow, Blademaster, Wizard.
+    *   [Wood Elf](./Character/Classes/Wood%20Elf/index.md) — forest demihuman; careers include Artisan, Blade Dancer, Hunter, Pathwarden, Wizard.
     *   [Halfling](./Character/Classes/Halfling/index.md) — small-folk demihuman; careers include Artisan, Badger Rider, Charlatan, Herbalist, Merchant, Scout.
 
 *   **[Alignment](./Character/Alignment.md)** — choose Order, Neutrality, or Chaos; determines magical interactions and divine constraints.
@@ -47,12 +47,16 @@ Complete spell and miracle lists for arcane and divine casters.
 ## 🎒 Equipment
 All items available for purchase during character creation or between expeditions.
 
-*   **[Armor](./Equipment/Armor.md)** — armor types, their Armor Rating, and encumbrance.
+*   **[Armor](./Equipment/Armor.md)** — period armour, Armor Rating, and what a proofed plate does against a bullet.
+
+*   [Antiquated Armor](./Equipment/Antiquated%20Armor.md) — older defenses retained for Advanced play.
 
 *   **[Weapons](./Equipment/Weapons/index.md)** — weapon categories, requirements, and combat properties:
     *   [Melee Weapons](./Equipment/Weapons/Melee%20Weapons.md) — hand-to-hand weapons, length, and special qualities.
     *   [Ranged Weapons](./Equipment/Weapons/Ranged%20Weapons.md) — bows, crossbows, slings, and thrown weapons.
     *   [Firearms](./Equipment/Weapons/Firearms.md) — black powder weapons and their rules.
+    *   [Antiquated Weapons](./Equipment/Weapons/Antiquated%20Weapons.md) — earlier arms retained for Advanced play.
+    *   [Curious Firearms](./Equipment/Weapons/Curious%20Firearms.md) — rare and out-of-period legacy guns.
 
 *   **[Animals](./Equipment/Animals.md)** — horses, mules, and other beasts of burden.
 
@@ -62,7 +66,9 @@ All items available for purchase during character creation or between expedition
 
 *   **[Lodging](./Equipment/Lodging.md)** — inns, stabling, and accommodation costs.
 
-*   **[Vehicles](./Equipment/Vehicles.md)** — carts, wagons, and river boats.
+*   **[Vehicles](./Equipment/Vehicles.md)** — 17th-century land vehicles, boats, and ships.
+
+*   [Antiquated Vehicles](./Equipment/Antiquated%20Vehicles.md) — older and later designs retained for Advanced play.
 
 *   **[Services](./Equipment/Services.md)** — hirelings, professional fees, and other costs.
 
