@@ -96,13 +96,14 @@ CLASS_HINTS = {
 BP_PER_SP = 12
 BP_PER_GP = 600
 
-WEAPON_CATEGORIES = {"Melee Weapons", "Ranged Weapons", "Firearms"}
+WEAPON_CATEGORIES = {"Melee Weapons", "Ranged Weapons", "Firearms",
+                     "Antiquated Weapons", "Curious Firearms"}
 
-# Armour that counts as metal for encumbrance (docs/Adventuring/Time and
-# Movement.md); three-quarter and heavier weighs in at +2 instead.
-METAL_ARMOUR = {"Jack Chain", "Chain", "Brigandine", "Half-armour",
-                "Three-quarter armour", "Full-plate"}
-HEAVY_ARMOUR = {"Three-quarter armour", "Full-plate"}
+# The encumbrance a worn harness costs (docs/Adventuring/Time and Movement.md:
+# +1 for metal armour, +2 for three-quarter or heavier) is read off the "Enc"
+# column of the Armor pages. It used to be a hardcoded list of armour names,
+# which went stale the moment those pages were rewritten and then silently
+# charged every harness nothing at all.
 
 # Encumbrance points -> (label, miles/day, per turn, combat, running)
 MOVEMENT_TABLE = [
@@ -568,6 +569,13 @@ def _header_semantics(head_grid: list[list[HCell | None]]) -> dict[int, str]:
         h = " ".join(texts).lower()
         if "city" in h and "rural" in h:
             sem[col] = "cost_combo"
+        elif h == "cost":
+            # A lone "Cost" column, with no City/Rural split beneath it: one
+            # price that applies everywhere. Only the main tables carry the
+            # two-row header, so without this the ammunition, implement and
+            # Curious Firearms tables all priced at None and vanished from
+            # the catalog entirely.
+            sem[col] = "cost_single"
         elif "city" in h:
             sem[col] = "city"
         elif "rural" in h:
@@ -582,8 +590,14 @@ def _header_semantics(head_grid: list[list[HCell | None]]) -> dict[int, str]:
             sem[col] = "requirements"
         elif "melee equivalent" in h:
             sem[col] = "melee_equivalent"
-        elif "armor rating" in h or "armour rating" in h:
+        elif "armor rating" in h or "armour rating" in h or h in ("ar",):
             sem[col] = "armor_rating"
+        elif h == "proof":
+            sem[col] = "proof"
+        elif h == "enc":
+            sem[col] = "enc_points"
+        elif "training" in h:
+            sem[col] = "requirements"
     return sem
 
 
@@ -600,6 +614,34 @@ def _armor_props(text: str) -> dict:
     if m:
         props["ranged_ac"] = int(m.group(1))
     return props
+
+
+def shot_armor_rating(item_props: dict) -> int:
+    """The Armour Rating that survives a firearm, per docs/Equipment/Armor.md.
+
+    Proof "—" loses the whole rating, "Partial" keeps half rounding down, and
+    "Full" keeps all of it. This replaced the old flat "firearms ignore 5
+    Armour Rating", which made every harness in the book worthless.
+    """
+    ar = item_props.get("armor_rating") or 0
+    proof = (item_props.get("proof") or "").strip().lower()
+    if proof.startswith("full"):
+        return ar
+    if proof.startswith("partial"):
+        return ar // 2
+    return 0
+
+
+def armour_enc_points(name: str | None) -> int:
+    """Encumbrance Points a worn harness costs, from the Armor pages' Enc column."""
+    if not name:
+        return 0
+    for item in equipment_db():
+        if item.name.lower() == name.strip().lower():
+            raw = (item.props.get("enc_points") or "").strip()
+            m = re.search(r"(\d+)", raw)
+            return int(m.group(1)) if m else 0
+    return 0
 
 
 def _items_from_grids(head, body, category) -> list[Item]:
@@ -631,6 +673,8 @@ def _items_from_grids(head, body, category) -> list[Item]:
                 city = _parse_price_cell(text)
             elif kind == "rural":
                 rural = _parse_price_cell(text)
+            elif kind == "cost_single":
+                city = rural = _parse_price_cell(text)
             elif kind == "cost_combo":
                 parts = text.split("/")
                 city = _parse_price_cell(parts[0]) if parts else None
@@ -743,10 +787,7 @@ def encumbrance(state: dict, worn_armor: str | None) -> dict:
         else:
             regular += 1
     points = regular // 5 + oversize
-    if worn_armor in HEAVY_ARMOUR:
-        points += 2
-    elif worn_armor in METAL_ARMOUR:
-        points += 1
+    points += armour_enc_points(worn_armor)
     points += state.get("enc_adjust", 0)
     points = max(points, 0)
     # docs/Adventuring/Time and Movement.md: "Characters apply their Toughness

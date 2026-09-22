@@ -2,17 +2,19 @@
 """Step 6 — fill the armour and weapon slots and compute derived numbers.
 
 AC per docs/Encounters/Combat Actions.md:
-  Melee AC  = 8  + Agility bonus + WS + Armour Rating + shield melee bonus
-  Ranged AC = 11 + Agility bonus      + Armour Rating + shield ranged bonus
+  Melee AC   = 10 + Agility bonus + WS + Armour Rating + shield melee bonus
+  Ranged AC  = 11 + Agility bonus      + Armour Rating + shield ranged bonus
+  Firearm AC = 11 + Agility bonus      + whatever Armour Rating the harness's
+               Proof keeps against a shot (docs/Equipment/Armor.md); no shield.
 
-Also computes encumbrance and movement, flags weapons that require training
-(docs/Equipment/Weapons/index.md), and enforces the Magic-User armour ban.
+Also computes encumbrance and movement, flags weapons whose Training column
+says so, and enforces the Magic-User armour ban.
 """
 import argparse
 from pathlib import Path
 
-from vflib import (encumbrance, equipment_db, find_items, fmt_money, load_state,
-                   log, save_state)
+from vflib import (WEAPON_CATEGORIES, encumbrance, equipment_db, find_items,
+                   fmt_money, load_state, log, save_state, shot_armor_rating)
 
 
 def db_item(db, name):
@@ -43,7 +45,8 @@ def main():
             armors.append(e)
         elif "melee_ac" in props or "ranged_ac" in props:
             shields.append(e)
-        elif e["category"] in ("Melee Weapons", "Ranged Weapons", "Firearms"):
+        elif (e["category"] in WEAPON_CATEGORIES
+              and (props.get("damage") or props.get("range"))):
             weapons.append(e)
 
     if state["class"] == "Magic-User" and (armors or shields):
@@ -67,15 +70,15 @@ def main():
     sh_melee = shield["props"].get("melee_ac", 0) if shield else 0
     sh_ranged = shield["props"].get("ranged_ac", 0) if shield else 0
 
-    # docs/Equipment/Weapons/index.md: any character may use any weapon, EXCEPT
-    # asterisked melee weapons and every ranged weapon and firearm — those take
-    # real instruction. There is no WS/BS threshold; it is a background call the
+    # docs/Equipment/Weapons/*: the weapon tables carry a Training column, and
+    # that column is the authority. It replaced a footnote asterisk that could
+    # not survive a Markdown table without leaving a backslash in the weapon's
+    # name. There is no WS/BS threshold; training is a background call the
     # Referee makes, so flag it rather than penalising it.
     slots = []
     for e in weapons:
         props = e.get("props", {})
-        needs_training = (e["category"] in ("Ranged Weapons", "Firearms")
-                          or "*" in e["name"])
+        needs_training = str(props.get("requirements", "")).strip().lower() == "training"
         note = ""
         if needs_training:
             note = "needs training — the background must plausibly cover it"
@@ -90,11 +93,18 @@ def main():
         warnings.append("no weapon in the inventory")
     enc = encumbrance(state, worn_armor=worn["name"] if worn else None)
 
+    # docs/Equipment/Armor.md: a firearm meets only the Armour Rating the
+    # harness's Proof entitles it to, and no shield at all.
+    shot_ar = shot_armor_rating(worn["props"]) if worn else 0
+
     state["combat"] = {
-        "melee_ac": 8 + agi + ws + ar + sh_melee,
+        "melee_ac": 10 + agi + ws + ar + sh_melee,
         "ranged_ac": 11 + agi + ar + sh_ranged,
+        "firearm_ac": 11 + agi + shot_ar,
         "armor_worn": worn["name"] if worn else None,
         "armor_rating": ar,
+        "armor_proof": (worn["props"].get("proof") or "—") if worn else "—",
+        "shot_armor_rating": shot_ar,
         "shield": shield["name"] if shield else None,
         "weapons": slots,
         "encumbrance": enc,
@@ -102,9 +112,11 @@ def main():
     state["warnings"] = warnings
 
     log(state, f"Melee AC {state['combat']['melee_ac']} "
-               f"(8 {agi:+d} Agi +{ws} WS +{ar} AR +{sh_melee} shield); "
+               f"(10 {agi:+d} Agi +{ws} WS +{ar} AR +{sh_melee} shield); "
                f"Ranged AC {state['combat']['ranged_ac']} "
-               f"(11 {agi:+d} Agi +{ar} AR +{sh_ranged} shield)")
+               f"(11 {agi:+d} Agi +{ar} AR +{sh_ranged} shield); "
+               f"vs firearms {state['combat']['firearm_ac']} "
+               f"(11 {agi:+d} Agi +{shot_ar} AR after Proof)")
     log(state, f"Wearing: {worn['name'] if worn else 'no armour'}"
                + (f", carrying {shield['name']}" if shield else ""))
     for s in slots:
