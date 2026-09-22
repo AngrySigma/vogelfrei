@@ -5,8 +5,8 @@ AC per docs/Encounters/Combat Actions.md:
   Melee AC  = 8  + Agility bonus + WS + Armour Rating + shield melee bonus
   Ranged AC = 11 + Agility bonus      + Armour Rating + shield ranged bonus
 
-Also computes encumbrance and movement, flags weapons the character is not
-trained for, and enforces the Magic-User armour ban.
+Also computes encumbrance and movement, flags weapons that require training
+(docs/Equipment/Weapons/index.md), and enforces the Magic-User armour ban.
 """
 import argparse
 from pathlib import Path
@@ -33,7 +33,7 @@ def main():
         raise SystemExit(1)
     db = equipment_db()
     agi = state["abilities"]["Agility"]["mod"]
-    ws, bs = state.get("ws", 0), state.get("bs", 0)
+    ws = state.get("ws", 0)
     warnings = []
 
     armors, shields, weapons = [], [], []
@@ -67,25 +67,24 @@ def main():
     sh_melee = shield["props"].get("melee_ac", 0) if shield else 0
     sh_ranged = shield["props"].get("ranged_ac", 0) if shield else 0
 
+    # docs/Equipment/Weapons/index.md: any character may use any weapon, EXCEPT
+    # asterisked melee weapons and every ranged weapon and firearm — those take
+    # real instruction. There is no WS/BS threshold; it is a background call the
+    # Referee makes, so flag it rather than penalising it.
     slots = []
     for e in weapons:
         props = e.get("props", {})
-        req = props.get("requirements", "")
-        if e["category"] == "Firearms":
-            req = "Trained"  # per the Weapon Requirements table: all firearms are BS-trained
+        needs_training = (e["category"] in ("Ranged Weapons", "Firearms")
+                          or "*" in e["name"])
         note = ""
-        if e["category"] == "Firearms" and bs < 1:
-            note = "UNUSABLE: firearms need Trained BS (+1)"
-        elif e["category"] == "Ranged Weapons" and "Trained" == req and bs < 1:
-            note = "UNUSABLE: needs Trained BS (+1)"
-        elif e["category"] == "Melee Weapons" and "Trained" == req and ws < 1:
-            note = "counts as Improvised (d3): needs Trained WS (+1)"
+        if needs_training:
+            note = "needs training — the background must plausibly cover it"
+            warnings.append(f"{e['name']}: {note}")
         slots.append({"name": e["name"], "qty": e["qty"], "category": e["category"],
                       "damage": props.get("damage"),
                       "reach": props.get("length") or props.get("range"),
-                      "requirements": req or "Untrained", "note": note})
-        if note:
-            warnings.append(f"{e['name']}: {note}")
+                      "requirements": "Training" if needs_training else "—",
+                      "note": note})
 
     if not weapons:
         warnings.append("no weapon in the inventory")

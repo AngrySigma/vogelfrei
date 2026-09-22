@@ -6,7 +6,9 @@ description: Generate a complete level-1 Vogelfrei player character (stats, clas
 # Vogelfrei character generation
 
 Produces a finished level-1 character following the rulebook's creation
-order (docs/Character/index.md). Dice, table lookups and validation are
+order (docs/Character/index.md). For a whole party or pack at once, use
+`party-generation` instead — it plans the roster centrally and then runs this
+skill once per character. Dice, table lookups and validation are
 scripted; you (the agent) make only the judgement calls: class/career
 choice, equipment selection, and names when no list fits.
 
@@ -86,6 +88,10 @@ default Neutral) and rolls starting money by career Status. Some career
 pages are still blank on Status — the script will stop and ask for
 `--status brass|silver|gold`; judge from the career's social standing.
 
+**Rogue has no careers** — everything with mechanics is on the class page.
+Omit `--career` entirely and pass `--status` (Brass is the honest default):
+`apply_class.py --class Rogue --status brass`.
+
 ## Step 4 — bio and name
 
 ```
@@ -98,7 +104,7 @@ Default naming culture is 17th-century England, with built-in period lists
 for England, Wales, Scotland and Ireland. Other cultures go through the
 randomuser.me API; if the culture is unmapped or the network is down the
 script exits with code 3 — then invent a period-appropriate name yourself
-and record it with `--set 'Name'`. Interactive: show candidates and let the
+and record it with `annotate.py --set name="<name>"`. Interactive: show candidates and let the
 player choose; quick: `--pick`.
 
 ## Step 5 — buy equipment
@@ -119,10 +125,12 @@ python3 $S/buy.py --file characters/<slug>.json list
 ```
 
 Guidance: characters start with free travelling clothes (don't buy them). A
-sensible kit covers a weapon the character can actually use (Trained melee
-weapons need WS +1, most ranged need BS +1, firearms always do), armour if
-the class allows and the purse survives it, light, food, a container, and
-one or two career-flavoured tools. Spend most of the purse but keep some
+sensible kit covers a weapon the character can actually use — any character
+may use any melee weapon, but asterisked melee weapons and *every* ranged
+weapon and firearm take real instruction, so the background has to cover it
+(docs/Equipment/Weapons/index.md) — armour if the class allows and the purse
+survives it, light, food, a container, and one or two career-flavoured
+tools. Spend most of the purse but keep some
 coin — poverty is a story, an empty purse is a problem. If an item exists
 on a page but the parser missed it, record it with `--price` read off the
 page. Watch encumbrance in `list`; Brass-status characters cannot afford to
@@ -136,7 +144,7 @@ python3 $S/render_sheet.py --file characters/<slug>.json --out characters/<slug>
 ```
 
 `finalize.py` fills armour/weapon slots, computes Melee/Ranged AC,
-encumbrance and movement, and prints WARNINGs (untrained weapons,
+encumbrance and movement, and prints WARNINGs (weapons that need training,
 Magic-User armour ban, no weapon). Resolve warnings by adjusting purchases
 (`buy.py remove` refunds) and re-running, or keep them deliberately and
 mention them to the player.
@@ -158,8 +166,16 @@ If the class skill exists, follow it now. If not, do the minimum by hand:
 read the class index page (`class_page` in the JSON), its Special Rules
 pages, and the career page (`career_page`); record starting talents,
 possessions and career skills with
-`python3 $S/annotate.py --file ... --note ... --skill "Name=2"`, and tell
-the player which parts (e.g. spell selection) still need a follow-up.
+`python3 $S/annotate.py --file ... --note ... --skill "Name=2"`. If the class
+grants Skill Points, spend them and pass `--spend N` in the same call —
+`--skill` records a rating without drawing the pool down, so the sheet
+otherwise reports spent points as unspent. Then tell the player which parts
+(e.g. spell selection) still need a follow-up.
+
+**Do not invent mechanics.** Stub pages are common: roughly two thirds of the
+career pages have no trait, no skills and a blank progression table, and some
+carry only a `Status:` line. Record a blank as blank and say so — never fill
+the gap with something plausible.
 
 Finally re-render the sheet and present the character: lead with who they
 are in one or two sentences, then the sheet. Relay any warnings honestly.

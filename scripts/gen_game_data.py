@@ -107,8 +107,22 @@ def strip_link(value: str) -> str:
     return m.group(1).strip() if m else value.strip()
 
 
+INLINE_TRAIT = re.compile(r"^\*{2,3}Trait\*{2,3}\s*:\s*(?P<body>.+?)\s*$")
+
+
 def parse_trait(lines: list[str]) -> str | None:
-    """Return the text of the first ``!!! tip "Trait"`` admonition, if any."""
+    """Return the career's trait text.
+
+    Career pages write the trait two ways: as a ``!!! tip "Trait"`` admonition
+    (most of them) and as an inline ``***Trait***: ...`` line (the Academic
+    careers). Both are real content, so both must be read — reading only the
+    admonition silently dropped the Apothecary's and Barber's traits and made
+    those careers look emptier than they are.
+    """
+    for line in lines:
+        m = INLINE_TRAIT.match(line.strip())
+        if m and m.group("body").strip():
+            return m.group("body").strip()
     for i, line in enumerate(lines):
         m = ADMONITION.match(line)
         if not m or m.group("title").strip().lower() != "trait":
@@ -305,8 +319,12 @@ def resolve_career(path: Path) -> dict:
         "skills": skills or None,
         "trait": trait,
         "progression": progression,
-        # A career is a stub until someone fills in its status or its trait.
-        "complete": bool(status or trait or progression),
+        # A career is written when it has actual mechanical content: a trait,
+        # a non-empty progression table, or its skills. A Status on its own is
+        # NOT enough — several pages (e.g. Townsman/Rat Catcher) carry only a
+        # Status with every other field blank, and counting those as complete
+        # sends character generators off to build on nothing.
+        "complete": bool(trait or progression or skills or combat),
         "tags": tags,
         "image": fm.get_scalar(entries, "image"),
         "tiers": parse_tier_keys(block, rel) if block is not None else ["simple", "base", "advanced"],

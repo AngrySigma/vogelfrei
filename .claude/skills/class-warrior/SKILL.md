@@ -21,11 +21,15 @@ docs/Character/Classes/Warrior/index.md). `apply_class.py` sets this; check
 ## 2. Record the advancement restriction
 
 From level 2 on, Warriors gain +1 Combat Skill Point per level, spendable
-only as the career allows (`career_combat_skills` in the JSON — "WS" or
-"WS or BS"). Record it so it survives to the table:
+only as the career allows (`career_combat_skills` in the JSON). The class
+page is explicit: a point raises *either* WS or BS, and the career decides
+which of the two are eligible — so "WS" means the points can only go to WS,
+while "WS or BS" and "Gains both" both mean either is a legal target. A
+point is never spent twice: "Gains both" does not raise WS *and* BS. Record
+it so it survives to the table:
 
 ```
-python3 $S/annotate.py --file ... --note "Advancement: +1 Combat Skill Point/level, spendable on <WS | WS or BS> only (career)"
+python3 $S/annotate.py --file ... --note "Advancement: +1 Combat Skill Point/level, spendable on <WS | WS or BS | both> (career)"
 ```
 
 ## 3. Apply the career trait
@@ -45,12 +49,13 @@ career page (`career_page`) and act:
 
 ## 4. Sanity-check the loadout
 
-- A Warrior with WS +1 can use Trained melee weapons (swords, polearms,
-  great weapons); BS +1 opens all ranged weapons and firearms. If
-  `finalize.py` warned about an unusable weapon on a Warrior, something is
-  wrong — investigate.
-- Careers restricted to "WS" still start with BS +1; a backup ranged
-  weapon is rarely wasted.
+- Weapon access is a background call, not a WS/BS threshold: asterisked
+  melee weapons and every ranged weapon and firearm take real instruction
+  (docs/Equipment/Weapons/index.md). A Warrior career covers that trivially
+  — a Soldier drills with a musket, a Duellist with a rapier — so
+  `finalize.py`'s "needs training" flag is satisfied by the career; say
+  which career covers it rather than dropping the weapon.
+- A backup ranged weapon is rarely wasted.
 
 ## 5. Re-render
 

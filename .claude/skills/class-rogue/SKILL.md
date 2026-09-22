@@ -61,10 +61,13 @@ PY
 ```
 
 Record the improved skills at their final rating (the untouched ones stay at
-the universal 1-in-6, no need to list them):
+the universal 1-in-6, no need to list them). `--skill` records a rating and
+does **not** draw down the pool — a rating cannot say how many points bought
+it — so pass `--spend N` in the same call, or the sheet goes on reporting the
+points as unspent:
 
 ```
-python3 $S/annotate.py --file ... --skill "Stealth=2" --skill "Sleight of Hand=2"
+python3 $S/annotate.py --file ... --skill "Stealth=2" --skill "Sleight of Hand=2" --spend 2
 python3 $S/annotate.py --file ... --note "Base 1-in-6 in all other Rogue skills; +2 Skill Points per level after 1st"
 ```
 

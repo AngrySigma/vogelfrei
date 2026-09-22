@@ -29,7 +29,7 @@
       "status": "Brass",
       "combat_skills": null,
       "skills": "[Herbalism](../../../../Adventuring/Skills.md#herbalism), [Heal](../../../../Adventuring/Skills.md#heal), [Languages](../../../../Adventuring/Skills.md#languages), [Lore](../../../../Adventuring/Skills.md#lore)",
-      "trait": null,
+      "trait": "You gain +2 to all saving throws against disease and infection.",
       "progression": [
         {
           "level": "1",
@@ -76,7 +76,7 @@
       "status": "Brass",
       "combat_skills": null,
       "skills": "[Heal](../../../../Adventuring/Skills.md#heal), [Sleight of Hand](../../../../Adventuring/Skills.md#sleight-of-hand), [Languages](../../../../Adventuring/Skills.md#languages), [Lore](../../../../Adventuring/Skills.md#lore)",
-      "trait": null,
+      "trait": "You can perform surgery. On a successful Heal check, use the same d6 roll to shorten a Minor Wound’s recovery time. The roll result equals the number of days, weeks, or months reduced, depending on the wound. If a wound specifies “surgery required,” a Heal check must succeed to save the limb; failure results in amputation.",
       "progression": [
         {
           "level": "1",
@@ -1238,7 +1238,7 @@
       "skills": null,
       "trait": null,
       "progression": [],
-      "complete": true,
+      "complete": false,
       "tags": [
         "townsman",
         "silver"
@@ -1323,7 +1323,7 @@
       "skills": null,
       "trait": null,
       "progression": [],
-      "complete": true,
+      "complete": false,
       "tags": [
         "townsman",
         "brass"
