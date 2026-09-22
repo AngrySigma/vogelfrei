@@ -37,12 +37,18 @@ never one of the three):
 
 ```
 python3 - <<'PY'
-import random, pathlib
-d = pathlib.Path("docs/Character/Classes/Magic-User/Spells/Level 1")
-pool = sorted(p.stem for p in d.glob("*.md") if p.stem != "Read Magic")
+import json, random
+rows = json.load(open("docs/data/spells.json"))["spells"]
+pool = sorted(r["name"] for r in rows
+              if r["class"] == "magic-user" and r["level"] == 1
+              and r["name"] != "Read Magic")
 print("\n".join(random.sample(pool, 3)))
 PY
 ```
+
+`docs/data/spells.json` is the generated machine-readable list (name, class,
+level, duration, range, rules text) — read it rather than re-parsing the
+spell pages.
 
 The player also **defines the physical form of the spellbook** once, for
 good (Spells.md: a bound book, clay tablets, an inscribed blade, tattoos on
@@ -74,14 +80,11 @@ spell (Spells.md → Casting Spells).
 ## 4. Record the talents
 
 From the class page: **Second Sight** and **Spellcasting Talent**; the
-career grants **Read/Write Talent** at level 1 (career table, "New traits").
-The current text also lists a bare **"6SS"** whose meaning it never spells
-out — record it verbatim and flag it rather than inventing a mechanic:
+career grants **Read/Write Talent** at level 1 (career table, "New traits"):
 
 ```
 python3 $S/annotate.py --file ... \
-    --note "Talents: Second Sight, Spellcasting, Read/Write (career L1)" \
-    --note "Class page also lists '6SS' — undefined shorthand in the current rulebook; confirm with the Referee"
+    --note "Talents: Second Sight, Spellcasting, Read/Write (career L1)"
 ```
 
 ## 5. Career specifics

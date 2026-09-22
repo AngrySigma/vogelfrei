@@ -9,9 +9,10 @@ from vflib import ABILITIES, fmt_money, load_state
 def render(state: dict) -> str:
     out = []
     name = state.get("name", "Unnamed")
-    career = state.get("career", "?")
+    career = state.get("career") or None
     klass = state.get("class", "?")
-    out.append(f"# {name} — {career} ({klass}, Level {state.get('level', 1)})")
+    title = f"{career} ({klass})" if career else klass
+    out.append(f"# {name} — {title}, Level {state.get('level', 1)}")
     bio = state.get("bio", {})
     line = [f"**Alignment**: {state.get('alignment', '?')}",
             f"**Status**: {state.get('status', '?')}"]
@@ -89,7 +90,8 @@ def render(state: dict) -> str:
         for n in state["notes"]:
             out.append(f"- {n}")
 
-    refs = [p for p in (state.get("class_page"), state.get("career_page")) if p]
+    refs = list(dict.fromkeys(
+        p for p in (state.get("class_page"), state.get("career_page")) if p))
     if refs:
         out.append("\n---\n*Rules*: " + " · ".join(refs))
     return "\n".join(out) + "\n"

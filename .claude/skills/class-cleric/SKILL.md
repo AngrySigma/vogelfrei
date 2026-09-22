@@ -35,7 +35,7 @@ This is the easy thing to get wrong. On the Priest table level 1 shows
 **no miracle slots at all** — the **Invoke Talent** that unlocks prepared
 miracles only arrives at level 2. A first-level Cleric therefore casts **no
 miracles**; their divine power is expressed entirely through **Blessings**
-(class grant: **Blessing Talent**). Record it plainly:
+(the Priest table grants **Blessing Talent** at level 1). Record it plainly:
 
 ```
 python3 $S/annotate.py --file ... --note "Level 1: no miracles yet (Invoke Talent comes at L2). Divine power is Blessings only."
@@ -43,9 +43,10 @@ python3 $S/annotate.py --file ... --note "Level 1: no miracles yet (Invoke Talen
 
 ## 3. Record the three known blessings
 
-Every Cleric knows **three** blessings granted by their god
-(Blessings.md, d20 table). Roll three (or let the player pick to fit the
-deity's portfolio — a war-god leans Battle/Might/Courage, a healer
+Every Cleric knows **three** blessings granted by their god — rolled 1d20
+three times, rerolling duplicates, or a single one of the player's choice
+(Blessings.md). Roll three (or let the player pick to fit the deity's
+portfolio — a war-god leans Battle/Might/Courage, a healer
 Healing/Recuperation/Hardiness):
 
 ```
@@ -70,13 +71,11 @@ python3 $S/annotate.py --file ... \
 
 Invoking divine power needs a **holy symbol clutched in hand** and free
 speech (Miracles.md) — make sure the kit has one, or note that it must be
-acquired. The class page also lists a bare **"1GC"** it never defines;
-record it verbatim and flag it rather than guessing:
+acquired (`buy.py` stocks Wood, Steel and Silver symbols):
 
 ```
 python3 $S/annotate.py --file ... \
-    --note "Needs a holy symbol in hand to invoke (buy or note as owed)" \
-    --note "Class page also lists '1GC' — undefined shorthand in the current rulebook; confirm with the Referee"
+    --note "Needs a holy symbol in hand to invoke (buy or note as owed)"
 ```
 
 ## 5. Career specifics

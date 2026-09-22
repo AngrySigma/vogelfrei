@@ -48,21 +48,34 @@ def main():
 
     career_name = args.career
     if args.roll_career and not career_name:
+        table = CAREER_ROLL_D6[klass]
+        if not any(table):
+            die(f"{klass} has no careers written yet — drop --roll-career "
+                f"and pass --status brass|silver|gold instead")
         while career_name is None:
-            career_name = CAREER_ROLL_D6[klass][dice.roll(1, 6) - 1]
+            career_name = table[dice.roll(1, 6) - 1]
         log(state, f"Rolled career: {career_name}")
-    if not career_name:
+    careerless = not any(CAREER_ROLL_D6[klass])
+    if not career_name and not careerless:
         die("give --career or --roll-career (see class_options.py for the lists)")
 
     info = load_class(klass)
-    career_path = find_career(career_name, klass)
-    career = parse_career(career_path)
-    if klass.lower() not in str(career_path).lower():
-        print(f"note: career page lives outside the {klass} directory: {career['page']}")
+    if career_name:
+        career_path = find_career(career_name, klass)
+        career = parse_career(career_path)
+        if klass.lower() not in str(career_path).lower():
+            print(f"note: career page lives outside the {klass} directory: {career['page']}")
+    else:
+        # Careerless class (Rogue): everything with mechanics is on the class page.
+        career = {"name": None, "page": info["page"], "status": None,
+                  "combat_skills": None, "skills": None, "trait": None,
+                  "combat_choice": 0, "ws_bonus": 0, "bs_bonus": 0}
 
     status = (args.status or career["status"] or "").capitalize()
     if status not in ("Brass", "Silver", "Gold"):
-        die(f"career page {career['page']} has no usable Status; "
+        where = (f"career page {career['page']}" if career["name"]
+                 else f"{klass} has no careers and its class page")
+        die(f"{where} has no usable Status; "
             f"pass --status brass|silver|gold (your judgement)")
 
     alignment = FORCED_ALIGNMENT.get(klass)
@@ -113,7 +126,8 @@ def main():
         "skill_points": info["skill_points"],
         "money_bp": money_bp,
     })
-    log(state, f"Class {klass} / {career['name']} (Status {status}, {alignment})")
+    label = f"{klass} / {career['name']}" if career["name"] else f"{klass} (no career)"
+    log(state, f"Class {label} (Status {status}, {alignment})")
     log(state, f"Wounds: {info['wounds_die']} = {wounds_roll} (min {info['wounds_min']}) "
                f"{tough:+d} Toughness -> {wounds}; Stamina {info['stamina_die']} = {stamina}")
     log(state, f"Saves: {info['saves']}; WS {ws}, BS {bs}"
