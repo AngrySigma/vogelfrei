@@ -43,9 +43,6 @@ gating only prunes the site navigation.
 
 ## Character Creation › Classes › Magic-User › Careers
 
-- [Pyromancer](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Careers/Pyromancer/): The numbered columns show how many spells of each spell level the Pyromancer may keep memorized at one time.
-- [Glamourist](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Careers/Glamourist/)
-- [Luminary](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Careers/Luminary/)
 - [Witch](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Careers/Witch/)
 - [Wizard](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Careers/Wizard/): The numbered columns show how many spells of each spell level the Wizard may keep memorized at one time.
 
@@ -79,7 +76,7 @@ gating only prunes the site navigation.
 - [Shield](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Shield/): Magic-Users are masters of matter and as such can command objects racing towards them to stop.
 - [Sleep](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Sleep/): A Sleep spell causes a magical slumber to come upon creatures with 4+1 or fewer Hit Dice.
 - [Spider Climb](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Spider%20Climb/): The subject can climb and travel on vertical surfaces or even traverse ceilings as a spider does.
-- [Summon](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Summon/): Magic works by parting the veil between the material world and the outer spheres, drawing through occult powers that deform the order of creation.
+- [Summon](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Summon/): Magic fundamentally works by ripping a hole in the fabric of space and time and pulling out energy that interacts with and warps our reality.
 - [Unseen Servant](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Unseen%20Servant/): An Unseen Servant is an invisible, mindless, shapeless force that performs simple tasks at the caster’s command.
 
 ## Character Creation › Classes › Cleric

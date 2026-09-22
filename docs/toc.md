@@ -14,7 +14,7 @@ Everything needed to bring a character into the world of Vogelfrei.
 
 *   **[Classes](./Character/Classes/index.md)** — all available classes with their careers, special rules, and advancement tables:
     *   [Warrior](./Character/Classes/Warrior/index.md) — the martial class; careers include Mercenary, Pit Fighter, Soldier, Knight, Witch Hunter, Duellist.
-    *   [Magic-User](./Character/Classes/Magic-User/index.md) — arcane spellcasters; careers include Pyromancer, Glamourist, Luminary, Witch, Wizard.
+    *   [Magic-User](./Character/Classes/Magic-User/index.md) — arcane spellcasters; careers are Witch and Wizard.
     *   [Cleric](./Character/Classes/Cleric/index.md) — divine miracle-workers; careers include Priest, Warrior Priest, Zealot.
     *   [Ranger](./Character/Classes/Ranger/index.md) — wilderness wanderers; careers include Boatman, Thief-Taker, Coachman, Peddlar, Road Warden, Sailor.
     *   [Rogue](./Character/Classes/Rogue/index.md) — urban opportunists; a class in itself, with no careers.

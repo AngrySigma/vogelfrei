@@ -1,5 +1,5 @@
 {
-  "count": 60,
+  "count": 57,
   "careers": [
     {
       "name": "Alchemist",
@@ -668,113 +668,6 @@
       ],
       "url": "Character/Classes/High Elf/Careers/Wizard/",
       "source": "Character/Classes/High Elf/Careers/Wizard.md"
-    },
-    {
-      "name": "Glamourist",
-      "class": "Magic-User",
-      "class_slug": "magic-user",
-      "status": null,
-      "combat_skills": null,
-      "skills": null,
-      "trait": null,
-      "progression": [],
-      "complete": false,
-      "tags": [
-        "magic-user"
-      ],
-      "image": "assets/img/careers/wizard.webp",
-      "tiers": [
-        "simple",
-        "base",
-        "advanced"
-      ],
-      "url": "Character/Classes/Magic-User/Careers/Glamourist/",
-      "source": "Character/Classes/Magic-User/Careers/Glamourist.md"
-    },
-    {
-      "name": "Luminary",
-      "class": "Magic-User",
-      "class_slug": "magic-user",
-      "status": null,
-      "combat_skills": null,
-      "skills": null,
-      "trait": null,
-      "progression": [],
-      "complete": false,
-      "tags": [
-        "magic-user"
-      ],
-      "image": "assets/img/careers/wizard.webp",
-      "tiers": [
-        "simple",
-        "base",
-        "advanced"
-      ],
-      "url": "Character/Classes/Magic-User/Careers/Luminary/",
-      "source": "Character/Classes/Magic-User/Careers/Luminary.md"
-    },
-    {
-      "name": "Pyromancer",
-      "class": "Magic-User",
-      "class_slug": "magic-user",
-      "status": null,
-      "combat_skills": null,
-      "skills": null,
-      "trait": null,
-      "progression": [
-        {
-          "level": "1",
-          "new traits": "Literate",
-          "1st": "1",
-          "2nd": "—",
-          "3rd": "—"
-        },
-        {
-          "level": "2",
-          "new traits": "+1 Lore (Fire)",
-          "1st": "2",
-          "2nd": "—",
-          "3rd": "—"
-        },
-        {
-          "level": "3",
-          "new traits": "—",
-          "1st": "2",
-          "2nd": "1",
-          "3rd": "—"
-        },
-        {
-          "level": "4",
-          "new traits": "—",
-          "1st": "2",
-          "2nd": "2",
-          "3rd": "—"
-        },
-        {
-          "level": "5",
-          "new traits": "—",
-          "1st": "2",
-          "2nd": "2",
-          "3rd": "1"
-        },
-        {
-          "level": "6",
-          "new traits": "—",
-          "1st": "2",
-          "2nd": "2",
-          "3rd": "2"
-        }
-      ],
-      "complete": true,
-      "tags": [],
-      "image": "assets/img/careers/wizard.webp",
-      "tiers": [
-        "simple",
-        "base",
-        "advanced"
-      ],
-      "url": "Character/Classes/Magic-User/Careers/Pyromancer/",
-      "source": "Character/Classes/Magic-User/Careers/Pyromancer.md"
     },
     {
       "name": "Witch",

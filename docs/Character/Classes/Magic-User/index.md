@@ -37,12 +37,6 @@ image_alt: Magic-User illustration
 
 Magic-Users belong to the arcane traditions:
 
-- [Pyromancer](Careers/Pyromancer.md) — a practitioner of the occult virtues of fire, volatile and dramatic
-
-- [Glamourist](Careers/Glamourist.md)
-
-- [Luminary](Careers/Luminary.md)
-
 - [Witch](Careers/Witch.md)
 
 - [Wizard](Careers/Wizard.md) — a studious arcane scholar of more orthodox tradition

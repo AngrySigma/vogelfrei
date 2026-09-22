@@ -68,9 +68,6 @@ nav = [
             { "Magic-User" = [
                 "Character/Classes/Magic-User/index.md",
                 { "Careers" = [
-                    "Character/Classes/Magic-User/Careers/Pyromancer.md",
-                    "Character/Classes/Magic-User/Careers/Glamourist.md",
-                    "Character/Classes/Magic-User/Careers/Luminary.md",
                     "Character/Classes/Magic-User/Careers/Witch.md",
                     "Character/Classes/Magic-User/Careers/Wizard.md",
                 ] },
