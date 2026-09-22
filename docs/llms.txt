@@ -79,7 +79,7 @@ gating only prunes the site navigation.
 - [Shield](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Shield/): Magic-Users are masters of matter and as such can command objects racing towards them to stop.
 - [Sleep](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Sleep/): A Sleep spell causes a magical slumber to come upon creatures with 4+1 or fewer Hit Dice.
 - [Spider Climb](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Spider%20Climb/): The subject can climb and travel on vertical surfaces or even traverse ceilings as a spider does.
-- [Summon](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Summon/): Magic fundamentally works by ripping a hole in the fabric of space and time and pulling out energy that interacts with and warps our reality.
+- [Summon](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Summon/): Magic works by parting the veil between the material world and the outer spheres, drawing through occult powers that deform the order of creation.
 - [Unseen Servant](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%201/Unseen%20Servant/): An Unseen Servant is an invisible, mindless, shapeless force that performs simple tasks at the caster’s command.
 
 ## Character Creation › Classes › Cleric
@@ -127,7 +127,7 @@ gating only prunes the site navigation.
 ## Character Creation › Classes › Ranger › Careers
 
 - [Boatman](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Boatman/) [base, advanced only]
-- [Bounty Hunter](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Bounty%20Hunter/) [base, advanced only]
+- [Thief-Taker](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Bounty%20Hunter/) [base, advanced only]
 - [Coachman](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Coachman/) [base, advanced only]
 - [Peddlar](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Peddlar/) [base, advanced only]
 - [Road Warden](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Road%20Warden/) [base, advanced only]
@@ -240,22 +240,26 @@ gating only prunes the site navigation.
 ## Equipment
 
 - [Equipment](https://angrysigma.github.io/vogelfrei/Equipment/): All equipment a character may purchase or acquire during play.
-- [Armor](https://angrysigma.github.io/vogelfrei/Equipment/Armor/): Armor Rating is added to a character's Armor Class in both Melee and Ranged combat.
+- [Armor](https://angrysigma.github.io/vogelfrei/Equipment/Armor/): Armor Rating (AR) is added to Armor Class against melee attacks, bows, crossbows, thrown weapons, and similar dangers.
+- [Antiquated Armor](https://angrysigma.github.io/vogelfrei/Equipment/Antiquated%20Armor/): These defenses belong to earlier warfare. [advanced only]
 
 ## Equipment › Weapons
 
-- [Weapons](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/): All weapons available for purchase.
+- [Weapons](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/): The main lists contain weapons ordinarily available in the 17th-century setting.
 - [Melee Weapons](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Melee%20Weapons/): Length is the weapon's grade of reach, from 0 (a fist or an improvised object) to 5 (a pike).
-- [Ranged Weapons](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Ranged%20Weapons/): Every ranged weapon requires training.
-- [Firearms](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Firearms/): Firearms share the following special traits: [base, advanced only]
+- [Ranged Weapons](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Ranged%20Weapons/): Crossbows do not use Shot AR: they reduce ordinary AR by the amount listed.
+- [Firearms](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Firearms/): The table lists complete, ordinary examples with the lock most often supplied for that weapon. [base, advanced only]
+- [Antiquated Weapons](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Antiquated%20Weapons/): These weapons survive from ancient or late-medieval fighting traditions. [advanced only]
+- [Curious Firearms](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Curious%20Firearms/): This page keeps rare experiments and displaced equipment available to Advanced campaigns without presenting them as ordinary 17th-century purchases. [advanced only]
 
 ## Equipment
 
 - [Animals](https://angrysigma.github.io/vogelfrei/Equipment/Animals/) [base, advanced only]
-- [Containers](https://angrysigma.github.io/vogelfrei/Equipment/Containers/): A quiver plus the arrows or bolts it carries (20 maximum) count as one item together for encumbrance purposes. [base, advanced only]
+- [Containers](https://angrysigma.github.io/vogelfrei/Equipment/Containers/): A quiver plus the arrows or bolts it carries (20 maximum) counts as one item for encumbrance. [base, advanced only]
 - [Food](https://angrysigma.github.io/vogelfrei/Equipment/Food/) [base, advanced only]
 - [Lodging](https://angrysigma.github.io/vogelfrei/Equipment/Lodging/): Costs are per day, unless noted. [base, advanced only]
-- [Vehicles](https://angrysigma.github.io/vogelfrei/Equipment/Vehicles/): Good quality boats cost 5% more. [advanced only]
+- [Vehicles](https://angrysigma.github.io/vogelfrei/Equipment/Vehicles/): Prices buy a sound, workaday vehicle with ordinary fittings. [base, advanced only]
+- [Antiquated Vehicles](https://angrysigma.github.io/vogelfrei/Equipment/Antiquated%20Vehicles/): These entries are retained for ruins, legendary voyages, archaic regions, and campaigns that deliberately reach outside the 17th century. [advanced only]
 - [Services](https://angrysigma.github.io/vogelfrei/Equipment/Services/) [base, advanced only]
 - [Miscellaneous](https://angrysigma.github.io/vogelfrei/Equipment/Miscellaneous/): Holy water, if in a glass container or flask, can be thrown with the same range modifiers as a rock. [base, advanced only]
 

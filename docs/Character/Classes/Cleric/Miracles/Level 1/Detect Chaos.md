@@ -19,7 +19,7 @@ This spell allows the caster to know if anything within their field of vision (o
 
 - **Undead creatures**
 
-- **Any extra-dimensional or extra-planar creatures**
+- **Any creatures from other spheres or planes**
 
 - **Any creature with innate magical abilities**
 

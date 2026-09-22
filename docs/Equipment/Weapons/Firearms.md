@@ -3,233 +3,98 @@ tier: base
 ---
 # Firearms
 
-<table>
-    <thead>
-        <tr>
-            <th rowspan="2">Firearm</th>
-            <th rowspan="2">Damage</th>
-            <th rowspan="2">Range (S/M/L)</th>
-            <th rowspan="2">Melee Equivalent</th>
-            <th colspan="2">Cost</th>
-        </tr>
-        <tr>
-            <th>City</th>
-            <th>Rural</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Pistol</td>
-            <td>d8</td>
-            <td>25'—50'—100'</td>
-            <td>Minor</td>
-            <td>30 sp</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td><strong><em>Musket (2H)</em></strong></td>
-            <td>d10</td>
-            <td>50'—100'—600'</td>
-            <td>Small/Spear</td>
-            <td>60 sp</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Blunderbuss (2H)</td>
-            <td>d8</td>
-            <td>10'—20'—50'</td>
-            <td>-</td>
-            <td>20 sp</td>
-            <td>50 sp</td>
-        </tr>
-        <tr>
-            <td>Arquebus (2H)</td>
-            <td>d8</td>
-            <td>50'—100'—600'</td>
-            <td>Small</td>
-            <td>40 sp</td>
-            <td>80 sp</td>
-        </tr>
-        <tr>
-            <td>Double Barreled Handgun (2H)</td>
-            <td>d10</td>
-            <td>30'—60'—300'</td>
-            <td>Small</td>
-            <td>100 sp</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Duck Foot</td>
-            <td>d6</td>
-            <td>10'—20'—50'</td>
-            <td>-</td>
-            <td>200 sp</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Gun Axe (2H)</td>
-            <td>d8</td>
-            <td>30'—60'—300'</td>
-            <td>Medium</td>
-            <td>80 sp</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td><strong><em>Gun Halberd (2H)</em></strong></td>
-            <td>d8</td>
-            <td>30'—60'—300'</td>
-            <td>Polearm</td>
-            <td>120 sp</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td><strong><em>Long Rifle (2H)</em></strong></td>
-            <td>d12</td>
-            <td>100'—200'—1200'</td>
-            <td>Small/Spear</td>
-            <td>800 sp</td>
-            <td>-</td>
-        </tr>
-    </tbody>
-</table>
+The table lists complete, ordinary examples with the lock most often supplied for that weapon. “Firelock” is a rules category covering the several self-igniting flint mechanisms described below; it does not imply that a mature French flintlock is common everywhere or throughout the whole century.
 
----
-
-<table>
-    <thead>
-        <tr>
-            <th rowspan="2">Engineering Firearm</th>
-            <th rowspan="2">Damage</th>
-            <th rowspan="2">Range (S/M/L)</th>
-            <th colspan="2">Cost</th>
-        </tr>
-        <tr>
-            <th>City</th>
-            <th>Rural</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Pepperbox</td>
-            <td>d8</td>
-            <td>20'—40'—80'</td>
-            <td>100 sp</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Repeater Pistol</td>
-            <td>d8</td>
-            <td>20'—40'—80'</td>
-            <td>150 sp</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Repeater Handgun (2H)</td>
-            <td>d8</td>
-            <td>30'—60'—300'</td>
-            <td>120 sp</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Cane Pistol</td>
-            <td>d8</td>
-            <td>10'—20'—50'</td>
-            <td>120 sp</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Hand Mortar (2H)</td>
-            <td>d8</td>
-            <td>25'—50'—200'</td>
-            <td>1000 sp</td>
-            <td>-</td>
-        </tr>
-    </tbody>
-</table>
-
----
+| Firearm | Damage | Range (S/M/L) | Usual lock | Melee equivalent | Cost |  |
+| --- | ---: | --- | --- | --- | ---: | ---: |
+|  |  |  |  |  | City | Rural |
+| Pistol | d8 | 25'—50'—100' | Firelock | Minor | 60sp | - |
+| Horse pistol | d8 | 30'—60'—150' | Firelock | Minor | 80sp | - |
+| Carbine (2H) | d8 | 50'—100'—300' | Firelock | Small | 100sp | - |
+| Arquebus or caliver (2H) | d8 | 50'—100'—400' | Matchlock | Small | 40sp | 80sp |
+| ***Musket (2H)*** | d10 | 50'—150'—600' | Matchlock | Small | 60sp | - |
+| Blunderbuss (2H) | d8 | 10'—30'—80' | Firelock | Small | 40sp | 80sp |
+| Fowling piece (2H) | d8 | 50'—150'—500' | Firelock | Small | 60sp | 100sp |
+| ***Rifled hunting gun (2H)*** | d10 | 100'—300'—900' | Firelock | Small | 400sp | - |
 
 !!! info "Training"
-    **Every firearm requires training,** whatever its lock. A character with no plausible background with one must spend time learning it before it can be used effectively; the Referee decides what a character's background already covers.
+    Every firearm requires training, whatever its lock. A character with no plausible background with one must spend time learning it before it can be used effectively; the Referee decides what a character's background already covers.
 
 ---
-### Weapon Traits
+## Firearm Traits
 
-Firearms share the following special traits:
+- Firearms suffer -4 to hit at Medium range and -8 at Long range. A rifled barrel changes these to the ordinary -2 and -4.
 
-* Firearms suffer double the usual range penalties: -4 to hit at Medium Range and -8 to hit at Long Range.
+- Against a firearm, armor contributes its **Shot AR**, not its ordinary AR. See [Armor](../Armor.md). Shields grant no bonus against firearms, though substantial cover still does.
 
-* Most of the common firearms can be used as melee weapons, their equivalents listed in the table. Such weapon use applies -1 penalty to usual weapon defense characteristic. Muskets and Long Rifles can be equipped with a bayonet, allowing them to be used as a Spear. Bayonets are manufactured for individual weapon, count as a Minor Weapon by itself and require 1 Round to be plugged into the barrel.
+- A firearm used in melee applies a -1 penalty to the wielder's usual weapon defense and uses the equivalent in the table. A firearm damaged in melee may cease to work at the Referee's discretion.
 
-* All Firearms ignore 5 Armor Rating when fired at Short Range. Muskets and Long Rifles gain this benefit at any range.
+- The first unexpected firearm discharge or volley in an encounter forces enemies with Morale 7 or less, who are not accustomed to gunfire, to make a Morale Check. Later shots do not repeat this check merely for being loud.
 
-* Discharge of a Firearm causes an immediate Morale Check for all enemy characters and creatures with a Morale of 7 or less.
+- Two pistols in a brace count as one item for encumbrance. They are still two weapons for price, loading, and use.
 
-* All Firearms have a base chance of Misfire, depending on a lock type. Any misfire requires three rounds to clean before attempting to fire again.
+- A musket fired without a rest suffers -2 to hit. A forked musket rest is an Oversized item.
 
-* Some weapons, such as a Duck Foot Pistol or a Pepperbox, have variable number of barrels. Base number of barrels is 3, with a new one added at half the cost of a firearm.
+Rare combination guns, magazine mechanisms, hand mortars, and weapons from outside the period appear under [Curious Firearms](Curious%20Firearms.md).
 
 ---
+## Loading
 
-| Weapon           | Effects                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pistol           | Two pistols in a brace count as one item for encumbrance purposes.                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Musket           | Firing without a fork levies a -2 penalty to hit.                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Duck Foot Pistol | When fired, all targets in range have to pass a Paralysis Save or get d6 damage, assuming no Armor is penetrated. Range penalties are used to modify the Saving Throw. Maximum amount of targets equals to the number of weapon barrels.                                                                                                                                                                                                                            |
-| Pepperbox        | After each shot, may be rotated to use the next loaded barrel, allowing the wielder to fire again on the next Round.                                                                                                                                                                                                                                                                                                                                                |
-| Repeater Pistol  | After each shot, rotates the loaded barrels using the shot inertia, allowing the wielder to fire again on the next Round.                                                                                                                                                                                                                                                                                                                                           |
-| Hand Mortar      | When firing that weapon, AC is always 15, the Shield modifies the on-hit Paralysis Save. If the hit roll misses, the difference between the AC and the roll is equal to the number of yards the shot flies away in a random direction. Distance can not be larger than half the distance between the wielder and the target. Wherever the hit lands, all characters within 10 yards must pass the Paralysis Save or get d8 damage, assuming no Armor is penetrated. |
+Reloading any muzzle-loading firearm takes **10 Rounds**, reduced by the character's Ballistic Skill and Agility modifier, then increased by Encumbrance. Reloading always takes at least 3 Rounds. A Round spent moving, attacking, or defending with normal AC does not count toward the reload.
+
+A reload includes measuring powder, charging the barrel, adding wad and ball or shot, ramming, and priming. It also includes winding a wheellock after firing. Rifling increases the final reload time by half, rounded up.
+
+Unless the weapon description says otherwise, a firearm holds one shot. Keeping several loaded pistols is often more practical than reloading one in a fight.
+
+### Ammunition and Implements
+
+| Item | Cost | Notes |
+| --- | ---: | --- |
+| Powder and ball, one prepared charge | 5bp | One shot; cartridge form and availability are campaign-specific |
+| Powder and shot, twenty loose charges | 8sp | Shot may be ball, buckshot, or fowling shot as appropriate |
+| Bandolier with twelve wooden chargers | 5sp | Empty; bandolier and filled chargers count as one item |
+| Slow match, 10' | 5bp | Burns about 10cm per Turn from each lit end |
+| Bullet mould | 5sp | Casts one specified calibre; lead is purchased separately |
+| Cleaning and loading tools | 5sp | Rammer, worm, measure, and turnscrew |
+| ***Musket rest*** | 10sp | Removes the unsupported-musket penalty |
 
 ---
 ## Lock Types
+
+The lock determines whether a loaded gun can be carried ready, how it behaves in bad weather, and how much it costs. The listed prices already include each weapon's usual lock. For a custom arm, a firelock costs twice the equivalent matchlock price and a wheellock costs seven times that price. The Referee may further adjust the price for region and date.
+
 ### Matchlock
 
-Matchlocks are considered the default gun type, and other firearm types are considered modifications and upgrades of the matchlock for rules purposes.
+Matchlocks are the ordinary military lock for arquebuses and muskets. They are cheap and robust, but a loaded matchlock is not ready to fire until a burning match is fitted to it.
 
-Matchlocks use the following rules:
+- Lighting slow match takes 1 Round from an open flame or 1d6 Rounds with a tinderbox.
+- A lit match gives off light and a strong smell, making stealth impossible, and burns from each lit end.
+- After every attempted shot, roll 1d10. It misfires on 1–2 in dry conditions and on 1–4 in damp conditions. An exposed matchlock cannot fire in rain.
+- Matchlock pistols existed as curios but are unsuitable as ready sidearms: the burning match must remain exposed and clear of clothing, powder, and the rider or bearer.
 
-* Reloading a matchlock requires 10 rounds minus the Character's BS and Agility modifier. Character’s Encumbrance value is added to the reload time. Any round in which the character moves or defends themselves (using their regular AC when attacked) does not count towards the reload time.
+### Firelock
 
-* They have a 2 in 10 chance of misfiring.
+For game purposes, **firelock** covers snaplocks, snaphaunces, miquelets, doglocks, and mature flintlocks. Their mechanisms differ, and names vary by place, but all strike flint against steel and need no burning match. In an early-century campaign the Referee should describe most examples as snaphaunces, miquelets, or related regional locks; the mature French-style flintlock is a scarce new mechanism rather than the universal default.
 
-* A lit match burns 10cm per turn (from each end it burns!), and the light and smell that the burning match gives off makes stealth impossible.
+- A loaded and primed firelock may be carried ready.
+- After every attempted shot, roll 1d10. It misfires on a 1, or on 1–2 in damp conditions. In driving rain it misfires on 1–4 unless kept sheltered until the shot.
+- No lock can fire with soaked powder. A wet charge must be drawn and replaced after the weapon and powder are dry.
 
-* Damp conditions (most dungeons count as being damp) double the chances of misfiring (which in this case means the powder is too wet to ignite).
-
-* Wet conditions (rain, etc.) quadruples the chances of misfiring.
-
-* Wet cord or powder cannot be used until it dries.
 ### Wheellock
 
-Wheellock modification to the firearms rules:
+Wheellocks use a wound steel wheel to strike sparks. They are costly but established throughout the 17th century, especially on pistols and cavalry arms.
 
-* Have no additional misfire chances due to environmental conditions.
+- A loaded, primed, and wound wheellock may be carried ready and needs no burning match.
+- After every attempted shot, roll 1d10. It misfires on a 1. Wet powder still cannot fire.
+- If used as a club, it has a 1 in 4 chance of breaking its mechanism.
 
-* Increase the base cost of a gun sevenfold.
+### Clearing a Misfire
 
-* Have a 1 in 4 chance of having the firing mechanism break if used as a club.
+A misfire expends the priming and takes 3 uninterrupted Rounds to clear before the weapon can be primed and fired again. If the charge itself is spoiled, the firearm must instead be fully reloaded.
 
-* Does not require a burning match, allowing for stealth movement.
-### Flintlock
-
-Flintlock modification to the firearms rules:
-
-* Only a 1 in 10 chance of a misfire.
-
-* Double the base cost of a gun.
-
-* Halve reload times after accounting for the BS and Agility modifier.
-
-* Does not require a burning match, allowing for stealth movement
 ### Rifled Barrel
 
-Rifling:
-
-* Eliminates the increased range penalties of firearms.
-
-* Doubles the base cost of a gun.
-
-* Reloading time of a gun increases by half after BS and Agility modifiers have been applied.
+Rifling removes the increased firearm range penalties, so Medium and Long range impose -2 and -4. It doubles the price of the equivalent smoothbore arm and increases final reload time by half. Rifled hunting guns are specialized, expensive pieces, not line infantry weapons.
 
 !!! example "Custom Firearm"
-    Firearm cost multipliers are cumulative, so a rifled wheellock musket would cost 60sp×7×2=840sp
+    A firelock musket costs 120sp: twice the listed 60sp matchlock musket. Adding rifling doubles that to 240sp and increases its reload time by half.

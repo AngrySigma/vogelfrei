@@ -23,7 +23,7 @@ tier: base
 | 5     | 7   | 4                | 3               |
 | 6     | 8   | 5                | 3               |
 
-Witchcraft is not about arcane precision and following magical formulae, but about primal incantations and manipulating raw magical energies. Witches have a pool of dice, the **Witchcraft Pool (WP)**, representing the depths of their magical power and their connection to the ley-lines of chaos.
+Witchcraft is not about arcane precision and following magical formulae, but about primal incantations and manipulating raw magical energies. Witches have a pool of dice, the **Witchcraft Pool (WP)**, representing the depths of their magical power and their sympathy with the hidden virtues and currents of the world.
 
 Witches learn new spells as a magic-user would when leveling up, adding them to their grimoire. Spells must be prepared from the grimoire by committing them to memory. A Witch may memorize a number of spells of any level as indicated on the Witchcraft table. Prepared spells remain in memory until the Witch chooses to replace them by preparing another spell. Preparing a spell requires one hour per spell level in deep concentration, accompanied by burning incense worth 10 sp per level of the spell.
 

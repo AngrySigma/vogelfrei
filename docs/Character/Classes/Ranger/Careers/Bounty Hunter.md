@@ -3,10 +3,10 @@ tags:
   - ranger
   - silver
 image: assets/img/cover.webp
-image_alt: Bounty Hunter illustration
+image_alt: Thief-Taker illustration
 tier: base
 ---
-# Bounty Hunter
+# Thief-Taker
 
 **Class**: [Ranger](../index.md)
 

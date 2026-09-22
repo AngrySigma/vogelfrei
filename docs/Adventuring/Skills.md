@@ -94,7 +94,7 @@ Herbalism skill represents a character’s knowledge of plants and their practic
 ---
 ### Languages
 
-Most Characters are assumed to begin play being fully fluent in their native tongue, and are literate as well if they have an Intelligence of 7 or greater. Elves and Dwarfs will know the local human tongue in addition to the tongue of their particular clan (Halflings use the local human language).
+Most characters begin fully fluent in their native tongue. Literacy is not automatic: a character whose class, career, or established background requires reading and writing begins literate in that tongue; everyone else must learn it during play. Intelligence may affect how quickly the character learns, but does not by itself confer literacy. Literacy in one tongue or script does not grant it in another. Elves and Dwarfs know the local human tongue in addition to the tongue of their particular clan (Halflings use the local human language).
 
 When a character comes into contact with another language, his chances of knowing the language is 1 in 6, with the character’s Intelligence modifier applying. If a character has a Languages skill at a greater level than 1 in 6, use that as the base chance instead.
 

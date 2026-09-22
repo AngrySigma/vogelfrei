@@ -39,7 +39,7 @@ Rangers operate in the margins between civilization and the wilds:
 
 - [Boatman](Careers/Boatman.md)
 
-- [Bounty Hunter](Careers/Bounty%20Hunter.md) — a professional tracker who hunts people for pay
+- [Thief-Taker](Careers/Bounty%20Hunter.md) — a professional tracker who hunts fugitives for pay
 
 - [Coachman](Careers/Coachman.md)
 

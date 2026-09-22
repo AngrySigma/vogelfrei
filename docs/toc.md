@@ -16,7 +16,7 @@ Everything needed to bring a character into the world of Vogelfrei.
     *   [Warrior](./Character/Classes/Warrior/index.md) — the martial class; careers include Mercenary, Pit Fighter, Soldier, Knight, Witch Hunter, Duellist.
     *   [Magic-User](./Character/Classes/Magic-User/index.md) — arcane spellcasters; careers include Bright Wizard, Grey Wizard, Light Wizard, Witch, Wizard.
     *   [Cleric](./Character/Classes/Cleric/index.md) — divine miracle-workers; careers include Priest, Warrior Priest, Zealot.
-    *   [Ranger](./Character/Classes/Ranger/index.md) — wilderness wanderers; careers include Boatman, Bounty Hunter, Coachman, Peddlar, Road Warden, Sailor.
+    *   [Ranger](./Character/Classes/Ranger/index.md) — wilderness wanderers; careers include Boatman, Thief-Taker, Coachman, Peddlar, Road Warden, Sailor.
     *   [Rogue](./Character/Classes/Rogue/index.md) — urban opportunists; a class in itself, with no careers.
     *   [Peasant](./Character/Classes/Peasant/index.md) — common folk; careers include Hedge Witch, Herbalist, Hunter, Miner, Scout, Villager.
     *   [Academic](./Character/Classes/Academic/index.md) — learned scholars; careers include Alchemist, Apothecary, Barber, Cartographer, Engineer, Scholar.
@@ -47,12 +47,16 @@ Complete spell and miracle lists for arcane and divine casters.
 ## 🎒 Equipment
 All items available for purchase during character creation or between expeditions.
 
-*   **[Armor](./Equipment/Armor.md)** — armor types, their Armor Rating, and encumbrance.
+*   **[Armor](./Equipment/Armor.md)** — period armor, ordinary Armor Rating, and Shot AR.
+
+*   [Antiquated Armor](./Equipment/Antiquated%20Armor.md) — older defenses retained for Advanced play.
 
 *   **[Weapons](./Equipment/Weapons/index.md)** — weapon categories, requirements, and combat properties:
     *   [Melee Weapons](./Equipment/Weapons/Melee%20Weapons.md) — hand-to-hand weapons, length, and special qualities.
     *   [Ranged Weapons](./Equipment/Weapons/Ranged%20Weapons.md) — bows, crossbows, slings, and thrown weapons.
     *   [Firearms](./Equipment/Weapons/Firearms.md) — black powder weapons and their rules.
+    *   [Antiquated Weapons](./Equipment/Weapons/Antiquated%20Weapons.md) — earlier arms retained for Advanced play.
+    *   [Curious Firearms](./Equipment/Weapons/Curious%20Firearms.md) — rare and out-of-period legacy guns.
 
 *   **[Animals](./Equipment/Animals.md)** — horses, mules, and other beasts of burden.
 
@@ -62,7 +66,9 @@ All items available for purchase during character creation or between expedition
 
 *   **[Lodging](./Equipment/Lodging.md)** — inns, stabling, and accommodation costs.
 
-*   **[Vehicles](./Equipment/Vehicles.md)** — carts, wagons, and river boats.
+*   **[Vehicles](./Equipment/Vehicles.md)** — 17th-century land vehicles, boats, and ships.
+
+*   [Antiquated Vehicles](./Equipment/Antiquated%20Vehicles.md) — older and later designs retained for Advanced play.
 
 *   **[Services](./Equipment/Services.md)** — hirelings, professional fees, and other costs.
 

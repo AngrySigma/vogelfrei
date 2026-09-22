@@ -1,101 +1,33 @@
 # Ranged Weapons
 
-<table>
-    <thead>
-        <tr>
-            <th rowspan="2">Weapon</th>
-            <th rowspan="2">Damage</th>
-            <th rowspan="2">Range (S/M/L)</th>
-            <th colspan="2">Cost</th>
-        </tr>
-        <tr>
-            <th>City</th>
-            <th>Rural</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Crossbow, Light</td>
-            <td>d6</td>
-            <td>50'—150'—400'</td>
-            <td>25 sp</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Dart</td>
-            <td>d4</td>
-            <td>10'—20'—30'</td>
-            <td>1 sp</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Rock</td>
-            <td>d2</td>
-            <td>10'—20'—30'</td>
-            <td>-</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Blowgun</td>
-            <td>-</td>
-            <td>20'—50'—80'</td>
-            <td>5 sp</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td><strong>Bow, Long</strong></td>
-            <td>d6</td>
-            <td>50'—600'—900'</td>
-            <td>45 sp</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Bow, Short</td>
-            <td>d6</td>
-            <td>50'—300'—450'</td>
-            <td>25 sp</td>
-            <td>25 sp</td>
-        </tr>
-        <tr>
-            <td><strong>Crossbow, Heavy</strong></td>
-            <td>d8</td>
-            <td>50'—200'—600'</td>
-            <td>30 sp</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td><em>Sling</em></td>
-            <td>d4</td>
-            <td>50'—300'—450'</td>
-            <td>1 sp</td>
-            <td>5 bp</td>
-        </tr>
-        <tr>
-            <td>Thrown Weapon</td>
-            <td>Same as melee</td>
-            <td>10'—20'—30'</td>
-            <td colspan="2">Same as melee</td>
-        </tr>
-    </tbody>
-</table>
-
+| Weapon | Damage | Range (S/M/L) | Cost |  |
+| --- | ---: | --- | ---: | ---: |
+|  |  |  | City | Rural |
+| Light crossbow\* | d6 | 50'—150'—400' | 25sp | - |
+| Heavy crossbow\* | d8 | 50'—200'—600' | 30sp | - |
+| Bow\* | d6 | 50'—300'—450' | 25sp | 25sp |
+| Blowgun\* | - | 20'—50'—80' | 5sp | - |
+| *Sling*\* | d4 | 50'—300'—450' | 1sp | 5bp |
+| Dart or javelin | d4 | 10'—30'—60' | 1sp | 1sp |
+| Rock | d2 | 10'—20'—30' | - | - |
+| Thrown weapon | Same as melee | 10'—20'—30' | Same as melee | Same as melee |
 
 !!! info "Training"
-    **Every ranged weapon requires training.** A character with no plausible background with one must spend time learning it before it can be used effectively; the Referee decides what a character's background already covers.
+    Weapons marked with an asterisk require training. A character with no plausible background with one must spend time learning it before it can be used effectively; the Referee decides what a character's background already covers. Rocks and ordinary thrown weapons require no special training.
 
 !!! info "Range"
     Medium range imposes a -2 penalty to hit; Long range imposes -4.
 
 !!! note "Ammunition"
-    Ammunition costs **5bp** each for arrows and crossbows, and **2bp** for sling bullets.
-
+    Arrows and crossbow bolts cost **5bp** each. Sling bullets cost **2bp** each. A quiver and up to twenty arrows or bolts count as one item.
 
 ---
 ### Weapon Traits
 
-| Weapon         | Effects                                                |
-| -------------- | ------------------------------------------------------ |
-| Light Crossbow | Fire every other round, ignore 1 Armor Rating.         |
-| Heavy Crossbow | Fire every third round, ignore 3 Armor Rating.         |
-| Sling          | Can use stones as ammunition, halving effective range. |
+| Weapon | Effects |
+| --- | --- |
+| Light crossbow | Fire every other Round; ignore 1 ordinary AR. |
+| Heavy crossbow | Fire every third Round; ignore 3 ordinary AR. |
+| Sling | May use stones as ammunition, halving effective range. |
 
+Crossbows do not use Shot AR: they reduce ordinary AR by the amount listed. An old military longbow appears under [Antiquated Weapons](Antiquated%20Weapons.md); hunting bows and the bows of New World peoples use the ordinary Bow entry above.

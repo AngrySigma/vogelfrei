@@ -403,6 +403,16 @@ window.VF_PAGES = {
       "advanced"
     ]
   },
+  "Equipment/Antiquated Armor/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Equipment/Antiquated Vehicles/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
   "Equipment/Containers/": {
     "tiers": [
       "base",
@@ -434,6 +444,17 @@ window.VF_PAGES = {
     ]
   },
   "Equipment/Vehicles/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Equipment/Weapons/Antiquated Weapons/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Equipment/Weapons/Curious Firearms/": {
     "tiers": [
       "advanced"
     ]

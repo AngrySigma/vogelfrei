@@ -23,7 +23,7 @@ Elves may opt to use the Wood Elf class if the Referee decides that it is availa
 | d6 | [Dwarf](Classes/Dwarf/index.md)         | [Halfling](Classes/Halfling/index.md)      | [Ranger](Classes/Ranger/index.md)            |
 | -- | ------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------- |
 | 1  | [Artisan](Classes/Dwarf/Careers/Artisan.md)         | [Artisan](Classes/Halfling/Careers/Artisan.md)          | [Boatman](Classes/Ranger/Careers/Boatman.md)            |
-| 2  | [Karak Ranger](Classes/Dwarf/Careers/Karak%20Ranger.md)  | [Charlatan](Classes/Halfling/Careers/Charlatan.md)       | [Bounty Hunter](Classes/Ranger/Careers/Bounty%20Hunter.md)    |
+| 2  | [Karak Ranger](Classes/Dwarf/Careers/Karak%20Ranger.md)  | [Charlatan](Classes/Halfling/Careers/Charlatan.md)       | [Thief-Taker](Classes/Ranger/Careers/Bounty%20Hunter.md)    |
 | 3  | [Engineer](Classes/Dwarf/Careers/Engineer.md)       | [Badger Rider](Classes/Halfling/Careers/Badger%20Rider.md)    | [Coachman](Classes/Ranger/Careers/Coachman.md)           |
 | 4  | [Brewer](Classes/Dwarf/Careers/Brewer.md)          | [Herbalist](Classes/Halfling/Careers/Herbalist.md)       | [Road Warden](Classes/Ranger/Careers/Road%20Warden.md)       |
 | 5  | [Miner](Classes/Dwarf/Careers/Miner.md)           | [Merchant](Classes/Halfling/Careers/Merchant.md)         | [Peddlar](Classes/Ranger/Careers/Peddlar.md)             |

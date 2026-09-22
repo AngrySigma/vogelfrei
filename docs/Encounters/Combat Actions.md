@@ -33,7 +33,7 @@ When a Character makes an attack, follow these steps:
     A defender's AC is normally a static, precomputed number on the character sheet, built from the following components.
 
     In **Melee** add the following statistics of the Opponent:
-    - 8 (Base AC)
+    - 10 (Base AC)
     - Agility Bonus
     - Weapon Skill
     - Armour Rating
@@ -80,19 +80,19 @@ A **natural 20** on an attack roll always hits, whatever the target's AC and wha
 
     **Defender — Hans:** Weapon Skill 2, Agility Bonus +2, Rapier (length 4, 1d8), Light Armour (AR 2)
 
-    **Hans's AC:** 8 (base) + 2 (Agility) + 2 (Weapon Skill) + 2 (Armour Rating) = **14**
+    **Hans's AC:** 10 (base) + 2 (Agility) + 2 (Weapon Skill) + 2 (Armour Rating) = **16**
 
     *Kurt is using the shorter weapon, so he rolls d20 and adds Weapon Skill (4) + Strength Bonus (+1) + Weapon Length (-2) = +3:*
 
     - *Roll = 5: total 8 — miss.*
-    - *Roll = 11: total 14 — hit. The total need only **match** the AC, not beat it.*
+    - *Roll = 13: total 16 — hit. The total need only **match** the AC, not beat it.*
     - *Roll = 18: total 21 — hit. Kurt rolls 1d6 for damage.*
     - *Roll = 1: miss regardless of the total.*
     - *Roll = 20: hit regardless of the total. Kurt's 1d6 comes straight off Hans's Wounds, taking an equal bite out of his Stamina with it.*
 
     **Now suppose Hans answers.** Kurt declares his attack; before any dice are rolled, Hans declares a **Counterattack**. His rapier is a proper weapon for it and he has not yet acted.
 
-    Hans's Weapon Skill no longer counts toward his AC, which drops to **12** — so Kurt now hits on a roll of 9 rather than 11. In exchange, Hans strikes at the same moment: d20 + Weapon Skill (2) + Weapon Length (0, his rapier is longer) against Kurt's AC.
+    Hans's Weapon Skill no longer counts toward his AC, which drops to **14** — so Kurt now hits on a roll of 11 rather than 13. In exchange, Hans strikes at the same moment: d20 + Weapon Skill (2) + Weapon Length (0, his rapier is longer) against Kurt's AC.
 
     Both blows land together. If each kills the other, both die — Hans has bought a guaranteed answer with the opening in his guard.
 
