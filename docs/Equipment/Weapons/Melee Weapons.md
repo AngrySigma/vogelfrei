@@ -39,7 +39,9 @@ The generic categories are rules abstractions. A character buying one must name 
 | Small | Hanger, cutlass, hatchet, short sword, mace, cudgel |
 | Minor | Dagger, stiletto, knife, poniard, belaying pin |
 
-The two-handed sword belongs to the previous century's fighting and survives as a guard's and a bodyguard's arm rather than a weapon of the line, but it is bought and used like anything else here. Halflings cannot wield Great or Medium weapons, polearms, pikes, lances, or any arm of comparable size.
+The two-handed sword belongs to the previous century's fighting and survives as a guard's and a bodyguard's arm rather than a weapon of the line, but it is bought and used like anything else here.
+
+A **Polearm** costs more than a **Pike** and reaches a grade less, which is not an error: the pike is a spike on a long shaft and can be made by any smith in a week, while a halberd head is a complicated forging. What the polearm buys is a weapon that still works indoors, in a boarding action, and on a staircase, where the pike is so much firewood. Halflings cannot wield Great or Medium weapons, polearms, pikes, lances, or any arm of comparable size.
 
 Arms from older fighting traditions — the cestus, the mancatcher, the weighted net, the war flail — appear under [Antiquated Weapons](Antiquated%20Weapons.md).
 
@@ -53,9 +55,9 @@ Arms from older fighting traditions — the cestus, the mancatcher, the weighted
 | Lance | May be used one-handed while charging on horseback, and deals double damage after a run. On foot it functions as a pike and may [Brace](../../Encounters/Combat%20Actions.md#brace). |
 | Main-gauche | Adds +1 Melee AC while paired with a one-handed sword or a rapier. It cannot be combined with the benefit of a shield. |
 | Pike | May attack from the second rank or [Brace](../../Encounters/Combat%20Actions.md#brace). A pike deals only d3 damage inside its reach. |
-| Polearm | A halberd, bill, or partisan. May attack from the second rank or [Brace](../../Encounters/Combat%20Actions.md#brace). |
+| Polearm | A halberd, partisan, or spontoon — the sergeant's and the officer's weapon, and the guard's. The old English bill is the same thing a generation out of fashion. May attack from the second rank or [Brace](../../Encounters/Combat%20Actions.md#brace). |
 | Rapier | Suffers a -2 penalty to hit opponents wearing armour with an Armour Rating of 4 or higher. |
-| Spear | When wielded in both hands, may attack from the second rank or [Brace](../../Encounters/Combat%20Actions.md#brace). |
+| Spear | A boar spear, a half-pike, or a blade lashed to a shaft — not a soldier's weapon in this century, but a hunter's, a sailor's, and whatever a rising arms itself with. A boar spear's crossbar stops a charging animal running up the shaft; against a creature that charges, the wielder takes no damage from the charge itself. When wielded in both hands, may attack from the second rank or [Brace](../../Encounters/Combat%20Actions.md#brace). |
 | Whip | Ineffective against targets in metal armour, but may attack opponents up to 10' away. |
 
 Some weapons can attack “from the second rank.” This is used when there is a definite battle line in combat. Usually only those on the front line can strike, but a weapon usable from the second rank allows the person immediately behind that line to attack as well.
