@@ -1,0 +1,3 @@
+- **High — Rules (source line 15):** The universal save for every harmful or direct-effect miracle contradicts specific miracles: Command restricts saves by HD/Intelligence, Turn Undead uses its own 2d6 procedure, and several reversed miracles state no save; define precedence and update each spell consistently.
+- **Medium — Rules (source line 13):** Calling an invoking Cleric “helpless” invokes the Damage rule that attacks bypass Stamina, but the paragraph never explicitly says whether that defined condition applies; state the exact defensive consequences during the delay.
+- **Low — Copy (source line 3):** “higher powers bless Cleric” is missing an article (“bless the Cleric” or “bless Clerics”).

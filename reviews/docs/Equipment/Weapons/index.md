@@ -1,0 +1,1 @@
+- **Medium — Rules/Material (source lines 19–20):** The blanket training rule covers rocks and thrown weapons as well as bows/firearms. Exempt intuitive thrown/improvised attacks or state a usable untrained penalty.

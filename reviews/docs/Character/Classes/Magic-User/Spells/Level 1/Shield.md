@@ -1,0 +1,2 @@
+- **Medium — Rules (source lines 6, 18):** Range is Touch, implying another creature can be targeted, but the effect is granted only to “the caster”; state whether the spell is self-only or may protect a touched subject.
+- **Medium — Rules (source line 18):** “All other attacks” and one-point damage reduction are not limited to physical attacks, so the matter-stopping rationale could reduce fire, poison, spells, or other non-object damage; define the protected attack types.

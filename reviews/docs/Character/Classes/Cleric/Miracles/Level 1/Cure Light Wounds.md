@@ -1,0 +1,1 @@
+- **High — Rules (source line 20):** “Temporary negative condition” and “long-term effect” are undefined categories, so the spell's ability to remove paralysis, blindness, or shorten recovery has no reliable scope; tie it to named conditions/injury rules and specify what “restoration time” means.

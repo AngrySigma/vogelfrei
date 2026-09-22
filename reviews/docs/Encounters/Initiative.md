@@ -1,0 +1,2 @@
+- **High — Rules (source lines 3–5):** The page first requires opposed d6 rolls, then replaces them with a single player coin-flip when there is one opposing party, which removes ties and simultaneous actions. Choose one procedure and state whether simultaneity applies only to tied sides.
+- **Low — Grammar (source lines 3–5):** Add missing articles (“the player,” “the opposing side”) and possessive/apostrophe in “both parties’ actions”; “mutual murders and so simultaneous spell effects” should be recast.

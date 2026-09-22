@@ -1,0 +1,2 @@
+- **Medium — Epoch (source line 9):** “Bounty hunter” is a strongly later American occupational label; use an early-modern equivalent such as thief-taker or manhunter unless the anachronistic term is intentional.
+- **Medium — Rules (source lines 19–23):** `+1 WS/BS` does not say whether each award raises one chosen skill or both; repeated three times, the two readings have a major balance difference.

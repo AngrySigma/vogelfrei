@@ -1,0 +1,1 @@
+- **Medium — Rules (source lines 15–16):** Stamina is categorically limited to intelligent, trained beings, but Monsters and NPCs line 36 makes it discretionary even for such people and gives no amount. Establish one eligibility rule and a defined level-0 Stamina value.

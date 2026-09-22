@@ -1,0 +1,1 @@
+- **Medium — Completeness (source lines 13–17):** Character creation never instructs the player to determine or record Stamina, although Class and Career requires a first-level Stamina roll.

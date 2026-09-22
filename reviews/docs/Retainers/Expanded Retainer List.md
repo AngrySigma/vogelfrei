@@ -1,0 +1,4 @@
+- **High — Balance (source lines 243–245, 312–314):** A Scholar costs 100sp/month and removes 1d4 weeks from magical research, while an Alchemist costs 250sp/month and removes only 1d6 days from the same broad category. Scholar is both cheaper and several times stronger; distinguish eligible projects or rebalance them.
+- **High — Completeness (source lines 156–186):** Sailor, captain, navigator, and oarsman have no wages at all, so they cannot be hired under the surrounding rules.
+- **Medium — Rules (source lines 304–310, 334–336):** Navigator only gives an undefined “increased chance of getting lost,” and Teamster reduces an undefined vehicle-breakdown chance. Neither promised effect connects to an existing procedure.
+- **Medium — Rules (source lines 205–210, 320–324):** The parenthesized 1sp daily “wage” for an enslaved person is unexplained and conflicts with the text’s one-time purchase price; identify it as upkeep or remove it.

@@ -1,0 +1,1 @@
+- **Medium — Rules (source line 32):** Core travel already adds the Toughness modifier to daily distance, so `1d4 + Toughness modifier` can double-count Toughness; state whether this replaces the normal adjustment or merely adds 1d4 miles.

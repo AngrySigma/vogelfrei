@@ -1,0 +1,3 @@
+- **Medium — Rules (source lines 19–20):** It is unclear whether “metal armor +1” and “three-quarter or heavier +2” stack. State explicitly whether three-quarter/full plate costs 2 or 3 Encumbrance Points.
+- **Medium — Rules (source lines 51–53):** Axles and a Teamster subtract load without a stated floor, so sufficiently many axles or one Teamster can create negative encumbrance and erase rider/cargo weight. Set a minimum and clarify how vehicle load is converted to points.
+- **Low — Grammar (source lines 24, 28, 66, 109):** Hyphenate “two-handed”; change “Character's” to “A character’s”; add “in” to “as shown in the table”; and keep singular pronouns in “A single man ... he.”

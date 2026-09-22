@@ -1,0 +1,1 @@
+- **High — Rules (source lines 18–20):** Only targets of divided dice are granted a save, while the general spell rule grants every target of a harmful/direct spell a save; state explicitly whether a single-target missile receives a save and what that save does.

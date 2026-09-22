@@ -1,0 +1,2 @@
+- **Medium — Rules (source line 21):** The City/Rural definitions leave settlements under 1,000 people that lie less than a day's travel from a city in neither price category; define which column they use.
+- **Low — Copy (source lines 7–15):** “from merchant city-hive” is missing an article, and the Silver and Gold starting-money bullets are missing terminal periods.

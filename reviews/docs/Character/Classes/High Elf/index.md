@@ -1,0 +1,1 @@
+- **High — Serious error (source line 27):** “Starting Skills and Possessions” has no content, leaving a newly generated High Elf without defined starting skills or equipment.

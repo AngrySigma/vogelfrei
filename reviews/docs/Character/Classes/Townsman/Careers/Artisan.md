@@ -1,0 +1,1 @@
+- **High — Rules (source lines 20–27):** All six progression entries are blank, leaving this career without the level benefits supplied by completed careers.

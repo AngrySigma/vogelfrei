@@ -1,0 +1,1 @@
+- **Medium — Rules (source line 17):** `magic-related saving throws` is not a defined category and could include Magic, Device, or any save caused by a spell; enumerate the saving-throw categories that receive the bonus.

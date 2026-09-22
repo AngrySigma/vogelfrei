@@ -1,0 +1,1 @@
+- **High — Rules (source line 22):** “Instant utterance” and immediate rescue contradict the core rule that every spell consumes the whole action, resolves only at the next Round’s start, and is lost if the caster is damaged; explicitly define this spell as a reaction/exception and when it resolves.

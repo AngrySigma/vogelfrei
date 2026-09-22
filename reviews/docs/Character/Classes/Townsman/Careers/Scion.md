@@ -1,0 +1,3 @@
+- **High — Rules (source line 12):** Status is blank, so starting wealth and the career's social standing cannot be determined.
+- **High — Rules (source line 22):** Regular retainers have no numerical limit in the core rules, so “one more Retainer than the usual” has no effect; if this means Henchmen, name them and state the intended level-by-level limit.
+- **Medium — Rules (source line 24):** The core rules define hire-roll and Morale modifiers, not a post-hire `Loyalty` penalty; state exactly which roll the 10% wage reduction ceases to penalize.

@@ -1,0 +1,1 @@
+- **High — Rules (source lines 22–26):** The Apothecary gains potion recipes, but no recipe list or rules for learning, ingredients, cost, brewing, or use exist; define or link the subsystem.

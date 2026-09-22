@@ -1,0 +1,3 @@
+- **High — Material/Balance (source lines 74–77):** “Thrown Weapon — Same as melee” has no eligible-weapon limit, so it permits throwing a d10 great weapon or polearm for full damage at 30′. Define throwable categories and their damage.
+- **Medium — Rules/Material (source lines 83–84):** “Every ranged weapon requires training” includes rocks and any thrown melee weapon, making ordinary throwing impossible without background permission. Exempt improvised/thrown objects or define the untrained penalty.
+- **Low — Typo (source line 90):** “5bp each for arrows and crossbows” should say “arrows and crossbow bolts.”

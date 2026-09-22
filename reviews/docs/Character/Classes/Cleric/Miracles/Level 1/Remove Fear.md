@@ -1,0 +1,1 @@
+- **Low — Grammar (source line 18):** “Remove Fear spell counters” is missing an article; use “The Remove Fear spell counters.”

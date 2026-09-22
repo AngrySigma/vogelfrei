@@ -1,0 +1,1 @@
+- **High — Rules (source line 32):** Animals may become “henchmen,” but henchmen must have a class/career and be two levels below their employer; define animal advancement, level eligibility, loyalty, and whether they count against the Leadership limit.

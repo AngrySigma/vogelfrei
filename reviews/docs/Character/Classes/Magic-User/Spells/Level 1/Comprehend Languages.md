@@ -1,0 +1,1 @@
+- **High — Rules (source line 20):** *Obscure Languages* has no defined target, area, duration, or handling for written text versus a speaker, yet claims to ruin “all chances” of communication; specify these limits and any save.

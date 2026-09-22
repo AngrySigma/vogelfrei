@@ -1,0 +1,1 @@
+- **High — Rules (source lines 15, 18–22):** Duration is “See Below,” but the text never states when the charm normally ends; it only supplies conditional saves, leaving a potentially permanent first-level effect undefined.

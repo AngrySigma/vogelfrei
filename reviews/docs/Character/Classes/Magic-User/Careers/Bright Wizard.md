@@ -1,0 +1,2 @@
+- **High — Setting/rules (source line 10):** “Lore of Aqshy” imports a Warhammer-specific term into the Europe/New World setting and the talent is never defined anywhere in the rules; replace it with setting-native, fully specified fire lore.
+- **High — Balance (source lines 7–14):** This career has the Wizard’s exact spell progression plus the extra level-2 lore talent, so it strictly dominates Wizard as written; give Wizard a compensating benefit or make the progressions meaningfully different.

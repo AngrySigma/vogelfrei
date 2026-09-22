@@ -1,0 +1,1 @@
+- **Medium — Rules (source lines 28–36):** Level-0 Stamina is left as an undefined “sliver” granted at Referee discretion, while Damage says all intelligent, trained beings have Stamina. Give a value and consistent eligibility test or say level-0 NPCs normally have none.

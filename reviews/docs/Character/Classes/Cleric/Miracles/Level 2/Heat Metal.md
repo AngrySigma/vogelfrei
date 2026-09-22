@@ -1,0 +1,1 @@
+- **High — Rules/Balance (source lines 19–38):** The spell explicitly heats the caster's metal too, and the contact rules make a helmet wearer unconscious or an armored wearer bedridden without specifying a save or exception; clarify whether these effects strike the caster, how they interact with the general miracle save, and whether they apply when damage is absorbed by Stamina.

@@ -1,0 +1,1 @@
+- **Low — Grammar (source line 18):** “providing but one break exists” should be “provided only one break exists.”

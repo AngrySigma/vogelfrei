@@ -1,0 +1,2 @@
+- **High — Balance (source lines 7–32):** The Townsman currently advances more slowly than Rogue or Academic, has the weakest Stamina tier, and receives only 7 total Skill Points through level 6 versus 12 for Rogue and 14 for Academic/Ranger; a situational +1 urban Reaction bonus does not offset that gap, especially while most Townsman careers have no benefits.
+- **Low — Copy (source line 30):** The sentence is a comma splice; replace the comma before “the list” with a semicolon or full stop.

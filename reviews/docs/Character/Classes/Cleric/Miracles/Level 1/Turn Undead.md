@@ -1,0 +1,2 @@
+- **High — Philosophy/Alignment (source line 46):** Letting an Order-aligned Cleric turn destroyed undead into loyal slaves contradicts both the spell's claim that undead are abominations to be destroyed and the class's required alignment; remove this option or restrict it to an explicitly corrupt/Chaotic path with consequences.
+- **Low — Grammar (source line 18):** “the dead shall dead remain” should be “the dead shall remain dead.”

@@ -1,0 +1,1 @@
+- **Medium — Rules (source line 18):** The spell first excludes creatures above 4+1 HD, then says a creature with “4+1 or more” HD can be affected singly; replace the overlapping thresholds with an exact eligibility rule.

@@ -1,0 +1,1 @@
+- **High — Serious error (source lines 11–22):** Status, skills, and every level-progression entry are blank, so this career has no spell slots or usable advancement; complete or remove the stub.

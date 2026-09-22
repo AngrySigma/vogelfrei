@@ -1,0 +1,1 @@
+- **High — Data (source lines 19–37):** Every postal price uses undefined “ss”; the currency rules define only gp, sp, and bp. Replace with the intended denomination.

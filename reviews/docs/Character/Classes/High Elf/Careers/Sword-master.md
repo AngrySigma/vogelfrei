@@ -1,0 +1,1 @@
+- **High — Serious error (source lines 12–23):** Status, skills, and every level-progression entry are blank, so this career is not playable; complete or remove the stub.

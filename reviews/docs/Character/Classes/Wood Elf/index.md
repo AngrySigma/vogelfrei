@@ -1,0 +1,2 @@
+- **High — Rules/Balance (source lines 7–29):** The class has no Skill Points, combat progression, spellcasting, traits, skills, or possessions, while requiring 3,000 XP for level 2; with its careers also blank, it is not a complete playable class and is plainly weaker than the other 1d6/1d3 classes.
+- **Medium — Rules (source lines 31–43):** This page offers five careers although the Classes overview says demihuman classes have a single fixed path; reconcile the class structure or correct the overview.

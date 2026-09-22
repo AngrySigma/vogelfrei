@@ -1,0 +1,2 @@
+- **High — Rules (source lines 28, 41, 56, 61):** “Instant” poison acts before the victim can react, yet its antidote may be administered “within the same Round.” Those timings cannot both operate without a reaction/intervention rule.
+- **Low — Material (source line 9):** “Beer and wine are often safer than plain water” overstates a context-dependent point as a general fact; early modern people also knowingly used potable water. Qualify it by local water source ([Smithsonian Libraries discussion](https://blog.library.si.edu/blog/2017/08/02/beer-board-age-sail/)).

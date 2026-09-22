@@ -1,0 +1,1 @@
+- **High — Rules/Material (source line 17):** The trait is not limited to melee, so a BS-focused Duellist can gain the second weapon's damage die on a pistol or other ranged attack without firing it; restrict the benefit to the intended attack type and identify which weapon supplies reach and other properties.

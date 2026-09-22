@@ -1,0 +1,2 @@
+- **Medium — Rules (source lines 19–23):** `+1 WS/BS` does not say whether each award raises one chosen skill or both; repeated three times, the two readings have a major balance difference.
+- **High — Rules (source lines 20–24):** `+1 hit` is not a defined statistic or modifier; specify whether this means Wounds, an attack-roll bonus, or something else.

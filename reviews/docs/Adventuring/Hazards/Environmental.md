@@ -1,0 +1,2 @@
+- **High — Rules (source line 9):** “Trained in acrobatics” and “make a check” refer to neither an Acrobatics skill nor a defined check anywhere in the rules. Name the actual skill/save and its success procedure.
+- **High — Completeness (source lines 4–15):** The Hazards index and table of contents say this page covers fire, drowning, extreme cold, and heat, but it contains only falling and traps. Add those hazards or correct both indexes.

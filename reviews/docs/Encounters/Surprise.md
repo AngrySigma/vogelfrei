@@ -1,0 +1,1 @@
+- **Medium — Rules (source line 3):** The ambush sentence does not say which side rolls the 1–4 result or how it modifies the preceding “roll for each side which might be surprised” procedure. State directly that the target’s surprise range becomes 1–4 (if that is intended).

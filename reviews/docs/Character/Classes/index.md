@@ -1,0 +1,1 @@
+- **High — Rules (source line 6):** The claim that human classes have multiple Careers and demihuman classes have one fixed path contradicts the listed classes: Rogue has no Careers, while Dwarf and Halfling each list six.

@@ -1,0 +1,3 @@
+- **High — Broken reference (source line 34):** “Combat Actions” contains no Morale section; the link should point to `../Encounters/Morale.md`.
+- **Medium — Rules (source lines 6–36):** The page alternates between Morale and Loyalty checks without stating whether these are the same 2d6 procedure or different scores.
+- **Low — Grammar (source line 16):** “Asked to performed” → “Asked to perform.”

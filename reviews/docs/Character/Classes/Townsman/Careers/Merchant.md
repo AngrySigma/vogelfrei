@@ -1,0 +1,1 @@
+- **High — Rules (source lines 12–23):** Status, Skills, and every level of progression are blank, so the career cannot determine starting wealth/social standing, spend Townsman Skill Points, or apply career-specific level benefits.

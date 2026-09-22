@@ -1,0 +1,1 @@
+- **High — Completeness (source lines 27–45):** “Starting Skills and Possessions” is empty and every linked Dwarf Career is also blank, leaving the class with no stated traits, skills, status, or career advances.

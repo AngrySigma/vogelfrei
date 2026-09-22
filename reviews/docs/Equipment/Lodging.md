@@ -1,0 +1,1 @@
+- **Medium — Clarity (source line 50):** “10'sq” is ambiguous and can read as ten square feet rather than a ten-foot square. Use an explicit unit such as “per 10′ × 10′ per month.”

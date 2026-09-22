@@ -1,0 +1,1 @@
+- **Medium — Material/Rules (source line 17):** Training cannot plausibly reduce the human minimum sleep requirement from four hours to three, and halving 1d6 forced-march damage gives no rounding rule; replace the biological sleep immunity with a field-rest benefit and define rounding.

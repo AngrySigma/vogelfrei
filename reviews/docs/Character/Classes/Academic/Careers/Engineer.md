@@ -1,0 +1,3 @@
+- **High — Rules (source lines 17–26):** The prose grants drafts at levels 2, 4, and 5, while the table grants them at 2, 4, and 6; choose one progression.
+- **High — Completeness (source lines 17–26):** “Draft” has no mechanical definition or linked rules, so three Career advances do nothing as written.
+- **Low — Markdown (source line 17):** `***Trait*:**` has mismatched emphasis markers.

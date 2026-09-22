@@ -1,0 +1,2 @@
+- **High — Rules (source lines 12–23):** Status, Skills, and every level of progression are blank, so the career cannot determine starting wealth/social standing, spend Ranger Skill Points, or apply career-specific level benefits.
+- **Low — Copy (source line 8):** `Peddlar` is nonstandard; use `Pedlar` (British) or `Peddler` consistently.

@@ -1,0 +1,2 @@
+- **High — Rules (source lines 15–26):** Skills, Trait, and all six progression entries are blank, leaving the career without usable skill or advancement rules.
+- **High — Rules (source lines 2–4, 13):** Frontmatter marks the career as Brass while the visible rule says Silver; generated data and starting-wealth rules will disagree until one status is chosen.

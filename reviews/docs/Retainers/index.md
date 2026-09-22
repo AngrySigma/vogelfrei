@@ -1,0 +1,1 @@
+- **Medium — Rules (source line 32):** A deceased share-taking retainer’s benefit is “half of the usual share,” but no treasure total or valuation point is specified, so the benefit cannot be calculated. Define half of which expedition/estate amount.

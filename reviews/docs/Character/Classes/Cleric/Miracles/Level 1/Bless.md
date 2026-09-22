@@ -1,0 +1,1 @@
+- **High — Balance (source line 18):** A pool of 1d6 + level freely concentrated on any roll can turn a pivotal d20 or d6 check into a near-automatic success and scales far beyond other 1st-level bonuses; cap expenditure per roll or narrow the eligible rolls.

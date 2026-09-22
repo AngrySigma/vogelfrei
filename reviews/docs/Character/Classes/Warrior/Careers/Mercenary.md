@@ -1,0 +1,1 @@
+- **High — Balance/Rules (source line 14):** `Gains both` can mean every Combat Skill Point raises both WS and BS, doubling the Warrior's normal progression and dominating careers that improve only one; if it only permits either skill, use the same “WS or BS” wording as those careers.

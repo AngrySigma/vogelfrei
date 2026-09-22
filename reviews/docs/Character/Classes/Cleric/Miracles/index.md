@@ -1,0 +1,1 @@
+- **High — Completeness (source lines 29–31):** The Priest gains a 3rd-level miracle slot at level 6, but this list stops after one 2nd-level miracle and provides no 3rd-level miracles to prepare.

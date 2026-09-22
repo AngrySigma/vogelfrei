@@ -1,0 +1,2 @@
+- **Medium — Rules (source line 52):** This says to add the Toughness “bonus,” while Ability Scores applies the Toughness modifier; clarify that negative modifiers also reduce starting Wounds if intended.
+- **High — Rules (source line 87):** Training is required only for a few asterisked weapons here, but Equipment/Weapons says every ranged weapon and firearm requires training in addition to marked melee weapons; make the two training rules agree.

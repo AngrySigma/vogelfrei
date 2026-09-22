@@ -1,0 +1,2 @@
+- **Medium — Rules (source line 17):** `Loyalty` checks are not defined in the retainer rules, which use hiring rolls and Morale checks; replace this with the exact check(s) receiving +1.
+- **Low — Copy (source line 17):** `taknes` should be `takes`.

@@ -1,0 +1,1 @@
+- **Low — Grammar (source line 25):** “Coin and treasure is” mismatches the compound subject; use “are” or recast the sentence.

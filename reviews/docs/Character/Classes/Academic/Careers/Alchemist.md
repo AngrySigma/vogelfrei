@@ -1,0 +1,1 @@
+- **High — Completeness (source lines 12–23):** Status, Skills, and every level of Progression are blank, so this offered Career has no usable rules.

@@ -1,0 +1,2 @@
+- **High — Rules (source lines 26–28):** “Appropriate” giant strength and percentage melee-damage increases have no conversion or rounding procedure (for example, +20% to 1d6), so the spell’s central combat effect cannot be resolved consistently.
+- **Medium — Material (source lines 18, 26):** Size, weight, and damage are described as corresponding linear percentage increases, although mass scales with volume; state explicit game multipliers rather than presenting the relationship as physical equivalence.

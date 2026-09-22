@@ -1,0 +1,2 @@
+- **High — Completeness (source line 14):** Environmental is advertised as covering fire, drowning, extreme cold, and heat, but that document contains only falling and traps.
+- **Medium — Completeness (source line 10):** Physical Deterioration is advertised as covering exposure, but it contains only ability loss, aging, disease, starvation/dehydration, and sleep deprivation.

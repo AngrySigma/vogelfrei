@@ -1,0 +1,4 @@
+- **High — Completeness (source lines 15–27):** The list claims to contain all available classes but omits Phoenix entirely.
+- **High — Accuracy (source lines 97–101):** The hazard summaries advertise exposure, fire, drowning, extreme cold, and heat rules that the linked pages do not contain.
+- **Medium — Accuracy (source lines 50, 59):** Armor is described as containing encumbrance rules and Containers as containing carrying capacities; neither linked page provides those rules/data.
+- **Low — Accuracy (source line 78):** Basic Retainers is described as containing porters, but its four entries are Linkboy, Laborer, Mercenary, and Henchman.

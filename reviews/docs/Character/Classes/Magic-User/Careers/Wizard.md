@@ -1,0 +1,1 @@
+- **Medium — Rules (source line 9):** “Read/Write Talent” is not defined anywhere; specify its mechanical effect (especially because ordinary literacy is already governed by Intelligence).

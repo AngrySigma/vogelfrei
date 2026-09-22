@@ -1,0 +1,2 @@
+- **High — Rules (source line 21):** The temple requirement uses “a size more than a square times the spell level” without a square's dimensions or a complete area formula, so the doubling condition cannot be adjudicated.
+- **Low — Typo (source line 13):** “d4+ 2 Turns” has a stray space; use “1d4+2 Turns” for consistency.

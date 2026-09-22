@@ -1,0 +1,3 @@
+- **High — Rules (source lines 31–33):** Creating or recharging a wand/staff requires *Permanency*, but that spell does not exist in the book’s spell list, making both procedures impossible under the published rules.
+- **Medium — Rules (source line 31):** The power list repeatedly references other undefined spells and says higher effects spend the spell-level “difference” in charges without clarifying whether the base one charge is added, so charge costs cannot be resolved consistently.
+- **Low — Typo/clarity (source lines 21, 24, 38, 53–57, 62):** Silver-piece amounts inconsistently omit the space before “sp,” and a laboratory is said to require merely “a square of space” with no dimensions.

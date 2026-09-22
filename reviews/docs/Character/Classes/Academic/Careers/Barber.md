@@ -1,0 +1,1 @@
+- **High — Rules (source line 17):** The trait refers to “Minor Wound,” recovery in days/weeks/months, and wounds marked “surgery required,” but the current Damage rules use light/permanent injuries and provide none of those fields; rewrite the trait for the current injury system.

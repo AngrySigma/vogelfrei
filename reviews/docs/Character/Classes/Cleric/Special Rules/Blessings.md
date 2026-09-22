@@ -1,0 +1,3 @@
+- **High — Rules (source line 5):** “Each Cleric knows” blessings makes the Priest's level-1 Blessing Talent redundant and grants the same feature to the otherwise undefined Warrior Priest and Zealot; specify which Careers actually receive blessings.
+- **High — Rules (source lines 9–18):** Most blessings have no duration or stacking rule, making open-ended bonuses such as +1 Strength/AC and exceptional states such as acting below 0 Wounds potentially permanent; define duration, stacking, and maximum-Wounds interaction for every entry.
+- **High — Rules (source line 18):** Zeal contradicts Damage's rule that a character at 0 or fewer Wounds is helpless/unconscious and gets at most one final action; state which rule it overrides and for how long.

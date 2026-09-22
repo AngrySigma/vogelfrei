@@ -1,0 +1,1 @@
+- **High — Epoch (source line 25):** The game calls itself an “early-Renaissance world,” a substantially earlier frame than the stated 17th-century Europe/New World target and inconsistent with its flintlocks, buff coats, coaches, and colonial-era material. Replace with “17th-century” or “early-modern” and name the New World scope.

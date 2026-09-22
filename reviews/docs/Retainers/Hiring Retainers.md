@@ -1,0 +1,2 @@
+- **High — Rules (source lines 31–48):** The Accepts Position column contains “No” only at 3 and “Yes” only at 11, with blank cells elsewhere. Markdown does not imply fill-down, so results 4–10 and 12–18 are undefined; fill every row or use explicit ranges.
+- **Low — Grammar (source line 6):** “chance of successful applicant search” needs an article/recast (“the chance of finding a suitable applicant”).

@@ -1,0 +1,1 @@
+- **Medium — Rules (source lines 5, 18):** The duration is instantaneous, but the spell grants an ability to exchange a message and reply without defining how long the reply window lasts or whether only one exchange is allowed.

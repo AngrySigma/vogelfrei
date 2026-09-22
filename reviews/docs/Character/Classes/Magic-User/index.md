@@ -1,0 +1,3 @@
+- **High — Rules (source lines 30–32):** Second Sight and Spellcasting are listed as starting talents but are never defined anywhere in the rules, leaving core class abilities unresolved.
+- **High — Rules/material (source line 58):** The claim that the casting limit rules out everything heavier than the lightest armour is false under the encumbrance table: chain, brigandine, and half-armour add only one point and remain Unencumbered before carried gear; either impose an armour restriction or correct the claim.
+- **Medium — Serious error (source line 28):** “Starting Skills and Possessions” defines no possessions, so a new Magic-User has no stated starting equipment or spellbook loadout beyond spell names.

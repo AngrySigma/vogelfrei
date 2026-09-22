@@ -1,0 +1,1 @@
+- **High — Setting/Rules (source lines 18–30):** The spell equates Chaos with evil gods and creatures “incapable of being good,” while Alignment explicitly says alignment does not determine morality; classify targets by metaphysical alignment without redefining good and evil.

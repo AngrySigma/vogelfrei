@@ -1,0 +1,1 @@
+- **Medium — Broken reference (source line 11):** “refer to equipment section:” ends with a colon but supplies no link or section name.

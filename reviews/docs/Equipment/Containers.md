@@ -1,0 +1,2 @@
+- **Medium — Rules (source lines 4–54):** No container has a capacity, despite the encumbrance system requiring gear to fit in a pack and the table of contents describing this page as carrying capacities. Add item/volume limits or remove that claim.
+- **Low — Grammar (source lines 56–57):** Add a period and article: “The same goes for a twelve-apostles bandolier.”

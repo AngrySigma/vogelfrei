@@ -1,0 +1,3 @@
+- **Medium — Data (source line 212):** “5cp” uses an undefined currency; the system defines gp, sp, and bp only.
+- **Medium — Material (source lines 311–316):** Ordinary lamp oil is assumed to ignite and cling like a modern incendiary on impact. Specify a deliberately prepared incendiary mixture or require conditions under which lamp oil can catch and sustain flame.
+- **Low — Typo (source line 269):** “Pavillion” → “Pavilion.”

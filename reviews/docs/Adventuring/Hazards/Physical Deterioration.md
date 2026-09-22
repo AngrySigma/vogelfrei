@@ -1,0 +1,1 @@
+- **Medium — Completeness (source lines 61–76):** The Hazards index describes this page as covering “exposure over time,” but there are no cold/heat/exposure rules. Add them or remove the claim from the index.

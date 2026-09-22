@@ -1,0 +1,2 @@
+- **High — Data (source lines 29–36):** “Horse, Riding” appears twice at different prices with no distinction; one row likely has the wrong animal name.
+- **Low — Typos (source lines 19, 54):** “Carrier Pidgeon” → “Carrier Pigeon”; “Poly” → “Pony.”
