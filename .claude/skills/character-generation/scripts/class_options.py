@@ -51,12 +51,19 @@ def main():
         dice = Dice(args.seed)
         roll = dice.roll(2, 6)
         klass = CLASS_ROLL_2D6[roll]
+        table = CAREER_ROLL_D6[klass]
         career = None
-        while career is None:
-            d = dice.roll(1, 6)
-            career = CAREER_ROLL_D6[klass][d - 1]
-        print(f"Rolled class 2d6 = {roll} -> {klass}; career d6 -> {career}")
-        print(f"Apply with: apply_class.py --file {args.file} --class '{klass}' --career '{career}'")
+        if any(table):
+            while career is None:
+                d = dice.roll(1, 6)
+                career = table[d - 1]
+            print(f"Rolled class 2d6 = {roll} -> {klass}; career d6 -> {career}")
+            print(f"Apply with: apply_class.py --file {args.file} "
+                  f"--class '{klass}' --career '{career}'")
+        else:
+            print(f"Rolled class 2d6 = {roll} -> {klass}; {klass} has no careers")
+            print(f"Apply with: apply_class.py --file {args.file} "
+                  f"--class '{klass}' --status brass|silver|gold")
         return
 
     rows = []

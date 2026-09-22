@@ -24,7 +24,9 @@ from pathlib import Path
 # Core constants
 # ---------------------------------------------------------------------------
 
-ABILITIES = ["Strength", "Toughness", "Agility", "Intelligence", "Willpower", "Leadership"]
+# Roll order per docs/Character/Ability Scores.md ("Roll 3d6 for each ability
+# score ... in order"). Order matters: 3d6 is rolled down this list.
+ABILITIES = ["Strength", "Intelligence", "Willpower", "Agility", "Toughness", "Leadership"]
 
 CLASSES = [
     "Warrior", "Magic-User", "Cleric", "Ranger", "Rogue", "Peasant",
@@ -80,7 +82,7 @@ CLASS_HINTS = {
     "Academic": {"primary": ["Intelligence"], "secondary": ["Willpower"],
                  "note": "skill points; reads and writes"},
     "Townsman": {"primary": ["Leadership"], "secondary": ["Intelligence", "Agility"],
-                 "note": "skill points; +2 urban reactions, Haggle 2-in-6"},
+                 "note": "skill points; +1 urban reaction rolls (Familiar place)"},
     "Dwarf": {"primary": ["Toughness", "Strength"], "secondary": [],
               "note": "d10 Wounds and the best saves; demihuman"},
     "High Elf": {"primary": ["Intelligence", "Agility"], "secondary": [],
@@ -412,9 +414,17 @@ def parse_career(path: Path) -> dict:
     m = re.search(r"\*\*Skills\*\*:[^\S\n]*(\S.*)", text)
     if m:
         info["skills"] = strip_links(m.group(1).strip())
+    # Career pages write the trait two ways: as a `!!! tip "Trait"` admonition
+    # (six pages) and as an inline `***Trait***: ...` line (the Academic
+    # careers). Read both — matching only the admonition left Barber's and
+    # Apothecary's traits null on the character sheet.
     m = re.search(r'!!!\s+tip\s+"Trait"\n((?:[ \t]+\S.*\n?)*)', text)
     if m:
         info["trait"] = " ".join(line.strip() for line in m.group(1).splitlines()).strip()
+    else:
+        m = re.search(r"^\*{2,3}Trait\*{2,3}\s*:[^\S\n]*(\S.*)$", text, re.M)
+        if m:
+            info["trait"] = strip_links(m.group(1).strip())
 
     info["level1"] = career_level1(text)
     g = _COMBAT_GRANT.search(info["level1"])
@@ -739,10 +749,13 @@ def encumbrance(state: dict, worn_armor: str | None) -> dict:
         points += 1
     points += state.get("enc_adjust", 0)
     points = max(points, 0)
+    # docs/Adventuring/Time and Movement.md: "Characters apply their Toughness
+    # modifier to their per-day travel distance on foot."
+    tough = state.get("abilities", {}).get("Toughness", {}).get("mod", 0)
     for limit, label, miles, turn, combat, running in MOVEMENT_TABLE:
         if points <= limit:
-            movement = {"label": label, "miles_per_day": miles, "per_turn": turn,
-                        "combat": combat, "running": running}
+            movement = {"label": label, "miles_per_day": max(miles + tough, 0),
+                        "per_turn": turn, "combat": combat, "running": running}
             break
     else:
         movement = {"label": "Overencumbered", "miles_per_day": 0, "per_turn": "0'",
