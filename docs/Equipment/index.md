@@ -12,7 +12,7 @@ All equipment a character may purchase or acquire during play. Items are purchas
 
 - [Armor](Armor.md) — cloth, leather, and proofed plate
 
-- [Weapons](Weapons/index.md) — melee, ranged, firearms, and Advanced legacy arms
+- [Weapons](Weapons/index.md) — melee, ranged, and firearms
 
 - [Animals](Animals.md) — mounts, pack animals, and beasts of burden
 

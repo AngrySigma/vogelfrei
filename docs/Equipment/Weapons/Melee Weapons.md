@@ -19,6 +19,8 @@ The century did not offer an endless armoury. A fighting man carried a sword or 
 | ***Pike (2H)*** | d8 | 5 | — | 20sp | - |
 | ***Polearm (2H)*** | d8 | 4 | — | 30sp | - |
 | ***Lance (1/2H)*** | d10 | 5 | Training | 30sp | - |
+| ***War flail (2H)*** | d8 | 3 | — | 20sp | 10sp |
+| ***Mancatcher (2H)*** | d6 | 2 | Training | 20sp | - |
 
 !!! info "Training"
     Any character may pick up and swing any melee weapon. The arms marked **Training** are the exceptions: they do nothing in untaught hands. A character with no plausible background with one must spend time learning it before it can be wielded effectively, and the Referee decides what a given background already covers.
@@ -34,12 +36,13 @@ The century did not offer an endless armoury. A fighting man carried a sword or 
 
 The generic categories are rules abstractions. A character buying one must name the actual object. These are the ordinary choices of the age:
 
-| Generic type | Examples |
-| --- | --- |
-| Great | Two-handed sword, maul, great axe, sledge |
-| Medium | Backsword, broadsword, sabre, war hammer, horseman's pick, one-handed axe |
-| Small | Hanger, cutlass, hatchet, short sword, mace, cudgel |
-| Minor | Dagger, stiletto, knife, poniard, belaying pin |
+**Minor** — dagger, stiletto, bollock dagger, poniard, rondel, hunting knife, cudgel, club, belaying pin, sap.
+
+**Small** — hanger, cutlass, katzbalger, falchion, messer, short sword, hatchet, tomahawk, mace, horseman's axe, sailor's axe.
+
+**Medium** — backsword, broadsword, basket-hilt, schiavona, sabre, szabla, estoc or tuck, war hammer, horseman's pick, morning star, bastard sword, longsword. Most of these are one-handed arms used at Length 2; the bastard sword and the longsword are the ones that take the second hand for the extra grade of reach.
+
+**Great** — two-handed sword, zweihänder, montante, maul, great axe, sledge.
 
 The two shaft entries divide the same way a soldier's hands do. A **Spear** is anything that kills by the point: the partisan and the spontoon an officer carries, the corseque, ranseur, spetum and chauve-souris, the military fork, the half-pike aboard ship, and the boar and bear spears a huntsman owns. A **Polearm** is anything that kills by the edge or the beak: the halberd, the bill, the glaive, the poleaxe. The spear reaches a grade further and wounds narrowly; the polearm reaches less and strikes harder, because a blade on a shaft is a lever and a point is not.
 
@@ -49,7 +52,7 @@ The two-handed sword belongs to the opening years of this age and the wars befor
 
 A **Polearm** costs more than a **Pike** and reaches a grade less, which is not an error: the pike is a spike on a long shaft and can be made by any smith in a week, while a halberd head is a complicated forging. What the polearm buys is a weapon that still works indoors, in a boarding action, and on a staircase, where the pike is so much firewood. A **Spear** is the cheap end of the same idea — the same reach as a pike for a quarter of the price, and a narrower wound. Halflings cannot wield Great or Medium weapons, polearms, pikes, lances, or any arm of comparable size.
 
-Arms from older fighting traditions — the cestus, the mancatcher, the weighted net, the war flail — appear under [Antiquated Weapons](Antiquated%20Weapons.md).
+Naming the object matters more than the category. A man who says he carries a sabre has told you something; a man who says he carries a Medium weapon has told you a damage die.
 
 ---
 ### Weapon Traits
@@ -64,7 +67,9 @@ Arms from older fighting traditions — the cestus, the mancatcher, the weighted
 | Polearm | A halberd, bill, glaive, or poleaxe — the sergeant's weapon and the guard's. May attack from the second rank or [Brace](../../Encounters/Combat%20Actions.md#brace). It needs both hands for the leverage that makes it worth carrying, and so can never be used with a shield. |
 | Rapier | Suffers a -2 penalty to hit opponents wearing armour with an Armour Rating of 4 or higher. |
 | Spear | May attack from the second rank or [Brace](../../Encounters/Combat%20Actions.md#brace). A boar or bear spear carries a crossbar below the head to stop a charging animal running up the shaft: when braced against a charge, the wielder takes no damage from the charge itself. |
+| War flail | Ignores the benefit of a shield, buckler or target; the head comes round it. |
 | Whip | Ineffective against targets in metal armour, but may attack opponents up to 10' away. |
+| Mancatcher | The watchman's and the gaoler's tool, for taking a man alive or pulling him off a horse. On a hit the victim must save versus Paralyzation or become helpless; the wielder is also helpless against other attacks while holding him. |
 
 Some weapons can attack “from the second rank.” This is used when there is a definite battle line in combat. Usually only those on the front line can strike, but a weapon usable from the second rank allows the person immediately behind that line to attack as well.
 

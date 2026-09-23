@@ -84,7 +84,7 @@ Roll the class Stamina die once at first level to determine starting Stamina. Th
 
 Weapon Skill (WS) and Ballistic Skill (BS) modifiers are added to Attack Rolls (as described in [Combat Actions](../Encounters/Combat%20Actions.md)). Many characters, including Player Characters, get a bonus to their Weapon and Ballistic Skills as determined in appropriate tables. WS/BS can be improved after gaining a level.
 
-Any character may pick up and use any weapon. A few weapons are marked with an asterisk (\*) in the equipment tables: these take real instruction to use at all, and a character who has no plausible background with one must spend time learning it before it can be wielded effectively. The Referee decides what a given character's background already covers — a huntsman needs no lessons in the bow, and a Tilean duellist none in the rapier.
+Any character may pick up and use any weapon. A few weapons carry **Training** in their own column in the equipment tables: these take real instruction to use at all, and a character who has no plausible background with one must spend time learning it before it can be wielded effectively. The Referee decides what a given character's background already covers — a huntsman needs no lessons in the bow, and a man who studied under an Italian fencing-master needs none in the rapier.
 
 #### Saving Throws
 

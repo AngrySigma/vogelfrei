@@ -444,11 +444,6 @@ window.VF_PAGES = {
       "advanced"
     ]
   },
-  "Equipment/Weapons/Antiquated Weapons/": {
-    "tiers": [
-      "advanced"
-    ]
-  },
   "Equipment/Weapons/Curious Firearms/": {
     "tiers": [
       "advanced"

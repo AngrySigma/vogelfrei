@@ -53,7 +53,6 @@ All items available for purchase during character creation or between expedition
     *   [Melee Weapons](./Equipment/Weapons/Melee%20Weapons.md) — hand-to-hand weapons, length, and special qualities.
     *   [Ranged Weapons](./Equipment/Weapons/Ranged%20Weapons.md) — bows, crossbows, slings, and thrown weapons.
     *   [Firearms](./Equipment/Weapons/Firearms.md) — black powder weapons and their rules.
-    *   [Antiquated Weapons](./Equipment/Weapons/Antiquated%20Weapons.md) — earlier arms retained for Advanced play.
     *   [Curious Firearms](./Equipment/Weapons/Curious%20Firearms.md) — rare and out-of-period legacy guns.
 
 *   **[Animals](./Equipment/Animals.md)** — horses, mules, and other beasts of burden.
