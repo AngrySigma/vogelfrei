@@ -54,4 +54,4 @@ tier: base
 </table>
 
 !!! tip "Bolts and Arrows"
-    A quiver plus the arrows or bolts it carries (20 maximum) count as one item together for encumbrance purposes. Same goes for the 12 apostles bandolier
+    A quiver plus the arrows or bolts it carries (20 maximum) counts as one item for encumbrance. The same is true of a [bandolier](Weapons/Firearms.md#ammunition-and-implements) and its twelve wooden powder chargers.

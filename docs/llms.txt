@@ -43,9 +43,6 @@ gating only prunes the site navigation.
 
 ## Character Creation › Classes › Magic-User › Careers
 
-- [Bright Wizard](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Careers/Bright%20Wizard/): The numbered columns show how many spells of each spell level the Bright Wizard may keep memorized at one time.
-- [Grey Wizard](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Careers/Grey%20Wizard/)
-- [Light Wizard](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Careers/Light%20Wizard/)
 - [Witch](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Careers/Witch/)
 - [Wizard](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Careers/Wizard/): The numbered columns show how many spells of each spell level the Wizard may keep memorized at one time.
 
@@ -127,7 +124,7 @@ gating only prunes the site navigation.
 ## Character Creation › Classes › Ranger › Careers
 
 - [Boatman](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Boatman/) [base, advanced only]
-- [Bounty Hunter](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Bounty%20Hunter/) [base, advanced only]
+- [Thief-Taker](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Thief-Taker/) [base, advanced only]
 - [Coachman](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Coachman/) [base, advanced only]
 - [Peddlar](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Peddlar/) [base, advanced only]
 - [Road Warden](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Road%20Warden/) [base, advanced only]
@@ -185,9 +182,9 @@ gating only prunes the site navigation.
 - [Artisan](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Artisan/) [base, advanced only]
 - [Brewer](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Brewer/) [base, advanced only]
 - [Engineer](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Engineer/) [base, advanced only]
-- [Karak Ranger](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Karak%20Ranger/) [base, advanced only]
+- [Hold Ranger](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Hold%20Ranger/) [base, advanced only]
 - [Miner](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Miner/) [base, advanced only]
-- [Troll Slayer](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Troll%20Slayer/) [base, advanced only]
+- [Oathbound](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Oathbound/) [base, advanced only]
 
 ## Character Creation › Classes › High Elf
 
@@ -198,7 +195,7 @@ gating only prunes the site navigation.
 - [Artisan](https://angrysigma.github.io/vogelfrei/Character/Classes/High%20Elf/Careers/Artisan/) [base, advanced only]
 - [Hunter](https://angrysigma.github.io/vogelfrei/Character/Classes/High%20Elf/Careers/Hunter/) [base, advanced only]
 - [Shadow](https://angrysigma.github.io/vogelfrei/Character/Classes/High%20Elf/Careers/Shadow/) [base, advanced only]
-- [Sword-master](https://angrysigma.github.io/vogelfrei/Character/Classes/High%20Elf/Careers/Sword-master/) [base, advanced only]
+- [Blademaster](https://angrysigma.github.io/vogelfrei/Character/Classes/High%20Elf/Careers/Blademaster/) [base, advanced only]
 - [Wizard](https://angrysigma.github.io/vogelfrei/Character/Classes/High%20Elf/Careers/Wizard/) [base, advanced only]
 
 ## Character Creation › Classes › Wood Elf
@@ -210,7 +207,7 @@ gating only prunes the site navigation.
 - [Artisan](https://angrysigma.github.io/vogelfrei/Character/Classes/Wood%20Elf/Careers/Artisan/) [base, advanced only]
 - [Blade dancer](https://angrysigma.github.io/vogelfrei/Character/Classes/Wood%20Elf/Careers/Blade%20dancer/) [base, advanced only]
 - [Hunter](https://angrysigma.github.io/vogelfrei/Character/Classes/Wood%20Elf/Careers/Hunter/) [base, advanced only]
-- [Waywatcher](https://angrysigma.github.io/vogelfrei/Character/Classes/Wood%20Elf/Careers/Waywatcher/) [base, advanced only]
+- [Pathwarden](https://angrysigma.github.io/vogelfrei/Character/Classes/Wood%20Elf/Careers/Pathwarden/) [base, advanced only]
 - [Wizard](https://angrysigma.github.io/vogelfrei/Character/Classes/Wood%20Elf/Careers/Wizard/) [base, advanced only]
 
 ## Character Creation › Classes › Halfling
@@ -240,22 +237,24 @@ gating only prunes the site navigation.
 ## Equipment
 
 - [Equipment](https://angrysigma.github.io/vogelfrei/Equipment/): All equipment a character may purchase or acquire during play.
-- [Armor](https://angrysigma.github.io/vogelfrei/Equipment/Armor/): Armor Rating is added to a character's Armor Class in both Melee and Ranged combat.
+- [Armor](https://angrysigma.github.io/vogelfrei/Equipment/Armor/): Armor Rating is added to Armor Class in both melee and ranged combat, exactly as it always was.
 
 ## Equipment › Weapons
 
-- [Weapons](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/): All weapons available for purchase.
-- [Melee Weapons](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Melee%20Weapons/): Length is the weapon's grade of reach, from 0 (a fist or an improvised object) to 5 (a pike).
-- [Ranged Weapons](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Ranged%20Weapons/): Every ranged weapon requires training.
-- [Firearms](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Firearms/): Firearms share the following special traits: [base, advanced only]
+- [Weapons](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/): These are the weapons of the age, which runs from Pavia to the peace that ended the Thirty Years' War.
+- [Melee Weapons](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Melee%20Weapons/): The century did not offer an endless armoury.
+- [Ranged Weapons](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Ranged%20Weapons/): A crossbow is not a firearm and does not care about Proof: it reduces Armor Rating by the amount listed and the rest applies normally.
+- [Firearms](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Firearms/): The table lists complete, ordinary examples with the lock most often supplied for that weapon. [base, advanced only]
+- [Curious Firearms](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Curious%20Firearms/): This page keeps rare experiments and displaced equipment available to Advanced campaigns without presenting them as ordinary purchases of the age. [advanced only]
 
 ## Equipment
 
 - [Animals](https://angrysigma.github.io/vogelfrei/Equipment/Animals/) [base, advanced only]
-- [Containers](https://angrysigma.github.io/vogelfrei/Equipment/Containers/): A quiver plus the arrows or bolts it carries (20 maximum) count as one item together for encumbrance purposes. [base, advanced only]
+- [Containers](https://angrysigma.github.io/vogelfrei/Equipment/Containers/): A quiver plus the arrows or bolts it carries (20 maximum) counts as one item for encumbrance. [base, advanced only]
 - [Food](https://angrysigma.github.io/vogelfrei/Equipment/Food/) [base, advanced only]
 - [Lodging](https://angrysigma.github.io/vogelfrei/Equipment/Lodging/): Costs are per day, unless noted. [base, advanced only]
-- [Vehicles](https://angrysigma.github.io/vogelfrei/Equipment/Vehicles/): Good quality boats cost 5% more. [advanced only]
+- [Vehicles](https://angrysigma.github.io/vogelfrei/Equipment/Vehicles/): Prices buy a sound, workaday vehicle with ordinary fittings. [base, advanced only]
+- [Antiquated Vehicles](https://angrysigma.github.io/vogelfrei/Equipment/Antiquated%20Vehicles/): These entries are retained for ruins, legendary voyages, archaic regions, and campaigns that deliberately reach outside the age. [advanced only]
 - [Services](https://angrysigma.github.io/vogelfrei/Equipment/Services/) [base, advanced only]
 - [Miscellaneous](https://angrysigma.github.io/vogelfrei/Equipment/Miscellaneous/): Holy water, if in a glass container or flask, can be thrown with the same range modifiers as a rock. [base, advanced only]
 

@@ -23,11 +23,11 @@ Elves may opt to use the Wood Elf class if the Referee decides that it is availa
 | d6 | [Dwarf](Classes/Dwarf/index.md)         | [Halfling](Classes/Halfling/index.md)      | [Ranger](Classes/Ranger/index.md)            |
 | -- | ------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------- |
 | 1  | [Artisan](Classes/Dwarf/Careers/Artisan.md)         | [Artisan](Classes/Halfling/Careers/Artisan.md)          | [Boatman](Classes/Ranger/Careers/Boatman.md)            |
-| 2  | [Karak Ranger](Classes/Dwarf/Careers/Karak%20Ranger.md)  | [Charlatan](Classes/Halfling/Careers/Charlatan.md)       | [Bounty Hunter](Classes/Ranger/Careers/Bounty%20Hunter.md)    |
+| 2  | [Hold Ranger](Classes/Dwarf/Careers/Hold%20Ranger.md)  | [Charlatan](Classes/Halfling/Careers/Charlatan.md)       | [Thief-Taker](Classes/Ranger/Careers/Thief-Taker.md)    |
 | 3  | [Engineer](Classes/Dwarf/Careers/Engineer.md)       | [Badger Rider](Classes/Halfling/Careers/Badger%20Rider.md)    | [Coachman](Classes/Ranger/Careers/Coachman.md)           |
 | 4  | [Brewer](Classes/Dwarf/Careers/Brewer.md)          | [Herbalist](Classes/Halfling/Careers/Herbalist.md)       | [Road Warden](Classes/Ranger/Careers/Road%20Warden.md)       |
 | 5  | [Miner](Classes/Dwarf/Careers/Miner.md)           | [Merchant](Classes/Halfling/Careers/Merchant.md)         | [Peddlar](Classes/Ranger/Careers/Peddlar.md)             |
-| 6  | [Troll Slayer](Classes/Dwarf/Careers/Troll%20Slayer.md)  | [Scout](Classes/Halfling/Careers/Scout.md)              | [Sailor](Classes/Ranger/Careers/Sailor.md)              |
+| 6  | [Oathbound](Classes/Dwarf/Careers/Oathbound.md)  | [Scout](Classes/Halfling/Careers/Scout.md)              | [Sailor](Classes/Ranger/Careers/Sailor.md)              |
 
 | d6 | [Townsman](Classes/Townsman/index.md)    | [Peasant](Classes/Peasant/index.md)        | [Warrior](Classes/Warrior/index.md)          | [Cleric](Classes/Cleric/index.md)            |
 | -- | ------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
@@ -42,9 +42,9 @@ Elves may opt to use the Wood Elf class if the Referee decides that it is availa
 | -- | ------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
 | 1  | [Apothecary](Classes/Academic/Careers/Apothecary.md)   | [Wizard](Classes/Magic-User/Careers/Wizard.md)          | [Artisan](Classes/High%20Elf/Careers/Artisan.md)           | [Artisan](Classes/Wood%20Elf/Careers/Artisan.md)           |
 | 2  | [Barber](Classes/Academic/Careers/Barber.md)         | [Witch](Classes/Magic-User/Careers/Witch.md)           | [Wizard](Classes/High%20Elf/Careers/Wizard.md)             | [Wizard](Classes/Wood%20Elf/Careers/Wizard.md)             |
-| 3  | [Engineer](Classes/Academic/Careers/Engineer.md)       | [Bright Wizard](Classes/Magic-User/Careers/Bright%20Wizard.md)  | [Sword-master](Classes/High%20Elf/Careers/Sword-master.md)     | [Hunter](Classes/Wood%20Elf/Careers/Hunter.md)             |
-| 4  | [Scholar](Classes/Academic/Careers/Scholar.md)        | [Grey Wizard](Classes/Magic-User/Careers/Grey%20Wizard.md)    | [Hunter](Classes/High%20Elf/Careers/Hunter.md)             | [Blade dancer](Classes/Wood%20Elf/Careers/Blade%20dancer.md)     |
-| 5  | [Alchemist](Classes/Academic/Careers/Alchemist.md)      | [Light Wizard](Classes/Magic-User/Careers/Light%20Wizard.md)   | [Shadow](Classes/High%20Elf/Careers/Shadow.md)             | [Waywatcher](Classes/Wood%20Elf/Careers/Waywatcher.md)        |
+| 3  | [Engineer](Classes/Academic/Careers/Engineer.md)       | —                                                   | [Blademaster](Classes/High%20Elf/Careers/Blademaster.md)     | [Hunter](Classes/Wood%20Elf/Careers/Hunter.md)             |
+| 4  | [Scholar](Classes/Academic/Careers/Scholar.md)        | —                                                   | [Hunter](Classes/High%20Elf/Careers/Hunter.md)             | [Blade dancer](Classes/Wood%20Elf/Careers/Blade%20dancer.md)     |
+| 5  | [Alchemist](Classes/Academic/Careers/Alchemist.md)      | —                                                   | [Shadow](Classes/High%20Elf/Careers/Shadow.md)             | [Pathwarden](Classes/Wood%20Elf/Careers/Pathwarden.md)        |
 | 6  | [Cartographer](Classes/Academic/Careers/Cartographer.md)  | —                                                   | —                                                     | —                                                     |
 
 # Determine Wounds
@@ -84,7 +84,7 @@ Roll the class Stamina die once at first level to determine starting Stamina. Th
 
 Weapon Skill (WS) and Ballistic Skill (BS) modifiers are added to Attack Rolls (as described in [Combat Actions](../Encounters/Combat%20Actions.md)). Many characters, including Player Characters, get a bonus to their Weapon and Ballistic Skills as determined in appropriate tables. WS/BS can be improved after gaining a level.
 
-Any character may pick up and use any weapon. A few weapons are marked with an asterisk (\*) in the equipment tables: these take real instruction to use at all, and a character who has no plausible background with one must spend time learning it before it can be wielded effectively. The Referee decides what a given character's background already covers — a huntsman needs no lessons in the bow, and a Tilean duellist none in the rapier.
+Any character may pick up and use any weapon. A few weapons carry **Training** in their own column in the equipment tables: these take real instruction to use at all, and a character who has no plausible background with one must spend time learning it before it can be wielded effectively. The Referee decides what a given character's background already covers — a huntsman needs no lessons in the bow, and a man who studied under an Italian fencing-master needs none in the rapier.
 
 #### Saving Throws
 

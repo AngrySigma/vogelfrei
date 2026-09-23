@@ -1,12 +1,13 @@
 ---
 tags:
-  - magic-user
-image: assets/img/careers/wizard.webp
-image_alt: Grey Wizard illustration
+  - dwarf
+image: assets/img/cover.webp
+image_alt: Oathbound illustration
+tier: base
 ---
-# Grey Wizard
+# Oathbound
 
-**Class**: [Magic-User](../index.md)
+**Class**: [Dwarf](../index.md)
 
 **Status**:
 

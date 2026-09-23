@@ -36,11 +36,14 @@ def render(state: dict) -> str:
     out.append(f"- **Wounds**: {state.get('wounds', '?')}   **Stamina**: {state.get('stamina', '?')}")
     out.append(f"- **WS**: +{state.get('ws', 0)}   **BS**: +{state.get('bs', 0)}")
     out.append(f"- **Melee AC**: {combat.get('melee_ac', '?')}   "
-               f"**Ranged AC**: {combat.get('ranged_ac', '?')}")
+               f"**Ranged AC**: {combat.get('ranged_ac', '?')}   "
+               f"**vs Firearms**: {combat.get('firearm_ac', combat.get('ranged_ac', '?'))}")
     armor = combat.get("armor_worn") or "none"
     if combat.get("shield"):
         armor += f" + {combat['shield']}"
-    out.append(f"- **Armour**: {armor} (Armour Rating {combat.get('armor_rating', 0)})")
+    proof = combat.get("armor_proof") or "—"
+    out.append(f"- **Armour**: {armor} (Armour Rating {combat.get('armor_rating', 0)}, "
+               f"Proof {proof} — {combat.get('shot_armor_rating', 0)} against a shot)")
     if enc:
         out.append(f"- **Encumbrance**: {enc['points']} points — {enc['label']} "
                    f"({enc['miles_per_day']} miles/day, {enc['combat']} per combat round)")

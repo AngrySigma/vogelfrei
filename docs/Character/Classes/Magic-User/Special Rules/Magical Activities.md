@@ -50,7 +50,7 @@ The character’s Intelligence modifier is applied to the final number of requir
 | Creating a Wand or Staff                         | Total Spell Levels × 10 × 1d6 Days   | 50 sp/day |
 
 !!! example "Worked Example: Researching a New Spell"
-    Grete, a 3rd level Grey Wizard with Intelligence 15 (+1), wants a spell of her own invention: *Doorstep*, which steps the caster through a closed door and out the other side. She writes it up in the format of the other spells in the lists and shows the Referee, who compares it against existing magic — it does less than a true passage spell, more than Hold Portal undone — and judges it a fair **2nd level spell**. It is a wholly original spell, so research costs 30sp per day.
+    Grete, a 3rd level Glamourist with Intelligence 15 (+1), wants a spell of her own invention: *Doorstep*, which steps the caster through a closed door and out the other side. She writes it up in the format of the other spells in the lists and shows the Referee, who compares it against existing magic — it does less than a true passage spell, more than Hold Portal undone — and judges it a fair **2nd level spell**. It is a wholly original spell, so research costs 30sp per day.
 
     Grete's library is worth 2,500sp — above the 1,000sp per spell level required — so the time is not doubled. The true time needed is Spell Level × 4d6 days: the Referee secretly rolls 4d6 = 13, for 26 days, less 1 day for Grete's Intelligence modifier — **25 days**, a number only the Referee knows.
 

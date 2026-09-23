@@ -106,7 +106,7 @@ window.VF_PAGES = {
       "advanced"
     ]
   },
-  "Character/Classes/Dwarf/Careers/Karak Ranger/": {
+  "Character/Classes/Dwarf/Careers/Hold Ranger/": {
     "tiers": [
       "base",
       "advanced"
@@ -118,7 +118,7 @@ window.VF_PAGES = {
       "advanced"
     ]
   },
-  "Character/Classes/Dwarf/Careers/Troll Slayer/": {
+  "Character/Classes/Dwarf/Careers/Oathbound/": {
     "tiers": [
       "base",
       "advanced"
@@ -178,6 +178,12 @@ window.VF_PAGES = {
       "advanced"
     ]
   },
+  "Character/Classes/High Elf/Careers/Blademaster/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
   "Character/Classes/High Elf/Careers/Hunter/": {
     "tiers": [
       "base",
@@ -185,12 +191,6 @@ window.VF_PAGES = {
     ]
   },
   "Character/Classes/High Elf/Careers/Shadow/": {
-    "tiers": [
-      "base",
-      "advanced"
-    ]
-  },
-  "Character/Classes/High Elf/Careers/Sword-master/": {
     "tiers": [
       "base",
       "advanced"
@@ -266,12 +266,6 @@ window.VF_PAGES = {
       "advanced"
     ]
   },
-  "Character/Classes/Ranger/Careers/Bounty Hunter/": {
-    "tiers": [
-      "base",
-      "advanced"
-    ]
-  },
   "Character/Classes/Ranger/Careers/Coachman/": {
     "tiers": [
       "base",
@@ -291,6 +285,12 @@ window.VF_PAGES = {
     ]
   },
   "Character/Classes/Ranger/Careers/Sailor/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Ranger/Careers/Thief-Taker/": {
     "tiers": [
       "base",
       "advanced"
@@ -362,7 +362,7 @@ window.VF_PAGES = {
       "advanced"
     ]
   },
-  "Character/Classes/Wood Elf/Careers/Waywatcher/": {
+  "Character/Classes/Wood Elf/Careers/Pathwarden/": {
     "tiers": [
       "base",
       "advanced"
@@ -403,6 +403,11 @@ window.VF_PAGES = {
       "advanced"
     ]
   },
+  "Equipment/Antiquated Vehicles/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
   "Equipment/Containers/": {
     "tiers": [
       "base",
@@ -434,6 +439,12 @@ window.VF_PAGES = {
     ]
   },
   "Equipment/Vehicles/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Equipment/Weapons/Curious Firearms/": {
     "tiers": [
       "advanced"
     ]

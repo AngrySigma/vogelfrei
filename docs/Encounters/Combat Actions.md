@@ -33,14 +33,14 @@ When a Character makes an attack, follow these steps:
     A defender's AC is normally a static, precomputed number on the character sheet, built from the following components.
 
     In **Melee** add the following statistics of the Opponent:
-    - 8 (Base AC)
+    - 10 (Base AC)
     - Agility Bonus
     - Weapon Skill
     - Armour Rating
     - Shield or off-hand modifier
 
     In **Ranged** use the following:
-    - 11 (Base AC)
+    - 10 (Base AC)
     - Agility Bonus
     - Armour Rating
 
@@ -80,19 +80,19 @@ A **natural 20** on an attack roll always hits, whatever the target's AC and wha
 
     **Defender — Hans:** Weapon Skill 2, Agility Bonus +2, Rapier (length 4, 1d8), Light Armour (AR 2)
 
-    **Hans's AC:** 8 (base) + 2 (Agility) + 2 (Weapon Skill) + 2 (Armour Rating) = **14**
+    **Hans's AC:** 10 (base) + 2 (Agility) + 2 (Weapon Skill) + 2 (Armour Rating) = **16**
 
     *Kurt is using the shorter weapon, so he rolls d20 and adds Weapon Skill (4) + Strength Bonus (+1) + Weapon Length (-2) = +3:*
 
     - *Roll = 5: total 8 — miss.*
-    - *Roll = 11: total 14 — hit. The total need only **match** the AC, not beat it.*
+    - *Roll = 13: total 16 — hit. The total need only **match** the AC, not beat it.*
     - *Roll = 18: total 21 — hit. Kurt rolls 1d6 for damage.*
     - *Roll = 1: miss regardless of the total.*
     - *Roll = 20: hit regardless of the total. Kurt's 1d6 comes straight off Hans's Wounds, taking an equal bite out of his Stamina with it.*
 
     **Now suppose Hans answers.** Kurt declares his attack; before any dice are rolled, Hans declares a **Counterattack**. His rapier is a proper weapon for it and he has not yet acted.
 
-    Hans's Weapon Skill no longer counts toward his AC, which drops to **12** — so Kurt now hits on a roll of 9 rather than 11. In exchange, Hans strikes at the same moment: d20 + Weapon Skill (2) + Weapon Length (0, his rapier is longer) against Kurt's AC.
+    Hans's Weapon Skill no longer counts toward his AC, which drops to **14** — so Kurt now hits on a roll of 11 rather than 13. In exchange, Hans strikes at the same moment: d20 + Weapon Skill (2) + Weapon Length (0, his rapier is longer) against Kurt's AC.
 
     Both blows land together. If each kills the other, both die — Hans has bought a guaranteed answer with the opening in his guard.
 
@@ -134,7 +134,7 @@ Otherwise the Counterattack is an ordinary attack: Weapon Length, reach, and eve
     A Counterattack demands a weapon you can check mid-stroke and send back along another line. A sword, a rapier, a staff, even a zweihander in trained hands — all fine. A club, an axe, a pike, a flail, or whatever you snatched off the table is not: once it is swinging, it goes where it was sent. The Referee has the final say, and should rule on how the weapon is *used*, not on what the table calls it.
 
 ### Brace
-A character wielding a weapon long enough to be set against an approach — a Polearm, a Spear in both hands, or a Lance on foot — may spend their action to Brace it.
+A character wielding a weapon long enough to be set against an approach — a Pike, a Polearm, a Spear in both hands, a Lance on foot, or a planted swine feather — may spend their action to Brace it.
 
 Until the character's next turn, they attack **simultaneously** with the **first** enemy who reaches them, striking [at measure](Measure%20and%20Reach.md) as that enemy closes the distance. If that enemy was **charging** — running to reach them — the braced weapon deals **double damage**.
 
@@ -166,7 +166,12 @@ Mounted characters receive +1 to their melee attack rolls (unless using Minor or
 
 ---
 ## Ranged
-Ranged attacks follow the same steps as melee but use **Ballistic Skill + Agility Bonus** and a base AC of 11. Several conditions specific to ranged combat are described below.
+Ranged attacks follow the same steps as melee but use **Ballistic Skill + Agility Bonus** and the same base AC of 10 — the defender simply has no Weapon Skill to add, because no amount of swordsmanship parries an arrow. Several conditions specific to ranged combat are described below.
+
+!!! warning "Against a firearm"
+    A defender adds **no Agility Bonus** against a firearm. A ball crosses fifty feet in less time than a man takes to notice it has been fired; nimbleness has nothing to do with the matter. Against a shot the AC is **10 + whatever Armour Rating the armour's [Proof](../Equipment/Armor.md#proof) allows**, and nothing else — no Weapon Skill, no buckler, no ordinary target. Only [cover](#cover) and proved plate help.
+
+    This is why this age's answer to the gun was to make armour thicker rather than to train men to be quicker.
 
 ### Aiming
 If using a missile weapon, a character can decide to take a full Round to aim. While Aiming, the Character's Agility Bonus does not apply to their own AC. On the following Round, the Character gains +2 to their attack roll when firing. Aiming time is in addition to normal reload times.

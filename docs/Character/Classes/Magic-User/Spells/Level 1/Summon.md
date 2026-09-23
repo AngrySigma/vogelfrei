@@ -39,7 +39,7 @@ The caster must make a saving throw versus Magic. Failing this saving throw mean
 
 ## Step three  
 The creature's form and powers will be randomly determined on the following tables, with different results altering the creature's basic stats.  
-Those default stats are: AC 8, 1 attack for 1d6 damage, Move 120' (ground), ML 10.  
+Those default stats are: AC 10, 1 attack for 1d6 damage, Move 120' (ground), ML 10.  
 To determine the creature’s basic form, roll 1d12 if the original casting save was made, 1d20 if it was not.
 ### Form
 

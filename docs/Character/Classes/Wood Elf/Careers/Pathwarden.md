@@ -1,12 +1,13 @@
 ---
 tags:
-  - magic-user
-image: assets/img/careers/wizard.webp
-image_alt: Light Wizard illustration
+  - wood-elf
+image: assets/img/cover.webp
+image_alt: Pathwarden illustration
+tier: base
 ---
-# Light Wizard
+# Pathwarden
 
-**Class**: [Magic-User](../index.md)
+**Class**: [Wood Elf](../index.md)
 
 **Status**:
 

@@ -19,6 +19,6 @@ The subject of this spell becomes more resistant to Chaotic creatures and effect
 
 For purposes of this spell, “Chaotic creatures” include undead creatures, monsters with any sort of magical ability or attack, any creature that is able to use magic (including Magic-Users and Elves, but not Clerics), beings carrying magical items (potions and scrolls do not count, but wands and staves do), and any sort of supernatural creature incapable of acting beneficently.
 
-Beings and manifestations that have no real-world essence without the forces of Chaos or magic (incorporeal undead, demons, extra-dimensional beings, Elves, etc.) are not able to physically touch those protected by this spell at all.  
+Beings and manifestations that have no material essence without the forces of Chaos or magic (incorporeal undead, demons, creatures from other spheres, Elves, etc.) are not able to physically touch those protected by this spell at all.
 
 The reverse of this spell, Protection from Order, instead protects against creatures of Order and Cleric magic.

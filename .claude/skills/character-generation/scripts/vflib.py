@@ -50,18 +50,18 @@ CLASS_ROLL_2D6 = {
     11: "Magic-User", 12: "High Elf",
 }
 CAREER_ROLL_D6 = {
-    "Dwarf": ["Artisan", "Karak Ranger", "Engineer", "Brewer", "Miner", "Troll Slayer"],
+    "Dwarf": ["Artisan", "Hold Ranger", "Engineer", "Brewer", "Miner", "Oathbound"],
     "Halfling": ["Artisan", "Charlatan", "Badger Rider", "Herbalist", "Merchant", "Scout"],
     "Rogue": [None, None, None, None, None, None],   # Rogue has no careers
-    "Ranger": ["Boatman", "Bounty Hunter", "Coachman", "Road Warden", "Peddlar", "Sailor"],
+    "Ranger": ["Boatman", "Thief-Taker", "Coachman", "Road Warden", "Peddlar", "Sailor"],
     "Townsman": ["Artisan", "Rat Catcher", "Beggar", "Militia", "Scion", "Merchant"],
     "Peasant": ["Miner", "Villager", "Herbalist", "Hunter", "Scout", "Hedge Witch"],
     "Warrior": ["Mercenary", "Pit Fighter", "Soldier", "Knight", "Witch Hunter", "Duellist"],
     "Cleric": ["Priest", "Zealot", "Warrior Priest", None, None, None],
     "Academic": ["Apothecary", "Barber", "Engineer", "Scholar", "Alchemist", "Cartographer"],
-    "Magic-User": ["Wizard", "Witch", "Bright Wizard", "Grey Wizard", "Light Wizard", None],
-    "High Elf": ["Artisan", "Wizard", "Sword-master", "Hunter", "Shadow", None],
-    "Wood Elf": ["Artisan", "Wizard", "Hunter", "Blade dancer", "Waywatcher", None],
+    "Magic-User": ["Wizard", "Witch", None, None, None, None],
+    "High Elf": ["Artisan", "Wizard", "Blademaster", "Hunter", "Shadow", None],
+    "Wood Elf": ["Artisan", "Wizard", "Hunter", "Blade dancer", "Pathwarden", None],
 }
 
 # Fit heuristics (not rulebook text): which abilities pay off most for each
@@ -96,13 +96,14 @@ CLASS_HINTS = {
 BP_PER_SP = 12
 BP_PER_GP = 600
 
-WEAPON_CATEGORIES = {"Melee Weapons", "Ranged Weapons", "Firearms"}
+WEAPON_CATEGORIES = {"Melee Weapons", "Ranged Weapons", "Firearms",
+                     "Antiquated Weapons", "Curious Firearms"}
 
-# Armour that counts as metal for encumbrance (docs/Adventuring/Time and
-# Movement.md); three-quarter and heavier weighs in at +2 instead.
-METAL_ARMOUR = {"Jack Chain", "Chain", "Brigandine", "Half-armour",
-                "Three-quarter armour", "Full-plate"}
-HEAVY_ARMOUR = {"Three-quarter armour", "Full-plate"}
+# The encumbrance a worn harness costs (docs/Adventuring/Time and Movement.md:
+# +1 for metal armour, +2 for three-quarter or heavier) is read off the "Enc"
+# column of the Armor pages. It used to be a hardcoded list of armour names,
+# which went stale the moment those pages were rewritten and then silently
+# charged every harness nothing at all.
 
 # Encumbrance points -> (label, miles/day, per turn, combat, running)
 MOVEMENT_TABLE = [
@@ -568,6 +569,13 @@ def _header_semantics(head_grid: list[list[HCell | None]]) -> dict[int, str]:
         h = " ".join(texts).lower()
         if "city" in h and "rural" in h:
             sem[col] = "cost_combo"
+        elif h == "cost":
+            # A lone "Cost" column, with no City/Rural split beneath it: one
+            # price that applies everywhere. Only the main tables carry the
+            # two-row header, so without this the ammunition, implement and
+            # Curious Firearms tables all priced at None and vanished from
+            # the catalog entirely.
+            sem[col] = "cost_single"
         elif "city" in h:
             sem[col] = "city"
         elif "rural" in h:
@@ -582,8 +590,14 @@ def _header_semantics(head_grid: list[list[HCell | None]]) -> dict[int, str]:
             sem[col] = "requirements"
         elif "melee equivalent" in h:
             sem[col] = "melee_equivalent"
-        elif "armor rating" in h or "armour rating" in h:
+        elif "armor rating" in h or "armour rating" in h or h in ("ar",):
             sem[col] = "armor_rating"
+        elif h == "proof":
+            sem[col] = "proof"
+        elif h == "enc":
+            sem[col] = "enc_points"
+        elif "training" in h:
+            sem[col] = "requirements"
     return sem
 
 
@@ -600,6 +614,34 @@ def _armor_props(text: str) -> dict:
     if m:
         props["ranged_ac"] = int(m.group(1))
     return props
+
+
+def shot_armor_rating(item_props: dict) -> int:
+    """The Armour Rating that survives a firearm, per docs/Equipment/Armor.md.
+
+    Proof "—" loses the whole rating, "Partial" keeps half rounding down, and
+    "Full" keeps all of it. This replaced the old flat "firearms ignore 5
+    Armour Rating", which made every harness in the book worthless.
+    """
+    ar = item_props.get("armor_rating") or 0
+    proof = (item_props.get("proof") or "").strip().lower()
+    if proof.startswith("full"):
+        return ar
+    if proof.startswith("partial"):
+        return ar // 2
+    return 0
+
+
+def armour_enc_points(name: str | None) -> int:
+    """Encumbrance Points a worn harness costs, from the Armor pages' Enc column."""
+    if not name:
+        return 0
+    for item in equipment_db():
+        if item.name.lower() == name.strip().lower():
+            raw = (item.props.get("enc_points") or "").strip()
+            m = re.search(r"(\d+)", raw)
+            return int(m.group(1)) if m else 0
+    return 0
 
 
 def _items_from_grids(head, body, category) -> list[Item]:
@@ -631,6 +673,8 @@ def _items_from_grids(head, body, category) -> list[Item]:
                 city = _parse_price_cell(text)
             elif kind == "rural":
                 rural = _parse_price_cell(text)
+            elif kind == "cost_single":
+                city = rural = _parse_price_cell(text)
             elif kind == "cost_combo":
                 parts = text.split("/")
                 city = _parse_price_cell(parts[0]) if parts else None
@@ -731,9 +775,20 @@ def find_items(db: list[Item], query: str) -> list[Item]:
 def encumbrance(state: dict, worn_armor: str | None) -> dict:
     regular = 0
     oversize = 0
+    graded = 0
     for entry in state["inventory"]:
         if entry["name"] == worn_armor:
-            continue  # worn armour is covered by the armour criteria below
+            continue  # worn armour is charged through its own Enc column below
+        # Anything carrying an Enc grade — armour, and the targets, which cost
+        # +1 or +2 depending on how much plate is in them — is charged that
+        # grade instead of being counted as one more item.
+        # An Enc cell of "—" is not a grade of zero, it is no grade at all —
+        # the item falls through and is counted like any other. Only a cell
+        # with a number in it takes this branch.
+        m = re.search(r"(\d+)", entry.get("props", {}).get("enc_points") or "")
+        if m:
+            graded += int(m.group(1))
+            continue
         enc = entry.get("enc", "normal")
         if enc == "light":
             continue
@@ -742,11 +797,8 @@ def encumbrance(state: dict, worn_armor: str | None) -> dict:
             oversize += 1
         else:
             regular += 1
-    points = regular // 5 + oversize
-    if worn_armor in HEAVY_ARMOUR:
-        points += 2
-    elif worn_armor in METAL_ARMOUR:
-        points += 1
+    points = regular // 5 + oversize + graded
+    points += armour_enc_points(worn_armor)
     points += state.get("enc_adjust", 0)
     points = max(points, 0)
     # docs/Adventuring/Time and Movement.md: "Characters apply their Toughness

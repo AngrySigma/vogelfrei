@@ -38,8 +38,8 @@ Dwarf careers:
 
 - [Engineer](Careers/Engineer.md)
 
-- [Karak Ranger](Careers/Karak%20Ranger.md)
+- [Hold Ranger](Careers/Hold%20Ranger.md)
 
 - [Miner](Careers/Miner.md)
 
-- [Troll Slayer](Careers/Troll%20Slayer.md)
+- [Oathbound](Careers/Oathbound.md)

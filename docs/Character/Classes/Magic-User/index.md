@@ -37,12 +37,6 @@ image_alt: Magic-User illustration
 
 Magic-Users belong to the arcane traditions:
 
-- [Bright Wizard](Careers/Bright%20Wizard.md) — a fire mage of the Imperial colleges, volatile and dramatic
-
-- [Grey Wizard](Careers/Grey%20Wizard.md)
-
-- [Light Wizard](Careers/Light%20Wizard.md)
-
 - [Witch](Careers/Witch.md)
 
 - [Wizard](Careers/Wizard.md) — a studious arcane scholar of more orthodox tradition

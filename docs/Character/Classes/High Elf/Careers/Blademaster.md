@@ -1,13 +1,13 @@
 ---
 tags:
-  - dwarf
+  - high-elf
 image: assets/img/cover.webp
-image_alt: Troll Slayer illustration
+image_alt: Blademaster illustration
 tier: base
 ---
-# Troll Slayer
+# Blademaster
 
-**Class**: [Dwarf](../index.md)
+**Class**: [High Elf](../index.md)
 
 **Status**:
 

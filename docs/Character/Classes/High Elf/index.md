@@ -38,6 +38,6 @@ High Elf careers:
 
 - [Shadow](Careers/Shadow.md)
 
-- [Sword-master](Careers/Sword-master.md)
+- [Blademaster](Careers/Blademaster.md)
 
 - [Wizard](Careers/Wizard.md)

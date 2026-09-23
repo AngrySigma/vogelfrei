@@ -214,3 +214,9 @@ characters/
 # git history, so it is built in CI instead. llms.txt and docs/data/*.json are
 # small and are committed.
 docs/llms-full.txt
+
+# Local audit reference, not part of the book
+reviews-archive/
+
+# Local scratch worktrees
+.claude/worktrees/

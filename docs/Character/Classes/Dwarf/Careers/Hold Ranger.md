@@ -1,13 +1,13 @@
 ---
 tags:
-  - wood-elf
+  - dwarf
 image: assets/img/cover.webp
-image_alt: Waywatcher illustration
+image_alt: Hold Ranger illustration
 tier: base
 ---
-# Waywatcher
+# Hold Ranger
 
-**Class**: [Wood Elf](../index.md)
+**Class**: [Dwarf](../index.md)
 
 **Status**:
 

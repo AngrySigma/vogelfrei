@@ -10,7 +10,7 @@ All equipment a character may purchase or acquire during play. Items are purchas
 
 ## Categories
 
-- [Armor](Armor.md) — protective gear from padded cloth to plate armour
+- [Armor](Armor.md) — cloth, leather, and proofed plate
 
 - [Weapons](Weapons/index.md) — melee, ranged, and firearms
 
@@ -22,7 +22,9 @@ All equipment a character may purchase or acquire during play. Items are purchas
 
 - [Lodging](Lodging.md) — accommodation costs and inn prices
 
-- [Vehicles](Vehicles.md) — carts, wagons, boats, and other conveyances
+- [Vehicles](Vehicles.md) — period carts, wagons, boats, and ships
+
+- [Antiquated Vehicles](Antiquated%20Vehicles.md) — earlier and later conveyances retained for Advanced play
 
 - [Services](Services.md) — hireable services available in settlements
 

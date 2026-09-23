@@ -21,7 +21,7 @@ This is where fights begin, and where they stay unless somebody does something a
 
 **Close** is your action for the Round. You do not attack; you spend the Round working past the point of your enemy's weapon.
 
-Roll **d20 + Weapon Skill** against **8 + the opponent's Weapon Skill**. Equal or greater succeeds, as with any attack.
+Roll **d20 + Weapon Skill** against **10 + the opponent's Weapon Skill**. Equal or greater succeeds, as with any attack.
 
 No Strength, no Agility, no Armour Rating, no shield. This is footwork and timing against footwork and timing, and nothing else.
 
@@ -42,12 +42,13 @@ While two fighters are inside one another's reach:
 | Dagger (1) vs. Sword (2) | 1 | No penalty either way |
 | Medium one-handed (2) vs. Medium two-handed (3) | 1 | No penalty either way |
 | Dagger (1) vs. Rapier (4) | 3 | Rapier deals d3 |
-| Sword (2) vs. Greatsword (4) | 2 | Greatsword deals d3 |
-| Sword (2) vs. Polearm or Lance (5) | 3 | Polearm deals d3 |
+| Sword (2) vs. Great weapon (4) | 2 | Great weapon deals d3 |
+| Sword (2) vs. Polearm (4) | 2 | Polearm deals d3 |
+| Sword (2) vs. Pike or Lance (5) | 3 | Pike or Lance deals d3 |
 
 ### Getting Back Out
 
-Re-opening the measure is also your **action** for the Round, and it is contested by the same roll — **d20 + Weapon Skill** against **8 + the opponent's Weapon Skill**. The man inside your guard is working just as hard to stay there as you are to be rid of him.
+Re-opening the measure is also your **action** for the Round, and it is contested by the same roll — **d20 + Weapon Skill** against **10 + the opponent's Weapon Skill**. The man inside your guard is working just as hard to stay there as you are to be rid of him.
 
 !!! note
     Movement alone never changes the measure. Withdrawing from the fight entirely is a different matter, and still provokes an attack from any opponent whose reach you run through — see [Move](Combat%20Actions.md#move).
