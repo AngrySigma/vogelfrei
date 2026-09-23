@@ -98,7 +98,7 @@ Most characters begin fully fluent in their native tongue. Elves and Dwarfs know
 
 #### Literacy
 
-Letters are not a talent. They are a thing bought for a child by someone who could afford to buy it, and in this century that means the question is not how clever a character is but what their family was. Roll **1d20 and add the Intelligence modifier**, once, at character creation:
+Letters are not a talent. They are a thing bought for a child by someone who could afford to buy it, and in this age that means the question is not how clever a character is but what their family was. Roll **1d20 and add the Intelligence modifier**, once, at character creation:
 
 | Status | Reads on | Writes on |
 | --- | ---: | ---: |

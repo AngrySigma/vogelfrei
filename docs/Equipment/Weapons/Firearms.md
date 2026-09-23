@@ -88,7 +88,7 @@ Matchlocks are the ordinary military lock for arquebuses and muskets. They are c
 
 ### Firelock
 
-For game purposes, **firelock** covers snaplocks, snaphaunces, miquelets, doglocks, and mature flintlocks. Their mechanisms differ, and names vary by place, but all strike flint against steel and need no burning match. In an early-century campaign the Referee should describe most examples as snaphaunces, miquelets, or related regional locks; the mature French-style flintlock is a scarce new mechanism rather than the universal default.
+For game purposes, **firelock** covers snaplocks, snaphaunces, miquelets, doglocks, and mature flintlocks. Their mechanisms differ, and names vary by place, but all strike flint against steel and need no burning match. Date matters here more than anywhere else in the chapter. In the opening decades of the age there are no firelocks at all — the snaphaunce does not appear until around the middle of the 16th century, and a campaign set near Pavia has only the matchlock and the wheellock. Through the later 16th century the Referee should describe most examples as snaphaunces, miquelets, or related regional locks, and even by the Thirty Years' War the mature French-style flintlock is a scarce new mechanism rather than the universal default.
 
 - A loaded and primed firelock may be carried ready.
 - After every attempted shot, roll 1d10. It misfires on a 1, or on 1–2 in damp conditions. In driving rain it misfires on 1–4 unless kept sheltered until the shot.
@@ -96,7 +96,7 @@ For game purposes, **firelock** covers snaplocks, snaphaunces, miquelets, dogloc
 
 ### Wheellock
 
-Wheellocks use a wound steel wheel to strike sparks. They are costly but established throughout the 17th century, especially on pistols and cavalry arms.
+Wheellocks use a wound steel wheel to strike sparks. They are costly but established throughout the age, being already in use at its beginning, and are found especially on pistols and cavalry arms.
 
 - A loaded, primed, and wound wheellock may be carried ready and needs no burning match.
 - After every attempted shot, roll 1d10. It misfires on a 1. Wet powder still cannot fire.

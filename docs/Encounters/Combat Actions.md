@@ -171,7 +171,7 @@ Ranged attacks follow the same steps as melee but use **Ballistic Skill + Agilit
 !!! warning "Against a firearm"
     A defender adds **no Agility Bonus** against a firearm. A ball crosses fifty feet in less time than a man takes to notice it has been fired; nimbleness has nothing to do with the matter. Against a shot the AC is **10 + whatever Armour Rating the armour's [Proof](../Equipment/Armor.md#proof) allows**, and nothing else — no Weapon Skill, no buckler, no ordinary target. Only [cover](#cover) and proved plate help.
 
-    This is why the century's answer to the gun was to make armour thicker rather than to train men to be quicker.
+    This is why this age's answer to the gun was to make armour thicker rather than to train men to be quicker.
 
 ### Aiming
 If using a missile weapon, a character can decide to take a full Round to aim. While Aiming, the Character's Agility Bonus does not apply to their own AC. On the following Round, the Character gains +2 to their attack roll when firing. Aiming time is in addition to normal reload times.

@@ -10,7 +10,7 @@ All equipment a character may purchase or acquire during play. Items are purchas
 
 ## Categories
 
-- [Armor](Armor.md) — 17th-century cloth, leather, and proofed plate
+- [Armor](Armor.md) — cloth, leather, and proofed plate
 
 - [Antiquated Armor](Antiquated%20Armor.md) — older harnesses retained for Advanced play
 

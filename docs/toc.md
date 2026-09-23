@@ -66,7 +66,7 @@ All items available for purchase during character creation or between expedition
 
 *   **[Lodging](./Equipment/Lodging.md)** — inns, stabling, and accommodation costs.
 
-*   **[Vehicles](./Equipment/Vehicles.md)** — 17th-century land vehicles, boats, and ships.
+*   **[Vehicles](./Equipment/Vehicles.md)** — land vehicles, boats, and ships of the age.
 
 *   [Antiquated Vehicles](./Equipment/Antiquated%20Vehicles.md) — older and later designs retained for Advanced play.
 

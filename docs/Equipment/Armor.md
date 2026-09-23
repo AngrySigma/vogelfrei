@@ -19,7 +19,7 @@
 
 ## Proof
 
-A gun does not care how well a man is dressed. A ball goes through mail, through a jack, through a brigandine and through an ordinary harness as though they were linen — which is why, by this century, the armourer's answer was to make the plate thicker and then shoot it himself to prove it. A **proof dent** is the mark of that test: evidence that this plate stopped that ball on that day.
+A gun does not care how well a man is dressed. A ball goes through mail, through a jack, through a brigandine and through an ordinary harness as though they were linen — which is why the armourer's answer was to make the plate thicker and then shoot it himself to prove it. A **proof dent** is the mark of that test: evidence that this plate stopped that ball on that day.
 
 Against a firearm, armour keeps only what its proof entitles it to:
 
@@ -37,6 +37,6 @@ Proof is a promise about a test, not about every gun at every distance. A Refere
 
 ## Wearing It
 
-Pikeman's armour is a helmet, breast- and backplate, and tassets. Harquebusier armour is a buff coat under a helmet and proofed breast- and backplate — the ordinary dress of the century's cavalry. Three-quarter cuirassier armour is a heavy proofed harness covering the wearer to the knees, and it is as unpopular with the men who wear it as its weight suggests.
+Pikeman's armour is a helmet, breast- and backplate, and tassets. Harquebusier armour is a buff coat under a helmet and proofed breast- and backplate — the ordinary dress of this age's cavalry. Three-quarter cuirassier armour is a heavy proofed harness covering the wearer to the knees, and it is as unpopular with the men who wear it as its weight suggests.
 
 Armour pieces do not stack: use the best complete protection actually worn. Older harnesses and defenses appear under [Antiquated Armor](Antiquated%20Armor.md).

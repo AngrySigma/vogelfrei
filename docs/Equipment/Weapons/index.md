@@ -3,7 +3,7 @@ title: Weapons
 ---
 # Weapons
 
-The main lists contain weapons ordinarily available in the 17th-century setting. Advanced pages retain obsolete, experimental, and out-of-period entries without mixing them into ordinary purchases. See the [Equipment](../index.md) page for encumbrance rules.
+The main lists contain the weapons ordinarily available in this age, which runs from Pavia to the peace that ended the Thirty Years' War. The core assumption is its latter half, when pike and shot had settled into the shape they held until the war ended. Advanced pages retain obsolete, experimental, and out-of-period entries without mixing them into ordinary purchases. See the [Equipment](../index.md) page for encumbrance rules.
 
 !!! info "WS and BS"
     Weapon Skill (WS) applies to melee attacks; Ballistic Skill (BS) applies to ranged and firearm attacks. Some weapons have special rules noted in their entries.

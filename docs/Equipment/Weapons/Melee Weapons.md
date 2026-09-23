@@ -32,7 +32,7 @@ The century did not offer an endless armoury. A fighting man carried a sword or 
 ---
 ### Generic Weapons
 
-The generic categories are rules abstractions. A character buying one must name the actual object. These are the ordinary choices of the century:
+The generic categories are rules abstractions. A character buying one must name the actual object. These are the ordinary choices of the age:
 
 | Generic type | Examples |
 | --- | --- |
@@ -45,7 +45,7 @@ The two shaft entries divide the same way a soldier's hands do. A **Spear** is a
 
 The musketeer's [swine feather](Firearms.md#ammunition-and-implements) is a spear by any other name, and is listed with the firearms because that is where it is used.
 
-The two-handed sword belongs to the previous century's fighting and survives as a guard's and a bodyguard's arm rather than a weapon of the line, but it is bought and used like anything else here.
+The two-handed sword belongs to the opening years of this age and the wars before it, and by its close survives as a guard's and a bodyguard's arm rather than a weapon of the line, but it is bought and used like anything else here.
 
 A **Polearm** costs more than a **Pike** and reaches a grade less, which is not an error: the pike is a spike on a long shaft and can be made by any smith in a week, while a halberd head is a complicated forging. What the polearm buys is a weapon that still works indoors, in a boarding action, and on a staircase, where the pike is so much firewood. A **Spear** is the cheap end of the same idea — the same reach as a pike for a quarter of the price, and a narrower wound. Halflings cannot wield Great or Medium weapons, polearms, pikes, lances, or any arm of comparable size.
 

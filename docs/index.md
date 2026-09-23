@@ -22,7 +22,7 @@ image_alt: Vogelfrei cover
 
 > *To be **vogelfrei** is to be cast out, beyond the protection of kings and gods alike, free in the most terrible way: free to be hunted, betrayed, and forgotten — and free to forge your own destiny.*
 
-**Vogelfrei** is a tabletop role-playing game of 17th-century Europe and the New World: pikes, pistols, plague, colonies, and confessional strife, where magic is real, rare, and feared. Birth and career define you in town; beyond the walls, nothing protects you at all. You play outcasts and fortune-seekers who leave law and custom behind for the wilds, ruins, and depths — wealth is the aim, death is always close, and cunning counts for more than courage.
+**Vogelfrei** is a tabletop role-playing game of the age of pike and shot — from the field of Pavia, where massed arquebusiers broke the last great charge of armoured knights, to the exhausted peace that ended the Thirty Years' War. Powder and plague, confessional slaughter, and ships going out to a New World, where magic is real, rare, and feared. Birth and career define you in town; beyond the walls, nothing protects you at all. You play outcasts and fortune-seekers who leave law and custom behind for the wilds, ruins, and depths — wealth is the aim, death is always close, and cunning counts for more than courage.
 
 ## The Play
 

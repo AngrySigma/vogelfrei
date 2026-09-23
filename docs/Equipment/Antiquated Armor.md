@@ -4,7 +4,9 @@ tier: advanced
 ---
 # Antiquated Armor
 
-These defenses belong to earlier warfare. They may survive as heirlooms, old colonial stores, grave goods, tournament harness, or equipment in a deliberately archaic region, but they are not ordinary purchases in the 17th-century game.
+These defenses belong to earlier warfare. They may survive as heirlooms, old colonial stores, grave goods, tournament harness, or equipment in a deliberately archaic region, but they are not ordinary purchases in the settled pike-and-shot warfare the main lists assume.
+
+**In a campaign set early in the age** these are not antiques. At Pavia the gendarmes who rode down on the arquebusiers wore full harness, and it was that day's lesson — not any change of fashion — that began the long argument this page and the [Armor](Armor.md) page are both about.
 
 | Armor | Armor Rating | Proof | Enc | Cost |  |
 | --- | ---: | --- | ---: | ---: | ---: |

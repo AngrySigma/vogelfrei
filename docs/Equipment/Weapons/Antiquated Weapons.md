@@ -4,9 +4,11 @@ tier: advanced
 ---
 # Antiquated Weapons
 
-These weapons survive from ancient or late-medieval fighting traditions. They turn up in old armouries, remote regions, collections, tombs, and deliberately archaic campaigns, but they are not ordinary 17th-century purchases.
+These weapons survive from ancient or late-medieval fighting traditions. They turn up in old armouries, remote regions, collections, tombs, and deliberately archaic campaigns, but they are not ordinary purchases in the settled pike-and-shot warfare the main lists assume.
 
-The two-handed sword and the lance are **not** here. The greatsword had left the battle line but was still carried, and the lance was being used to break infantry by the best cavalry in Europe for the whole of the century — both belong on the main [Melee Weapons](Melee%20Weapons.md) list.
+**In a campaign set early in the age**, near Pavia rather than near Westphalia, several of these are not antiques at all. The great weapon is still carried in the line, the English parishes still practise at the butts, and a man in full harness is a current soldier rather than a curiosity. A Referee running those years should move what suits them onto the ordinary lists.
+
+The two-handed sword and the lance are **not** here. The greatsword had left the battle line but was still carried, and the lance was being used to break infantry by the best cavalry in Europe for the whole of the age — both belong on the main [Melee Weapons](Melee%20Weapons.md) list.
 
 | Weapon | Damage | Length | Training | Cost |  |
 | --- | ---: | ---: | --- | ---: | ---: |
@@ -21,7 +23,7 @@ The Longbow uses ranges 50'—600'—900' and the ammunition rules on the [Range
 
 ## Spear and Target
 
-Achille Marozzo's *Opera Nova* of 1536 devotes a book to hafted weapons, and among them teaches ***partigiana e rotella*** — the partisan carried in one hand with a round shield on the other arm. It was a real system, formally taught, and it long outlived the war it was made for: by this century it survives in the fencing schools, in bodyguards' hands, and on ceremonial guards, rather than anywhere near a battle line.
+Achille Marozzo's *Opera Nova* of 1536 devotes a book to hafted weapons, and among them teaches ***partigiana e rotella*** — the partisan carried in one hand with a round shield on the other arm. It was a real system, formally taught, and it long outlived the war it was made for: by the close of this age it survives in the fencing schools, in bodyguards' hands, and on ceremonial guards, rather than anywhere near a battle line.
 
 A Referee may allow a character to hold a **Spear** in one hand with a **Target** or **Buckler**. In that grip the spear deals **d4** rather than d6 and cannot [Brace](../../Encounters/Combat%20Actions.md#brace) — one arm cannot set a shaft against a charging horse.
 

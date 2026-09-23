@@ -4,7 +4,7 @@ tier: advanced
 ---
 # Antiquated Vehicles
 
-These entries are retained for ruins, legendary voyages, archaic regions, and campaigns that deliberately reach outside the 17th century. They are not ordinary vehicles for sale in the core setting.
+These entries are retained for ruins, legendary voyages, archaic regions, and campaigns that deliberately reach outside the age. They are not ordinary vehicles for sale in the core setting.
 
 ## Earlier Vehicles
 

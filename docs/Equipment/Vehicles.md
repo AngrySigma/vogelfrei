@@ -23,7 +23,7 @@ Prices buy a sound, workaday vehicle with ordinary fittings. Draft animals, crew
 | Ship | River galley | 4000sp | 8000sp | Oared patrol, war, and upstream travel |
 | Ship | Sailboat or pinnace | 6000sp | 12000sp | Dispatch, scouting, fishing, or tender work |
 | Ship | Sloop | 30000sp | - | Small, fast coastal trader or privateer |
-| Ship | Cutter | 45000sp | - | Late-century fast patrol or dispatch vessel |
+| Ship | Pinnace | 45000sp | - | Small fast vessel for scouting, dispatch and inshore work |
 | Ship | Ketch | 45000sp | - | Coastal cargo, fishing, or bomb vessel |
 | Ship | Brigantine | 45000sp | - | Small two-masted trader, raider, or scout |
 | Ship | Fluyt | 48000sp | - | Economical ocean-going merchantman |
