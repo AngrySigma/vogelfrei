@@ -3,8 +3,8 @@
 
 AC per docs/Encounters/Combat Actions.md:
   Melee AC   = 10 + Agility bonus + WS + Armour Rating + shield melee bonus
-  Ranged AC  = 11 + Agility bonus      + Armour Rating + shield ranged bonus
-  Firearm AC = 11 + whatever Armour Rating the harness's Proof keeps against
+  Ranged AC  = 10 + Agility bonus      + Armour Rating + shield ranged bonus
+  Firearm AC = 10 + whatever Armour Rating the harness's Proof keeps against
                a shot (docs/Equipment/Armor.md). No Agility — nobody dodges a
                ball — and no shield but a target of proof.
 
@@ -104,8 +104,8 @@ def main():
 
     state["combat"] = {
         "melee_ac": 10 + agi + ws + ar + sh_melee,
-        "ranged_ac": 11 + agi + ar + sh_ranged,
-        "firearm_ac": 11 + shot_ar + sh_shot,
+        "ranged_ac": 10 + agi + ar + sh_ranged,
+        "firearm_ac": 10 + shot_ar + sh_shot,
         "armor_worn": worn["name"] if worn else None,
         "armor_rating": ar,
         "armor_proof": (worn["props"].get("proof") or "—") if worn else "—",
@@ -119,9 +119,9 @@ def main():
     log(state, f"Melee AC {state['combat']['melee_ac']} "
                f"(10 {agi:+d} Agi +{ws} WS +{ar} AR +{sh_melee} shield); "
                f"Ranged AC {state['combat']['ranged_ac']} "
-               f"(11 {agi:+d} Agi +{ar} AR +{sh_ranged} shield); "
+               f"(10 {agi:+d} Agi +{ar} AR +{sh_ranged} shield); "
                f"vs firearms {state['combat']['firearm_ac']} "
-               f"(11 +{shot_ar} AR after Proof +{sh_shot} proofed target; "
+               f"(10 +{shot_ar} AR after Proof +{sh_shot} proofed target; "
                f"no Agility against a ball)")
     log(state, f"Wearing: {worn['name'] if worn else 'no armour'}"
                + (f", carrying {shield['name']}" if shield else ""))

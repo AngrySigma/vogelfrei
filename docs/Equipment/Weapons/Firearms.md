@@ -27,7 +27,7 @@ A **carbine** is any shortened long arm made for a horseman, carried on a belt h
 
 - Firearms suffer -4 to hit at Medium range and -8 at Long range. A rifled barrel changes these to the ordinary -2 and -4.
 
-- Against a firearm the target's AC is **11 + the Armor Rating its [Proof](../Armor.md#proof) allows**, and nothing else. No Agility Bonus — nobody dodges a ball. No buckler, and no ordinary target; only a [target of proof](../Armor.md) counts. Substantial [cover](../../Encounters/Combat%20Actions.md#cover) always does.
+- Against a firearm the target's AC is **10 + the Armor Rating its [Proof](../Armor.md#proof) allows**, and nothing else. No Agility Bonus — nobody dodges a ball. No buckler, and no ordinary target; only a [target of proof](../Armor.md) counts. Substantial [cover](../../Encounters/Combat%20Actions.md#cover) always does.
 
 - A firearm used in melee applies a -1 penalty to the wielder's Weapon Skill for the purpose of their own Armor Class, and strikes as the melee equivalent listed in the table. A firearm damaged in melee may cease to work at the Referee's discretion.
 

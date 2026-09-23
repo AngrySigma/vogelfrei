@@ -40,7 +40,7 @@ When a Character makes an attack, follow these steps:
     - Shield or off-hand modifier
 
     In **Ranged** use the following:
-    - 11 (Base AC)
+    - 10 (Base AC)
     - Agility Bonus
     - Armour Rating
 
@@ -166,10 +166,10 @@ Mounted characters receive +1 to their melee attack rolls (unless using Minor or
 
 ---
 ## Ranged
-Ranged attacks follow the same steps as melee but use **Ballistic Skill + Agility Bonus** and a base AC of 11. Several conditions specific to ranged combat are described below.
+Ranged attacks follow the same steps as melee but use **Ballistic Skill + Agility Bonus** and the same base AC of 10 — the defender simply has no Weapon Skill to add, because no amount of swordsmanship parries an arrow. Several conditions specific to ranged combat are described below.
 
 !!! warning "Against a firearm"
-    A defender adds **no Agility Bonus** against a firearm. A ball crosses fifty feet in less time than a man takes to notice it has been fired; nimbleness has nothing to do with the matter. Against a shot the AC is **11 + whatever Armour Rating the armour's [Proof](../Equipment/Armor.md#proof) allows**, and nothing else — no Weapon Skill, no buckler, no ordinary target. Only [cover](#cover) and proved plate help.
+    A defender adds **no Agility Bonus** against a firearm. A ball crosses fifty feet in less time than a man takes to notice it has been fired; nimbleness has nothing to do with the matter. Against a shot the AC is **10 + whatever Armour Rating the armour's [Proof](../Equipment/Armor.md#proof) allows**, and nothing else — no Weapon Skill, no buckler, no ordinary target. Only [cover](#cover) and proved plate help.
 
     This is why the century's answer to the gun was to make armour thicker rather than to train men to be quicker.
 
