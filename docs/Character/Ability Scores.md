@@ -48,11 +48,11 @@ Willpower is the measure of a character’s connection to the greater universe, 
 | Cleric research and scroll writing | Reduces the required days by the modifier |
 
 **Agility**
-Agility is the measure of a character’s mobility and reflexes. Agility modifiers affect a character’s ranged and melee defence, ability to hit with ranged weapons, and the speed of reloading firearms.
+Agility is the measure of a character’s mobility and reflexes. Agility modifiers affect a character’s ranged and melee defence — though not against a firearm, which no reflex is quick enough to answer — the ability to hit with ranged weapons, and the speed of reloading firearms.
 
 | Agility Modifier | Effect |
 | ---------------- | ------ |
-| Melee AC and Ranged AC | Added to the character’s AC |
+| Melee AC and Ranged AC | Added to the character’s AC — but never against a firearm |
 | Ranged attack rolls | Added to the attack roll |
 | Firearm reloading | Reduces the Rounds to reload by the modifier |
 

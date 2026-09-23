@@ -775,9 +775,20 @@ def find_items(db: list[Item], query: str) -> list[Item]:
 def encumbrance(state: dict, worn_armor: str | None) -> dict:
     regular = 0
     oversize = 0
+    graded = 0
     for entry in state["inventory"]:
         if entry["name"] == worn_armor:
-            continue  # worn armour is covered by the armour criteria below
+            continue  # worn armour is charged through its own Enc column below
+        # Anything carrying an Enc grade — armour, and the targets, which cost
+        # +1 or +2 depending on how much plate is in them — is charged that
+        # grade instead of being counted as one more item.
+        # An Enc cell of "—" is not a grade of zero, it is no grade at all —
+        # the item falls through and is counted like any other. Only a cell
+        # with a number in it takes this branch.
+        m = re.search(r"(\d+)", entry.get("props", {}).get("enc_points") or "")
+        if m:
+            graded += int(m.group(1))
+            continue
         enc = entry.get("enc", "normal")
         if enc == "light":
             continue
@@ -786,7 +797,7 @@ def encumbrance(state: dict, worn_armor: str | None) -> dict:
             oversize += 1
         else:
             regular += 1
-    points = regular // 5 + oversize
+    points = regular // 5 + oversize + graded
     points += armour_enc_points(worn_armor)
     points += state.get("enc_adjust", 0)
     points = max(points, 0)

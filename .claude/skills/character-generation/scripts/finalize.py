@@ -4,8 +4,9 @@
 AC per docs/Encounters/Combat Actions.md:
   Melee AC   = 10 + Agility bonus + WS + Armour Rating + shield melee bonus
   Ranged AC  = 11 + Agility bonus      + Armour Rating + shield ranged bonus
-  Firearm AC = 11 + Agility bonus      + whatever Armour Rating the harness's
-               Proof keeps against a shot (docs/Equipment/Armor.md); no shield.
+  Firearm AC = 11 + whatever Armour Rating the harness's Proof keeps against
+               a shot (docs/Equipment/Armor.md). No Agility — nobody dodges a
+               ball — and no shield but a target of proof.
 
 Also computes encumbrance and movement, flags weapons whose Training column
 says so, and enforces the Magic-User armour ban.
@@ -96,11 +97,15 @@ def main():
     # docs/Equipment/Armor.md: a firearm meets only the Armour Rating the
     # harness's Proof entitles it to, and no shield at all.
     shot_ar = shot_armor_rating(worn["props"]) if worn else 0
+    # Only a target of proof counts against a shot — its Proof column says so.
+    sh_shot = (shield["props"].get("ranged_ac", 0)
+               if shield and str(shield["props"].get("proof", "")).lower().startswith("full")
+               else 0)
 
     state["combat"] = {
         "melee_ac": 10 + agi + ws + ar + sh_melee,
         "ranged_ac": 11 + agi + ar + sh_ranged,
-        "firearm_ac": 11 + agi + shot_ar,
+        "firearm_ac": 11 + shot_ar + sh_shot,
         "armor_worn": worn["name"] if worn else None,
         "armor_rating": ar,
         "armor_proof": (worn["props"].get("proof") or "—") if worn else "—",
@@ -116,7 +121,8 @@ def main():
                f"Ranged AC {state['combat']['ranged_ac']} "
                f"(11 {agi:+d} Agi +{ar} AR +{sh_ranged} shield); "
                f"vs firearms {state['combat']['firearm_ac']} "
-               f"(11 {agi:+d} Agi +{shot_ar} AR after Proof)")
+               f"(11 +{shot_ar} AR after Proof +{sh_shot} proofed target; "
+               f"no Agility against a ball)")
     log(state, f"Wearing: {worn['name'] if worn else 'no armour'}"
                + (f", carrying {shield['name']}" if shield else ""))
     for s in slots:

@@ -10,7 +10,8 @@
 | Harquebusier armour | 4 | Full | +1 | 600sp | - |
 | Three-quarter cuirassier armour | 5 | Full | +2 | 1000sp | - |
 | Buckler | +2 Melee AC | — | — | 15sp | - |
-| ***Shield*** | +2 Melee AC, +3 Ranged AC | — | — | 15sp | 30sp |
+| Target | +2 Melee AC, +3 Ranged AC | — | +1 | 15sp | 30sp |
+| Target of proof | +2 Melee AC, +3 Ranged AC | Full | +2 | 300sp | - |
 
 **Armor Rating** is added to Armor Class in both melee and ranged combat, exactly as it always was. Shields and bucklers add to Melee or Ranged AC as listed. For the full attack procedure, refer to [Combat Actions](../Encounters/Combat%20Actions.md#attack).
 
@@ -28,7 +29,9 @@ Against a firearm, armour keeps only what its proof entitles it to:
 
 Everything else — swords, pikes, bows, crossbows, thrown weapons, falling rocks — meets the full Armor Rating whatever the proof.
 
-Shields and bucklers do nothing against a firearm. A planted mantlet, a stout wall, or any other substantial barrier instead grants [cover](../Encounters/Combat%20Actions.md#cover).
+A **buckler** is the small fist-gripped shield worn at the belt, for the sword. A **target** is the larger round shield strapped to the forearm — the Italian rotella, the Spanish rodela, the Highland targe. It need not be steel: wood faced with hide stops a sword perfectly well, and stops nothing else.
+
+A **target of proof** is thick plate, made heavy on purpose and shot at to prove it. It is the only shield that counts for anything against a firearm, it costs twenty times what an ordinary target costs, and it weighs what it has to weigh. Ordinary targets and every buckler do nothing against a shot. A planted mantlet, a stout wall, or any other substantial barrier instead grants [cover](../Encounters/Combat%20Actions.md#cover), which always helps.
 
 Proof is a promise about a test, not about every gun at every distance. A Referee may rule that a Full-proof harness struck at point-blank range by a musket counts as Partial, and that a ball from a rifled barrel counts one grade lower again.
 
