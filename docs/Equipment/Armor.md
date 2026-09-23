@@ -5,13 +5,19 @@
 |  |  |  |  | City | Rural |
 | Wams | 1 | — | — | 15sp | 20sp |
 | Buff coat | 2 | — | — | 25sp | 50sp |
+| Jack chains | 3 | — | +1 | 20sp | - |
 | Breastplate | 3 | Partial | +1 | 100sp | - |
+| Mail shirt | 4 | — | +1 | 100sp | - |
+| Brigandine | 4 | — | +1 | 125sp | - |
 | Pikeman's armour | 4 | Partial | +1 | 300sp | - |
 | Harquebusier armour | 4 | Full | +1 | 600sp | - |
 | Three-quarter cuirassier armour | 5 | Full | +2 | 1000sp | - |
+| Full plate | 6 | — | +2 | 2000sp | - |
+| Full harness, proved breast | 6 | Partial | +3 | 3000sp | - |
 | Buckler | +2 Melee AC | — | — | 15sp | - |
 | Target | +2 Melee AC, +3 Ranged AC | — | +1 | 15sp | 30sp |
 | Target of proof | +2 Melee AC, +3 Ranged AC | Full | +2 | 300sp | - |
+| ***Pavise*** | +5 Ranged AC | — | — | 100sp | - |
 
 **Armor Rating** is added to Armor Class in both melee and ranged combat, exactly as it always was. Shields and bucklers add to Melee or Ranged AC as listed. For the full attack procedure, refer to [Combat Actions](../Encounters/Combat%20Actions.md#attack).
 
@@ -37,6 +43,12 @@ Proof is a promise about a test, not about every gun at every distance. A Refere
 
 ## Wearing It
 
-Pikeman's armour is a helmet, breast- and backplate, and tassets. Harquebusier armour is a buff coat under a helmet and proofed breast- and backplate — the ordinary dress of this age's cavalry. Three-quarter cuirassier armour is a heavy proofed harness covering the wearer to the knees, and it is as unpopular with the men who wear it as its weight suggests.
+**Jack chains** are splints riveted to a padded jack — the ordinary infantry defence of the age's first half, and what a Border reiver still wears long after. A **mail shirt** never goes out of use at all; men wear it under plate, over a jack, and by itself where nothing better can be had. A **brigandine** is small plates riveted inside a cloth garment, good armour in 1525 and old-fashioned by 1600.
 
-Armour pieces do not stack: use the best complete protection actually worn. Older harnesses and defenses appear under [Antiquated Armor](Antiquated%20Armor.md).
+**Pikeman's armour** is a helmet, breast- and backplate, and tassets. **Harquebusier armour** is a buff coat under a helmet and proofed breast- and backplate — the ordinary dress of this age's cavalry. **Three-quarter cuirassier armour** is a heavy proofed harness covering the wearer to the knees, and it is as unpopular with the men who wear it as its weight suggests.
+
+**Full plate** is the complete harness that rode at Pavia and lost. Nothing in the book is better against a sword and nothing is worse against a gun, and the hundred and twenty years this game covers are largely the story of men working that out. The **full harness with a proved breast** is the last attempt to keep the whole man in steel: a late armour whose breastplate was shot at and passed, with the rest of it the same metal as ever, which is why it counts only as Partial. It is heavier than a purpose-built cuirassier harness and worse against a ball, and both of those facts are why the cuirassier harness won.
+
+A **pavise** is a standing shield for crossbow and siege work. Planted and properly braced it is terrain, and may instead provide [cover](../Encounters/Combat%20Actions.md#cover); whether it stops a bullet depends on how it was built.
+
+Armour pieces do not stack: use the best complete protection actually worn.

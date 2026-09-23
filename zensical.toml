@@ -235,7 +235,6 @@ nav = [
     { "Equipment" = [
         "Equipment/index.md",
         "Equipment/Armor.md",
-        "Equipment/Antiquated Armor.md",
         { "Weapons" = [
             "Equipment/Weapons/index.md",
             "Equipment/Weapons/Melee Weapons.md",

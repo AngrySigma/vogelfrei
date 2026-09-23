@@ -403,11 +403,6 @@ window.VF_PAGES = {
       "advanced"
     ]
   },
-  "Equipment/Antiquated Armor/": {
-    "tiers": [
-      "advanced"
-    ]
-  },
   "Equipment/Antiquated Vehicles/": {
     "tiers": [
       "advanced"

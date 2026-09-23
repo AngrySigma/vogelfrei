@@ -238,7 +238,6 @@ gating only prunes the site navigation.
 
 - [Equipment](https://angrysigma.github.io/vogelfrei/Equipment/): All equipment a character may purchase or acquire during play.
 - [Armor](https://angrysigma.github.io/vogelfrei/Equipment/Armor/): Armor Rating is added to Armor Class in both melee and ranged combat, exactly as it always was.
-- [Antiquated Armor](https://angrysigma.github.io/vogelfrei/Equipment/Antiquated%20Armor/): These defenses belong to earlier warfare. [advanced only]
 
 ## Equipment › Weapons
 

@@ -12,8 +12,6 @@ All equipment a character may purchase or acquire during play. Items are purchas
 
 - [Armor](Armor.md) — cloth, leather, and proofed plate
 
-- [Antiquated Armor](Antiquated%20Armor.md) — older harnesses retained for Advanced play
-
 - [Weapons](Weapons/index.md) — melee, ranged, firearms, and Advanced legacy arms
 
 - [Animals](Animals.md) — mounts, pack animals, and beasts of burden

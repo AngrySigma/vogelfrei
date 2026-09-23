@@ -49,8 +49,6 @@ All items available for purchase during character creation or between expedition
 
 *   **[Armor](./Equipment/Armor.md)** — period armour, Armor Rating, and what a proofed plate does against a bullet.
 
-*   [Antiquated Armor](./Equipment/Antiquated%20Armor.md) — older defenses retained for Advanced play.
-
 *   **[Weapons](./Equipment/Weapons/index.md)** — weapon categories, requirements, and combat properties:
     *   [Melee Weapons](./Equipment/Weapons/Melee%20Weapons.md) — hand-to-hand weapons, length, and special qualities.
     *   [Ranged Weapons](./Equipment/Weapons/Ranged%20Weapons.md) — bows, crossbows, slings, and thrown weapons.
