@@ -53,9 +53,9 @@ CAREER_ROLL_D6 = {
     "Dwarf": ["Artisan", "Hold Ranger", "Engineer", "Brewer", "Miner", "Oathbound"],
     "Halfling": ["Artisan", "Charlatan", "Badger Rider", "Herbalist", "Merchant", "Scout"],
     "Rogue": [None, None, None, None, None, None],   # Rogue has no careers
-    "Ranger": ["Boatman", "Thief-Taker", "Coachman", "Road Warden", "Peddlar", "Sailor"],
+    "Ranger": ["Scout", "Thief-Taker", "Coachman", "Road Warden", "Peddlar", "Sailor"],
     "Townsman": ["Artisan", "Rat Catcher", "Beggar", "Militia", "Scion", "Merchant"],
-    "Peasant": ["Miner", "Villager", "Herbalist", "Hunter", "Scout", "Hedge Witch"],
+    "Peasant": ["Miner", "Villager", "Herbalist", "Hunter", "Hedge Witch", None],
     "Warrior": ["Mercenary", "Pit Fighter", "Soldier", "Knight", "Witch Hunter", "Duellist"],
     "Cleric": ["Priest", "Zealot", "Warrior Priest", None, None, None],
     "Academic": ["Apothecary", "Barber", "Engineer", "Scholar", "Alchemist", "Cartographer"],

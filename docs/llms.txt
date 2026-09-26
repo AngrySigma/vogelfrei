@@ -123,7 +123,7 @@ gating only prunes the site navigation.
 
 ## Character Creation › Classes › Ranger › Careers
 
-- [Boatman](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Boatman/) [base, advanced only]
+- [Scout](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Scout/) [base, advanced only]
 - [Thief-Taker](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Thief-Taker/) [base, advanced only]
 - [Coachman](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Coachman/) [base, advanced only]
 - [Peddlar](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Peddlar/) [base, advanced only]
@@ -144,7 +144,6 @@ gating only prunes the site navigation.
 - [Herbalist](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Herbalist/) [base, advanced only]
 - [Hunter](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Hunter/) [base, advanced only]
 - [Miner](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Miner/) [base, advanced only]
-- [Scout](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Scout/) [base, advanced only]
 - [Villager](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Villager/) [base, advanced only]
 
 ## Character Creation › Classes › Academic

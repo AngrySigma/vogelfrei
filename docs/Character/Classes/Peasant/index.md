@@ -45,6 +45,4 @@ Peasants come from the lowest rungs of society but carry knowledge the nobility 
 
 - [Miner](Careers/Miner.md)
 
-- [Scout](Careers/Scout.md)
-
 - [Villager](Careers/Villager.md)

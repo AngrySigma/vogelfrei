@@ -16,9 +16,9 @@ Everything needed to bring a character into the world of Vogelfrei.
     *   [Warrior](./Character/Classes/Warrior/index.md) — the martial class; careers include Mercenary, Pit Fighter, Soldier, Knight, Witch Hunter, Duellist.
     *   [Magic-User](./Character/Classes/Magic-User/index.md) — arcane spellcasters; careers are Witch and Wizard.
     *   [Cleric](./Character/Classes/Cleric/index.md) — divine miracle-workers; careers include Priest, Warrior Priest, Zealot.
-    *   [Ranger](./Character/Classes/Ranger/index.md) — wilderness wanderers; careers include Boatman, Thief-Taker, Coachman, Peddlar, Road Warden, Sailor.
+    *   [Ranger](./Character/Classes/Ranger/index.md) — wilderness wanderers; careers include Scout, Thief-Taker, Coachman, Peddlar, Road Warden, Sailor.
     *   [Rogue](./Character/Classes/Rogue/index.md) — urban opportunists; a class in itself, with no careers.
-    *   [Peasant](./Character/Classes/Peasant/index.md) — common folk; careers include Hedge Witch, Herbalist, Hunter, Miner, Scout, Villager.
+    *   [Peasant](./Character/Classes/Peasant/index.md) — common folk; careers include Hedge Witch, Herbalist, Hunter, Miner, Villager.
     *   [Academic](./Character/Classes/Academic/index.md) — learned scholars; careers include Alchemist, Apothecary, Barber, Cartographer, Engineer, Scholar.
     *   [Townsman](./Character/Classes/Townsman/index.md) — urban civilians; careers include Artisan, Beggar, Merchant, Militia, Rat Catcher, Scion.
     *   [Dwarf](./Character/Classes/Dwarf/index.md) — stoic demihuman; careers include Artisan, Brewer, Engineer, Hold Ranger, Miner, Oathbound.

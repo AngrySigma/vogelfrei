@@ -1,5 +1,5 @@
 {
-  "count": 57,
+  "count": 56,
   "careers": [
     {
       "name": "Alchemist",
@@ -903,27 +903,6 @@
       "source": "Character/Classes/Peasant/Careers/Miner.md"
     },
     {
-      "name": "Scout",
-      "class": "Peasant",
-      "class_slug": "peasant",
-      "status": null,
-      "combat_skills": null,
-      "skills": null,
-      "trait": null,
-      "progression": [],
-      "complete": false,
-      "tags": [
-        "peasant"
-      ],
-      "image": "assets/img/cover.webp",
-      "tiers": [
-        "base",
-        "advanced"
-      ],
-      "url": "Character/Classes/Peasant/Careers/Scout/",
-      "source": "Character/Classes/Peasant/Careers/Scout.md"
-    },
-    {
       "name": "Villager",
       "class": "Peasant",
       "class_slug": "peasant",
@@ -943,27 +922,6 @@
       ],
       "url": "Character/Classes/Peasant/Careers/Villager/",
       "source": "Character/Classes/Peasant/Careers/Villager.md"
-    },
-    {
-      "name": "Boatman",
-      "class": "Ranger",
-      "class_slug": "ranger",
-      "status": null,
-      "combat_skills": null,
-      "skills": null,
-      "trait": null,
-      "progression": [],
-      "complete": false,
-      "tags": [
-        "ranger"
-      ],
-      "image": "assets/img/cover.webp",
-      "tiers": [
-        "base",
-        "advanced"
-      ],
-      "url": "Character/Classes/Ranger/Careers/Boatman/",
-      "source": "Character/Classes/Ranger/Careers/Boatman.md"
     },
     {
       "name": "Coachman",
@@ -1074,6 +1032,27 @@
       ],
       "url": "Character/Classes/Ranger/Careers/Sailor/",
       "source": "Character/Classes/Ranger/Careers/Sailor.md"
+    },
+    {
+      "name": "Scout",
+      "class": "Ranger",
+      "class_slug": "ranger",
+      "status": null,
+      "combat_skills": null,
+      "skills": null,
+      "trait": null,
+      "progression": [],
+      "complete": false,
+      "tags": [
+        "ranger"
+      ],
+      "image": "assets/img/cover.webp",
+      "tiers": [
+        "base",
+        "advanced"
+      ],
+      "url": "Character/Classes/Ranger/Careers/Scout/",
+      "source": "Character/Classes/Ranger/Careers/Scout.md"
     },
     {
       "name": "Thief-Taker",

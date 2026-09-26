@@ -22,7 +22,7 @@ Elves may opt to use the Wood Elf class if the Referee decides that it is availa
 
 | d6 | [Dwarf](Classes/Dwarf/index.md)         | [Halfling](Classes/Halfling/index.md)      | [Ranger](Classes/Ranger/index.md)            |
 | -- | ------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------- |
-| 1  | [Artisan](Classes/Dwarf/Careers/Artisan.md)         | [Artisan](Classes/Halfling/Careers/Artisan.md)          | [Boatman](Classes/Ranger/Careers/Boatman.md)            |
+| 1  | [Artisan](Classes/Dwarf/Careers/Artisan.md)         | [Artisan](Classes/Halfling/Careers/Artisan.md)          | [Scout](Classes/Ranger/Careers/Scout.md)                |
 | 2  | [Hold Ranger](Classes/Dwarf/Careers/Hold%20Ranger.md)  | [Charlatan](Classes/Halfling/Careers/Charlatan.md)       | [Thief-Taker](Classes/Ranger/Careers/Thief-Taker.md)    |
 | 3  | [Engineer](Classes/Dwarf/Careers/Engineer.md)       | [Badger Rider](Classes/Halfling/Careers/Badger%20Rider.md)    | [Coachman](Classes/Ranger/Careers/Coachman.md)           |
 | 4  | [Brewer](Classes/Dwarf/Careers/Brewer.md)          | [Herbalist](Classes/Halfling/Careers/Herbalist.md)       | [Road Warden](Classes/Ranger/Careers/Road%20Warden.md)       |
@@ -35,8 +35,8 @@ Elves may opt to use the Wood Elf class if the Referee decides that it is availa
 | 2  | [Rat Catcher](Classes/Townsman/Careers/Rat%20Catcher.md)  | [Villager](Classes/Peasant/Careers/Villager.md)         | [Pit Fighter](Classes/Warrior/Careers/Pit%20Fighter.md)       | [Zealot](Classes/Cleric/Careers/Zealot.md)              |
 | 3  | [Beggar](Classes/Townsman/Careers/Beggar.md)         | [Herbalist](Classes/Peasant/Careers/Herbalist.md)       | [Soldier](Classes/Warrior/Careers/Soldier.md)            | [Warrior Priest](Classes/Cleric/Careers/Warrior%20Priest.md)   |
 | 4  | [Militia](Classes/Townsman/Careers/Militia.md)        | [Hunter](Classes/Peasant/Careers/Hunter.md)            | [Knight](Classes/Warrior/Careers/Knight.md)             | —                                                     |
-| 5  | [Scion](Classes/Townsman/Careers/Scion.md)          | [Scout](Classes/Peasant/Careers/Scout.md)             | [Witch Hunter](Classes/Warrior/Careers/Witch%20Hunter.md)      | —                                                     |
-| 6  | [Merchant](Classes/Townsman/Careers/Merchant.md)       | [Hedge Witch](Classes/Peasant/Careers/Hedge%20Witch.md)     | [Duellist](Classes/Warrior/Careers/Duellist.md)           | —                                                     |
+| 5  | [Scion](Classes/Townsman/Careers/Scion.md)          | [Hedge Witch](Classes/Peasant/Careers/Hedge%20Witch.md)     | [Witch Hunter](Classes/Warrior/Careers/Witch%20Hunter.md)      | —                                                     |
+| 6  | [Merchant](Classes/Townsman/Careers/Merchant.md)       | —                                                   | [Duellist](Classes/Warrior/Careers/Duellist.md)           | —                                                     |
 
 | d6 | [Academic](Classes/Academic/index.md)    | [Magic-User](Classes/Magic-User/index.md)  | [High Elf](Classes/High%20Elf/index.md)        | [Wood Elf](Classes/Wood%20Elf/index.md)        |
 | -- | ------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
