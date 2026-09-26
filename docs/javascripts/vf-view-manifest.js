@@ -449,6 +449,11 @@ window.VF_PAGES = {
       "advanced"
     ]
   },
+  "Equipment/Weapons/Curious Weapons/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
   "Equipment/Weapons/Firearms/": {
     "tiers": [
       "base",

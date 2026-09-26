@@ -54,6 +54,7 @@ All items available for purchase during character creation or between expedition
     *   [Ranged Weapons](./Equipment/Weapons/Ranged%20Weapons.md) — bows, crossbows, slings, and thrown weapons.
     *   [Firearms](./Equipment/Weapons/Firearms.md) — black powder weapons and their rules.
     *   [Curious Firearms](./Equipment/Weapons/Curious%20Firearms.md) — rare and out-of-period legacy guns.
+    *   [Curious Weapons](./Equipment/Weapons/Curious%20Weapons.md) — period fighting curiosities and out-of-period arms.
 
 *   **[Animals](./Equipment/Animals.md)** — horses, mules, and other beasts of burden.
 
