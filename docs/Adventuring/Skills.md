@@ -2,10 +2,10 @@
 
 Characters may possess various skills such as but not limited to: Architecture, Tinkering, Search. Any character has a base chance of 1 in 6 to succeed in any specific situation where such skill is required. Some characters have a natural affinity to certain skills. For example, Dwarves have a basic chance of 3 in 6 to Architecture skill. Also, certain Careers or Classes allow characters to gain skill advances, improving the success chance. A single advance improves the base chance by one, turning 2 in 6 chance to 3 in 6 chance and so on. Numbers may also be modified by the situation (some strong doors and rare languages require some expertise to even have a chance of success).
 
-!!! note "Years of Training"
-    Special Skills can only be used if the character has at least one point in them, while all other skills may be used without restriction.
+Skills fall into two lists. The **Common Skills** are open to everyone: any character may attempt them at the base chance, and every character will need them. The **Special Skills** are learned crafts and professions, and a character comes by one only through a class or career that names it.
 
----
+## Common Skills
+
 ### Architecture
 
 Clues, warnings, and rewards can be built into the very structures of a character’s surroundings.
@@ -44,12 +44,6 @@ Apart for foraging, Bushcraft may be used for simple crafts and pathfinding.
 All characters have a base 1 in 6 chance to use the Climb skill, which allows a character to climb walls and other sheer surfaces without obvious handholds. Characters (except Rogues) must be unencumbered to make this attempt. Failure means that the character falls from a random point in the climb. Characters with two free hands can climb ropes and ladders with no die roll needed.
 
 ---
-
-### *Trade* <span class="badge-special">Special</span> { #trade }
-
-Trade skill represents a character’s practical knowledge of crafting, production, and commercial work. When taking this skill, a character must choose a specific trade area (e.g., blacksmithing, carpentry, tailoring, or pottery). The skill covers creating and repairing items within that area, appraising the quality of crafted goods, and performing work efficiently.
-
----
 ### Doors
 
 Locked doors are impassable without a key, picking the lock (which requires a Tinker skill roll and Specialist Tools), or breaking the door down. Breaking the door down requires the appropriate equipment (some sort of axe for a wooden door, a pick for stone, etc.) and takes 1 turn for wooden doors, 2 or more turns for doors made of other materials.
@@ -57,39 +51,6 @@ Locked doors are impassable without a key, picking the lock (which requires a Ti
 Many doors in dungeons and ruins are merely stuck. To open a standard stuck door (wood with iron banding), a character must successfully make an Open Doors roll (base 1 in a 6 chance), Strength modifiers apply to the roll’s chances, so having a Strength modifier of +1 means there is a 2 in 6 chance of opening the door. Use of a crowbar adds a further 1 to the chance, and each additional person helping adds another (although only two people can attempt to open a standard-sized door). Each attempt takes 1 turn.
 
 Doors made of stronger or heavier materials may need a greater number to open (a giant stone door may have a –2 in 6 chance to be opened, requiring bonuses before there is even a chance to open it, for example), or be impossible to open.
-
----
-### *Evaluate* <span class="badge-special">Special</span> { #evaluate }
-
- A successful Evaluate check allows characters to know the value of a given piece of treasure, and whether there is anyone who might pay extra for it. Appraisal will also identify fake treasures, such as copper coins painted gold.
-
----
-### *Engineering* <span class="badge-special">Special</span> { #engineering }
-
-Engineering skill covers the design and manipulation of machines, engines, and fortifications. It allows a character to construct or sabotage siege engines, reinforce or weaken defenses, improvise mechanical solutions such as pulleys or bridges, and manage large works like mines, mills, or waterworks. Where Architecture identifies what already exists, Engineering actively changes or creates, with success ensuring stability and function, and failure often leading to collapse, malfunction, or wasted effort.
-
----
-### *Heal* <span class="badge-special">Special</span> { #heal }
-
-The **Heal** skill represents a character’s ability to treat wounds, stop bleeding, and perform rudimentary surgery. It cannot restore lost Wounds directly, but it can prevent death, reduce recovery time, and sometimes downgrade permanent injuries.
-
-**Using Heal:**
-
-- **Stabilize:** A dying character at 0 Wounds or fewer can be stabilized with a successful Heal check. This prevents death but leaves the character unconscious until naturally healed. On failed check the patient must make a Save vs Poison or take 1d4 damage.
-
-- With a successful use of the Heal skill you can bind wounds, doubling the number of Wounds recovered by a single patient when resting for that day. If the patient has at least half their Wounds, a failed attempt means the patient recovers no Wounds at all for their rest. If the patient has less than half their Wounds, a failure also requires the patient to Save vs Poison or suffer 1d4 damage.
-
-
-!!! note "Bone-saw crew"
-    If multiple characters attempt to use Heal on the same patient, only the most skilled roll is used.
-
-!!! note "Butcher's Work"
-    Improper tools (e.g., trying to perform surgery without knives, herbs, bandages) impose a −1 penalty to the check.
-
----
-### *Herbalism* <span class="badge-special">Special</span> { #herbalism }
-
-Herbalism skill represents a character’s knowledge of plants and their practical uses, including identifying, gathering, and preparing herbs for medicinal, alchemical, or toxic purposes. A character skilled in Herbalism can recognize edible or poisonous flora, create basic remedies or salves, and combine ingredients to enhance or neutralize effects. When encountering an unfamiliar potion or mixture, the character may roll a Herbalism check to determine if they recognize its recipe and potential effects.
 
 ---
 ### Languages
@@ -122,11 +83,6 @@ A character gets one attempt to know any particular language. If that one attemp
 ### Lore
 
 The Lore skill must be selected for a specific field of knowledge, such as history, religion, scholarly discipline, etc. A successful check allows the character to recall something interesting, useful, or valuable within that field, such as details of an ancient civilization, the principles behind a natural phenomenon, or the workings of a strange device. It can also be applied to conducting experiments, interpreting research, or evaluating the accuracy of information found in texts and rumors. 
-
----
-### *Sailing* <span class="badge-special">Special</span> { #sailing }
-
-Sailing covers all aspects of running, steering and maintaining ships of all sizes.
 
 ---
 ### Search
@@ -166,7 +122,55 @@ A character gets one attempt to use Tinkering on any particular object. If that 
 The base chance of success for Tinkering is 1 in 6.
 
 ---
-### Ability Checks <span class="badge-special">Optional</span> { #ability-checks }
+## Special Skills
+
+!!! note "Years of Training"
+    Special Skills can only be used if the character has at least one point in them, while all other skills may be used without restriction.
+
+### Engineering
+
+Engineering skill covers the design and manipulation of machines, engines, and fortifications. It allows a character to construct or sabotage siege engines, reinforce or weaken defenses, improvise mechanical solutions such as pulleys or bridges, and manage large works like mines, mills, or waterworks. Where Architecture identifies what already exists, Engineering actively changes or creates, with success ensuring stability and function, and failure often leading to collapse, malfunction, or wasted effort.
+
+---
+### Evaluate
+
+ A successful Evaluate check allows characters to know the value of a given piece of treasure, and whether there is anyone who might pay extra for it. Appraisal will also identify fake treasures, such as copper coins painted gold.
+
+---
+### Heal
+
+The **Heal** skill represents a character’s ability to treat wounds, stop bleeding, and perform rudimentary surgery. It cannot restore lost Wounds directly, but it can prevent death, reduce recovery time, and sometimes downgrade permanent injuries.
+
+**Using Heal:**
+
+- **Stabilize:** A dying character at 0 Wounds or fewer can be stabilized with a successful Heal check. This prevents death but leaves the character unconscious until naturally healed. On failed check the patient must make a Save vs Poison or take 1d4 damage.
+
+- With a successful use of the Heal skill you can bind wounds, doubling the number of Wounds recovered by a single patient when resting for that day. If the patient has at least half their Wounds, a failed attempt means the patient recovers no Wounds at all for their rest. If the patient has less than half their Wounds, a failure also requires the patient to Save vs Poison or suffer 1d4 damage.
+
+
+!!! note "Bone-saw crew"
+    If multiple characters attempt to use Heal on the same patient, only the most skilled roll is used.
+
+!!! note "Butcher's Work"
+    Improper tools (e.g., trying to perform surgery without knives, herbs, bandages) impose a −1 penalty to the check.
+
+---
+### Herbalism
+
+Herbalism skill represents a character’s knowledge of plants and their practical uses, including identifying, gathering, and preparing herbs for medicinal, alchemical, or toxic purposes. A character skilled in Herbalism can recognize edible or poisonous flora, create basic remedies or salves, and combine ingredients to enhance or neutralize effects. When encountering an unfamiliar potion or mixture, the character may roll a Herbalism check to determine if they recognize its recipe and potential effects.
+
+---
+### Sailing
+
+Sailing covers all aspects of running, steering and maintaining ships of all sizes.
+
+---
+### Trade
+
+Trade skill represents a character’s practical knowledge of crafting, production, and commercial work. When taking this skill, a character must choose a specific trade area (e.g., blacksmithing, carpentry, tailoring, or pottery). The skill covers creating and repairing items within that area, appraising the quality of crafted goods, and performing work efficiently.
+
+---
+## Ability Checks <span class="badge-special">Optional</span> { #ability-checks }
 
 Skills come first: if any skill on this list plausibly covers the task at hand, roll that skill — the Referee determines which one applies. But when a challenge fits no skill at all — holding a door shut against something heaving on the other side, drinking a rival under the table, recalling a face glimpsed years ago — the Referee may instead call for an ability check.
 

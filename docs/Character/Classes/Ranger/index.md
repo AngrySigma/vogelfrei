@@ -6,12 +6,12 @@ tier: base
 
 | Level | Experience | Wounds      | Stamina | Skill Points |
 | ----- | ---------- | ----------- | ------- | ------------ |
-| 1     | 0          | 1d8 (min 6) | 1d4     | 4            |
-| 2     | 1750       | +1          | +1d4    | +2           |
-| 3     | 3500       | +1          | +1d4    | +2           |
-| 4     | 7000       | +1          | +1d4    | +2           |
-| 5     | 14000      | +1          | +1d4    | +2           |
-| 6     | 28000      | +1          | +1d4    | +2           |
+| 1     | 0          | 1d8 (min 6) | 1d4     | 2            |
+| 2     | 1750       | +1          | +1d4    | +1           |
+| 3     | 3500       | +1          | +1d4    | +1           |
+| 4     | 7000       | +1          | +1d4    | +1           |
+| 5     | 14000      | +1          | +1d4    | +1           |
+| 6     | 28000      | +1          | +1d4    | +1           |
 
 #### Saving Throws
 
@@ -27,7 +27,7 @@ tier: base
 ---
 ### Starting traits:
 
-- **Skill Points Progression:** Rangers get Skill Points, which can be used to improve their skills. Each Ranger career has a defined list of skills. Characters start with a base proficiency of 1-in-6 in these skills and can spend Skill Points to improve them.
+- **Skill Points Progression:** Rangers get Skill Points, which can be used to improve their skills. A Ranger may spend them on any skill that is not a [Special Skill](../../../Adventuring/Skills.md#special-skills), and on a Special Skill only where their career names it. Every character starts with the base proficiency of 1-in-6, and each point raises one skill's chance by 1-in-6.
 
 - **Seasoned Traveler:** Rangers apply 1d4 + Toughness modifier to their per-day travel distance.
 
@@ -37,7 +37,7 @@ tier: base
 
 Rangers operate in the margins between civilization and the wilds:
 
-- [Boatman](Careers/Boatman.md)
+- [Scout](Careers/Scout.md)
 
 - [Thief-Taker](Careers/Thief-Taker.md) — a professional tracker who hunts fugitives for pay
 
