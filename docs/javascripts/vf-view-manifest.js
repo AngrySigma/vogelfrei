@@ -237,12 +237,6 @@ window.VF_PAGES = {
       "advanced"
     ]
   },
-  "Character/Classes/Peasant/Careers/Scout/": {
-    "tiers": [
-      "base",
-      "advanced"
-    ]
-  },
   "Character/Classes/Peasant/Careers/Villager/": {
     "tiers": [
       "base",
@@ -255,12 +249,6 @@ window.VF_PAGES = {
     ]
   },
   "Character/Classes/Ranger/": {
-    "tiers": [
-      "base",
-      "advanced"
-    ]
-  },
-  "Character/Classes/Ranger/Careers/Boatman/": {
     "tiers": [
       "base",
       "advanced"
@@ -285,6 +273,12 @@ window.VF_PAGES = {
     ]
   },
   "Character/Classes/Ranger/Careers/Sailor/": {
+    "tiers": [
+      "base",
+      "advanced"
+    ]
+  },
+  "Character/Classes/Ranger/Careers/Scout/": {
     "tiers": [
       "base",
       "advanced"
@@ -445,6 +439,11 @@ window.VF_PAGES = {
     ]
   },
   "Equipment/Weapons/Curious Firearms/": {
+    "tiers": [
+      "advanced"
+    ]
+  },
+  "Equipment/Weapons/Curious Weapons/": {
     "tiers": [
       "advanced"
     ]

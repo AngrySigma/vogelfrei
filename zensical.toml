@@ -137,7 +137,7 @@ nav = [
             { "Ranger" = [
                 "Character/Classes/Ranger/index.md",
                 { "Careers" = [
-                    "Character/Classes/Ranger/Careers/Boatman.md",
+                    "Character/Classes/Ranger/Careers/Scout.md",
                     "Character/Classes/Ranger/Careers/Thief-Taker.md",
                     "Character/Classes/Ranger/Careers/Coachman.md",
                     "Character/Classes/Ranger/Careers/Peddlar.md",
@@ -155,7 +155,6 @@ nav = [
                     "Character/Classes/Peasant/Careers/Herbalist.md",
                     "Character/Classes/Peasant/Careers/Hunter.md",
                     "Character/Classes/Peasant/Careers/Miner.md",
-                    "Character/Classes/Peasant/Careers/Scout.md",
                     "Character/Classes/Peasant/Careers/Villager.md",
                 ] },
             ] },
@@ -241,6 +240,7 @@ nav = [
             "Equipment/Weapons/Ranged Weapons.md",
             "Equipment/Weapons/Firearms.md",
             "Equipment/Weapons/Curious Firearms.md",
+            "Equipment/Weapons/Curious Weapons.md",
         ] },
         "Equipment/Animals.md",
         "Equipment/Containers.md",

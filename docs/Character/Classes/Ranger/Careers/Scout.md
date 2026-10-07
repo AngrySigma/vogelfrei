@@ -1,13 +1,13 @@
 ---
 tags:
-  - peasant
+  - ranger
 image: assets/img/cover.webp
 image_alt: Scout illustration
 tier: base
 ---
 # Scout
 
-**Class**: [Peasant](../index.md)
+**Class**: [Ranger](../index.md)
 
 **Status**:
 
