@@ -21,8 +21,8 @@ a file.
 Conventions:
 
 - Run everything from the repository root with `python3`.
-- `$S` = `.claude/skills/character-generation/scripts` (the per-character
-  scripts), `$P` = `.claude/skills/party-generation/scripts` (these).
+- `$S` = `.agents/skills/character-generation/scripts` (the per-character
+  scripts), `$P` = `.agents/skills/party-generation/scripts` (these).
 - The party lives in one directory under `characters/` (gitignored):
   `characters/<party-slug>/` holding `pc1.json … pcN.json`, `party.md` (the
   brief you write) and `pack.md` (the assembled output).

@@ -15,7 +15,7 @@ choice, equipment selection, and names when no list fits.
 Conventions:
 
 - Run everything from the repository root with `python3`. In the commands
-  below `$S` = `.claude/skills/character-generation/scripts`.
+  below `$S` = `.agents/skills/character-generation/scripts`.
 - All state lives in one JSON file passed as `--file`. Put it in
   `characters/` (gitignored), e.g. `characters/kurt.json`.
 - Every roll script accepts `--seed N` for reproducibility. Do not set it
@@ -156,10 +156,10 @@ play) are finished by a per-class skill run on the same `--file`:
 
 | Class | Skill |
 | --- | --- |
-| Warrior | `class-warrior` (.claude/skills/class-warrior/SKILL.md) |
-| Magic-User | `class-magic-user` (.claude/skills/class-magic-user/SKILL.md) |
-| Cleric | `class-cleric` (.claude/skills/class-cleric/SKILL.md) |
-| Rogue | `class-rogue` (.claude/skills/class-rogue/SKILL.md) |
+| Warrior | `class-warrior` (.agents/skills/class-warrior/SKILL.md) |
+| Magic-User | `class-magic-user` (.agents/skills/class-magic-user/SKILL.md) |
+| Cleric | `class-cleric` (.agents/skills/class-cleric/SKILL.md) |
+| Rogue | `class-rogue` (.agents/skills/class-rogue/SKILL.md) |
 | others | none planned yet |
 
 If the class skill exists, follow it now. If not, do the minimum by hand:

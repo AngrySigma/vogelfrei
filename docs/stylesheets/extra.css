@@ -389,3 +389,76 @@
   color: var(--md-default-fg-color--light);
   border: 1px solid var(--md-default-fg-color--lightest);
 }
+
+/* "For AI" widget beside the repository link (overrides/partials/
+   source.html): the robot icon links to llms.txt, the text to this page's
+   Markdown. Kept narrow so the repo widget keeps its theme width. */
+.md-header__source {
+  display: none;
+  width: auto;
+}
+
+@media screen and (min-width: 60em) {
+  /* The theme pins this container to a fixed 11.5rem, sized for a long
+     "owner/repo" name; ours is just "GitHub", so the box was mostly empty.
+     Size both the container and the repo widget to their content, so the
+     agents link sits right after it. */
+  .md-header__source {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    width: auto;
+    max-width: none;
+  }
+  .md-header__source .md-source {
+    width: auto;
+    flex: 0 0 auto;
+  }
+  .md-header__source .md-source__repository {
+    max-width: none;
+  }
+}
+
+.vf-agents {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  gap: 0.2rem;
+  font-size: 0.65rem;
+  line-height: 1.2;
+  white-space: nowrap;
+}
+
+.vf-agents a {
+  color: inherit;
+  opacity: 0.85;
+}
+
+.vf-agents a:hover {
+  opacity: 1;
+}
+
+.vf-agents__icon svg {
+  display: block;
+  width: 1.1rem;
+  height: 1.1rem;
+  fill: currentColor;
+}
+
+/* In the navigation drawer (narrow screens) sit under the repo bar. */
+.md-nav__source .vf-agents {
+  padding: 0 0.6rem 0.5rem;
+}
+
+/* Text for screen readers and HTML->text converters, invisible on screen. */
+.vf-sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}

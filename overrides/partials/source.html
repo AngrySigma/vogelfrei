@@ -1,0 +1,32 @@
+{#-
+  Vogelfrei: the theme's repository widget, plus a "For AI" widget beside it.
+  Overriding this partial (rather than injecting from JS) puts it in both
+  places the theme renders the repo link: the header on wide screens and the
+  navigation drawer on narrow ones. The repo markup below is copied verbatim
+  from the theme's partials/source.html.
+
+  Two links, kept as small as the header allows:
+  - the robot icon -> llms.txt, the index of every page. An icon-only link
+    turns into an empty "[](...)" in an LLM fetcher's HTML->text conversion
+    and gets dropped, so it carries visually hidden text naming what it is.
+  - "For AI" -> this page's Markdown, which CI writes next to the HTML
+    (scripts/gen_llms_txt.py --site-dir).
+-#}
+<a href="{{ config.repo_url }}" title="{{ lang.t('source') }}" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    {% set icon = config.theme.icon.repo or "fontawesome/brands/git-alt" %}
+    {% include ".icons/" ~ icon ~ ".svg" %}
+  </div>
+  <div class="md-source__repository">
+    {{ config.repo_name }}
+  </div>
+</a>
+{% if page and page.url is defined and page.url[-5:] != ".html" %}
+  <div class="vf-agents">
+    <a href="{{ 'llms.txt' | url }}" class="vf-agents__icon md-icon" title="llms.txt: index of every page, for AI agents">
+      {% include ".icons/material/robot-outline.svg" %}
+      <span class="vf-sr">llms.txt: index of every page in Markdown</span>
+    </a>
+    <a href="{{ (page.url ~ 'index.md') | url }}" title="This page as Markdown">For AI</a>
+  </div>
+{% endif %}
