@@ -69,7 +69,7 @@ Letters are not a talent. They are a thing bought for a child by someone who cou
 
 Reading and writing are separate rolls. A character who can read but not write is the ordinary case of a man who was taught his letters badly or taught them for one purpose only — a merchant's tallies, a psalter — and there is no shame in it.
 
-A class or career that requires letters grants them outright, whatever the roll: an Academic, a Magic-User, or anyone whose written career table says so begins able to read and write. The Referee may likewise rule that a stated background settles it — a parish clerk can read.
+A class or career that requires letters grants them outright, whatever the roll: an Academic, a Cleric, a Magic-User, or anyone whose written career table says so begins able to read and write. The Referee may likewise rule that a stated background settles it — a parish clerk can read.
 
 Literacy in one tongue or script does not grant it in another. A man who reads English does not thereby read Latin, and neither of them helps him with a grimoire.
 

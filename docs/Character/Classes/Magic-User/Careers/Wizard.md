@@ -6,7 +6,7 @@ image_alt: Wizard illustration
 
 | Level | New traits        | 1st | 2nd | 3rd |
 | ----- | ----------------- | --- | --- | --- |
-| 1     | Read/Write Talent | 1   | —   | —   |
+| 1     | —                 | 1   | —   | —   |
 | 2     | —                 | 2   | —   | —   |
 | 3     | —                 | 2   | 1   | —   |
 | 4     | —                 | 2   | 2   | —   |

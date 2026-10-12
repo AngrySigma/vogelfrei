@@ -25,7 +25,7 @@ title: Cleric
 
 ### Starting Skills and Possessions
 
-- Read/Write talent
+- Reads and writes (see [Literacy](../../../Adventuring/Skills.md#literacy))
 
 ## Careers
 
