@@ -2,10 +2,10 @@
 tags:
   - wood-elf
 image: assets/img/cover.webp
-image_alt: Blade dancer illustration
-tier: base
+image_alt: Blade Dancer illustration
+tier: expert
 ---
-# Blade dancer
+# Blade Dancer
 
 **Class**: [Wood Elf](../index.md)
 

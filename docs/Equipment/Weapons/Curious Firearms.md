@@ -1,10 +1,10 @@
 ---
 title: Curious Firearms
-tier: advanced
+tier: expert
 ---
 # Curious Firearms
 
-This page keeps rare experiments and displaced equipment available to Advanced campaigns without presenting them as ordinary purchases of the age. The Referee decides whether any particular example exists. Unless stated otherwise, these weapons use the loading, lock, [Proof](../Armor.md#proof), fouling, training, and misfire rules from [Firearms](Firearms.md).
+This page keeps rare experiments and displaced equipment available to Expert campaigns without presenting them as ordinary purchases of the age. The Referee decides whether any particular example exists. Unless stated otherwise, these weapons use the loading, lock, [Proof](../Armor.md#proof), fouling, training, and misfire rules from [Firearms](Firearms.md).
 
 ## Period Curiosities
 

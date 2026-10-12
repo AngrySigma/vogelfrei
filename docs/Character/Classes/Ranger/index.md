@@ -1,6 +1,5 @@
 ---
 title: Ranger
-tier: base
 ---
 # Ranger
 
@@ -43,7 +42,7 @@ Rangers operate in the margins between civilization and the wilds:
 
 - [Coachman](Careers/Coachman.md)
 
-- [Peddlar](Careers/Peddlar.md)
+- [Pedlar](Careers/Pedlar.md)
 
 - [Road Warden](Careers/Road%20Warden.md)
 

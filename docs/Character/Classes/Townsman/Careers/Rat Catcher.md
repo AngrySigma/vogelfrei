@@ -4,7 +4,6 @@ tags:
   - brass
 image: assets/img/cover.webp
 image_alt: Rat Catcher illustration
-tier: base
 ---
 # Rat Catcher
 

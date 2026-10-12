@@ -53,7 +53,7 @@ CAREER_ROLL_D6 = {
     "Dwarf": ["Artisan", "Hold Ranger", "Engineer", "Brewer", "Miner", "Oathbound"],
     "Halfling": ["Artisan", "Charlatan", "Badger Rider", "Herbalist", "Merchant", "Scout"],
     "Rogue": [None, None, None, None, None, None],   # Rogue has no careers
-    "Ranger": ["Scout", "Thief-Taker", "Coachman", "Road Warden", "Peddlar", "Sailor"],
+    "Ranger": ["Scout", "Thief-Taker", "Coachman", "Road Warden", "Pedlar", "Sailor"],
     "Townsman": ["Artisan", "Rat Catcher", "Beggar", "Militia", "Scion", "Merchant"],
     "Peasant": ["Miner", "Villager", "Herbalist", "Hunter", "Hedge Witch", None],
     "Warrior": ["Mercenary", "Pit Fighter", "Soldier", "Knight", "Witch Hunter", "Duellist"],
@@ -61,7 +61,7 @@ CAREER_ROLL_D6 = {
     "Academic": ["Apothecary", "Barber", "Engineer", "Scholar", "Alchemist", "Cartographer"],
     "Magic-User": ["Wizard", "Witch", None, None, None, None],
     "High Elf": ["Artisan", "Wizard", "Blademaster", "Hunter", "Shadow", None],
-    "Wood Elf": ["Artisan", "Wizard", "Hunter", "Blade dancer", "Pathwarden", None],
+    "Wood Elf": ["Artisan", "Wizard", "Hunter", "Blade Dancer", "Pathwarden", None],
 }
 
 # Fit heuristics (not rulebook text): which abilities pay off most for each

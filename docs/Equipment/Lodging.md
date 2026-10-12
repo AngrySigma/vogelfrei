@@ -1,6 +1,3 @@
----
-tier: base
----
 # Lodging
 
 <table>

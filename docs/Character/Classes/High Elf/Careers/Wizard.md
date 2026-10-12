@@ -3,7 +3,7 @@ tags:
   - high-elf
 image: assets/img/cover.webp
 image_alt: Wizard illustration
-tier: base
+tier: expert
 ---
 # Wizard
 

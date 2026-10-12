@@ -1,6 +1,3 @@
----
-tier: base
----
 # Vehicles
 
 Prices buy a sound, workaday vehicle with ordinary fittings. Draft animals, crew, cannon, provisions, cargo, and port fees are separate. Ship categories are intentionally broad: rig, burden, and local name vary from one coast to another.

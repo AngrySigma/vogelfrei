@@ -1,6 +1,6 @@
 ---
 title: Wood Elf
-tier: base
+tier: expert
 ---
 # Wood Elf
 
@@ -34,7 +34,7 @@ Wood Elf careers:
 
 - [Artisan](Careers/Artisan.md)
 
-- [Blade dancer](Careers/Blade%20dancer.md)
+- [Blade Dancer](Careers/Blade%20Dancer.md)
 
 - [Hunter](Careers/Hunter.md)
 

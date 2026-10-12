@@ -27,11 +27,11 @@ image_alt: Magic-User illustration
 
 ### Starting Skills and Possessions
 
-- Second Sight talent
+- Casts arcane [spells](Special%20Rules/Spells.md)
 
-- Spellcasting Talent
+- Reads and writes (see [Literacy](../../../Adventuring/Skills.md#literacy))
 
-* 3 Random Spells, Read Magic
+- A spellbook holding Read Magic and 3 random spells
 
 ## Careers
 

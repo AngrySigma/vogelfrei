@@ -3,7 +3,6 @@ tags:
   - ranger
 image: assets/img/cover.webp
 image_alt: Road Warden illustration
-tier: base
 ---
 # Road Warden
 

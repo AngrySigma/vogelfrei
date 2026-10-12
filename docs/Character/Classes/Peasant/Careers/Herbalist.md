@@ -3,7 +3,6 @@ tags:
   - peasant
 image: assets/img/cover.webp
 image_alt: Herbalist illustration
-tier: base
 ---
 # Herbalist
 

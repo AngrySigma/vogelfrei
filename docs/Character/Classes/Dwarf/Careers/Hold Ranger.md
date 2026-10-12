@@ -3,7 +3,7 @@ tags:
   - dwarf
 image: assets/img/cover.webp
 image_alt: Hold Ranger illustration
-tier: base
+tier: expert
 ---
 # Hold Ranger
 

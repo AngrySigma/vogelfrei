@@ -2,10 +2,9 @@
 tags:
   - ranger
 image: assets/img/cover.webp
-image_alt: Peddlar illustration
-tier: base
+image_alt: Pedlar illustration
 ---
-# Peddlar
+# Pedlar
 
 **Class**: [Ranger](../index.md)
 

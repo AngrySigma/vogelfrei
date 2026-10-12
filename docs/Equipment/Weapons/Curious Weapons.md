@@ -1,10 +1,10 @@
 ---
 title: Curious Weapons
-tier: advanced
+tier: expert
 ---
 # Curious Weapons
 
-This page keeps fighting systems and weapons that do not belong among the ordinary purchases of the age, for Advanced campaigns that want them. The Referee decides whether any particular example exists. Unless stated otherwise, these weapons use the rules for [Melee Weapons](Melee%20Weapons.md) and [Ranged Weapons](Ranged%20Weapons.md). Guns of the same kind have their own page, [Curious Firearms](Curious%20Firearms.md).
+This page keeps fighting systems and weapons that do not belong among the ordinary purchases of the age, for Expert campaigns that want them. The Referee decides whether any particular example exists. Unless stated otherwise, these weapons use the rules for [Melee Weapons](Melee%20Weapons.md) and [Ranged Weapons](Ranged%20Weapons.md). Guns of the same kind have their own page, [Curious Firearms](Curious%20Firearms.md).
 
 ## Period Curiosities
 

@@ -4,8 +4,8 @@
 Scans every Markdown page under the docs directory for an optional frontmatter
 key naming the tiers the page belongs to:
 
-    tier: base                         # shorthand: this tier AND all higher ones
-    tiers: [simple]                    # explicit set: appears in EXACTLY these
+    tier: expert                       # shorthand: this tier AND all higher ones
+    tiers: [base]                      # explicit set: appears in EXACTLY these
 
 and emits a small JavaScript file that ``javascripts/vf-view.js`` consumes to
 prune the navigation client-side.
@@ -16,17 +16,15 @@ A page is visible in a *set* of tiers. The default (no key) is ALL tiers, so a
 page is shown everywhere unless it says otherwise. Both keys resolve to an
 explicit set:
 
-    (nothing)        -> [simple, base, advanced]   (always visible)
-    tier: base       -> [base, advanced]           (base and up; not Simple)
-    tier: advanced   -> [advanced]
-    tiers: [simple]  -> [simple]                   (Simple ONLY — a simplified
-                                                    page that higher tiers
-                                                    replace with detailed ones)
+    (nothing)        -> [base, expert]   (always visible)
+    tier: expert     -> [expert]
+    tiers: [base]    -> [base]           (Base ONLY — a simplified page that
+                                          Expert replaces with a detailed one)
 
-``tiers`` is what makes membership non-cumulative, which a ``tier:`` minimum
-cannot express. That is the Retainers case: "Basic Retainers" exists only in
-the Simple view, and the Base/Advanced views replace it with the three detailed
-pages instead.
+The tiers are named after B/X: Base is the game as it plays out of the box,
+Expert adds the optional and specialised material. ``tiers`` is what makes
+membership non-cumulative, which a ``tier:`` minimum cannot express; no page
+uses it at the moment, but it is the tool for a Base-only page.
 
 Usage
 -----
@@ -52,7 +50,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_DOCS = REPO_ROOT / "docs"
 OUTPUT_REL = Path("javascripts") / "vf-view-manifest.js"
 
-TIER_ORDER = ["simple", "base", "advanced"]
+TIER_ORDER = ["base", "expert"]
 VALID_TIERS = set(TIER_ORDER)
 ALL_TIERS = list(TIER_ORDER)
 

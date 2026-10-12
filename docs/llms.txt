@@ -4,10 +4,10 @@
 
 This is the complete rulebook. Pages are listed in reading order.
 
-The book ships three views of itself — `simple`, `base` and `advanced` —
-and a page can belong to any set of them; a bracketed note marks any page
-that is not in all three. Nothing is hidden from the reader by tier: the
-gating only prunes the site navigation.
+The book ships two views of itself, named after B/X — `base` and
+`expert` — and a bracketed note marks any page that is not in both.
+Nothing is hidden from the reader by tier: the gating only prunes the
+site navigation.
 
 ## Book
 
@@ -48,7 +48,7 @@ gating only prunes the site navigation.
 
 ## Character Creation › Classes › Magic-User › Special Rules
 
-- [Spell Scrolls](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Special%20Rules/Magical%20Activities/index.md): Scrolls are magical items which allow a Magic-User to cast a spell without prior memorization, even if the spell is of a higher level than the Magic-User is able to cast. [advanced only]
+- [Spell Scrolls](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Special%20Rules/Magical%20Activities/index.md): Scrolls are magical items which allow a Magic-User to cast a spell without prior memorization, even if the spell is of a higher level than the Magic-User is able to cast. [expert only]
 - [Spells](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Special%20Rules/Spells/index.md): Magic-Users' minds are often above using a simple book to store their knowledge, so, depending on their learning origin, they might use clay tablets, inscribed weapons or their own body parts to write down spells.
 
 ## Character Creation › Classes › Magic-User › List of Magic-User Spells
@@ -92,8 +92,8 @@ gating only prunes the site navigation.
 ## Character Creation › Classes › Cleric › Special Rules
 
 - [Blessings](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Special%20Rules/Blessings/index.md): The Gods might be silent but not indifferent; they allow Clerics to bless themselves and others.
-- [Spell Scrolls](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Special%20Rules/Holy%20Activities/index.md): Using a scroll to invoke a miracle erases it from the scroll. [advanced only]
-- [Holy Water](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Special%20Rules/Holy%20Water/index.md): Most “holy water” used in religious rituals and services is merely symbolic. [base, advanced only]
+- [Spell Scrolls](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Special%20Rules/Holy%20Activities/index.md): Using a scroll to invoke a miracle erases it from the scroll. [expert only]
+- [Holy Water](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Special%20Rules/Holy%20Water/index.md): Most “holy water” used in religious rituals and services is merely symbolic.
 - [Miracles](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Special%20Rules/Miracles/index.md): Clerics are believed to be divinely inspired, and their powers are granted to Clerics through prayer.
 
 ## Character Creation › Classes › Cleric › List of Cleric Miracles
@@ -115,20 +115,20 @@ gating only prunes the site navigation.
 
 ## Character Creation › Classes › Cleric › List of Cleric Miracles › Level 2
 
-- [Heat Metal](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%202/Heat%20Metal/index.md): Those who would dare take up arms against the gods' chosen shall burn. [advanced only]
+- [Heat Metal](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%202/Heat%20Metal/index.md): Those who would dare take up arms against the gods' chosen shall burn. [expert only]
 
 ## Character Creation › Classes › Ranger
 
-- [Ranger](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/index.md): Rangers operate in the margins between civilization and the wilds: [base, advanced only]
+- [Ranger](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/index.md): Rangers operate in the margins between civilization and the wilds:
 
 ## Character Creation › Classes › Ranger › Careers
 
-- [Scout](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Scout/index.md) [base, advanced only]
-- [Thief-Taker](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Thief-Taker/index.md) [base, advanced only]
-- [Coachman](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Coachman/index.md) [base, advanced only]
-- [Peddlar](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Peddlar/index.md) [base, advanced only]
-- [Road Warden](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Road%20Warden/index.md) [base, advanced only]
-- [Sailor](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Sailor/index.md) [base, advanced only]
+- [Scout](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Scout/index.md)
+- [Thief-Taker](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Thief-Taker/index.md)
+- [Coachman](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Coachman/index.md)
+- [Pedlar](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Pedlar/index.md)
+- [Road Warden](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Road%20Warden/index.md)
+- [Sailor](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Sailor/index.md)
 
 ## Character Creation › Classes › Rogue
 
@@ -136,101 +136,101 @@ gating only prunes the site navigation.
 
 ## Character Creation › Classes › Peasant
 
-- [Peasant](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/index.md): Peasants come from the lowest rungs of society but carry knowledge the nobility lacks: [base, advanced only]
+- [Peasant](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/index.md): Peasants come from the lowest rungs of society but carry knowledge the nobility lacks:
 
 ## Character Creation › Classes › Peasant › Careers
 
-- [Hedge Witch](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Hedge%20Witch/index.md): Witchcraft is not about arcane precision and following magical formulae, but about primal incantations and manipulating raw magical energies. [base, advanced only]
-- [Herbalist](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Herbalist/index.md) [base, advanced only]
-- [Hunter](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Hunter/index.md) [base, advanced only]
-- [Miner](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Miner/index.md) [base, advanced only]
-- [Villager](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Villager/index.md) [base, advanced only]
+- [Hedge Witch](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Hedge%20Witch/index.md): Witchcraft is not about arcane precision and following magical formulae, but about primal incantations and manipulating raw magical energies.
+- [Herbalist](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Herbalist/index.md)
+- [Hunter](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Hunter/index.md)
+- [Miner](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Miner/index.md)
+- [Villager](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Villager/index.md)
 
 ## Character Creation › Classes › Academic
 
-- [Academic](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/index.md): Academics represent trained professionals and learned specialists: [base, advanced only]
+- [Academic](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/index.md): Academics represent trained professionals and learned specialists:
 
 ## Character Creation › Classes › Academic › Careers
 
-- [Alchemist](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Alchemist/index.md) [base, advanced only]
-- [Apothecary](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Apothecary/index.md) [base, advanced only]
-- [Barber](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Barber/index.md) [base, advanced only]
-- [Cartographer](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Cartographer/index.md) [base, advanced only]
-- [Engineer](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Engineer/index.md) [base, advanced only]
-- [Scholar](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Scholar/index.md) [base, advanced only]
+- [Alchemist](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Alchemist/index.md)
+- [Apothecary](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Apothecary/index.md)
+- [Barber](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Barber/index.md)
+- [Cartographer](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Cartographer/index.md)
+- [Engineer](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Engineer/index.md)
+- [Scholar](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Scholar/index.md)
 
 ## Character Creation › Classes › Townsman
 
-- [Townsman](https://angrysigma.github.io/vogelfrei/Character/Classes/Townsman/index.md): Townsmen are urban craftspeople and workers with practical trade skills: [base, advanced only]
+- [Townsman](https://angrysigma.github.io/vogelfrei/Character/Classes/Townsman/index.md): Townsmen are urban craftspeople and workers with practical trade skills:
 
 ## Character Creation › Classes › Townsman › Careers
 
-- [Artisan](https://angrysigma.github.io/vogelfrei/Character/Classes/Townsman/Careers/Artisan/index.md) [base, advanced only]
-- [Beggar](https://angrysigma.github.io/vogelfrei/Character/Classes/Townsman/Careers/Beggar/index.md) [base, advanced only]
-- [Merchant](https://angrysigma.github.io/vogelfrei/Character/Classes/Townsman/Careers/Merchant/index.md) [base, advanced only]
-- [Militia](https://angrysigma.github.io/vogelfrei/Character/Classes/Townsman/Careers/Militia/index.md) [base, advanced only]
-- [Rat Catcher](https://angrysigma.github.io/vogelfrei/Character/Classes/Townsman/Careers/Rat%20Catcher/index.md) [base, advanced only]
-- [Scion](https://angrysigma.github.io/vogelfrei/Character/Classes/Townsman/Careers/Scion/index.md): A Scion can hire one more Retainer than the usual. [base, advanced only]
+- [Artisan](https://angrysigma.github.io/vogelfrei/Character/Classes/Townsman/Careers/Artisan/index.md)
+- [Beggar](https://angrysigma.github.io/vogelfrei/Character/Classes/Townsman/Careers/Beggar/index.md)
+- [Merchant](https://angrysigma.github.io/vogelfrei/Character/Classes/Townsman/Careers/Merchant/index.md)
+- [Militia](https://angrysigma.github.io/vogelfrei/Character/Classes/Townsman/Careers/Militia/index.md)
+- [Rat Catcher](https://angrysigma.github.io/vogelfrei/Character/Classes/Townsman/Careers/Rat%20Catcher/index.md)
+- [Scion](https://angrysigma.github.io/vogelfrei/Character/Classes/Townsman/Careers/Scion/index.md): A Scion can hire one more Retainer than the usual.
 
 ## Character Creation › Classes › Dwarf
 
-- [Dwarf](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/index.md): Dwarf careers: [base, advanced only]
+- [Dwarf](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/index.md): Dwarf careers: [expert only]
 
 ## Character Creation › Classes › Dwarf › Careers
 
-- [Artisan](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Artisan/index.md) [base, advanced only]
-- [Brewer](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Brewer/index.md) [base, advanced only]
-- [Engineer](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Engineer/index.md) [base, advanced only]
-- [Hold Ranger](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Hold%20Ranger/index.md) [base, advanced only]
-- [Miner](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Miner/index.md) [base, advanced only]
-- [Oathbound](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Oathbound/index.md) [base, advanced only]
+- [Artisan](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Artisan/index.md) [expert only]
+- [Brewer](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Brewer/index.md) [expert only]
+- [Engineer](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Engineer/index.md) [expert only]
+- [Hold Ranger](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Hold%20Ranger/index.md) [expert only]
+- [Miner](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Miner/index.md) [expert only]
+- [Oathbound](https://angrysigma.github.io/vogelfrei/Character/Classes/Dwarf/Careers/Oathbound/index.md) [expert only]
 
 ## Character Creation › Classes › High Elf
 
-- [High Elf](https://angrysigma.github.io/vogelfrei/Character/Classes/High%20Elf/index.md): High Elf careers: [base, advanced only]
+- [High Elf](https://angrysigma.github.io/vogelfrei/Character/Classes/High%20Elf/index.md): High Elf careers: [expert only]
 
 ## Character Creation › Classes › High Elf › Careers
 
-- [Artisan](https://angrysigma.github.io/vogelfrei/Character/Classes/High%20Elf/Careers/Artisan/index.md) [base, advanced only]
-- [Hunter](https://angrysigma.github.io/vogelfrei/Character/Classes/High%20Elf/Careers/Hunter/index.md) [base, advanced only]
-- [Shadow](https://angrysigma.github.io/vogelfrei/Character/Classes/High%20Elf/Careers/Shadow/index.md) [base, advanced only]
-- [Blademaster](https://angrysigma.github.io/vogelfrei/Character/Classes/High%20Elf/Careers/Blademaster/index.md) [base, advanced only]
-- [Wizard](https://angrysigma.github.io/vogelfrei/Character/Classes/High%20Elf/Careers/Wizard/index.md) [base, advanced only]
+- [Artisan](https://angrysigma.github.io/vogelfrei/Character/Classes/High%20Elf/Careers/Artisan/index.md) [expert only]
+- [Hunter](https://angrysigma.github.io/vogelfrei/Character/Classes/High%20Elf/Careers/Hunter/index.md) [expert only]
+- [Shadow](https://angrysigma.github.io/vogelfrei/Character/Classes/High%20Elf/Careers/Shadow/index.md) [expert only]
+- [Blademaster](https://angrysigma.github.io/vogelfrei/Character/Classes/High%20Elf/Careers/Blademaster/index.md) [expert only]
+- [Wizard](https://angrysigma.github.io/vogelfrei/Character/Classes/High%20Elf/Careers/Wizard/index.md) [expert only]
 
 ## Character Creation › Classes › Wood Elf
 
-- [Wood Elf](https://angrysigma.github.io/vogelfrei/Character/Classes/Wood%20Elf/index.md): Wood Elf careers: [base, advanced only]
+- [Wood Elf](https://angrysigma.github.io/vogelfrei/Character/Classes/Wood%20Elf/index.md): Wood Elf careers: [expert only]
 
 ## Character Creation › Classes › Wood Elf › Careers
 
-- [Artisan](https://angrysigma.github.io/vogelfrei/Character/Classes/Wood%20Elf/Careers/Artisan/index.md) [base, advanced only]
-- [Blade dancer](https://angrysigma.github.io/vogelfrei/Character/Classes/Wood%20Elf/Careers/Blade%20dancer/index.md) [base, advanced only]
-- [Hunter](https://angrysigma.github.io/vogelfrei/Character/Classes/Wood%20Elf/Careers/Hunter/index.md) [base, advanced only]
-- [Pathwarden](https://angrysigma.github.io/vogelfrei/Character/Classes/Wood%20Elf/Careers/Pathwarden/index.md) [base, advanced only]
-- [Wizard](https://angrysigma.github.io/vogelfrei/Character/Classes/Wood%20Elf/Careers/Wizard/index.md) [base, advanced only]
+- [Artisan](https://angrysigma.github.io/vogelfrei/Character/Classes/Wood%20Elf/Careers/Artisan/index.md) [expert only]
+- [Blade Dancer](https://angrysigma.github.io/vogelfrei/Character/Classes/Wood%20Elf/Careers/Blade%20Dancer/index.md) [expert only]
+- [Hunter](https://angrysigma.github.io/vogelfrei/Character/Classes/Wood%20Elf/Careers/Hunter/index.md) [expert only]
+- [Pathwarden](https://angrysigma.github.io/vogelfrei/Character/Classes/Wood%20Elf/Careers/Pathwarden/index.md) [expert only]
+- [Wizard](https://angrysigma.github.io/vogelfrei/Character/Classes/Wood%20Elf/Careers/Wizard/index.md) [expert only]
 
 ## Character Creation › Classes › Halfling
 
-- [Halfling](https://angrysigma.github.io/vogelfrei/Character/Classes/Halfling/index.md): Halfling careers: [base, advanced only]
+- [Halfling](https://angrysigma.github.io/vogelfrei/Character/Classes/Halfling/index.md): Halfling careers: [expert only]
 
 ## Character Creation › Classes › Halfling › Careers
 
-- [Artisan](https://angrysigma.github.io/vogelfrei/Character/Classes/Halfling/Careers/Artisan/index.md) [base, advanced only]
-- [Badger Rider](https://angrysigma.github.io/vogelfrei/Character/Classes/Halfling/Careers/Badger%20Rider/index.md) [base, advanced only]
-- [Charlatan](https://angrysigma.github.io/vogelfrei/Character/Classes/Halfling/Careers/Charlatan/index.md) [base, advanced only]
-- [Herbalist](https://angrysigma.github.io/vogelfrei/Character/Classes/Halfling/Careers/Herbalist/index.md) [base, advanced only]
-- [Merchant](https://angrysigma.github.io/vogelfrei/Character/Classes/Halfling/Careers/Merchant/index.md) [base, advanced only]
-- [Scout](https://angrysigma.github.io/vogelfrei/Character/Classes/Halfling/Careers/Scout/index.md) [base, advanced only]
+- [Artisan](https://angrysigma.github.io/vogelfrei/Character/Classes/Halfling/Careers/Artisan/index.md) [expert only]
+- [Badger Rider](https://angrysigma.github.io/vogelfrei/Character/Classes/Halfling/Careers/Badger%20Rider/index.md) [expert only]
+- [Charlatan](https://angrysigma.github.io/vogelfrei/Character/Classes/Halfling/Careers/Charlatan/index.md) [expert only]
+- [Herbalist](https://angrysigma.github.io/vogelfrei/Character/Classes/Halfling/Careers/Herbalist/index.md) [expert only]
+- [Merchant](https://angrysigma.github.io/vogelfrei/Character/Classes/Halfling/Careers/Merchant/index.md) [expert only]
+- [Scout](https://angrysigma.github.io/vogelfrei/Character/Classes/Halfling/Careers/Scout/index.md) [expert only]
 
 ## Character Creation › Classes › Phoenix
 
-- [Phoenix](https://angrysigma.github.io/vogelfrei/Character/Classes/Phoenix/index.md): Not born but made. [advanced only]
+- [Phoenix](https://angrysigma.github.io/vogelfrei/Character/Classes/Phoenix/index.md): Not born but made. [expert only]
 
 ## Character Creation
 
 - [Alignment](https://angrysigma.github.io/vogelfrei/Character/Alignment/index.md): Alignment defines a character’s side in the eternal war between the forces of Order and the Chaos Gods.
 - [Starting Possessions](https://angrysigma.github.io/vogelfrei/Character/Starting%20Possessions/index.md): All Characters begin play with money and equipment.
-- [Name](https://angrysigma.github.io/vogelfrei/Character/Name/index.md): The Referee should inform Players as to the general theme of the campaign, and it is important to choose a name that will complement that theme. [base, advanced only]
+- [Name](https://angrysigma.github.io/vogelfrei/Character/Name/index.md): The Referee should inform Players as to the general theme of the campaign, and it is important to choose a name that will complement that theme.
 - [Advancement](https://angrysigma.github.io/vogelfrei/Character/Advancement/index.md): Experience Points (XP) are a measure of improvement and progress for Player Characters.
 
 ## Equipment
@@ -243,28 +243,27 @@ gating only prunes the site navigation.
 - [Weapons](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/index.md): These are the weapons of the age, which runs from Pavia to the peace that ended the Thirty Years' War.
 - [Melee Weapons](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Melee%20Weapons/index.md): The century did not offer an endless armoury.
 - [Ranged Weapons](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Ranged%20Weapons/index.md): A crossbow is not a firearm and does not care about Proof: it reduces Armor Rating by the amount listed and the rest applies normally.
-- [Firearms](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Firearms/index.md): The table lists complete, ordinary examples with the lock most often supplied for that weapon. [base, advanced only]
-- [Curious Firearms](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Curious%20Firearms/index.md): This page keeps rare experiments and displaced equipment available to Advanced campaigns without presenting them as ordinary purchases of the age. [advanced only]
-- [Curious Weapons](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Curious%20Weapons/index.md): This page keeps fighting systems and weapons that do not belong among the ordinary purchases of the age, for Advanced campaigns that want them. [advanced only]
+- [Firearms](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Firearms/index.md): The table lists complete, ordinary examples with the lock most often supplied for that weapon.
+- [Curious Firearms](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Curious%20Firearms/index.md): This page keeps rare experiments and displaced equipment available to Expert campaigns without presenting them as ordinary purchases of the age. [expert only]
+- [Curious Weapons](https://angrysigma.github.io/vogelfrei/Equipment/Weapons/Curious%20Weapons/index.md): This page keeps fighting systems and weapons that do not belong among the ordinary purchases of the age, for Expert campaigns that want them. [expert only]
 
 ## Equipment
 
-- [Animals](https://angrysigma.github.io/vogelfrei/Equipment/Animals/index.md) [base, advanced only]
-- [Containers](https://angrysigma.github.io/vogelfrei/Equipment/Containers/index.md): A quiver plus the arrows or bolts it carries (20 maximum) counts as one item for encumbrance. [base, advanced only]
-- [Food](https://angrysigma.github.io/vogelfrei/Equipment/Food/index.md) [base, advanced only]
-- [Lodging](https://angrysigma.github.io/vogelfrei/Equipment/Lodging/index.md): Costs are per day, unless noted. [base, advanced only]
-- [Vehicles](https://angrysigma.github.io/vogelfrei/Equipment/Vehicles/index.md): Prices buy a sound, workaday vehicle with ordinary fittings. [base, advanced only]
-- [Antiquated Vehicles](https://angrysigma.github.io/vogelfrei/Equipment/Antiquated%20Vehicles/index.md): These entries are retained for ruins, legendary voyages, archaic regions, and campaigns that deliberately reach outside the age. [advanced only]
-- [Services](https://angrysigma.github.io/vogelfrei/Equipment/Services/index.md) [base, advanced only]
-- [Miscellaneous](https://angrysigma.github.io/vogelfrei/Equipment/Miscellaneous/index.md): Holy water, if in a glass container or flask, can be thrown with the same range modifiers as a rock. [base, advanced only]
+- [Animals](https://angrysigma.github.io/vogelfrei/Equipment/Animals/index.md)
+- [Containers](https://angrysigma.github.io/vogelfrei/Equipment/Containers/index.md): A quiver plus the arrows or bolts it carries (20 maximum) counts as one item for encumbrance.
+- [Food](https://angrysigma.github.io/vogelfrei/Equipment/Food/index.md)
+- [Lodging](https://angrysigma.github.io/vogelfrei/Equipment/Lodging/index.md): Costs are per day, unless noted.
+- [Vehicles](https://angrysigma.github.io/vogelfrei/Equipment/Vehicles/index.md): Prices buy a sound, workaday vehicle with ordinary fittings.
+- [Antiquated Vehicles](https://angrysigma.github.io/vogelfrei/Equipment/Antiquated%20Vehicles/index.md): These entries are retained for ruins, legendary voyages, archaic regions, and campaigns that deliberately reach outside the age. [expert only]
+- [Services](https://angrysigma.github.io/vogelfrei/Equipment/Services/index.md)
+- [Miscellaneous](https://angrysigma.github.io/vogelfrei/Equipment/Miscellaneous/index.md): Holy water, if in a glass container or flask, can be thrown with the same range modifiers as a rock.
 
 ## Retainers
 
 - [Retainers](https://angrysigma.github.io/vogelfrei/Retainers/index.md): An adventuring party is often more than just the sum of the player characters.
-- [Hiring Retainers](https://angrysigma.github.io/vogelfrei/Retainers/Hiring%20Retainers/index.md): In most civilized areas, it is not difficult to find people who are out of work. [base, advanced only]
-- [Morale Checks](https://angrysigma.github.io/vogelfrei/Retainers/Morale%20Checks/index.md): For domestic retainers, Morale should be checked in any of the following cases: [base, advanced only]
-- [Basic Retainers](https://angrysigma.github.io/vogelfrei/Retainers/Basic%20Retainers/index.md) [simple only]
-- [Expanded Retainer List](https://angrysigma.github.io/vogelfrei/Retainers/Expanded%20Retainer%20List/index.md): A slave costs 50 sp, or 20 sp if purchased as a child. [base, advanced only]
+- [Hiring Retainers](https://angrysigma.github.io/vogelfrei/Retainers/Hiring%20Retainers/index.md): In most civilized areas, it is not difficult to find people who are out of work.
+- [Morale Checks](https://angrysigma.github.io/vogelfrei/Retainers/Morale%20Checks/index.md): For domestic retainers, Morale should be checked in any of the following cases:
+- [Expanded Retainer List](https://angrysigma.github.io/vogelfrei/Retainers/Expanded%20Retainer%20List/index.md): A slave costs 50 sp, or 20 sp if purchased as a child.
 
 ## Adventuring
 
@@ -273,15 +272,15 @@ gating only prunes the site navigation.
 - [Skills](https://angrysigma.github.io/vogelfrei/Adventuring/Skills/index.md): Characters may possess various skills such as but not limited to: Architecture, Tinkering, Search.
 - [Time and Movement](https://angrysigma.github.io/vogelfrei/Adventuring/Time%20and%20Movement/index.md): Within the game, time passes as is convenient for play.
 - [Dungeon Exploration](https://angrysigma.github.io/vogelfrei/Adventuring/Dungeon%20Exploration/index.md): Underground and indoor exploration — ruins, crypts, mines, cellars, and every other place the sun does not reach — is played out in Turns of ten minutes.
-- [Wilderness Travel](https://angrysigma.github.io/vogelfrei/Adventuring/Wilderness%20Travel/index.md): Beyond the walls, time is counted in days. [base, advanced only]
+- [Wilderness Travel](https://angrysigma.github.io/vogelfrei/Adventuring/Wilderness%20Travel/index.md): Beyond the walls, time is counted in days.
 
 ## Adventuring › Hazards
 
 - [Hazards](https://angrysigma.github.io/vogelfrei/Adventuring/Hazards/index.md): Hazards are the non-combat dangers characters face in the world.
 - [Damage](https://angrysigma.github.io/vogelfrei/Adventuring/Hazards/Damage/index.md): Stamina represents the ability of a trained character to control a dangerous situation: to duck at the last moment, roll with a blow, twist away from a blade, and keep fighting despite exhaustion.
-- [Physical Deterioration](https://angrysigma.github.io/vogelfrei/Adventuring/Hazards/Physical%20Deterioration/index.md): A character who falls to zero in any ability score dies. [advanced only]
-- [Substance and Toxins](https://angrysigma.github.io/vogelfrei/Adventuring/Hazards/Substance%20and%20Toxins/index.md): Alcohol is far more pernicious, as it is quite common for most everyone to use it to excess, as beer and wine are often safer to drink than plain water. [advanced only]
-- [Environmental](https://angrysigma.github.io/vogelfrei/Adventuring/Hazards/Environmental/index.md): Exception: Characters trained in acrobatics — at the Referee's discretion, typically Rogues and similar — may make a check when falling. [base, advanced only]
+- [Physical Deterioration](https://angrysigma.github.io/vogelfrei/Adventuring/Hazards/Physical%20Deterioration/index.md): A character who falls to zero in any ability score dies. [expert only]
+- [Substance and Toxins](https://angrysigma.github.io/vogelfrei/Adventuring/Hazards/Substance%20and%20Toxins/index.md): Alcohol is far more pernicious, as it is quite common for most everyone to use it to excess, as beer and wine are often safer to drink than plain water. [expert only]
+- [Environmental](https://angrysigma.github.io/vogelfrei/Adventuring/Hazards/Environmental/index.md): Exception: Characters trained in acrobatics — at the Referee's discretion, typically Rogues and similar — may make a check when falling.
 
 ## Adventuring
 
@@ -291,13 +290,13 @@ gating only prunes the site navigation.
 
 - [Encounters](https://angrysigma.github.io/vogelfrei/Encounters/index.md): Encounters are any situation where the player characters meet other characters or creatures in uncertain circumstances.
 - [Surprise](https://angrysigma.github.io/vogelfrei/Encounters/Surprise/index.md): When surprise is possible, roll 1d6 for each side which might be surprised; most normal characters are surprised on a roll of 1–2.
-- [Encounter Distance](https://angrysigma.github.io/vogelfrei/Encounters/Encounter%20Distance/index.md): Encounters begin with the closest opposing characters 3d6×10' apart, unless there are specific details which would define the encounter distance, such as being in fog or a forest. [base, advanced only]
+- [Encounter Distance](https://angrysigma.github.io/vogelfrei/Encounters/Encounter%20Distance/index.md): Encounters begin with the closest opposing characters 3d6×10' apart, unless there are specific details which would define the encounter distance, such as being in fog or a forest.
 - [Reaction Roll](https://angrysigma.github.io/vogelfrei/Encounters/Reaction%20Roll/index.md): In most instances, NPCs’ reactions will be obvious based on the circumstance of the encounter.
 - [Initiative](https://angrysigma.github.io/vogelfrei/Encounters/Initiative/index.md): At the start of each round, one player rolls 1d6 for the player characters’ side, and the Referee rolls 1d6 for each opposing party.
 - [Combat Actions](https://angrysigma.github.io/vogelfrei/Encounters/Combat%20Actions/index.md): Each character can perform a single action on their turn.
-- [Measure and Reach](https://angrysigma.github.io/vogelfrei/Encounters/Measure%20and%20Reach/index.md): A fight is not fought at one distance. [advanced only]
+- [Measure and Reach](https://angrysigma.github.io/vogelfrei/Encounters/Measure%20and%20Reach/index.md): A fight is not fought at one distance. [expert only]
 - [Monsters and NPCs](https://angrysigma.github.io/vogelfrei/Encounters/Monsters%20and%20NPCs/index.md): Player Characters attack with Weapon Skill or Ballistic Skill and save by their class tables.
-- [Morale](https://angrysigma.github.io/vogelfrei/Encounters/Morale/index.md): NPCs and monsters do not always fight to the death; in fact, most will try to avoid death whenever possible. [base, advanced only]
+- [Morale](https://angrysigma.github.io/vogelfrei/Encounters/Morale/index.md): NPCs and monsters do not always fight to the death; in fact, most will try to avoid death whenever possible.
 
 ## Machine-readable
 

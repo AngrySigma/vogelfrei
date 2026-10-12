@@ -164,7 +164,7 @@ play) are finished by a per-class skill run on the same `--file`:
 
 If the class skill exists, follow it now. If not, do the minimum by hand:
 read the class index page (`class_page` in the JSON), its Special Rules
-pages, and the career page (`career_page`); record starting talents,
+pages, and the career page (`career_page`); record starting class features,
 possessions and career skills with
 `python3 $S/annotate.py --file ... --note ... --skill "Name=2"`. If the class
 grants Skill Points, spend them and pass `--spend N` in the same call —

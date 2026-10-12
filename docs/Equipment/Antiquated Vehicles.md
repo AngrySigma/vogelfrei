@@ -1,6 +1,6 @@
 ---
 title: Antiquated Vehicles
-tier: advanced
+tier: expert
 ---
 # Antiquated Vehicles
 

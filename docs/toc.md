@@ -10,13 +10,13 @@ Everything needed to bring a character into the world of Vogelfrei.
 
 *   **[Ability Scores](./Character/Ability%20Scores.md)** — roll 3d6 in order for Strength, Intelligence, Willpower, Agility, Toughness, and Leadership; note modifiers and decide on one swap.
 
-*   **[Class and Career](./Character/Class%20and%20Career.md)** — roll or choose a social class, then your career within it; determines Wounds, Weapon Skill, Ballistic Skill, Saving Throws, and starting Talents.
+*   **[Class and Career](./Character/Class%20and%20Career.md)** — roll or choose a social class, then your career within it; determines Wounds, Weapon Skill, Ballistic Skill, Saving Throws, and career traits.
 
 *   **[Classes](./Character/Classes/index.md)** — all available classes with their careers, special rules, and advancement tables:
     *   [Warrior](./Character/Classes/Warrior/index.md) — the martial class; careers include Mercenary, Pit Fighter, Soldier, Knight, Witch Hunter, Duellist.
     *   [Magic-User](./Character/Classes/Magic-User/index.md) — arcane spellcasters; careers are Witch and Wizard.
     *   [Cleric](./Character/Classes/Cleric/index.md) — divine miracle-workers; careers include Priest, Warrior Priest, Zealot.
-    *   [Ranger](./Character/Classes/Ranger/index.md) — wilderness wanderers; careers include Scout, Thief-Taker, Coachman, Peddlar, Road Warden, Sailor.
+    *   [Ranger](./Character/Classes/Ranger/index.md) — wilderness wanderers; careers include Scout, Thief-Taker, Coachman, Pedlar, Road Warden, Sailor.
     *   [Rogue](./Character/Classes/Rogue/index.md) — urban opportunists; a class in itself, with no careers.
     *   [Peasant](./Character/Classes/Peasant/index.md) — common folk; careers include Hedge Witch, Herbalist, Hunter, Miner, Villager.
     *   [Academic](./Character/Classes/Academic/index.md) — learned scholars; careers include Alchemist, Apothecary, Barber, Cartographer, Engineer, Scholar.
@@ -66,7 +66,7 @@ All items available for purchase during character creation or between expedition
 
 *   **[Vehicles](./Equipment/Vehicles.md)** — land vehicles, boats, and ships of the age.
 
-*   [Antiquated Vehicles](./Equipment/Antiquated%20Vehicles.md) — older and later designs retained for Advanced play.
+*   [Antiquated Vehicles](./Equipment/Antiquated%20Vehicles.md) — older and later designs retained for Expert play.
 
 *   **[Services](./Equipment/Services.md)** — hirelings, professional fees, and other costs.
 
@@ -78,8 +78,6 @@ The support network that keeps an expedition running.
 *   **[Hiring Retainers](./Retainers/Hiring%20Retainers.md)** — how to find, recruit, and pay NPCs; morale and loyalty rules.
 
 *   **[Morale Checks](./Retainers/Morale%20Checks.md)** — when and how retainers make morale checks; consequences of failure.
-
-*   **[Basic Retainers](./Retainers/Basic%20Retainers.md)** — porters, torch-bearers, and simple hirelings.
 
 *   **[Expanded Retainer List](./Retainers/Expanded%20Retainer%20List.md)** — specialist NPCs: men-at-arms, guides, sages, and more.
 

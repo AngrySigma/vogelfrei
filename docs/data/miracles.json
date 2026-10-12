@@ -14,9 +14,8 @@
         "cleric"
       ],
       "tiers": [
-        "simple",
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Cleric/Miracles/Level 1/Bless/",
       "source": "Character/Classes/Cleric/Miracles/Level 1/Bless.md"
@@ -34,9 +33,8 @@
         "cleric"
       ],
       "tiers": [
-        "simple",
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Cleric/Miracles/Level 1/Command/",
       "source": "Character/Classes/Cleric/Miracles/Level 1/Command.md"
@@ -54,9 +52,8 @@
         "cleric"
       ],
       "tiers": [
-        "simple",
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Cleric/Miracles/Level 1/Cure Light Wounds/",
       "source": "Character/Classes/Cleric/Miracles/Level 1/Cure Light Wounds.md"
@@ -74,9 +71,8 @@
         "cleric"
       ],
       "tiers": [
-        "simple",
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Cleric/Miracles/Level 1/Detect Chaos/",
       "source": "Character/Classes/Cleric/Miracles/Level 1/Detect Chaos.md"
@@ -94,9 +90,8 @@
         "cleric"
       ],
       "tiers": [
-        "simple",
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Cleric/Miracles/Level 1/Invisibility to Undead/",
       "source": "Character/Classes/Cleric/Miracles/Level 1/Invisibility to Undead.md"
@@ -114,9 +109,8 @@
         "cleric"
       ],
       "tiers": [
-        "simple",
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Cleric/Miracles/Level 1/Protection from Chaos/",
       "source": "Character/Classes/Cleric/Miracles/Level 1/Protection from Chaos.md"
@@ -134,9 +128,8 @@
         "cleric"
       ],
       "tiers": [
-        "simple",
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Cleric/Miracles/Level 1/Purify Food and Drink/",
       "source": "Character/Classes/Cleric/Miracles/Level 1/Purify Food and Drink.md"
@@ -154,9 +147,8 @@
         "cleric"
       ],
       "tiers": [
-        "simple",
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Cleric/Miracles/Level 1/Remove Fear/",
       "source": "Character/Classes/Cleric/Miracles/Level 1/Remove Fear.md"
@@ -174,9 +166,8 @@
         "cleric"
       ],
       "tiers": [
-        "simple",
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Cleric/Miracles/Level 1/Sanctuary/",
       "source": "Character/Classes/Cleric/Miracles/Level 1/Sanctuary.md"
@@ -194,9 +185,8 @@
         "cleric"
       ],
       "tiers": [
-        "simple",
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Cleric/Miracles/Level 1/Turn Undead/",
       "source": "Character/Classes/Cleric/Miracles/Level 1/Turn Undead.md"
@@ -214,7 +204,7 @@
         "cleric"
       ],
       "tiers": [
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Cleric/Miracles/Level 2/Heat Metal/",
       "source": "Character/Classes/Cleric/Miracles/Level 2/Heat Metal.md"

@@ -4,7 +4,6 @@ tags:
   - brass
 image: assets/img/cover.webp
 image_alt: Hedge Witch illustration
-tier: base
 ---
 # Hedge Witch
 

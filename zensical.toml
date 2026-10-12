@@ -140,7 +140,7 @@ nav = [
                     "Character/Classes/Ranger/Careers/Scout.md",
                     "Character/Classes/Ranger/Careers/Thief-Taker.md",
                     "Character/Classes/Ranger/Careers/Coachman.md",
-                    "Character/Classes/Ranger/Careers/Peddlar.md",
+                    "Character/Classes/Ranger/Careers/Pedlar.md",
                     "Character/Classes/Ranger/Careers/Road Warden.md",
                     "Character/Classes/Ranger/Careers/Sailor.md",
                 ] },
@@ -205,7 +205,7 @@ nav = [
                 "Character/Classes/Wood Elf/index.md",
                 { "Careers" = [
                     "Character/Classes/Wood Elf/Careers/Artisan.md",
-                    "Character/Classes/Wood Elf/Careers/Blade dancer.md",
+                    "Character/Classes/Wood Elf/Careers/Blade Dancer.md",
                     "Character/Classes/Wood Elf/Careers/Hunter.md",
                     "Character/Classes/Wood Elf/Careers/Pathwarden.md",
                     "Character/Classes/Wood Elf/Careers/Wizard.md",
@@ -255,7 +255,6 @@ nav = [
         "Retainers/index.md",
         "Retainers/Hiring Retainers.md",
         "Retainers/Morale Checks.md",
-        "Retainers/Basic Retainers.md",
         "Retainers/Expanded Retainer List.md",
     ] },
     { "Adventuring" = [

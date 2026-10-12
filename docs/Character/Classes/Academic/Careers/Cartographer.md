@@ -3,7 +3,6 @@ tags:
   - academic
 image: assets/img/cover.webp
 image_alt: Cartographer illustration
-tier: base
 ---
 # Cartographer
 

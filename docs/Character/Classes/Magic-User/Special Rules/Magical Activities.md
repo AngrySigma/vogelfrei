@@ -1,5 +1,5 @@
 ---
-tier: advanced
+tier: expert
 ---
 # Spell Scrolls
 

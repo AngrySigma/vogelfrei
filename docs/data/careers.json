@@ -17,7 +17,7 @@
       "image": "assets/img/cover.webp",
       "tiers": [
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Academic/Careers/Alchemist/",
       "source": "Character/Classes/Academic/Careers/Alchemist.md"
@@ -64,7 +64,7 @@
       "image": "assets/img/cover.webp",
       "tiers": [
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Academic/Careers/Apothecary/",
       "source": "Character/Classes/Academic/Careers/Apothecary.md"
@@ -111,7 +111,7 @@
       "image": "assets/img/cover.webp",
       "tiers": [
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Academic/Careers/Barber/",
       "source": "Character/Classes/Academic/Careers/Barber.md"
@@ -132,7 +132,7 @@
       "image": "assets/img/cover.webp",
       "tiers": [
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Academic/Careers/Cartographer/",
       "source": "Character/Classes/Academic/Careers/Cartographer.md"
@@ -179,7 +179,7 @@
       "image": "assets/img/cover.webp",
       "tiers": [
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Academic/Careers/Engineer/",
       "source": "Character/Classes/Academic/Careers/Engineer.md"
@@ -200,7 +200,7 @@
       "image": "assets/img/cover.webp",
       "tiers": [
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Academic/Careers/Scholar/",
       "source": "Character/Classes/Academic/Careers/Scholar.md"
@@ -216,14 +216,14 @@
       "progression": [
         {
           "level": "1",
-          "new traits": "Blessing Talent",
+          "new traits": "Blessings",
           "1st": "—",
           "2nd": "—",
           "3rd": "—"
         },
         {
           "level": "2",
-          "new traits": "Invoke Talent",
+          "new traits": "Miracles",
           "1st": "1",
           "2nd": "—",
           "3rd": "—"
@@ -261,9 +261,8 @@
       "tags": [],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "simple",
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Cleric/Careers/Priest/",
       "source": "Character/Classes/Cleric/Careers/Priest.md"
@@ -283,9 +282,8 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "simple",
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Cleric/Careers/Warrior Priest/",
       "source": "Character/Classes/Cleric/Careers/Warrior Priest.md"
@@ -305,9 +303,8 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "simple",
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Cleric/Careers/Zealot/",
       "source": "Character/Classes/Cleric/Careers/Zealot.md"
@@ -327,8 +324,7 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Dwarf/Careers/Artisan/",
       "source": "Character/Classes/Dwarf/Careers/Artisan.md"
@@ -348,8 +344,7 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Dwarf/Careers/Brewer/",
       "source": "Character/Classes/Dwarf/Careers/Brewer.md"
@@ -369,8 +364,7 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Dwarf/Careers/Engineer/",
       "source": "Character/Classes/Dwarf/Careers/Engineer.md"
@@ -390,8 +384,7 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Dwarf/Careers/Hold Ranger/",
       "source": "Character/Classes/Dwarf/Careers/Hold Ranger.md"
@@ -411,8 +404,7 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Dwarf/Careers/Miner/",
       "source": "Character/Classes/Dwarf/Careers/Miner.md"
@@ -432,8 +424,7 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Dwarf/Careers/Oathbound/",
       "source": "Character/Classes/Dwarf/Careers/Oathbound.md"
@@ -453,8 +444,7 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Halfling/Careers/Artisan/",
       "source": "Character/Classes/Halfling/Careers/Artisan.md"
@@ -474,8 +464,7 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Halfling/Careers/Badger Rider/",
       "source": "Character/Classes/Halfling/Careers/Badger Rider.md"
@@ -495,8 +484,7 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Halfling/Careers/Charlatan/",
       "source": "Character/Classes/Halfling/Careers/Charlatan.md"
@@ -516,8 +504,7 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Halfling/Careers/Herbalist/",
       "source": "Character/Classes/Halfling/Careers/Herbalist.md"
@@ -537,8 +524,7 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Halfling/Careers/Merchant/",
       "source": "Character/Classes/Halfling/Careers/Merchant.md"
@@ -558,8 +544,7 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Halfling/Careers/Scout/",
       "source": "Character/Classes/Halfling/Careers/Scout.md"
@@ -579,8 +564,7 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/High Elf/Careers/Artisan/",
       "source": "Character/Classes/High Elf/Careers/Artisan.md"
@@ -600,8 +584,7 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/High Elf/Careers/Blademaster/",
       "source": "Character/Classes/High Elf/Careers/Blademaster.md"
@@ -621,8 +604,7 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/High Elf/Careers/Hunter/",
       "source": "Character/Classes/High Elf/Careers/Hunter.md"
@@ -642,8 +624,7 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/High Elf/Careers/Shadow/",
       "source": "Character/Classes/High Elf/Careers/Shadow.md"
@@ -663,8 +644,7 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/High Elf/Careers/Wizard/",
       "source": "Character/Classes/High Elf/Careers/Wizard.md"
@@ -684,9 +664,8 @@
       ],
       "image": "assets/img/careers/wizard.webp",
       "tiers": [
-        "simple",
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Magic-User/Careers/Witch/",
       "source": "Character/Classes/Magic-User/Careers/Witch.md"
@@ -702,7 +681,7 @@
       "progression": [
         {
           "level": "1",
-          "new traits": "Read/Write Talent",
+          "new traits": "—",
           "1st": "1",
           "2nd": "—",
           "3rd": "—"
@@ -747,9 +726,8 @@
       "tags": [],
       "image": "assets/img/careers/wizard.webp",
       "tiers": [
-        "simple",
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Magic-User/Careers/Wizard/",
       "source": "Character/Classes/Magic-User/Careers/Wizard.md"
@@ -808,7 +786,7 @@
       "image": "assets/img/cover.webp",
       "tiers": [
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Peasant/Careers/Hedge Witch/",
       "source": "Character/Classes/Peasant/Careers/Hedge Witch.md"
@@ -829,7 +807,7 @@
       "image": "assets/img/cover.webp",
       "tiers": [
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Peasant/Careers/Herbalist/",
       "source": "Character/Classes/Peasant/Careers/Herbalist.md"
@@ -876,7 +854,7 @@
       "image": "assets/img/cover.webp",
       "tiers": [
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Peasant/Careers/Hunter/",
       "source": "Character/Classes/Peasant/Careers/Hunter.md"
@@ -897,7 +875,7 @@
       "image": "assets/img/cover.webp",
       "tiers": [
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Peasant/Careers/Miner/",
       "source": "Character/Classes/Peasant/Careers/Miner.md"
@@ -918,7 +896,7 @@
       "image": "assets/img/cover.webp",
       "tiers": [
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Peasant/Careers/Villager/",
       "source": "Character/Classes/Peasant/Careers/Villager.md"
@@ -939,13 +917,13 @@
       "image": "assets/img/cover.webp",
       "tiers": [
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Ranger/Careers/Coachman/",
       "source": "Character/Classes/Ranger/Careers/Coachman.md"
     },
     {
-      "name": "Peddlar",
+      "name": "Pedlar",
       "class": "Ranger",
       "class_slug": "ranger",
       "status": null,
@@ -960,10 +938,10 @@
       "image": "assets/img/cover.webp",
       "tiers": [
         "base",
-        "advanced"
+        "expert"
       ],
-      "url": "Character/Classes/Ranger/Careers/Peddlar/",
-      "source": "Character/Classes/Ranger/Careers/Peddlar.md"
+      "url": "Character/Classes/Ranger/Careers/Pedlar/",
+      "source": "Character/Classes/Ranger/Careers/Pedlar.md"
     },
     {
       "name": "Road Warden",
@@ -981,7 +959,7 @@
       "image": "assets/img/cover.webp",
       "tiers": [
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Ranger/Careers/Road Warden/",
       "source": "Character/Classes/Ranger/Careers/Road Warden.md"
@@ -1028,7 +1006,7 @@
       "image": "assets/img/cover.webp",
       "tiers": [
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Ranger/Careers/Sailor/",
       "source": "Character/Classes/Ranger/Careers/Sailor.md"
@@ -1049,7 +1027,7 @@
       "image": "assets/img/cover.webp",
       "tiers": [
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Ranger/Careers/Scout/",
       "source": "Character/Classes/Ranger/Careers/Scout.md"
@@ -1096,7 +1074,7 @@
       "image": "assets/img/cover.webp",
       "tiers": [
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Ranger/Careers/Thief-Taker/",
       "source": "Character/Classes/Ranger/Careers/Thief-Taker.md"
@@ -1118,7 +1096,7 @@
       "image": "assets/img/cover.webp",
       "tiers": [
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Townsman/Careers/Artisan/",
       "source": "Character/Classes/Townsman/Careers/Artisan.md"
@@ -1139,7 +1117,7 @@
       "image": "assets/img/cover.webp",
       "tiers": [
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Townsman/Careers/Beggar/",
       "source": "Character/Classes/Townsman/Careers/Beggar.md"
@@ -1160,7 +1138,7 @@
       "image": "assets/img/cover.webp",
       "tiers": [
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Townsman/Careers/Merchant/",
       "source": "Character/Classes/Townsman/Careers/Merchant.md"
@@ -1181,7 +1159,7 @@
       "image": "assets/img/cover.webp",
       "tiers": [
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Townsman/Careers/Militia/",
       "source": "Character/Classes/Townsman/Careers/Militia.md"
@@ -1203,7 +1181,7 @@
       "image": "assets/img/cover.webp",
       "tiers": [
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Townsman/Careers/Rat Catcher/",
       "source": "Character/Classes/Townsman/Careers/Rat Catcher.md"
@@ -1224,7 +1202,7 @@
       "image": "assets/img/cover.webp",
       "tiers": [
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Townsman/Careers/Scion/",
       "source": "Character/Classes/Townsman/Careers/Scion.md"
@@ -1245,9 +1223,8 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "simple",
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Warrior/Careers/Duellist/",
       "source": "Character/Classes/Warrior/Careers/Duellist.md"
@@ -1268,9 +1245,8 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "simple",
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Warrior/Careers/Knight/",
       "source": "Character/Classes/Warrior/Careers/Knight.md"
@@ -1291,9 +1267,8 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "simple",
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Warrior/Careers/Mercenary/",
       "source": "Character/Classes/Warrior/Careers/Mercenary.md"
@@ -1314,9 +1289,8 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "simple",
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Warrior/Careers/Pit Fighter/",
       "source": "Character/Classes/Warrior/Careers/Pit Fighter.md"
@@ -1337,9 +1311,8 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "simple",
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Warrior/Careers/Soldier/",
       "source": "Character/Classes/Warrior/Careers/Soldier.md"
@@ -1360,9 +1333,8 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "simple",
         "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Warrior/Careers/Witch Hunter/",
       "source": "Character/Classes/Warrior/Careers/Witch Hunter.md"
@@ -1382,14 +1354,13 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Wood Elf/Careers/Artisan/",
       "source": "Character/Classes/Wood Elf/Careers/Artisan.md"
     },
     {
-      "name": "Blade dancer",
+      "name": "Blade Dancer",
       "class": "Wood Elf",
       "class_slug": "wood-elf",
       "status": null,
@@ -1403,11 +1374,10 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "base",
-        "advanced"
+        "expert"
       ],
-      "url": "Character/Classes/Wood Elf/Careers/Blade dancer/",
-      "source": "Character/Classes/Wood Elf/Careers/Blade dancer.md"
+      "url": "Character/Classes/Wood Elf/Careers/Blade Dancer/",
+      "source": "Character/Classes/Wood Elf/Careers/Blade Dancer.md"
     },
     {
       "name": "Hunter",
@@ -1424,8 +1394,7 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Wood Elf/Careers/Hunter/",
       "source": "Character/Classes/Wood Elf/Careers/Hunter.md"
@@ -1445,8 +1414,7 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Wood Elf/Careers/Pathwarden/",
       "source": "Character/Classes/Wood Elf/Careers/Pathwarden.md"
@@ -1466,8 +1434,7 @@
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
-        "base",
-        "advanced"
+        "expert"
       ],
       "url": "Character/Classes/Wood Elf/Careers/Wizard/",
       "source": "Character/Classes/Wood Elf/Careers/Wizard.md"
