@@ -7,7 +7,7 @@ description: Fill in Magic-User class and career specifics on a Vogelfrei charac
 
 Finishes a Magic-User after the core `character-generation` workflow. Works
 on the same character JSON (`--file`); `$S` =
-`.claude/skills/character-generation/scripts`.
+`.agents/skills/character-generation/scripts`.
 
 Stop if the JSON's `class` is not `Magic-User`.
 

@@ -10,7 +10,7 @@ Two jobs, one pass over the book:
    the frontmatter and the bold metadata paragraph under the ``#`` title from
    those values. That paragraph is what the reader sees and what
    ``stylesheets/extra.css`` styles, so its shape is fixed by the page contract
-   in CLAUDE.md; the script is what keeps it in step with the data.
+   in .agents/page-contracts.md; the script is what keeps it in step with the data.
 
 2. **Careers** — read-only. Career pages are half-written and structurally
    uneven (Magic-User careers carry a spell-slot table and no metadata block at
