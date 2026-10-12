@@ -9,6 +9,18 @@
   proportions). The figure is zoomable via the lightbox in
   javascripts/extra.js. Pages without `image:` are unaffected.
 -#}
+{#-
+  Point agents at the Markdown: CI drops each page's source next to its HTML
+  (scripts/gen_llms_txt.py --site-dir). This <link> serves tools that read the
+  <head>; most LLM fetchers discard it, so the visible links live in the
+  header, in partials/source.html.
+-#}
+{% block extrahead %}
+  {% if page.url is defined and page.url[-5:] != ".html" %}
+    <link rel="alternate" type="text/markdown" href="{{ (page.url ~ 'index.md') | url }}">
+  {% endif %}
+{% endblock %}
+
 {% block content %}
   {% if page.meta and page.meta.image %}
     <figure class="vf-figure{% if not page.url %} vf-figure--cover{% endif %}">
