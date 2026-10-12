@@ -214,3 +214,6 @@ reviews-archive/
 
 # Local scratch worktrees
 .claude/worktrees/
+
+# Discord webhook URL for release announcements (a secret: anyone with it can post)
+.discord/
