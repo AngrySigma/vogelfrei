@@ -8,9 +8,7 @@ icon: lucide/users
 
 2. [Morale Checks](Morale%20Checks.md)
 
-3. [Basic Retainers](Basic%20Retainers.md)
-
-4. [Expanded Retainer List](Expanded%20Retainer%20List.md)
+3. [Expanded Retainer List](Expanded%20Retainer%20List.md)
 
 An adventuring party is often more than just the sum of the player characters. A support network of NPCs is often necessary to allow an expedition into the unknown to reach its full potential — and to keep a successful treasure seeker's household running while he is away. These support characters are called Retainers.
 

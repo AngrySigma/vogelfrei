@@ -7,7 +7,7 @@ range: 40'
 tags:
   - level_2
   - cleric
-tier: advanced
+tier: expert
 ---
 # Heat Metal
 

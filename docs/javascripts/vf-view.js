@@ -6,9 +6,8 @@
    each tier shows only the pages that belong to it.
 
    Tier membership is an explicit SET, not a cumulative rank: a page listed
-   as [simple] appears in the Simple view and nowhere else. That is what
-   lets "Basic Retainers" exist only in Simple while Base/Advanced replace
-   it with the three detailed Retainers pages.
+   as [base] appears in the Base view and nowhere else, so a simplified
+   page can exist in Base while Expert replaces it with a detailed one.
 
    Pages with no manifest entry are visible in every tier. Gating is purely
    cosmetic — hidden pages are still built, still linked, still indexed by
@@ -20,9 +19,10 @@
 
 const VF_STORAGE_KEY = "vf-view";
 const VF_DEFAULT_TIER = "base";
+const VF_RENAMED_TIERS = { simple: "base", advanced: "expert" };
 
 function vfTiers() {
-  return window.VF_TIERS || ["simple", "base", "advanced"];
+  return window.VF_TIERS || ["base", "expert"];
 }
 
 function vfTierLabel(tier) {
@@ -32,7 +32,10 @@ function vfTierLabel(tier) {
 function vfGetView() {
   try {
     const raw = JSON.parse(localStorage.getItem(VF_STORAGE_KEY) || "{}");
-    if (vfTiers().indexOf(raw.tier) !== -1) return { tier: raw.tier };
+    /* Tiers renamed: Simple was folded into Base, Advanced became Expert.
+       Carry a saved choice over rather than resetting it. */
+    const tier = VF_RENAMED_TIERS[raw.tier] || raw.tier;
+    if (vfTiers().indexOf(tier) !== -1) return { tier: tier };
   } catch (e) {
     /* corrupt or unavailable storage — fall through to the default */
   }
@@ -49,7 +52,7 @@ function vfSetView(view) {
 
 /* ---- Manifest lookup ------------------------------------------------
    Manifest keys are relative URL paths with a trailing slash and no leading
-   slash (e.g. "Retainers/Basic Retainers/"). Match a link or page pathname
+   slash (e.g. "Retainers/Hiring Retainers/"). Match a link or page pathname
    by longest suffix, so a deploy base path — GitHub Pages serves this under
    "/vogelfrei/" — doesn't break lookups. Keys are stored un-encoded, so the
    pathname is decoded before comparing.                                  */

@@ -1,6 +1,6 @@
 ---
 title: Halfling
-tier: base
+tier: expert
 ---
 # Halfling
 

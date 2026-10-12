@@ -3,7 +3,7 @@ tags:
   - halfling
 image: assets/img/cover.webp
 image_alt: Herbalist illustration
-tier: base
+tier: expert
 ---
 # Herbalist
 

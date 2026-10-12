@@ -259,7 +259,7 @@ def resolve_spell(path: Path, kind_dir: str) -> tuple[dict, str]:
         "range": rng,
         "text": body_text(rest),
         "tags": canon_tags,
-        "tiers": parse_tier_keys(block, rel) if block is not None else ["simple", "base", "advanced"],
+        "tiers": parse_tier_keys(block, rel) if block is not None else ["base", "expert"],
         "url": url_key(path, DOCS),
         "source": rel,
     }
@@ -327,7 +327,7 @@ def resolve_career(path: Path) -> dict:
         "complete": bool(trait or progression or skills or combat),
         "tags": tags,
         "image": fm.get_scalar(entries, "image"),
-        "tiers": parse_tier_keys(block, rel) if block is not None else ["simple", "base", "advanced"],
+        "tiers": parse_tier_keys(block, rel) if block is not None else ["base", "expert"],
         "url": url_key(path, DOCS),
         "source": rel,
     }

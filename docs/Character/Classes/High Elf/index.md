@@ -1,6 +1,6 @@
 ---
 title: High Elf
-tier: base
+tier: expert
 ---
 # High Elf
 

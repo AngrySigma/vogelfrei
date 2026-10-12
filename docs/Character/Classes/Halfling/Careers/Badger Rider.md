@@ -3,7 +3,7 @@ tags:
   - halfling
 image: assets/img/cover.webp
 image_alt: Badger Rider illustration
-tier: base
+tier: expert
 ---
 # Badger Rider
 

@@ -1,6 +1,5 @@
 ---
 title: Townsman
-tier: base
 ---
 # Townsman
 

@@ -238,10 +238,10 @@ def render_index(config: dict, pages: list[Page], base: str) -> str:
     out += [
         "This is the complete rulebook. Pages are listed in reading order.",
         "",
-        "The book ships three views of itself — `simple`, `base` and `advanced` —",
-        "and a page can belong to any set of them; a bracketed note marks any page",
-        "that is not in all three. Nothing is hidden from the reader by tier: the",
-        "gating only prunes the site navigation.",
+        "The book ships two views of itself, named after B/X — `base` and",
+        "`expert` — and a bracketed note marks any page that is not in both.",
+        "Nothing is hidden from the reader by tier: the gating only prunes the",
+        "site navigation.",
         "",
     ]
     current = None

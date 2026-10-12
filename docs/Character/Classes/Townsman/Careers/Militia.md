@@ -3,7 +3,6 @@ tags:
   - townsman
 image: assets/img/cover.webp
 image_alt: Militia illustration
-tier: base
 ---
 # Militia
 

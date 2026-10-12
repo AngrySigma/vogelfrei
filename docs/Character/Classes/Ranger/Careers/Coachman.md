@@ -3,7 +3,6 @@ tags:
   - ranger
 image: assets/img/cover.webp
 image_alt: Coachman illustration
-tier: base
 ---
 # Coachman
 

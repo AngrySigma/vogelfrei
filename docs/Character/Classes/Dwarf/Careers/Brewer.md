@@ -3,7 +3,7 @@ tags:
   - dwarf
 image: assets/img/cover.webp
 image_alt: Brewer illustration
-tier: base
+tier: expert
 ---
 # Brewer
 

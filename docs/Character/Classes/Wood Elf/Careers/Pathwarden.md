@@ -3,7 +3,7 @@ tags:
   - wood-elf
 image: assets/img/cover.webp
 image_alt: Pathwarden illustration
-tier: base
+tier: expert
 ---
 # Pathwarden
 

@@ -24,7 +24,7 @@ All equipment a character may purchase or acquire during play. Items are purchas
 
 - [Vehicles](Vehicles.md) — period carts, wagons, boats, and ships
 
-- [Antiquated Vehicles](Antiquated%20Vehicles.md) — earlier and later conveyances retained for Advanced play
+- [Antiquated Vehicles](Antiquated%20Vehicles.md) — earlier and later conveyances retained for Expert play
 
 - [Services](Services.md) — hireable services available in settlements
 

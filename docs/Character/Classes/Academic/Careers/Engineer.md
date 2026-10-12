@@ -4,7 +4,6 @@ tags:
   - silver
 image: assets/img/cover.webp
 image_alt: Engineer illustration
-tier: base
 ---
 # Engineer
 

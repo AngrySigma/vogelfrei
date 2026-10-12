@@ -17,11 +17,10 @@
 
 ## Pick your complexity
 
-The book comes in three views, switched with the eye button in the site's header:
+The book comes in two views, named after the old Basic and Expert sets, and switched with the eye button in the site's header:
 
-- **Simple** — the four classic classes, core combat and equipment. Start here.
-- **Base** — the full game.
-- **Advanced** — adds detailed hazards, magical and holy activities, the Phoenix class, and period curiosities.
+- **Base** — the human classes, core combat and equipment. Start here.
+- **Expert** — adds the demihumans (dwarves, elves, halflings), the Phoenix, detailed hazards, magical and holy activities, and period curiosities.
 
 ## The book
 

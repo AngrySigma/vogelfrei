@@ -1,6 +1,6 @@
 ---
 title: Dwarf
-tier: base
+tier: expert
 ---
 # Dwarf
 

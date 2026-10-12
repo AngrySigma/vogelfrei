@@ -1,6 +1,3 @@
----
-tier: base
----
 # Firearms
 
 The table lists complete, ordinary examples with the lock most often supplied for that weapon. “Firelock” is a rules category covering the several self-igniting flint mechanisms described below; it does not imply that a mature French flintlock is common everywhere or throughout the whole century.
