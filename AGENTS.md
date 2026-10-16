@@ -29,7 +29,7 @@ python3 scripts/gen_view_manifest.py      # rebuild the game-tier manifest (--ch
 - `docs/javascripts/vf-view.js` — the game-tier switcher (see **Game tiers** below); reads the generated `vf-view-manifest.js` and prunes the sidebar to the selected tier.
 - `docs/stylesheets/extra.css` — styles the spell/miracle metadata block, tag chips, illustrations, and the tier switcher; color tokens are CSS custom properties with light/dark (`slate`) variants.
 
-**Spell, miracle and career pages** have a fixed structure that the CSS and `scripts/gen_game_data.py` depend on. Read [.agents/page-contracts.md](.agents/page-contracts.md) before creating or editing one.
+**Spell, miracle and career pages** have a fixed structure that the CSS and `scripts/gen_game_data.py` depend on. Read [.agents/page-contracts.md](.agents/page-contracts.md) before creating or editing one. Importing spells from the LotFP rulebook follows [.agents/lotfp-spell-import.md](.agents/lotfp-spell-import.md): PDF extraction, cleanup, adaptation and tier rules.
 
 **Machine-readable data.** `scripts/gen_game_data.py` emits `docs/data/{spells,miracles,careers}.json`, which ship with the site. Each spell/miracle row carries class, level, duration, range, rules text, tiers and URL; each career row carries status, combat skills, trait, level progression, and a `complete` flag that is false for the ~44 careers still stubbed (a Status line alone does not make a career written). Consumers — the `character-generation` and `party-generation` skills, anything reading the rules programmatically — should read these rather than re-parse the prose.
 

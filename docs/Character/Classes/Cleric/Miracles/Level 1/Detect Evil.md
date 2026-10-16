@@ -1,5 +1,5 @@
 ---
-title: Detect Chaos
+title: Detect Evil
 class: cleric
 level: 1
 duration: Instantaneous
@@ -8,12 +8,14 @@ tags:
   - level_1
   - cleric
 ---
-# Detect Chaos
+# Detect Evil
 
 **Class**: Cleric  
 **Level**: 1  
 **Duration**: Instantaneous  
 **Range**: Line of Sight  
+
+“Evil,” for purposes of this spell, is an in-game colloquial term. It should properly be called “Detect Chaos.”
 
 This spell allows the caster to know if anything within their field of vision (or on their person) is **Chaotic**. For the purposes of this spell, Chaotic is defined as, but not limited to:  
 
