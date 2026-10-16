@@ -12,7 +12,182 @@ window.VF_PAGES = {
       "expert"
     ]
   },
+  "Character/Classes/Cleric/Miracles/Level 2/Augury/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 2/Delay Poison/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 2/Enthrall/": {
+    "tiers": [
+      "expert"
+    ]
+  },
   "Character/Classes/Cleric/Miracles/Level 2/Heat Metal/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 2/Heroism/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 2/Resist Cold/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 2/Resist Fire/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 2/Silence 15' Radius/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 3/Cure Disease/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 3/Dispel Magic/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 3/Magic Vestment/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 3/Remove Curse/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 3/Sacrifice/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 3/Water Walk/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 4/Cure Serious Wounds/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 4/Detect Lie/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 4/Divination/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 4/Neutralize Poison/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 4/Protection from Evil 10' Radius/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 4/Spell Immunity/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 5/Commune/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 5/Cure Critical Wounds/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 5/Dispel Evil/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 5/Insect Plague/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 5/Quest/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 5/True Seeing/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 6/Anti-Magic Shell/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 6/Find the Path/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 6/Forbiddance/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 6/Heal/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 6/Tongues/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 6/Word of Recall/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 7/Control Weather/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 7/Earthquake/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 7/Holy Word/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Cleric/Miracles/Level 7/Part Water/": {
     "tiers": [
       "expert"
     ]
@@ -123,6 +298,581 @@ window.VF_PAGES = {
     ]
   },
   "Character/Classes/Magic-User/Special Rules/Magical Activities/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 3/Army of One/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 3/Clairvoyance/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 3/Detect Illusion/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 3/Dispel Magic/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 3/Explosive Runes/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 3/False Alignment/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 3/Fly/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 3/Gaseous Form/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 3/Gust of Wind/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 3/Haste/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 3/Hold Person/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 3/Howl of the Moon/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 3/Invisibility 10' Radius/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 3/Phantasmal Psychedelia/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 3/Protection from Normal Missiles/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 3/Secret Page/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 3/Speak with Dead/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 3/Strange Waters II/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 3/Suggestion/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 3/Water Breathing/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 4/Charm Monster/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 4/Confusion/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 4/Dig/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 4/Dimension Door/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 4/Extension/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 4/Hallucinatory Terrain/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 4/Improved Invisibility/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 4/Minor Creation/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 4/Minor Globe of Invulnerability/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 4/Mnemonic Enhancer/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 4/Plant Growth/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 4/Polymorph Others/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 4/Polymorph Self/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 4/Protection from Normal Weapons/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 4/Seven Gates/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 4/Shadow Monsters/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 4/Speak with Plants/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 4/Wall of Fire/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 4/Wall of Ice/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 4/Wizard Eye/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 5/Airy Water/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 5/Animate Dead/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 5/Chaos/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 5/Cloudkill/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 5/Contact Outer Sphere/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 5/Faithful Hound/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 5/Feeblemind/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 5/Hold Monster/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 5/Interposing Hand/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 5/Magic Jar/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 5/Major Creation/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 5/Passwall/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 5/Secret Chest/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 5/Stone Shape/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 5/Telekinesis/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 5/Teleport/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 5/Transmute Rock to Mud/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 5/Wall of Force/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 5/Wall of Iron/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 5/Wall of Stone/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 6/Animate Dead Monsters/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 6/Barrier/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 6/Contingency/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 6/Death Spell/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 6/Disintegrate/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 6/Geas/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 6/Glass Eye/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 6/Legend Lore/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 6/Lucubration/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 6/Major Globe of Invulnerability/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 6/Mass Suggestion/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 6/Mind Switch/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 6/Move Earth/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 6/Phantasmal Supergoria/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 6/Projected Image/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 6/Shades/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 6/Speak with Monsters/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 6/Stone to Flesh/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 6/Veil/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 6/Weird Vortex/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 7/Animated Artwork/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 7/Bestow Spell Ability/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 7/Duo-Dimension/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 7/Grasping Hand/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 7/Instant Summons/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 7/Magic Sword/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 7/Mass Invisibility/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 7/Phase Door/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 7/Power Word Stun/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 7/Prismatic Sphere/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 7/Prismatic Spray/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 7/Prismatic Wall/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 7/Remote Surveillance/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 7/Reverse Gravity/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 7/Simulacrum/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 7/Spell Turning/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 7/Statue/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 7/Vanish/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 7/Vision/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 7/Witchlamp Aura/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 8/Antipathy-Sympathy/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 8/Clone/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 8/Demand/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 8/Mass Charm Person/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 8/Maze/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 8/Mind Blank/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 8/Permanency/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 8/Polymorph Any Object/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 8/Symbol/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 8/Trap the Soul/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 9/Imprisonment/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 9/Power Word Kill/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 9/Shape Change/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 9/Temporal Stasis/": {
+    "tiers": [
+      "expert"
+    ]
+  },
+  "Character/Classes/Magic-User/Spells/Level 9/Time Stop/": {
     "tiers": [
       "expert"
     ]

@@ -45,3 +45,22 @@ Options, none applied:
 
 - **Status is unset on 49 of 66 career pages**, so those characters cannot roll
   starting money. Deferred by request.
+
+## Spells named in the text but missing from the lists
+
+The LotFP import (Magic-User 1–9, Cleric 1–7) left these spell names in the
+text without a page of their own. Each one either needs a page or a rewrite of
+the sentence that names it.
+
+- **Ventriloquism**, named in Permanency (MU 8): "the following spells can be
+  made permanent on a creature: … Ventriloquism". There is no such spell.
+- **Wish**, named in Symbol (MU 8). There is no such spell.
+- **Cause Fear**, named in Spell Immunity (Cleric 4). The nearest is Fear, the
+  reverse of Remove Fear (Cleric 1).
+- **True Seeing** and **Remove Curse** exist only as Cleric miracles, but
+  Magic-User spells rely on them: Veil, Simulacrum and Duo-Dimension (True
+  Seeing); Weird Vortex and Feeblemind (Remove Curse). The links point at the
+  Cleric pages. Decide whether Magic-Users get their own versions.
+- **Reverse spells without a page.** These live inside their parent spell and
+  links go there: Slow (Haste), Cause Disease (Cure Disease), Flesh to Stone
+  (Stone to Flesh), Fear (Remove Fear), Harm (Heal), Freedom (Imprisonment).

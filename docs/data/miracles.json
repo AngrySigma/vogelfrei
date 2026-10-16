@@ -1,5 +1,5 @@
 {
-  "count": 11,
+  "count": 46,
   "miracles": [
     {
       "name": "Bless",
@@ -8,7 +8,7 @@
       "level": 1,
       "duration": "Instantaneous",
       "range": "Touch",
-      "text": "This spell bestows the favor of the Cleric's deity upon the subject. That subject receives a number of points (1d6 + caster's level) to allocate to any future die rolls — To-Hit, saving throws, skill checks, surprise checks, whatever the subject desires — except damage rolls. The subject trades the points on a one-for-one basis and can adjust the roll by that many points however they see fit. The number of points to be used on a roll must be declared before the roll is made. All unused points are lost at dawn the following day.\n\nNo rolls concerning the use of magic can be modified by Bless. Elves and other intrinsically magical creatures cannot benefit from Bless.",
+      "text": "This spell bestows the favor of the Cleric's deity upon the subject. That subject receives a number of points (1d6 + caster's level) to allocate to any future die rolls — To-Hit, saving throws, skill checks, surprise checks, whatever the subject desires — except damage rolls. The subject trades the points on a one-for-one basis and can adjust the roll by that many points however they see fit. The number of points to be used on a roll must be declared before the roll is made. All unused points are lost at dawn the following day.\n\nNo rolls concerning the use of magic can be modified by Bless. Intrinsically magical creatures cannot benefit from Bless.",
       "tags": [
         "level_1",
         "cleric"
@@ -59,13 +59,13 @@
       "source": "Character/Classes/Cleric/Miracles/Level 1/Cure Light Wounds.md"
     },
     {
-      "name": "Detect Chaos",
+      "name": "Detect Evil",
       "kind": "miracle",
       "class": "cleric",
       "level": 1,
       "duration": "Instantaneous",
       "range": "Line of Sight",
-      "text": "This spell allows the caster to know if anything within their field of vision (or on their person) is **Chaotic**. For the purposes of this spell, Chaotic is defined as, but not limited to:  \n\n- **Undead creatures**\n\n- **Any creatures from other spheres or planes**\n\n- **Any creature with innate magical abilities**\n\n- **Artifacts, symbols, or sacred places dedicated to evil gods**\n\n- **Supernatural creatures incapable of being good**\n\nMortal creatures, physical objects not directly connected to evil deities, traps, poison, or places where great atrocities have taken place are **not** considered Chaotic or evil for the purposes of this spell.\n\nThis spell **does not detect magical items or effects**.  \n\nThe **reverse of this spell, Detect Order, detects Order instead of Chaos**.",
+      "text": "“Evil,” for purposes of this spell, is an in-game colloquial term. It should properly be called “Detect Chaos.”\n\nThis spell allows the caster to know if anything within their field of vision (or on their person) is **Chaotic**. For the purposes of this spell, Chaotic is defined as, but not limited to:  \n\n- **Undead creatures**\n\n- **Any creatures from other spheres or planes**\n\n- **Any creature with innate magical abilities**\n\n- **Artifacts, symbols, or sacred places dedicated to evil gods**\n\n- **Supernatural creatures incapable of being good**\n\nMortal creatures, physical objects not directly connected to evil deities, traps, poison, or places where great atrocities have taken place are **not** considered Chaotic or evil for the purposes of this spell.\n\nThis spell **does not detect magical items or effects**.  \n\nThe **reverse of this spell, Detect Order, detects Order instead of Chaos**.",
       "tags": [
         "level_1",
         "cleric"
@@ -74,8 +74,8 @@
         "base",
         "expert"
       ],
-      "url": "Character/Classes/Cleric/Miracles/Level 1/Detect Chaos/",
-      "source": "Character/Classes/Cleric/Miracles/Level 1/Detect Chaos.md"
+      "url": "Character/Classes/Cleric/Miracles/Level 1/Detect Evil/",
+      "source": "Character/Classes/Cleric/Miracles/Level 1/Detect Evil.md"
     },
     {
       "name": "Invisibility to Undead",
@@ -97,13 +97,13 @@
       "source": "Character/Classes/Cleric/Miracles/Level 1/Invisibility to Undead.md"
     },
     {
-      "name": "Protection from Chaos",
+      "name": "Protection from Evil",
       "kind": "miracle",
       "class": "cleric",
       "level": 1,
       "duration": "1 Round/level",
       "range": "Touch",
-      "text": "The subject of this spell becomes more resistant to Chaotic creatures and effects. Any Chaotic creature suffers a penalty to hit the subject in melee combat equal to the level of the caster, and the subject gets a +1 bonus per level of the caster to save against any attack or effect caused by a Chaotic creature. Protection from Chaos also allows a saving throw against Magic-User spells and effects against the subject which normally do not grant saves (spells which deliver damage do half on a successful save, other spells fail entirely on a successful save), but the subject must also save against the effects of the beneficial spells they want to be cast on them.\n\nFor purposes of this spell, “Chaotic creatures” include undead creatures, monsters with any sort of magical ability or attack, any creature that is able to use magic (including Magic-Users and Elves, but not Clerics), beings carrying magical items (potions and scrolls do not count, but wands and staves do), and any sort of supernatural creature incapable of acting beneficently.\n\nBeings and manifestations that have no material essence without the forces of Chaos or magic (incorporeal undead, demons, creatures from other spheres, Elves, etc.) are not able to physically touch those protected by this spell at all.\n\nThe reverse of this spell, Protection from Order, instead protects against creatures of Order and Cleric magic.",
+      "text": "“Evil,” for purposes of this spell, is an in-game colloquial term. It should properly be called “Protection from Chaos.”\n\nThe subject of this spell becomes more resistant to Chaotic creatures and effects. Any Chaotic creature suffers a penalty to hit the subject in melee combat equal to the level of the caster, and the subject gets a +1 bonus per level of the caster to save against any attack or effect caused by a Chaotic creature. Protection from Evil also allows a saving throw against Magic-User spells and effects against the subject which normally do not grant saves (spells which deliver damage do half on a successful save, other spells fail entirely on a successful save), but the subject must also save against the effects of the beneficial spells they want to be cast on them.\n\nFor purposes of this spell, “Chaotic creatures” include undead creatures, monsters with any sort of magical ability or attack, any creature that is able to use magic (including Magic-Users, but not Clerics), beings carrying magical items (potions and scrolls do not count, but wands and staves do), and any sort of supernatural creature incapable of acting beneficently.\n\nBeings and manifestations that have no material essence without the forces of Chaos or magic (incorporeal undead, demons, creatures from other spheres, etc.) are not able to physically touch those protected by this spell at all.\n\nThe reverse of this spell, Protection from Good, instead protects against creatures of Order and Cleric magic.",
       "tags": [
         "level_1",
         "cleric"
@@ -112,8 +112,8 @@
         "base",
         "expert"
       ],
-      "url": "Character/Classes/Cleric/Miracles/Level 1/Protection from Chaos/",
-      "source": "Character/Classes/Cleric/Miracles/Level 1/Protection from Chaos.md"
+      "url": "Character/Classes/Cleric/Miracles/Level 1/Protection from Evil/",
+      "source": "Character/Classes/Cleric/Miracles/Level 1/Protection from Evil.md"
     },
     {
       "name": "Purify Food and Drink",
@@ -192,6 +192,60 @@
       "source": "Character/Classes/Cleric/Miracles/Level 1/Turn Undead.md"
     },
     {
+      "name": "Augury",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 2,
+      "duration": "Instantaneous",
+      "range": "0",
+      "text": "This spell allows the caster to see a vision of all timelines, possibilities, and probabilities for but a moment, allowing him the chance to determine whether a particular action will bring weal or woe. Because the caster is afforded only a glimpse of the possibilities, and because he does not know all the forces at work at any particular time, the vision can be misinterpreted.\n\nThe base chance for deciphering a true answer is 70% + 1% per caster level. This roll is made secretly. The Augury can see into the future only 3 Turns, so anything that might happen after that does not affect the result. Thus, the result will not take into account the long-term consequences of a contemplated action.\n\nIf there is a reward for a particular action, but no risk, the answer is “weal.” If a certain action will bring the caster closer to a stated goal, the answer is “weal.” If there is a reward for a particular action, but risk involved, the answer is “weal.” Risk, but no reward is “woe.” Reward, but with overwhelming risk is “woe.” An action that leads the caster further away from a stated goal is “woe.” The Referee must judge all outcomes to determine the correct answer. If there is no clear answer, then there is a flat 50% chance of either “weal” or “woe.” These answers are for successful rolls as noted above, and a failed roll will always give the opposite answer.",
+      "tags": [
+        "level_2",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 2/Augury/",
+      "source": "Character/Classes/Cleric/Miracles/Level 2/Augury.md"
+    },
+    {
+      "name": "Delay Poison",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 2,
+      "duration": "Instantaneous",
+      "range": "Touch",
+      "text": "This spell counteracts the work of poison already done, weakening it, giving its victim a new chance at life. Any character that has succumbed to poison within the previous 24 hours can immediately make a new saving throw versus Poison to resist its effects when this spell is cast.",
+      "tags": [
+        "level_2",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 2/Delay Poison/",
+      "source": "Character/Classes/Cleric/Miracles/Level 2/Delay Poison.md"
+    },
+    {
+      "name": "Enthrall",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 2,
+      "duration": "See Below",
+      "range": "100'",
+      "text": "When one’s voice is given divine authority, it will be listened to. This spell allows the Cleric to hold the attention of a crowd and possibly to influence that crowd. Any non-hostile beings within 100' will stop what they are doing to listen to the Cleric speak.\n\nThe Cleric can compel a crowd to action. If the Cleric attempts to persuade the crowd to do something that they are already inclined to do, they will act if they fail a saving throw versus Magic (just because they want to do something, it does not necessarily make it a good idea, otherwise they would already have done it). If the Cleric attempts to persuade the crowd to do something that offends their sensibilities, they will attack the Cleric if they fail their saving throw.\n\nThe spell ends immediately if any of the subjects of the spell are attacked or harmed in any way, if there is a powerful distraction that breaks the crowd’s attention, or if the Cleric stops speaking to them.",
+      "tags": [
+        "level_2",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 2/Enthrall/",
+      "source": "Character/Classes/Cleric/Miracles/Level 2/Enthrall.md"
+    },
+    {
       "name": "Heat Metal",
       "kind": "miracle",
       "class": "cleric",
@@ -208,6 +262,582 @@
       ],
       "url": "Character/Classes/Cleric/Miracles/Level 2/Heat Metal/",
       "source": "Character/Classes/Cleric/Miracles/Level 2/Heat Metal.md"
+    },
+    {
+      "name": "Heroism",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 2,
+      "duration": "1 Round/level",
+      "range": "Touch",
+      "text": "This spell grants the subject 1d4 levels’ worth of Wounds and saving throws (and, for Warriors, Weapon Skill and Ballistic Skill) for the duration of the spell.\n\nWhen the spell ends, if the subject has more Wounds than when the spell was cast, his Wounds return to their previous level. If the subject has less than or equal to the number of Wounds, then there is no adjustment once the spell ends.",
+      "tags": [
+        "level_2",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 2/Heroism/",
+      "source": "Character/Classes/Cleric/Miracles/Level 2/Heroism.md"
+    },
+    {
+      "name": "Resist Cold",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 2,
+      "duration": "1 Turn/level",
+      "range": "Touch",
+      "text": "While under the effects of this spell, a character or monster is unharmed by freezing (non-magical) cold, and receives a bonus of +2 to all saving throws versus cold-based magical or breath attacks. In addition, 1 point of damage is subtracted from each die of damage dealt by a cold-based attack. Each die will still inflict a minimum of 1 point of damage.",
+      "tags": [
+        "level_2",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 2/Resist Cold/",
+      "source": "Character/Classes/Cleric/Miracles/Level 2/Resist Cold.md"
+    },
+    {
+      "name": "Resist Fire",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 2,
+      "duration": "1 Turn/level",
+      "range": "Touch",
+      "text": "While under the effects of this spell, a character or monster is unharmed by intense (non-magical) heat, and he receives a bonus of +3 to all saving throws versus heat-based magical or breath attacks. In addition, 1 point of damage is subtracted from each die of damage dealt by a heat-based attack. Each die will still inflict a minimum of 1 point of damage.",
+      "tags": [
+        "level_2",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 2/Resist Fire/",
+      "source": "Character/Classes/Cleric/Miracles/Level 2/Resist Fire.md"
+    },
+    {
+      "name": "Silence 15' Radius",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 2,
+      "duration": "2 Rounds/level",
+      "range": "120'",
+      "text": "Upon the casting of this spell, complete silence prevails in a diameter of 30'. All sound is stopped and conversation is impossible. No noise whatsoever issues from the area, but noise originating from outside the silenced area can be heard by those within it. The spell can be cast on a point in space, but the effect is stationary unless cast on a mobile object. The spell can be centered on a creature, and the effect then radiates from the creature and moves as it moves. An unwilling creature can attempt a saving throw versus Magic, and if successful the spell takes effect in a stationary location near the creature, but the creature can move out of the affected area.",
+      "tags": [
+        "level_2",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 2/Silence 15' Radius/",
+      "source": "Character/Classes/Cleric/Miracles/Level 2/Silence 15' Radius.md"
+    },
+    {
+      "name": "Cure Disease",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 3,
+      "duration": "Instantaneous",
+      "range": "Touch",
+      "text": "Through the mercy of divine powers, this spell allows a Cleric to cast out the sin and degeneracy in a person that allows evil spirits to invade his body and misalign his humors. Yet because man is a naturally immoral and spiritually disgusting creature, the subject of the spell must make a saving throw versus Magic in order for the spell to be effective.\n\nA successful casting instantly cures all diseases, including mummy rot and lycanthropy. If used against oozes or slimes, they do not receive a saving throw and suffer 1d6 damage per level of the caster (the cleric suffers an attack’s worth of damage when touching the slime with this attack).\n\n**Cause Disease** (the reverse of Cure Disease) inflicts a terrible withering disease on a victim, which will cause death in 2d12 days. A saving throw versus Magic is allowed. This disease can be cured with the casting of Cure Disease. The victim of this disease cannot be cured of damage from other spells, and it takes twice the time for normal healing. This suffering further results in a penalty of –2 to hit rolls made by the victim.",
+      "tags": [
+        "level_3",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 3/Cure Disease/",
+      "source": "Character/Classes/Cleric/Miracles/Level 3/Cure Disease.md"
+    },
+    {
+      "name": "Dispel Magic",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 3,
+      "duration": "Instantaneous",
+      "range": "120'",
+      "text": "Magic is unnatural and unwanted in the intended order of things. This spell empowers the proper forces of existence to expel the foul energies known as magic as if they never were. The spell affects a 20' cubic area. All spells in that area that are currently in effect are automatically negated. If cast in the same Round in combat as a spell from an enemy combatant, Dispel Magic can be used to disrupt and negate that spell.\n\nMonsters with magical ability or able to create magical effects (but not Magic-Users) lose the ability to use these powers for 2d6 Turns if they are within the area of effect and fail a saving throw versus Magic.\n\nAll magical items within the area of effect are temporarily disenchanted. They regain their enchantment after 2d6 Turns. If the caster casts Dispel Magic as a touch effect, then any item so touched is permanently disenchanted.\n\nDispel Magic negates magical curses or diseases for 2d6 Turns only.",
+      "tags": [
+        "level_3",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 3/Dispel Magic/",
+      "source": "Character/Classes/Cleric/Miracles/Level 3/Dispel Magic.md"
+    },
+    {
+      "name": "Magic Vestment",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 3,
+      "duration": "1 Turn/level",
+      "range": "Touch",
+      "text": "This spell shields the subject by the power of faith, granting them a +1 Armor Class for every level of the caster. This spell does not function if the subject is wearing armor or using any sort of protective enchantments or items.",
+      "tags": [
+        "level_3",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 3/Magic Vestment/",
+      "source": "Character/Classes/Cleric/Miracles/Level 3/Magic Vestment.md"
+    },
+    {
+      "name": "Remove Curse",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 3,
+      "duration": "Instantaneous",
+      "range": "Touch",
+      "text": "Remove Curse instantaneously removes one curse on a creature if it makes a saving throw versus Magic. Remove Curse does not remove the curse from a cursed shield, weapon, or suit of armor, although the spell enables the creature afflicted with any such cursed item to remove it from his person and get rid of it. Remove Curse counters and dispels Bestow Curse.\n\n**Bestow Curse** (the reverse of Remove Curse) can bring about any number of unfortunate effects upon a being, determined by the caster and Referee. Some limits of effect must be enforced. Typical possibilities are limited to no more than a –2 penalty to saving throws or –4 to hit, an ability being reduced by 50%. These effects can have any number of creative symptoms. The victim can avoid being affected by Bestow Curse with a successful saving throw versus Magic.",
+      "tags": [
+        "level_3",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 3/Remove Curse/",
+      "source": "Character/Classes/Cleric/Miracles/Level 3/Remove Curse.md"
+    },
+    {
+      "name": "Sacrifice",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 3,
+      "duration": "Instantaneous",
+      "range": "Touch",
+      "text": "This spell allows the Cleric to transfer any desired number of Wounds from himself to the target. The reverse of this spell, **Drain Life**, allows the caster to drain 1d6+1 Wounds from a creature, with a successful attack roll. The Wounds are transferred to the cleric through healing.",
+      "tags": [
+        "level_3",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 3/Sacrifice/",
+      "source": "Character/Classes/Cleric/Miracles/Level 3/Sacrifice.md"
+    },
+    {
+      "name": "Water Walk",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 3,
+      "duration": "1 Turn/level",
+      "range": "Touch",
+      "text": "The subject of this spell is granted divine favor, allowing him to walk on water, or any kind of liquid, as if it were dry land. However, liquid is similarly impenetrable to the subject as normal ground, so it would be impossible to reach into a pool of water to grab anything, for example. If the liquid is dangerous (lava, acid), the subject is still subject to negative effects of the substance. The subject can end the spell at any time.",
+      "tags": [
+        "level_3",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 3/Water Walk/",
+      "source": "Character/Classes/Cleric/Miracles/Level 3/Water Walk.md"
+    },
+    {
+      "name": "Cure Serious Wounds",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 4,
+      "duration": "Instantaneous",
+      "range": "Touch",
+      "text": "By the power of the Cleric’s faith and the strength of the life force of the wounded character, this spell restores 1d6 Wounds to one damaged character, plus a number of points equal to the level of the caster, plus a number of points equal to the level of the subject. For example, if the caster is 10th level and the character being healed is 5th level, the spell restores 1d6+15 Wounds.\n\nThe spell can also be used to remove one temporary negative condition instead of restoring lost Wounds. For example, if a character is paralyzed, stunned, or blinded for a set period of time, then this spell will remove any of these conditions. It will not work on permanent conditions, and only one condition (or damage) can be treated per casting of the spell.\n\nRecipients of the spell can only be restored to their normal maximum Wounds, and no more. Any excess restored points are lost.\n\nThe reverse of the spell can only be used to inflict points of damage.",
+      "tags": [
+        "level_4",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 4/Cure Serious Wounds/",
+      "source": "Character/Classes/Cleric/Miracles/Level 4/Cure Serious Wounds.md"
+    },
+    {
+      "name": "Detect Lie",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 4,
+      "duration": "Instantaneous",
+      "range": "0",
+      "text": "This spell allows the caster to determine if any one statement made to him in the past hour was the truth or a lie. Honest mistakes are not detected as lies, nor are untrue statements made by charmed or bewitched individuals, for they know not what they say.",
+      "tags": [
+        "level_4",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 4/Detect Lie/",
+      "source": "Character/Classes/Cleric/Miracles/Level 4/Detect Lie.md"
+    },
+    {
+      "name": "Divination",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 4,
+      "duration": "Instantaneous",
+      "range": "0",
+      "text": "The Divine powers know everything that was, everything that is, and everything that will be. This spell allows the Cleric to distract his god with his resplendent devotion and allow some of the god’s knowledge to slip into the world. The Cleric can then interpret those memories to gain information regarding an area, building, area of a dungeon, or other similar place.\n\nInformation gained includes, in vague terms, a general idea of how powerful the creatures are there present, the general amount of treasure present, what kind of resistance to attack is present, and the nature of it, whether it is good, evil, Chaotic, Orderly, etc. The base chance for a correct divination is 60%+1% per caster level. The Referee should roll this secretly. If the dice roll fails, false information is delivered.",
+      "tags": [
+        "level_4",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 4/Divination/",
+      "source": "Character/Classes/Cleric/Miracles/Level 4/Divination.md"
+    },
+    {
+      "name": "Neutralize Poison",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 4,
+      "duration": "Instantaneous",
+      "range": "Touch",
+      "text": "The caster removes all trace of venom and poison in the creature or object touched. A poisoned creature suffers no additional effects from the poison, and any temporary effects are ended. The spell does not reverse instantaneous effects such as Wound damage, or other effects that do not go away on their own. If a character dies of poison, Neutralize Poison will revive the character if the spell is used no more than one Turn after death.\n\n**Inflict Poison**, the reverse of this spell, gives the caster a poison touch, and the first victim touched by the Cleric must save versus Poison or die.",
+      "tags": [
+        "level_4",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 4/Neutralize Poison/",
+      "source": "Character/Classes/Cleric/Miracles/Level 4/Neutralize Poison.md"
+    },
+    {
+      "name": "Protection from Evil 10' Radius",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 4,
+      "duration": "1 Round/level",
+      "range": "0",
+      "text": "“Evil,” for purposes of this spell, is an in-game colloquial term. It should properly be called “Protection from Chaos, 10' Radius.”\n\nThis spell creates a zone of protection 10' in radius, centered on and moving with the caster. Everyone within this zone becomes more resistant to Chaotic creatures and effects. Any Chaotic creature suffers a penalty to hit the subject in melee combat equal to the level of the caster, and the subject gets a +1 bonus per level of the caster to save against any attack or effect caused by a Chaotic creature. Protection from Evil 10' Radius also allows a saving throw against Magic-User spells and effects against the subject which normally do not grant saves (spells which deliver damage do half on a successful save, other spells fail entirely on a successful save), but the subject must also save against the effects of the beneficial spells he wants to be cast on him.\n\nMagic-User spells or effects cast from within the zone suffer the same penalties as spells being cast into the zone, no matter where the spell is aimed.\n\nFor purposes of this spell, “Chaotic creatures” include undead creatures, monsters with any sort of magical ability or attack, any creature that is able to use magic (including Magic-Users, but not Clerics), beings carrying magical items (potions and scrolls do not count, but wands and staves do), and any sort of supernatural creature incapable of acting beneficently.\n\nBeings and manifestations that have no real-world essence without the forces of Chaos or magic (incorporeal undead, demons, extra-dimensional beings, etc., but not angels or other powers of Order) are not able to enter this zone at all. If such a being is forced into the zone by fault of the caster (backing one into a corner, for instance), the spell ends. It is a defensive spell and using it as a weapon disrupts it.\n\n**Protection from Good 10' Radius**, the reverse of this spell, instead protects against Orderly creatures and Cleric magic.",
+      "tags": [
+        "level_4",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 4/Protection from Evil 10' Radius/",
+      "source": "Character/Classes/Cleric/Miracles/Level 4/Protection from Evil 10' Radius.md"
+    },
+    {
+      "name": "Spell Immunity",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 4,
+      "duration": "1 Turn/level",
+      "range": "Touch",
+      "text": "The caster can use this spell to grant resistance to all spells and spell-like abilities, improving his chance to make saves versus Magic. Spells that Charm, [Command](../Level%201/Command.md), Cause Fear, and similar effects are granted a saving throw bonus of +8. Extremely powerful compulsive spells such as [Geas](../../../Magic-User/Spells/Level%206/Geas.md) are granted a bonus to a saving throw of +5. All other spells are granted a +3 saving throw bonus. The caster can affect 1 creature for the spell's duration, per level, or multiple creatures with the duration divided among them.",
+      "tags": [
+        "level_4",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 4/Spell Immunity/",
+      "source": "Character/Classes/Cleric/Miracles/Level 4/Spell Immunity.md"
+    },
+    {
+      "name": "Commune",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 5,
+      "duration": "See Below",
+      "range": "0",
+      "text": "By entering into deep meditation, the Cleric’s spirit momentarily ascends to its final reward for a glimpse of the afterlife for the devout believer. If the Referee judges that the Cleric has not been faithful to his religion, the Cleric must make a saving throw versus Magic (Willpower modifiers apply). If the roll fails, then the Cleric finds himself in the afterlife reserved for heretics and apostates—more horrible than any other punishment reserved for mortal souls. The spell will have no benefit, and the Cleric will effectively age 1d10 years from the experience as the soul returns to the body, ending the spell.\n\nIf the Cleric has been at the very least reasonably devout, or succeeds in the saving throw, the caster experiences the afterlife reserved for the most blessed of his faith, the ultimate paradise. In this place, all time and all knowledge are one. The Cleric’s player can ask three questions that can be answered “yes” or “no,” representing the Cleric’s efforts to see specific events within the All, and the Referee must answer each question truthfully.\n\nIf the spell is cast more than once a week and the Cleric is not sufficiently devout, the saving throw to prevent a glimpse of eternal damnation is made at a –1 penalty, cumulative per number of times the spell is cast. If the Cleric is devout, he must make a saving throw versus Magic (Willpower modifiers apply inversely; a high Willpower makes this saving throw more difficult), with a –1 cumulative penalty every additional time a week the spell is cast, or else the overwhelming joy and vindication of his beliefs is too strong and he will not return from paradise.",
+      "tags": [
+        "level_5",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 5/Commune/",
+      "source": "Character/Classes/Cleric/Miracles/Level 5/Commune.md"
+    },
+    {
+      "name": "Cure Critical Wounds",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 5,
+      "duration": "Instantaneous",
+      "range": "Touch",
+      "text": "By the power of the Cleric’s faith, this spell restores 4d6 Wounds to one damaged character, plus a number of points equal to the level of the caster. For example, if the caster is 13th level, the spell restores 4d6+13 Wounds.\n\nThe spell can also be used to remove one temporary negative condition instead of restoring lost Wounds. For example, if a character is paralyzed, stunned, or blinded for a set period of time, then this spell will remove any of these conditions. It will not work on permanent conditions, and only one condition (or damage) can be treated per casting of the spell.\n\nRecipients of the spell can only be restored to their normal maximum Wounds, and no more. Any excess restored points are lost.\n\nThe reverse of the spell can only be used to inflict points of damage.",
+      "tags": [
+        "level_5",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 5/Cure Critical Wounds/",
+      "source": "Character/Classes/Cleric/Miracles/Level 5/Cure Critical Wounds.md"
+    },
+    {
+      "name": "Dispel Evil",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 5,
+      "duration": "Instantaneous",
+      "range": "30'",
+      "text": "Through the magnificence of the most holy powers of the universe, all summoned or other enchanted creatures within 30' of the caster must succeed in a saving throw versus Magic or be destroyed. Even if the saving throw is made, any creature that would otherwise have been banished will suffer a penalty of –7 to hit the caster for the next 6 Turns.\n\nMagic-Users and others with prepared spells (but not Clerics) must make a saving throw for every prepared spell, and a failure means that that spell is lost until prepared again. Creatures affected by this spell include, but are certainly not limited to, demons, familiars, and elementals.",
+      "tags": [
+        "level_5",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 5/Dispel Evil/",
+      "source": "Character/Classes/Cleric/Miracles/Level 5/Dispel Evil.md"
+    },
+    {
+      "name": "Insect Plague",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 5,
+      "duration": "1 Turn/level",
+      "range": "360'",
+      "text": "The caster summons a swarm of locusts in a 60' diameter. The swarm causes creatures occupying its area to flee if they are 2 or less Hit Dice. This spell does not function when cast underground. The caster can control the swarm to move 20' in a Round. The caster must concentrate for the duration of the spell to maintain control over the swarm, and if the swarm leaves the range the caster loses control of it. The caster also loses control of the swarm if he is successfully attacked.",
+      "tags": [
+        "level_5",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 5/Insect Plague/",
+      "source": "Character/Classes/Cleric/Miracles/Level 5/Insect Plague.md"
+    },
+    {
+      "name": "Quest",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 5,
+      "duration": "See Below",
+      "range": "60'",
+      "text": "When this spell is cast on a character, a saving throw versus Magic is allowed. Success indicates that the spell is not effective. If the save fails, the caster can compel the character to take on a quest. This quest can be dangerous, but the character cannot be instructed to purposefully harm himself. Should the affected character resist taking on the quest, he will be under the effect of a curse, the nature of which is decided by the Referee. The only way to remove the curse is to undertake the quest, and when the quest is finished the spell terminates.",
+      "tags": [
+        "level_5",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 5/Quest/",
+      "source": "Character/Classes/Cleric/Miracles/Level 5/Quest.md"
+    },
+    {
+      "name": "True Seeing",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 5,
+      "duration": "1 Round/level",
+      "range": "Touch",
+      "text": "The caster confers on a subject the ability to ignore all of the lies told to us by our natural eyes and to see all things as they actually are. The subject sees through normal and magical darkness, notices secret doors, sees invisible creatures or objects normally, sees through illusions, and sees the true form of polymorphed, changed, or transmuted things. **False Seeing** (the reverse of True Seeing) makes objects, characters, and monsters appear as their “opposite.” The ugly appears beautiful, the valuable appears worthless, and so on.",
+      "tags": [
+        "level_5",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 5/True Seeing/",
+      "source": "Character/Classes/Cleric/Miracles/Level 5/True Seeing.md"
+    },
+    {
+      "name": "Anti-Magic Shell",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 6,
+      "duration": "1 Turn/level",
+      "range": "0",
+      "text": "Casting this spell restores the supremacy of natural order in a small area for a short amount of time. Within a 10' radius around the caster, all magic is negated for the full duration of the spell. Magical attacks will not affect the caster, magic items and spells within the radius are suppressed, and the caster cannot perform further magic until the spell has expired. Spells cast through the Anti-Magic area will also be ineffective. Innately magical creatures cannot pass through the area, but magical beings with physical form will merely lose all of their magical abilities while in the Anti-Magic area. The area affected by the Anti-Magic Shell is stationary and does not move with the caster.",
+      "tags": [
+        "level_6",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 6/Anti-Magic Shell/",
+      "source": "Character/Classes/Cleric/Miracles/Level 6/Anti-Magic Shell.md"
+    },
+    {
+      "name": "Find the Path",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 6,
+      "duration": "1 Turn/level",
+      "range": "Touch",
+      "text": "The recipient of this spell can find the shortest, most direct physical route to a specified destination, whether into or out of a locale. The locale can be outdoors, underground, or even inside a [Maze](../../../Magic-User/Spells/Level%208/Maze.md) spell. Find the Path works with respect to locations, not objects or creatures at a locale. The spell enables the subject to sense the correct direction that will eventually lead it to its destination, indicating, at appropriate times, the exact path to follow or physical actions to take. The spell ends when the destination is reached, or the duration expires, whichever comes first. Find the Path can be used to remove the subject from the effect of a [Maze](../../../Magic-User/Spells/Level%208/Maze.md) spell in a single Round.\n\n**Lose the Path** (the reverse of Find the Path) renders a touched being completely incapable of finding its way.",
+      "tags": [
+        "level_6",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 6/Find the Path/",
+      "source": "Character/Classes/Cleric/Miracles/Level 6/Find the Path.md"
+    },
+    {
+      "name": "Forbiddance",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 6,
+      "duration": "Permanent",
+      "range": "120'",
+      "text": "Forbiddance seals a 60' square area against all planar travel, either into or out of it, or within it. This includes all teleportation spells (such as [Dimension Door](../../../Magic-User/Spells/Level%204/Dimension%20Door.md) and [Teleport](../../../Magic-User/Spells/Level%205/Teleport.md)), plane shifting, astral travel, and all summoning spells. Such effects simply fail automatically.",
+      "tags": [
+        "level_6",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 6/Forbiddance/",
+      "source": "Character/Classes/Cleric/Miracles/Level 6/Forbiddance.md"
+    },
+    {
+      "name": "Heal",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 6,
+      "duration": "Instantaneous",
+      "range": "Touch",
+      "text": "Heal enables the caster to channel divine energy into a creature to wipe away injury and afflictions. It immediately ends any and all of the following adverse conditions affecting the target: blindness, disease, fatigue, [Feeblemind](../../../Magic-User/Spells/Level%205/Feeblemind.md), and poison. It heals all but 1d4 points of damage.\n\n**Harm** (reverse of Heal) takes away all but 1d4 Wounds from the victim touched and inflicts a disease as per the spell [Cause Disease](../Level%203/Cure%20Disease.md).",
+      "tags": [
+        "level_6",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 6/Heal/",
+      "source": "Character/Classes/Cleric/Miracles/Level 6/Heal.md"
+    },
+    {
+      "name": "Tongues",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 6,
+      "duration": "Permanent",
+      "range": "0",
+      "text": "This spell allows the Cleric to communicate with one specific being. This does not give the Cleric the ability to speak different languages, nor does it give the other being the ability to speak any specific language, but the Cleric and this being will understand each other. If for some reason the target of the spell does not wish this communication, it is allowed a saving throw versus Magic to avoid the spell’s effect.\n\nThe reverse of this spell, **Babble**, curses one victim to never again understand or be understood by his fellow beings. The Cleric must touch the victim, who receives a saving throw versus Magic to avoid the spell’s effect.",
+      "tags": [
+        "level_6",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 6/Tongues/",
+      "source": "Character/Classes/Cleric/Miracles/Level 6/Tongues.md"
+    },
+    {
+      "name": "Word of Recall",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 6,
+      "duration": "Instantaneous",
+      "range": "0",
+      "text": "The casting of this spell summons the very essence of his deity to protect him, and this divine force removes the caster from his current location and delivers him instantly to his sanctuary. The caster must designate the sanctuary when preparing the spell, and it must be a very familiar place. Any distance can be traveled with no chance of error. In addition to himself, the caster can transport an additional 25 pounds per level of experience.",
+      "tags": [
+        "level_6",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 6/Word of Recall/",
+      "source": "Character/Classes/Cleric/Miracles/Level 6/Word of Recall.md"
+    },
+    {
+      "name": "Control Weather",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 7,
+      "duration": "4d12 hours",
+      "range": "0",
+      "text": "To be in control of divine power is to control the natural order, and this spell is the ultimate manifestation of that control as the caster can change the weather in the local area. It takes 1 Turn to cast the spell and an additional 1d4 Turns for the effects to manifest.\n\nThe caster controls the general tendencies of the weather, such as the direction and intensity of the wind, but cannot control specific applications of the weather—where lightning strikes, for example, or the exact path of a tornado. Contradictory weather conditions are not possible simultaneously. Control Weather can do away with atmospheric phenomena (naturally occurring or otherwise) as well as create them.\n\nIf the weather is completely foreign to the area, the spell’s duration is cut in half.",
+      "tags": [
+        "level_7",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 7/Control Weather/",
+      "source": "Character/Classes/Cleric/Miracles/Level 7/Control Weather.md"
+    },
+    {
+      "name": "Earthquake",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 7,
+      "duration": "Instantaneous",
+      "range": "120'",
+      "text": "The wrath of divine power is a terrible thing to behold, and this spell allows the Cleric to command this wrath and unleash it against his enemies! An intense, but highly localized tremor rips the ground, to a diameter of 5' per caster level. The shock collapses structures, opens cracks in the ground, and more. The effect lasts for 1 Round, during which time creatures on the ground cannot move, cast spells, or attack. The earthquake affects all terrain, vegetation, structures, and creatures in the area. The specific effect of an earthquake spell depends on the nature of the terrain where it is cast.\n\n- **Cave, Cavern, or Tunnel**: The spell collapses the roof, dealing 7d6 points of damage to any creature caught under the cave-in. An earthquake cast on the roof of a very large cavern could also endanger those outside the actual area, but below the falling debris.\n\n- **Cliffs**: *Earthquake* causes a cliff to crumble, creating a landslide that travels horizontally as far as it fell vertically. Any creature in the path takes 7d6 points of damage.\n\n- **Open Ground**: Fissures open in the earth, and 1d6 creatures on the ground fall into one and die.\n\n- **Structure**: Any structure standing on open ground takes 5d12 points of structural Wound damage, enough to collapse a typical wooden or masonry building, but not a structure built of stone or reinforced masonry. Any creature caught inside a collapsing structure takes 7d6 points of damage.\n\n- **River, Lake, or Marsh**: Fissures open underneath the water, draining away the water from that area and forming muddy ground. Soggy marsh or swampland becomes quicksand for the duration of the spell, sucking down structures. In addition, 1d6 creatures in the area will be sucked into the mud and killed.",
+      "tags": [
+        "level_7",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 7/Earthquake/",
+      "source": "Character/Classes/Cleric/Miracles/Level 7/Earthquake.md"
+    },
+    {
+      "name": "Holy Word",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 7,
+      "duration": "See Below",
+      "range": "0",
+      "text": "The language of gods is not one for mortal ears. In fact, it is the speaking of these words that is behind the power of Clerical magic. Some words though, are more devastating than others. The most destructive word is the true name of the Cleric’s god, spoken as the god would speak it. The intonation of this *Holy Word* utterly banishes creatures not native to the caster’s plane, hurling them back to their respective planes of existence. Additionally, other creatures will suffer effects from the *Holy Word* in accordance with the creature’s Hit Dice:\n\n| Hit Dice | Effect                                                |\n|----------|-------------------------------------------------------|\n| < 4      | Killed                                                |\n| 4–7      | Paralyzed 1d4 Turns                                   |\n| 8–11     | Slowed 2d4 Rounds                                     |\n| 12+      | Deafened 1d4 Rounds, –2 to hit, Movement –25%         |\n\nAll creatures, save angels or other legitimately holy beings, priests, Clerics and devout followers of the caster’s religion, within 60' of the caster are affected.\n\nThe reverse of *Holy Word*, **Unholy Word**, has the same effect save that demons and unholy creatures are not affected.",
+      "tags": [
+        "level_7",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 7/Holy Word/",
+      "source": "Character/Classes/Cleric/Miracles/Level 7/Holy Word.md"
+    },
+    {
+      "name": "Part Water",
+      "kind": "miracle",
+      "class": "cleric",
+      "level": 7,
+      "duration": "1 Turn/level",
+      "range": "120'",
+      "text": "The caster creates a path 10' wide and a maximum of 120' long through water, such as a pond, lake, river, or other body of water. The caster can dismiss the spell effects before the duration ends, thus allowing water to crash down upon unwanted pursuers.",
+      "tags": [
+        "level_7",
+        "cleric"
+      ],
+      "tiers": [
+        "expert"
+      ],
+      "url": "Character/Classes/Cleric/Miracles/Level 7/Part Water/",
+      "source": "Character/Classes/Cleric/Miracles/Level 7/Part Water.md"
     }
   ]
 }
