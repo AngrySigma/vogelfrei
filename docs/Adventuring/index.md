@@ -10,11 +10,11 @@ Rules governing what happens outside of direct combat — travel, exploration, s
 
 2. [Skills](Skills.md) — skill checks, their uses, and how they are resolved
 
-3. [Time and Movement](Time%20and%20Movement.md) — turn structure, movement rates, and encumbrance
+3. [Time and Movement](Time%20and%20Movement.md) — watches, turns, and rounds; movement rates and encumbrance
 
 4. [Dungeon Exploration](Dungeon%20Exploration.md) — the dungeon Turn, light and doors, and wandering monsters
 
-5. [Wilderness Travel](Wilderness%20Travel.md) — the travel day, getting lost, and encounters in the open
+5. [Wilderness Travel](Wilderness%20Travel.md) — the day in watches, getting lost, encounters in the open, and time in town
 
 6. [Hazards](Hazards/index.md) — damage, environmental dangers, deterioration, and poisons
 

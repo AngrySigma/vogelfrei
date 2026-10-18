@@ -481,7 +481,7 @@ site navigation.
 - [Skills](https://angrysigma.github.io/vogelfrei/Adventuring/Skills/index.md): Characters may possess various skills such as but not limited to: Architecture, Tinkering, Search.
 - [Time and Movement](https://angrysigma.github.io/vogelfrei/Adventuring/Time%20and%20Movement/index.md): Within the game, time passes as is convenient for play.
 - [Dungeon Exploration](https://angrysigma.github.io/vogelfrei/Adventuring/Dungeon%20Exploration/index.md): Underground and indoor exploration — ruins, crypts, mines, cellars, and every other place the sun does not reach — is played out in Turns of ten minutes.
-- [Wilderness Travel](https://angrysigma.github.io/vogelfrei/Adventuring/Wilderness%20Travel/index.md): Beyond the walls, time is counted in days.
+- [Wilderness Travel](https://angrysigma.github.io/vogelfrei/Adventuring/Wilderness%20Travel/index.md): Beyond the walls, time is counted in watches.
 
 ## Adventuring › Hazards
 

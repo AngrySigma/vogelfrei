@@ -88,11 +88,11 @@ Rules governing what happens outside of direct combat.
 
 *   **[Skills](./Adventuring/Skills.md)** — skill checks, the 1-in-6 base chance, natural affinities, career advances, situational modifiers, and optional ability checks.
 
-*   **[Time and Movement](./Adventuring/Time%20and%20Movement.md)** — turn structure, movement rates in dungeon and wilderness, and encumbrance.
+*   **[Time and Movement](./Adventuring/Time%20and%20Movement.md)** — watches, turns, and rounds; movement rates in dungeon and wilderness; encumbrance and the forced march.
 
 *   **[Dungeon Exploration](./Adventuring/Dungeon%20Exploration.md)** — the dungeon Turn, light sources, doors, searching, and wandering monsters.
 
-*   **[Wilderness Travel](./Adventuring/Wilderness%20Travel.md)** — the travel day, getting lost, wilderness encounters, and rest on the road.
+*   **[Wilderness Travel](./Adventuring/Wilderness%20Travel.md)** — the day in watches, actions, rest and guard, getting lost, wilderness encounters, and time in town.
 
 *   **[Healing](./Adventuring/Healing.md)** — natural recovery of Wounds and Stamina, magical healing, and long-term rest.
 

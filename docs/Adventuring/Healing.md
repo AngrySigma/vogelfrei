@@ -1,6 +1,6 @@
 # Healing
 
-Damaged characters who have at least half of their Wounds remaining recover 1 Wound after a peaceful night’s rest. Taking a watch shift does not prevent this recovery unless something happens during the shift. Damaged characters who have at least half of their Wounds remaining can also recover an additional 1d3 Wounds by resting a full day. To count as a full day of “rest,” a character cannot engage in any strenuous activity, including, but not limited to traveling, fighting, researching, running, searching, hunting, or foraging, and the character must have adequate food and water. Basically, the character can do no more than converse and walk around his immediate area.
+Damaged characters who have at least half of their Wounds remaining recover 1 Wound after a peaceful night’s rest. Standing guard does not prevent this recovery unless something happens while on guard. Damaged characters who have at least half of their Wounds remaining can also recover an additional 1d3 Wounds by resting a full day. To count as a full day of “rest,” a character cannot engage in any strenuous activity, including, but not limited to traveling, fighting, researching, running, searching, hunting, or foraging, and the character must have adequate food and water. Basically, the character can do no more than converse and walk around his immediate area.
 
 Characters who have less than half of their Wounds remaining are in worse shape. They recover nothing from a night’s rest, and recover only 1 Wound by resting a full day.
 
@@ -18,7 +18,7 @@ Healing restores Wounds and ability scores only to their normal maximum, never m
 
 Stamina recovers faster than Wounds, but it still demands rest.
 
-**1-hour rest:** After 6 Turns (one hour) of uninterrupted rest, a character rolls their class Stamina die (d4, d3, or d2 depending on class tier), adds their Toughness modifier, and recovers that many Stamina points (always at least 1), up to their maximum. This may be taken anywhere, including inside a dungeon, but the Referee makes a Wandering Encounter check for each Turn spent resting. Characters on watch or actively moving cannot benefit.
+**1-hour rest:** After 6 Turns (one hour) of uninterrupted rest, a character rolls their class Stamina die (d4, d3, or d2 depending on class tier), adds their Toughness modifier, and recovers that many Stamina points (always at least 1), up to their maximum. This may be taken anywhere, including inside a dungeon, but the Referee makes a Wandering Encounter check for each Turn spent resting. Characters standing guard or actively moving cannot benefit.
 
 **Full recovery:** A full night of sleep in a safe location (an inn, a secured camp) restores Stamina completely. The same conditions that prevent Wounds recovery apply: characters in a dungeon or similarly hostile environment cannot fully restore Stamina there.
 
