@@ -17,20 +17,20 @@ Any character has a 1 in 6 chance to note any of these features in the surroundi
 ---
 ### Bushcraft
 
-Characters may be able to find food and water during their journeys overland. To find food in the wilderness, the character must roll against his Bushcraft skill, with terrain modifying the skill as follows:
+Characters may be able to find food and water during their journeys overland. Foraging — gathering, trapping, and hunting alike — takes a [watch](Wilderness%20Travel.md#the-day-in-watches), and one roll against the character's Bushcraft skill, with terrain modifying the skill as follows:
 
 | Terrain   | Chance of Finding Food |
 | --------- | ---------------------- |
-| Plains    | +1 in 6                |
-| Mountains | normal                 |
-| Forest    | +2 in 6                |
-| Desert    | -1 in 6                |
-| Jungle    | +2 in 6                |
-| Swamp     | normal                 |
+| Plains    | normal                 |
+| Mountains | -1 in 6                |
+| Forest    | +1 in 6                |
+| Desert    | -2 in 6                |
+| Jungle    | +1 in 6                |
+| Swamp     | -1 in 6                |
 
-Hunting takes time, and the distance traveled during a day where successful hunting occurs is lessened by 1d4×25%. Unsuccessful hunting takes all day. Success means that 1d4 days’ worth of meals for a single person has been acquired for the party.
+Success means that 1d4 days’ worth of meals for a single person has been acquired for the party. Failure means the watch was spent for nothing; the character may try again in the next.
 
-1d10 units of ammunition are expended in the attempt. If a character does not have a proper missile weapon, the chance to find food is lowered by 1. If a character has no missile weapon at all, reduce the chance by one more. If it is winter, reduce the chances by another point unless in the desert, where this does not matter.
+1d10 units of ammunition are expended in each attempt. If a character does not have a proper missile weapon, the chance to find food is lowered by 1. If a character has no missile weapon at all, reduce the chance by one more. If it is winter, reduce the chances by another point unless in the desert, where this does not matter. A chance reduced to 0 in 6 or below succeeds only if the character rolls a 1 twice in a row.
 
 All food gained from foraging and hunting is considered to be the equivalent of *“standard rations”* 
 
