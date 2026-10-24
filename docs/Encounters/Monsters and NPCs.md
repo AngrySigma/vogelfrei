@@ -31,11 +31,13 @@ Everyone in the world has a class, but most people have no career advances at al
 
 - attack with a plain **d20**, with no Weapon Skill or Ballistic Skill bonus;
 
-- save on the **Level 0** row of the table above, unless their class description says otherwise;
+- save on the **Level 0** row of their class's saving throw table, which is the level 1 row two points worse; if the Referee has not settled the class, the **Level 0** row of the table above serves;
 
 - have the Wounds on the **Level 0** row of their class table, and **no Stamina**: every blow goes straight to Wounds.
 
 As a rule of thumb, a peasant has **6 Wounds**, a townsman or a clerk **5**, and someone who has seen hard service — an old soldier, a veteran watchman — **7**. When in doubt, an unlevelled man met in a dungeon has 6. Toughness counts only if the Referee has bothered to give the NPC ability scores.
+
+There are no level 0 Magic-Users: whoever has learned to cast a spell has the first level of the class.
 
 Classed NPCs — a level 2 Road Warden, a level 4 Witch — use their class and career tables exactly as a player Character would, Stamina included.
 

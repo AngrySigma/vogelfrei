@@ -19,6 +19,7 @@ Rogues are defined by their adaptability and their lack of official social stand
 
 | Level | Paralyse | Poison | Breath | Device | Magic |
 | ----- | -------- | ------ | ------ | ------ | ----- |
+| 0     | 16       | 18     | 17     | 16     | 16    |
 | 1     | 14       | 16     | 15     | 14     | 14    |
 | 2     | 14       | 16     | 15     | 14     | 14    |
 | 3     | 14       | 16     | 15     | 14     | 14    |
