@@ -57,7 +57,7 @@ When a Character makes an attack, follow these steps:
 3. *Roll for Attack*
     - The attacking player rolls **d20**.
     - Add **Weapon Skill** to the roll in **Melee** or **Ballistic Skill** in **Ranged**. A **firearm** adds neither: anyone can point a gun.
-    - Apply the weapon's **armour modifier**, if the target wears armour (see below)
+    - Apply the weapon's **armour modifier**, if the target wears armour or carries a shield (see below)
     - Apply **Weapon Length** modifier in **Melee**
 
     | Weapon Length vs. Opponent | To Hit Bonus |
@@ -72,10 +72,10 @@ When a Character makes an attack, follow these steps:
     - Compare the result to the Opponent's AC. **If the roll equals or exceeds the AC, the attack lands.**
 
 4. *Calculate Damage*
-    - Roll the **Weapon Damage**. Every weapon deals **d8**; the weapon tables mark the lighter ones that roll **2d8 and keep the lower**, and the heavier ones that roll **2d8 and keep the higher**.
+    - Roll the **Weapon Damage**. Every weapon deals **d8**; the weapon tables mark the lighter ones that roll **2d8 and keep the lower**, and the heavier ones that roll **2d8 and keep the higher**. An improvised blow rolls **d8−3**, to a minimum of 1.
 
 !!! note "Armour modifier"
-    Each weapon in the equipment tables carries an armour modifier: negative for small weapons that struggle against armour, positive for those made to defeat it, 0 for most. Add the weapon's armour modifier to the attack roll, but never more than the target's Armour Rating, in either direction. A shield's bonus counts toward that rating, so a target or buckler raises the cap. Against a target with no Armour Rating it does nothing. A rapier (−2) against a padded doublet (1) takes −1; a heavy crossbow (+3) against the same doublet gains +1.
+    Each weapon in the equipment tables carries an armour modifier: negative for small weapons that struggle against armour, positive for those made to defeat it, 0 for most. Add the weapon's armour modifier to the attack roll, but never more than the target's Armour Rating, in either direction. A shield's bonus counts toward that rating, so a target or buckler raises the cap. Against a target with neither armour nor shield it does nothing. A rapier (−2) against a padded doublet (1) takes −1; a heavy crossbow (+3) against the same doublet gains +1.
 
     Firearms carry no armour modifier; the armour's firearm rating already says what it is worth against a ball. A monster's natural AC is not an Armour Rating, unless its description says how much of it is hide or scale.
 

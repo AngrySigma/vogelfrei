@@ -26,7 +26,7 @@ The century did not offer an endless armoury. A fighting man carried a sword or 
     Every weapon deals **d8**. **d8 low** means roll 2d8 and keep the lower; **d8 high**, roll 2d8 and keep the higher. **d8−3** is the improvised blow: roll d8 and subtract 3, to a minimum of 1.
 
 !!! info "Armour"
-    The **Armour** column is the weapon's armour modifier, added to the attack roll against an armoured target but never by more than the target's Armour Rating, in either direction. A shield's bonus counts toward that rating. See [Combat Actions](../../Encounters/Combat%20Actions.md#attack).
+    The **Armour** column is the weapon's armour modifier, added to the attack roll against a target with armour or a shield, but never by more than the target's Armour Rating, in either direction. A shield's bonus counts toward that rating. See [Combat Actions](../../Encounters/Combat%20Actions.md#attack).
 
 !!! info "Training"
     Any character may pick up and swing any melee weapon. The arms marked **Training** are the exceptions: they do nothing in untaught hands. A character with no plausible background with one must spend time learning it before it can be wielded effectively, and the Referee decides what a given background already covers.
