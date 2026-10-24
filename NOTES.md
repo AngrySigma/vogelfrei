@@ -1,7 +1,8 @@
 # Open design questions
 
 Things noticed while fixing rules inconsistencies that need a design decision,
-not a correction.
+not a correction. Whole chapters still to write (maritime, property and
+investment) are in [PLANNED-CHAPTERS.md](PLANNED-CHAPTERS.md).
 
 ## The zweihander problem
 
