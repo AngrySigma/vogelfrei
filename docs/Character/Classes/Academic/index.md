@@ -14,7 +14,7 @@ title: Academic
 
 #### Saving Throws
 
-| Level | Paralyze | Poison | Breath | Device | Magic |
+| Level | Paralyse | Poison | Breath | Device | Magic |
 | ----- | -------- | ------ | ------ | ------ | ----- |
 | 1     | 15       | 14     | 16     | 12     | 13    |
 | 2     | 15       | 14     | 16     | 12     | 13    |

@@ -18,6 +18,6 @@ image_alt: Hunter illustration
 | 1     | +1 BS               |
 | 2     | Surprised only on 1 |
 | 3     | +1 BS               |
-| 4     | + 2 Paralyze save   |
+| 4     | + 2 Paralyse save   |
 | 5     | +1 BS               |
 | 6     | + 2 Breath save     |

@@ -14,7 +14,7 @@ title: Cleric
 
 #### Saving Throws
 
-| Level | Paralyze | Poison | Breath | Device | Magic |
+| Level | Paralyse | Poison | Breath | Device | Magic |
 | ----- | -------- | ------ | ------ | ------ | ----- |
 | 1     | 14       | 11     | 16     | 12     | 15    |
 | 2     | 14       | 11     | 16     | 12     | 15    |

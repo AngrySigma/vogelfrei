@@ -36,7 +36,7 @@ Saving Throw charts for Player characters of all classes and levels are found wi
 
 These saving throws cover all possible save situations. When there is a doubt as to which save category to use, start at the left column on the Saving Throw chart and move to the right, using the first category which matches the particular effect.
 
-- **Paralyzation** will cover any effect in which the victim is unable to move (such as petrification, being the subject of a Hold Person or Web spell, etc.)
+- **Paralysation** will cover any effect in which the victim is unable to move (such as petrification, being the subject of a Hold Person or Web spell, etc.)
 
 - **Poison** will be used for any situation where Wounds are irrelevant and the result is unconsciousness or death.
 

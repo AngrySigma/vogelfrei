@@ -35,7 +35,7 @@ This spell creates a small sphere of water, filled with twenty small fish, in th
 15. Invisibility: The consumer becomes invisible, as per the spell, for 1d6 Turns.
 16. Begone: The consumer is teleported 1d6 × 1d100 feet in a random direction. The character will appear in the open area closest to the target area.
 17. Energy Blast: The consumer releases a pulse of energy which inflicts 1d8 damage to all within 20', save versus Breath Weapon for half damage.
-18. Blinding Flash: All within 30' must save versus Paralyzation or be blinded for 3d10 Turns as the consumer's skin releases a flash of light.
+18. Blinding Flash: All within 30' must save versus Paralysation or be blinded for 3d10 Turns as the consumer's skin releases a flash of light.
 19. Poison Kiss: The consumer’s lips are filled with a poisonous liquid, and the consumer must kiss another living being to deliver the poison within one Turn or suffer the poison himself. The poisoned character must save versus Poison or die.
 20. Giant Strength: The consumer receives a +6 Strength modifier, and does +3 damage in melee combat, for 1d4 Turns.
 

@@ -20,7 +20,7 @@ Not born but made. Somewhere, an alchemist's Great Work succeeded — a rooster 
 
 #### Saving Throws
 
-| Level | Paralyze | Poison | Breath | Device | Magic |
+| Level | Paralyse | Poison | Breath | Device | Magic |
 | ----- | -------- | ------ | ------ | ------ | ----- |
 | 1     | 12       | 15     | 11     | 16     | 14    |
 | 2     | 12       | 15     | 11     | 16     | 14    |

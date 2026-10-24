@@ -17,7 +17,7 @@ title: Townsman
 
 #### Saving Throws
 
-| Level | Paralyze | Poison | Breath | Device | Magic |
+| Level | Paralyse | Poison | Breath | Device | Magic |
 | ----- | -------- | ------ | ------ | ------ | ----- |
 | 1     | 14       | 13     | 16     | 13     | 14    |
 | 2     | 14       | 13     | 16     | 13     | 14    |

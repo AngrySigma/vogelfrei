@@ -14,7 +14,7 @@ title: Peasant
 
 #### Saving Throws
 
-| Level | Paralyze | Poison | Breath | Device | Magic |
+| Level | Paralyse | Poison | Breath | Device | Magic |
 | ----- | -------- | ------ | ------ | ------ | ----- |
 | 1     | 13       | 11     | 14     | 15     | 16    |
 | 2     | 13       | 11     | 14     | 15     | 16    |

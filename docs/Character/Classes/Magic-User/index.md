@@ -16,7 +16,7 @@ image_alt: Magic-User illustration
 
 #### Saving Throws
 
-| Level | Paralyze | Poison | Breath | Device | Magic |
+| Level | Paralyse | Poison | Breath | Device | Magic |
 | ----- | -------- | ------ | ------ | ------ | ----- |
 | 1     | 13       | 13     | 16     | 13     | 14    |
 | 2     | 13       | 13     | 16     | 13     | 14    |

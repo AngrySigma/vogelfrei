@@ -16,7 +16,7 @@ Rogues are defined by their adaptability and their lack of official social stand
 
 #### Saving Throws
 
-| Level | Paralyze | Poison | Breath | Device | Magic |
+| Level | Paralyse | Poison | Breath | Device | Magic |
 | ----- | -------- | ------ | ------ | ------ | ----- |
 | 1     | 14       | 16     | 15     | 14     | 14    |
 | 2     | 14       | 16     | 15     | 14     | 14    |

@@ -14,7 +14,7 @@ title: Ranger
 
 #### Saving Throws
 
-| Level | Paralyze | Poison | Breath | Device | Magic |
+| Level | Paralyse | Poison | Breath | Device | Magic |
 | ----- | -------- | ------ | ------ | ------ | ----- |
 | 1     | 12       | 13     | 14     | 16     | 15    |
 | 2     | 12       | 13     | 14     | 16     | 15    |

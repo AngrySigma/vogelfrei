@@ -19,7 +19,7 @@ The Magic-User and Cleric spell lists come from *LotFP Weird Fantasy Role-Playin
    - Rebalancing is the author's job. Report anything that looks off, such as Web's escape times, and leave the numbers as printed.
    - Spell names keep the book's Evil/Good (Detect Evil, Protection from Evil, Dispel Evil), and so does the book's note that "Evil" is colloquial. The effect text uses Order/Chaos: Lawful → Orderly, Law → Order.
    - Game terms. Ability scores: Wisdom → Willpower, Charisma → Leadership, Dexterity → Agility, Constitution → Toughness (Strength and Intelligence stay). Hit Points → Wounds. Classes: Fighter → Warrior, Specialist → Rogue. Drop every mention of Elves, Dwarfs, Halflings or demihumans. Drop Initiative Segments; Vogelfrei uses side initiative.
-   - Saves are Paralyzation, Poison, Breath Weapon, Magical Device and Magic. "Save or die" is versus Poison.
+   - Saves are Paralysation, Poison, Breath Weapon, Magical Device and Magic. "Save or die" is versus Poison.
 5. **Write pages** to `docs/Character/Classes/<Class>/Spells|Miracles/Level N/<Name>.md` in the format in [page-contracts.md](page-contracts.md). Tier follows character level: a spell castable by a level 1–3 character is Base (no tier key), anything else is `tier: expert`. With the current slot grids (Wizard and Priest careers), that is Magic-User spell levels 1–2 and Cleric level 1 in Base.
 6. **Wire them up**:
    - Append a `### Level N` section to the class's list page (`Spells/index.md` or `Miracles/index.md`).

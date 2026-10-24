@@ -302,8 +302,8 @@ def load_class(name: str) -> dict:
                 m = re.search(r"\d+", cells["skill points"])
                 if m:
                     info["skill_points"] = int(m.group(0))
-        elif "paralyze" in header:
-            for col in ("Paralyze", "Poison", "Breath", "Device", "Magic"):
+        elif "paralyse" in header:
+            for col in ("Paralyse", "Poison", "Breath", "Device", "Magic"):
                 if col.lower() in cells and cells[col.lower()].strip().isdigit():
                     info["saves"][col] = int(cells[col.lower()])
     if info["wounds"] is None:

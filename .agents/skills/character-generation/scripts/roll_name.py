@@ -24,7 +24,7 @@ NAMES = {
                  "Edmund", "Walter", "Matthew", "Nicholas", "Roger", "Humphrey", "Gilbert"],
         "female": ["Elizabeth", "Mary", "Anne", "Margaret", "Alice", "Jane", "Agnes",
                    "Katherine", "Eleanor", "Joan", "Dorothy", "Susanna", "Grace",
-                   "Prudence", "Mercy", "Charity", "Temperance", "Constance", "Faith", "Honor"],
+                   "Prudence", "Mercy", "Charity", "Temperance", "Constance", "Faith", "Honour"],
         "surname": ["Smith", "Cooper", "Fletcher", "Turner", "Walker", "Wright", "Baker",
                     "Carter", "Mason", "Ward", "Webb", "Sherwood", "Ashworth", "Whitfield",
                     "Holloway", "Fairfax", "Hargreaves", "Thatcher", "Bowyer", "Sadler",

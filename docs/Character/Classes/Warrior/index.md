@@ -14,7 +14,7 @@ title: Warrior
 
 #### Saving Throws
 
-| Level | Paralyze | Poison | Breath | Device | Magic |
+| Level | Paralyse | Poison | Breath | Device | Magic |
 | ----- | -------- | ------ | ------ | ------ | ----- |
 | 1     | 14       | 12     | 15     | 13     | 16    |
 | 2     | 14       | 12     | 15     | 13     | 16    |

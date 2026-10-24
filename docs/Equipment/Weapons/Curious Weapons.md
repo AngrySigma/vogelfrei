@@ -28,5 +28,5 @@ The following entries belong to other ages or other continents. They are not ava
 
 | Weapon | Effects |
 | --- | --- |
-| Weighted net | On a hit, the victim must save versus Paralyzation or become helpless. The victim may save again each Round. |
+| Weighted net | On a hit, the victim must save versus Paralysation or become helpless. The victim may save again each Round. |
 | Blowgun | Does no damage by itself. A hit delivers whatever poison the dart carries; see [Substance and Toxins](../../Adventuring/Hazards/Substance%20and%20Toxins.md). Darts cost **2bp** each. |

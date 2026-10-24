@@ -12,7 +12,7 @@ A monster's AC is part of its description — as noted in [Combat Actions](Comba
 
 Monsters save using the row matching their Hit Dice on the table below. Save categories work exactly as for Characters, including the left-to-right precedence rule from [Class and Career](../Character/Class%20and%20Career.md).
 
-| Hit Dice | Paralyze | Poison | Breath | Device | Magic |
+| Hit Dice | Paralyse | Poison | Breath | Device | Magic |
 | -------- | -------- | ------ | ------ | ------ | ----- |
 | Level 0 | 16 | 14 | 17 | 15 | 18 |
 | 1–3 | 14 | 12 | 15 | 13 | 16 |

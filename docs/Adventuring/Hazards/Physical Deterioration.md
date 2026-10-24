@@ -14,7 +14,7 @@ A character who falls to zero in any ability score dies.
 
 ---
 ### Ageing
-Characters who grow old will lose their faculties and eventually die. The chart below gives the starting age that characters must make a saving throw versus Paralyzation, at what ages there are penalties to the modifier, and how often the saving throw must be made. A failed saving throw means that one randomly determined ability score will permanently decrease by one point.
+Characters who grow old will lose their faculties and eventually die. The chart below gives the starting age that characters must make a saving throw versus Paralysation, at what ages there are penalties to the modifier, and how often the saving throw must be made. A failed saving throw means that one randomly determined ability score will permanently decrease by one point.
 
 <table>
     <thead>
