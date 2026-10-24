@@ -6,11 +6,11 @@ At the start of play, every Magic-User’s spellbook contains Read Magic plus th
 Magic-Users' minds are often above using a simple book to store their knowledge, so, depending on their learning origin, they might use clay tablets, inscribed weapons or their own body parts to write down spells. At the start of play, Magic-User has to define the exact form of their spellbook, and it cannot be changed later.
 
 ## Preparing Spells Each Day
-A Magic-User prepares spells by memorizing them from a spellbook. The Magic-User must rest for six continuous hours before preparing spells. After resting, the Magic-User must study using a spellbook for a number of hours equal to the highest level spell being prepared. This process is sometimes called memorizing spells.
+A Magic-User prepares spells by memorizing them from a spellbook. After a watch of sleep, the Magic-User studies the spellbook for one [watch](../../../../Adventuring/Wilderness%20Travel.md#rest), however many spells are prepared. This is usually the free watch of rest, so a Magic-User who studies does not stand guard that night. This process is sometimes called memorizing spells.
 
 Spells remain in memory until they are cast, and once they are cast, they fade from the mind like a dream upon waking. However, the same spell can be prepared multiple times. The Magic-User’s spell charts give the maximum number of spells of each spell level that can be memorized at once, and the Magic-User can never have more than this number prepared at one time. Spells cannot be simply dismissed from the mind; they must be cast to clear the “spell slot.”
 
-Reversible spells are effectively two different spells: the “normal” version and the “reversed” version. They must be researched, transcribed, and prepared as different spells. A Magic-User can only safely prepare spells once every twenty-four hours.
+Reversible spells are effectively two different spells: the “normal” version and the “reversed” version. They must be researched, transcribed, and prepared as different spells. A Magic-User can only safely prepare spells once a day.
 
 ## Casting Spells
 Spells are cast by a combination of mental effort, gesticulation, and incantations. In order to cast a spell, a Magic-User must be able to recite the incantation freely and gesture with at least one hand. A character that is gagged, silenced, bound or otherwise unable to speak or gesture cannot cast spells. Casting a spell cannot be done secretly, stealthily or disguised as another activity if otherwise not stated. Magic-Users cannot cast spells if they are more than Lightly encumbered if otherwise not stated.

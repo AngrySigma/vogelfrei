@@ -1,10 +1,10 @@
 # Healing
 
-Damaged characters who have at least half of their Wounds remaining recover 1 Wound after a peaceful night’s rest. Standing guard does not prevent this recovery unless something happens while on guard. Damaged characters who have at least half of their Wounds remaining can also recover an additional 1d3 Wounds by resting a full day. To count as a full day of “rest,” a character cannot engage in any strenuous activity, including, but not limited to travelling, fighting, researching, running, searching, hunting, or foraging, and the character must have adequate food and water. Basically, the character can do no more than converse and walk around his immediate area.
+Damaged characters who have at least half of their Wounds remaining recover 1 Wound after a peaceful night’s rest: the day’s two [watches of rest](Wilderness%20Travel.md#rest), taken one after the other. Standing guard does not prevent this recovery unless something happens while on guard. Damaged characters who have at least half of their Wounds remaining can also recover an additional 1d3 Wounds by resting a full day. To count as a full day of “rest,” a character cannot engage in any strenuous activity, including, but not limited to travelling, fighting, researching, running, searching, hunting, or foraging, and the character must have adequate food and water. Basically, the character can do no more than converse and walk around his immediate area.
 
 Characters who have less than half of their Wounds remaining are in worse shape. They recover nothing from a night’s rest, and recover only 1 Wound by resting a full day.
 
-A character at 0 Wounds is helpless but conscious — able to do nothing but crawl, or spend one final action and faint for 1d6 hours. Characters driven below 0 are unconscious, injured, or dead by how far past zero they fell. See [Damage](Hazards/Damage.md) for the full rule.
+A character at 0 Wounds is helpless but conscious — able to do nothing but crawl, or spend one final action and faint until the end of the watch. Characters driven below 0 are unconscious, injured, or dead by how far past zero they fell. See [Damage](Hazards/Damage.md) for the full rule.
 
 If the character rests the entire day in a comfortable bed in a clean room, then an additional 1 Wound is recovered.
 
@@ -18,9 +18,9 @@ Healing restores Wounds and ability scores only to their normal maximum, never m
 
 Stamina recovers faster than Wounds, but it still demands rest.
 
-**1-hour rest:** After 6 Turns (one hour) of uninterrupted rest, a character rolls their class Stamina die (d4, d3, or d2 depending on class tier), adds their Toughness modifier, and recovers that many Stamina points (always at least 1), up to their maximum. This may be taken anywhere, including inside a dungeon, but the Referee makes a Wandering Encounter check for each Turn spent resting. Characters standing guard or actively moving cannot benefit.
+**1-hour rest:** After 6 Turns (one hour) of uninterrupted rest, a character rolls their class Stamina die (d2 to d6; see [Class and Career](../Character/Class%20and%20Career.md#determine-stamina)), adds their Toughness modifier, and recovers that many Stamina points (always at least 1), up to their maximum. This may be taken anywhere, including inside a dungeon, but the Referee makes a Wandering Encounter check for each Turn spent resting. Characters standing guard or actively moving cannot benefit.
 
-**Full recovery:** A full night of sleep in a safe location (an inn, a secured camp) restores Stamina completely. The same conditions that prevent Wounds recovery apply: characters in a dungeon or similarly hostile environment cannot fully restore Stamina there.
+**Full recovery:** A full night’s rest — both watches of rest — in a safe location (an inn, a secured camp) restores Stamina completely. The same conditions that prevent Wounds recovery apply: characters in a dungeon or similarly hostile environment cannot fully restore Stamina there.
 
 !!! warning
     Healing Spells and Miracles restore Wounds only, not Stamina.

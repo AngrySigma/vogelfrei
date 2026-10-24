@@ -16,13 +16,15 @@ The Retainers are listed in tables on pages above, the tables contain the follow
 
 - The Daily Wage. The cost of hiring one person of that type for a single day.
 
-- The Monthly Wage. The cost of hiring a worker long-term, although the worker retains his own residence and is expected to work no more than one third of any particular day. If no long-term contract is worked out, or the length of employment is unknown at the start, then the Daily Wage must be paid, even if the length of employment lasts longer than a single month.
+- The Monthly Wage. The cost of hiring a worker long-term, although the worker retains his own residence and is expected to work no more than two watches of any particular day. If no long-term contract is worked out, or the length of employment is unknown at the start, then the Daily Wage must be paid, even if the length of employment lasts longer than a single month.
 
 - The Monthly Live-In Wage is for those retainers who live on their employers’ property and have room and board included in their wages.
 
 - The Space Requirements detail how much living space the retainer requires on the property. If there is a “+” number, the second number is the work space that they require in addition to their living space.
 
 - Treasure Share. Most retainers will absolutely not subject themselves to danger. Those that are willing to place themselves in dangerous situations will receive a share of treasure gathered (and Experience Points) as noted. Note that these shares are only for those actions that the retainer takes a direct part in.
+
+Retainers keep the party's time. A retainer travelling or working alongside the party has the day the party has — as many [watches](../Adventuring/Wilderness%20Travel.md#the-day-in-watches) as its most burdened member allows — and is paid for the whole day, however few watches it holds. Within that day, porters, teamsters, coachmen, guides, and others whose work is keeping the party on the move work every active watch; a retainer set to heavy labour — building, digging, hauling stone — gives no more than two watches a day, whatever he is paid.
 
 !!! note "Mustering — to come"
     The military and specialist side of hired help is still being written: mercenary companies fielded as troops — pike blocks, marksmen, and cavalry as formations with their own morale — along with siege specialists and other experts beyond the current list. For now, the Mercenary and specialist entries in the tables cover individual hire, and the Referee adjudicates anything larger.

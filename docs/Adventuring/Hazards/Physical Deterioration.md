@@ -65,7 +65,7 @@ Diseases are individual in nature, but all have the following characteristics: i
 
 When exposed to a disease, the Referee will make a save versus Poison on behalf of the character. If the save fails, then the character has contracted the disease. The incubation period describes the length of time before the character is affected, and at that point the character must make another save, and then another save at every interval point for the duration of the infection time, or else suffer the effect for each failed save. Each save after the disease is contracted is made with a –2 penalty if the character is not at rest for the duration of the infection.
 
-For example, the Green River Fever has an incubation period of one week, an interval of four hours, an infection time of three days, and the effect of lowering Intelligence. So beginning one week after a character has been infected, that character must make a saving throw versus Poison every four hours for three days (a total of 18 saving throws), or lose a point of Intelligence for each failed save.
+For example, the Green River Fever has an incubation period of one week, an interval of one watch, an infection time of three days, and the effect of lowering Intelligence. So beginning one week after a character has been infected, that character must make a saving throw versus Poison every watch for three days (18 saving throws for a character with six watches a day), or lose a point of Intelligence for each failed save.
 
 ---
 ### Starvation
@@ -73,4 +73,4 @@ A character must eat at least one full meal a day and drink water every day or s
 
 ---
 ### Sleep Deprivation
-A character must sleep at least four hours per twenty-four hour period in order to function properly. If this is not the case, the character suffers a –1 penalty to all rolls (10% penalty for 1d00% rolls) until the situation is corrected. If the character continues on further without taking adequate sleep, there is a cumulative –1/10% penalty for each additional day that passes without proper rest being taken.
+A character must spend one watch of every day asleep in order to function properly. One who goes without — marching through the night, or kept from sleep by attack after attack — suffers a –1 penalty to all rolls (10% penalty for 1d00% rolls) until they sleep a full watch. If the character continues on further without taking adequate sleep, there is a cumulative –1/10% penalty for each additional day that passes without a watch of sleep.

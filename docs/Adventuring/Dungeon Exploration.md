@@ -2,6 +2,8 @@
 
 Underground and indoor exploration — ruins, crypts, mines, cellars, and every other place the sun does not reach — is played out in Turns of ten minutes. The Turn is the clock of the dungeon: it burns the torches, empties the waterskins, and brings the things that live below out to see who is making all that noise.
 
+However many Turns it lasts, a delve takes one [watch](Time%20and%20Movement.md#time) of the day — five Turns in a cellar and thirty among the tombs alike. More watches pass only if the party stays far longer, or camps below; and a camp where a Wandering Encounter check comes every second Turn is rarely a quiet one.
+
 ## Sequence of Play, per Turn
 
 1. **Wandering monsters:** the Referee makes a Wandering Encounter check, if one is due.
@@ -35,6 +37,8 @@ Most Characters see nothing underground without a light source, and the light th
 | Lantern | 30' | 24 Turns (4 hours) per flask of oil |
 
 A torch dropped or used as a weapon has a 1 in 2 chance of going out. A lantern's shutters can hide its light without extinguishing the flame.
+
+Lighting a camp is counted in watches: each watch of light costs one flask of lantern oil, four torches, or two candles.
 
 ## Doors
 

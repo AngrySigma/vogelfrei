@@ -62,7 +62,7 @@ Black powder leaves its residue in the bore. After the **fifth shot** without sc
 | *Powder and shot, twenty loose charges* | 8sp | Shot may be ball, buckshot, or fowling shot as appropriate |
 | Bandolier with twelve wooden chargers | 5sp | Empty; bandolier and filled chargers count as one item |
 | *Priming flask of fine powder* | 2sp | Twenty primings; priming with coarse powder misfires one grade worse |
-| *Slow match, 10'* | 5bp | Burns about 4 inches an hour from each lit end |
+| *Slow match, 10'* | 5bp | Burns 1 inch per Turn, 24 inches per watch, from each lit end |
 | *Bullet mould* | 5sp | Casts one specified calibre; lead is purchased separately |
 | Cleaning and loading tools | 5sp | Rammer, worm, measure, and turnscrew |
 | ***Musket rest*** | 10sp | Removes the unsupported-musket penalty |

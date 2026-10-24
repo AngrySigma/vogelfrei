@@ -154,8 +154,9 @@ and a concept. Aim for:
   act on, either change it or give it something to work with (a retainer,
   see `docs/Retainers/`).
 - **Nobody ships at lethal Wounds.** After you fix the classes, check what
-  each character's Toughness modifier does to their Wounds (6, or 7 for a
-  Warrior, plus Toughness — not rolled). A level-1 PC on 3 Wounds dies to one hit of almost anything and is not a
+  each character's Toughness modifier does to their Wounds (6; 7 for a
+  Warrior; 5 for a Magic-User, Academic or Townsman; plus Toughness — not
+  rolled). A level-1 PC on 3 Wounds or fewer dies to one hit of almost anything and is not a
   playable pregen — spend the ability swap to fix it, even at the cost of a
   score the concept liked. Swap into an ability the character genuinely does
   not use (a talker's Strength) rather than one that pays out broadly

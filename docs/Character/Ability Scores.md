@@ -58,12 +58,11 @@ Agility is quickness and balance: getting out of the way of a blade or an arrow 
 | Wrestling ties | Decides a tied contest |
 
 **Toughness**
-Toughness is health and endurance: how many Wounds a body can take, how far it can walk in a day, and how fast it gets its wind back. The Toughness modifier is added to a character's starting Wounds once, at Level 1, and does not apply again as the character levels up.
+Toughness is health and endurance: how many Wounds a body can take and how fast it gets its wind back. The Toughness modifier is added to a character's starting Wounds once, at Level 1, and does not apply again as the character levels up.
 
 | Toughness Modifier | Effect |
 | ------------------ | ------ |
 | Starting Wounds | Added once, at Level 1 |
-| Daily travel distance on foot | Added to the miles travelled per day |
 | Stamina recovery | Added to the Stamina die rolled after an hour's rest |
 
 **Leadership**

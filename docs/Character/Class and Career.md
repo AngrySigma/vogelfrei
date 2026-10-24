@@ -7,7 +7,7 @@ Choose a class from [Classes](Classes/index.md), then a career within it. A play
 
 # Determine Wounds
 
-Wounds are not rolled. Every character starts with **6 Wounds** plus their Toughness modifier, except a Warrior, who starts with **7** plus Toughness. The level 1 row of each class table gives the figure before Toughness.
+Wounds are not rolled. Every character starts with **6 Wounds** plus their Toughness modifier, except a Warrior, who starts with **7**, and a Magic-User, Academic or Townsman, who starts with **5**. The level 1 row of each class table gives the figure before Toughness.
 
 The character's starting Wounds are the maximum Wounds the character can ever have without gaining a level. No amount of healing can cause the character to gain more than their normal maximum number of Wounds. Wounds grow slowly, never by more than 1 at a level, and only at the levels the class table marks.
 

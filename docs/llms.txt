@@ -493,7 +493,7 @@ site navigation.
 
 ## Adventuring
 
-- [Healing](https://angrysigma.github.io/vogelfrei/Adventuring/Healing/index.md): Damaged characters who have at least half of their Wounds remaining recover 1 Wound after a peaceful night’s rest.
+- [Healing](https://angrysigma.github.io/vogelfrei/Adventuring/Healing/index.md): Damaged characters who have at least half of their Wounds remaining recover 1 Wound after a peaceful night’s rest: the day’s two watches of rest, taken one after the other.
 
 ## Encounters
 
