@@ -37,7 +37,7 @@
             <td>-</td>
         </tr>
         <tr>
-            <td colspan="2"><a href="#armorer">Armorer</a></td>
+            <td colspan="2"><a href="#armourer">Armourer</a></td>
             <td>-</td>
             <td>50sp</td>
             <td>40sp</td>
@@ -93,7 +93,7 @@
             <td>0.5</td>
         </tr>
         <tr>
-            <td colspan="2"><a href="#laborer">Laborer</a></td>
+            <td colspan="2"><a href="#labourer">Labourer</a></td>
             <td>6sp</td>
             <td>60sp</td>
             <td>40sp</td>
@@ -245,9 +245,9 @@ An alchemist reduces the amount of laboratory time needed for any magical resear
 #### Animal Handler
 Any property which has at least five animals (meant for hauling, work, or riding) needs an Animal Handler, and one Handler is required for each twenty such animals.
 
-<a  id="armorer"></a>
-#### Armorer
-Armorers are required to forge new armor and weapons and to keep existing armaments in good condition. One armorer per fifty armed troops is necessary.
+<a  id="armourer"></a>
+#### Armourer
+Armourers are required to forge new armour and weapons and to keep existing armaments in good condition. One armourer per fifty armed troops is necessary.
 
 <a  id="butler"></a>
 #### Butler
@@ -274,13 +274,13 @@ Guides are adept at finding their way in the wilderness. With a guide in tow, th
 #### Henchman
 Henchmen are different in that they are not exactly hired help, but actually adventuring sidekicks. They also are classed characters. Characters can only hire henchmen that are at least two levels below their own. Henchmen are often found during adventures as allies, and make for great replacement player characters if and when a player’s character dies.
 
-<a  id="laborer"></a>
-#### Laborer
-Laborers do construction work, excavations, heavy lifting, and other physical sorts of labor. For every ten laborers, a foreman who is paid twice the average laborer’s wages is needed.
+<a  id="labourer"></a>
+#### Labourer
+Labourers do construction work, excavations, heavy lifting, and other physical sorts of labour. For every ten labourers, a foreman who is paid twice the average labourer’s wages is needed.
 
 <a  id="linkboy"></a>
 #### Linkboy
-A linkboy is a servant who is a torch/lantern bearer. They do not do heavy labor or carry equipment (else the linkboy is treated as a laborer).
+A linkboy is a servant who is a torch/lantern bearer. They do not do heavy labour or carry equipment (else the linkboy is treated as a labourer).
 
 <a  id="mercenary"></a>
 #### Mercenary
@@ -330,4 +330,4 @@ As his cover, a spy will perform the tasks of a regular retainer, but is paid an
 
 <a  id="teamster"></a>
 #### Teamster
-A teamster is an expert at efficiently packing animals and preparing them to haul cargo (or pull carts and wagons) over long distances. Teamsters alleviate some of a pack animal’s encumbrance and lessen the chance of vehicles breaking down while traveling.
+A teamster is an expert at efficiently packing animals and preparing them to haul cargo (or pull carts and wagons) over long distances. Teamsters alleviate some of a pack animal’s encumbrance and lessen the chance of vehicles breaking down while travelling.

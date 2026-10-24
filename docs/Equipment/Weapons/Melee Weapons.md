@@ -1,26 +1,32 @@
 # Melee Weapons
 
-The century did not offer an endless armoury. A fighting man carried a sword or a hanger at his side, a dagger behind it, and — if he stood in a body of troops — a pike or a polearm in both hands. Everything below is a choice a character could actually make; the generic entries exist so that the rules need not care whether you call your d8 a backsword or a sabre.
+The century did not offer an endless armoury. A fighting man carried a sword or a hanger at his side, a dagger behind it, and — if he stood in a body of troops — a pike or a polearm in both hands. Everything below is a choice a character could actually make; the generic entries exist so that the rules need not care whether you call your sword a backsword or a sabre.
 
-| Weapon | Damage | Length | Training | Cost |  |
-| --- | ---: | ---: | --- | ---: | ---: |
-|  |  |  |  | City | Rural |
-| Improvised | d3 | 0 | — | - | - |
-| *Minor weapon* | d4 | 1 | — | 5sp | 5sp |
-| Small weapon | d6 | 2 | — | 10sp | 10sp |
-| Medium weapon (1/2H) | d8 | 2/3 | — | 20sp | 50sp |
-| ***Great weapon (2H)*** | d10 | 4 | — | 50sp | - |
-| *Main-gauche* | d4 | 1 | Training | 15sp | - |
-| Rapier | d8 | 4 | Training | 15sp | - |
-| *Garrote (2H)* | d6 | 0 | Training | 5sp | - |
-| Whip | d3 | 0 | Training | 10sp | 25sp |
-| ***Staff (2H)*** | d6 | 4 | — | 5sp | 3sp |
-| ***Spear (2H)*** | d6 | 5 | — | 5sp | 3sp |
-| ***Pike (2H)*** | d8 | 5 | — | 20sp | - |
-| ***Polearm (2H)*** | d8 | 4 | — | 30sp | - |
-| ***Lance (1/2H)*** | d10 | 5 | Training | 30sp | - |
-| ***War flail (2H)*** | d8 | 3 | — | 20sp | 10sp |
-| ***Mancatcher (2H)*** | d6 | 2 | Training | 20sp | - |
+| Weapon | Damage | Armour | Length | Training | Cost |  |
+| --- | ---: | ---: | ---: | --- | ---: | ---: |
+|  |  |  |  |  | City | Rural |
+| Improvised | d8−3 | 0 | 0 | — | - | - |
+| *Minor weapon* | d8 low | −2 | 1 | — | 5sp | 5sp |
+| Small weapon | d8 | −1 | 2 | — | 10sp | 10sp |
+| Medium weapon (1/2H) | d8 | 0 | 2/3 | — | 20sp | 50sp |
+| ***Great weapon (2H)*** | d8 high | 0 | 4 | — | 50sp | - |
+| *Main-gauche* | d8 low | −2 | 1 | Training | 15sp | - |
+| Rapier | d8 | −2 | 4 | Training | 15sp | - |
+| *Garrote (2H)* | d8 low | 0 | 0 | Training | 5sp | - |
+| Whip | d8 low | 0 | 0 | Training | 10sp | 25sp |
+| ***Staff (2H)*** | d8 low | 0 | 4 | — | 5sp | 3sp |
+| ***Spear (2H)*** | d8 | 0 | 5 | — | 5sp | 3sp |
+| ***Pike (2H)*** | d8 | 0 | 5 | — | 20sp | - |
+| ***Polearm (2H)*** | d8 high | +2 | 4 | — | 30sp | - |
+| ***Lance (1/2H)*** | d8 high | 0 | 5 | Training | 30sp | - |
+| ***War flail (2H)*** | d8 | 0 | 3 | — | 20sp | 10sp |
+| ***Mancatcher (2H)*** | d8 | 0 | 2 | Training | 20sp | - |
+
+!!! info "Damage"
+    Every weapon deals **d8**. **d8 low** means roll 2d8 and keep the lower; **d8 high**, roll 2d8 and keep the higher. **d8−3** is the improvised blow: roll d8 and subtract 3, to a minimum of 1.
+
+!!! info "Armour"
+    The **Armour** column is the weapon's armour modifier, added to the attack roll against a target with armour or a shield, but never by more than the target's Armour Rating, in either direction. A shield's bonus counts toward that rating. See [Combat Actions](../../Encounters/Combat%20Actions.md#attack).
 
 !!! info "Training"
     Any character may pick up and swing any melee weapon. The arms marked **Training** are the exceptions: they do nothing in untaught hands. A character with no plausible background with one must spend time learning it before it can be wielded effectively, and the Referee decides what a given background already covers.
@@ -52,20 +58,18 @@ The two-handed sword belongs to the opening years of this age and the wars befor
 
 A **Polearm** costs more than a **Pike** and reaches a grade less, which is not an error: the pike is a spike on a long shaft and can be made by any smith in a week, while a halberd head is a complicated forging. What the polearm buys is a weapon that still works indoors, in a boarding action, and on a staircase, where the pike is so much firewood. A **Spear** is the cheap end of the same idea — the same reach as a pike for a quarter of the price, and a narrower wound. Halflings cannot wield Great or Medium weapons, polearms, pikes, lances, or any arm of comparable size.
 
-Naming the object matters more than the category. A man who says he carries a sabre has told you something; a man who says he carries a Medium weapon has told you a damage die.
+Naming the object matters more than the category. A man who says he carries a sabre has told you something; a man who says he carries a Medium weapon has told you a line on a table.
 
 ---
 ### Weapon Traits
 
 | Weapon | Effects |
 | --- | --- |
-| Dagger | A Minor weapon used [inside an opponent's reach](../../Encounters/Measure%20and%20Reach.md), or while wrestling that opponent, ignores 2 points of the target's Armour Rating. It does nothing to a firearm's shot, which the [Proof](../Armor.md#proof) rules govern instead. |
-| Garrote | Requires an attack from surprise or a successful wrestling attempt. On a hit, the target is immobilized and takes 1d6 damage per Round until freed. |
+| Garrote | Requires an attack from surprise or a successful wrestling attempt. On a hit, the target is immobilized and takes the garrote's damage again each Round until freed. |
 | Lance | May be used one-handed while charging on horseback, and deals double damage after a run. On foot it functions as a pike and may [Brace](../../Encounters/Combat%20Actions.md#brace). |
 | Main-gauche | Adds +1 Melee AC while paired with a one-handed sword or a rapier. It cannot be combined with the benefit of a shield. |
-| Pike | May attack from the second rank or [Brace](../../Encounters/Combat%20Actions.md#brace). A pike deals only d3 damage inside its reach. |
+| Pike | May attack from the second rank or [Brace](../../Encounters/Combat%20Actions.md#brace). Inside its reach a pike always keeps the lower die. |
 | Polearm | A halberd, bill, glaive, or poleaxe — the sergeant's weapon and the guard's. May attack from the second rank or [Brace](../../Encounters/Combat%20Actions.md#brace). It needs both hands for the leverage that makes it worth carrying, and so can never be used with a shield. |
-| Rapier | Suffers a -2 penalty to hit opponents wearing armour with an Armour Rating of 4 or higher. |
 | Spear | May attack from the second rank or [Brace](../../Encounters/Combat%20Actions.md#brace). A boar or bear spear carries a crossbar below the head to stop a charging animal running up the shaft: when braced against a charge, the wielder takes no damage from the charge itself. |
 | War flail | Ignores the benefit of a shield, buckler or target; the head comes round it. |
 | Whip | Ineffective against targets in metal armour, but may attack opponents up to 10' away. |

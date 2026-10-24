@@ -4,9 +4,9 @@ Player Characters attack with Weapon Skill or Ballistic Skill and save by their 
 
 ## How Monsters Attack
 
-A monster adds its **Hit Dice** to its attack rolls, in place of the Weapon Skill or Ballistic Skill and ability modifiers a Character would apply. A creature whose Hit Dice carry a bonus (2+1, 4+2, and so on) attacks as one Hit Die higher.
+A monster adds its **Hit Dice** to its attack rolls, in place of the Weapon Skill or Ballistic Skill a Character would apply. Like anyone else, it adds nothing to a firearm attack. A creature whose Hit Dice carry a bonus (2+1, 4+2, and so on) attacks as one Hit Die higher.
 
-A monster's AC is part of its description — as noted in [Combat Actions](Combat%20Actions.md), it may run from very high for small, quick creatures to almost nothing for the colossal. Remember also that monsters and unintelligent creatures have no Stamina: all damage they take goes straight to Wounds (see [Damage](../Adventuring/Hazards/Damage.md)).
+A monster's AC is part of its description — as noted in [Combat Actions](Combat%20Actions.md), it may run from very high for small, quick creatures to almost nothing for the colossal. Natural AC is not an Armour Rating, so weapons' armour modifiers do not apply against it, unless the description says how much of it is hide or scale. Remember also that monsters and unintelligent creatures have no Stamina: all damage they take goes straight to Wounds (see [Damage](../Adventuring/Hazards/Damage.md)).
 
 ## How Monsters Save
 
@@ -29,7 +29,7 @@ A creature's description may instead direct it to a specific class's saving thro
 
 Everyone in the world has a class, but most people have no career advances at all — the innkeeper, the ploughman, the tax collector. These level 0 characters:
 
-- attack with **no** Weapon Skill or Ballistic Skill bonus — only their ability modifiers apply;
+- attack with a plain **d20**, with no Weapon Skill or Ballistic Skill bonus;
 
 - save on the **Level 0** row of the table above, unless their class description says otherwise;
 

@@ -41,9 +41,8 @@ def render(state: dict) -> str:
     armor = combat.get("armor_worn") or "none"
     if combat.get("shield"):
         armor += f" + {combat['shield']}"
-    proof = combat.get("armor_proof") or "—"
     out.append(f"- **Armour**: {armor} (Armour Rating {combat.get('armor_rating', 0)}, "
-               f"Proof {proof} — {combat.get('shot_armor_rating', 0)} against a shot)")
+               f"{combat.get('shot_armor_rating', 0)} against a firearm)")
     if enc:
         out.append(f"- **Encumbrance**: {enc['points']} points — {enc['label']} "
                    f"({enc['miles_per_day']} miles/day, {enc['combat']} per combat round)")
@@ -58,11 +57,12 @@ def render(state: dict) -> str:
 
     if combat.get("weapons"):
         out.append("\n## Weapons\n")
-        out.append("| Weapon | Damage | Length/Range | Requirement | Notes |")
-        out.append("| --- | --- | --- | --- | --- |")
+        out.append("| Weapon | Damage | Armour | Length/Range | Requirement | Notes |")
+        out.append("| --- | --- | --- | --- | --- | --- |")
         for w in combat["weapons"]:
             qty = f"{w['qty']}x " if w["qty"] > 1 else ""
-            out.append(f"| {qty}{w['name']} | {w['damage'] or '—'} | {w['reach'] or '—'} "
+            out.append(f"| {qty}{w['name']} | {w['damage'] or '—'} | {w.get('armour_mod') or '—'} "
+                       f"| {w['reach'] or '—'} "
                        f"| {w['requirements']} | {w['note'] or ''} |")
 
     if state.get("career_trait"):

@@ -74,6 +74,12 @@ def split_body(body: str) -> tuple[list[str], list[str], list[str]]:
     j = head_end
     while j < len(lines) and not lines[j].strip():
         j += 1
+    # A banner admonition (careers carry a "Work in progress" one) may sit
+    # between the title and the block; it belongs to the head.
+    while j < len(lines) and lines[j].startswith("!!! "):
+        j += 1
+        while j < len(lines) and (lines[j].startswith("    ") or not lines[j].strip()):
+            j += 1
     block_start = j
     last = j
     while j < len(lines):

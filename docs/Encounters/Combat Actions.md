@@ -13,7 +13,7 @@ If the Character moves their normal combat distance, they can perform a usual At
 
 ---
 ## Flee!
-When one character or party is running from another, it is not merely a matter of movement rate which decides the outcome unless the chase is over open territory. Otherwise, both sides in a pursuit roll 1d20 and add their movement rate divided by 10. For example, characters with 120' movement roll d20+12. The higher roll wins. Individual rolls for those with different movement rates can be used at the Referee's discretion.
+When one character or party is running from another, it is not merely a matter of movement rate which decides the outcome unless the chase is over open territory. Otherwise, both sides in a pursuit roll 1d20 and add their movement rate divided by 10, plus their Agility modifier. For example, characters with 120' movement and no Agility modifier roll d20+12. The higher roll wins. Individual rolls for those with different movement rates can be used at the Referee's discretion.
 
 No mapping or other record keeping is allowed during a pursuit. The Referee will declare in general terms where the character goes. "You run down the corridor, past two doors, and duck to the left in a passageway," is a perfectly fine description in a dungeon, with the character not being told details along the way. Wilderness pursuit will be rather less mysterious of course.
 
@@ -43,14 +43,22 @@ When a Character makes an attack, follow these steps:
     - 10 (Base AC)
     - Agility Bonus
     - Armour Rating
+    - Shield ranged modifier
+
+    Against a **Firearm** use only:
+    - 10 (Base AC)
+    - The armour's firearm rating
+    - A target of proof, if carried
+
+    For everything but shields the Armour Rating is the same in melee and at range; see [Armour](../Equipment/Armor.md).
 
     Most non-human opponents do not use any arms and armour, but their base AC may vary greatly from very high for small agile creatures to almost zero for colossal ones.
 
 3. *Roll for Attack*
     - The attacking player rolls **d20**.
-    - Add **Weapon Skill** to the roll in **Melee** or **Ballistic Skill** in **Ranged**
-    - Apply **Strength Bonus** to the roll in **Melee** or **Agility Bonus** in **Ranged**
-    - Apply **Weapon Length** modifier 
+    - Add **Weapon Skill** to the roll in **Melee** or **Ballistic Skill** in **Ranged**. A **firearm** adds neither: anyone can point a gun.
+    - Apply the weapon's **armour modifier**, if the target wears armour or carries a shield (see below)
+    - Apply **Weapon Length** modifier in **Melee**
 
     | Weapon Length vs. Opponent | To Hit Bonus |
     | -------------------------- | ------------ |
@@ -64,7 +72,12 @@ When a Character makes an attack, follow these steps:
     - Compare the result to the Opponent's AC. **If the roll equals or exceeds the AC, the attack lands.**
 
 4. *Calculate Damage*
-    - Roll the **Weapon Damage** die to determine damage dealt.
+    - Roll the **Weapon Damage**. Every weapon deals **d8**; the weapon tables mark the lighter ones that roll **2d8 and keep the lower**, and the heavier ones that roll **2d8 and keep the higher**. An improvised blow rolls **d8−3**, to a minimum of 1.
+
+!!! note "Armour modifier"
+    Each weapon in the equipment tables carries an armour modifier: negative for small weapons that struggle against armour, positive for those made to defeat it, 0 for most. Add the weapon's armour modifier to the attack roll, but never more than the target's Armour Rating, in either direction. A shield's bonus counts toward that rating, so a target or buckler raises the cap. Against a target with neither armour nor shield it does nothing. A rapier (−2) against a padded doublet (1) takes −1; a heavy crossbow (+3) against the same doublet gains +1.
+
+    Firearms carry no armour modifier; the armour's firearm rating already says what it is worth against a ball. A monster's natural AC is not an Armour Rating, unless its description says how much of it is hide or scale.
 
 Damage rules are detailed in [Damage](../Adventuring/Hazards/Damage.md) Section.
 
@@ -76,23 +89,23 @@ A **natural 20** on an attack roll always hits, whatever the target's AC and wha
     Wherever this book calls for double damage — a Mounted Charge, a braced weapon receiving a charge — roll the weapon's damage dice **twice** and total the result. Double damage is applied normally, depleting Stamina first.
 
 ??? example
-    **Attacker — Kurt:** Weapon Skill 4, Strength Bonus +1, Short sword (Small, length 2, 1d6)
+    **Attacker — Kurt:** Weapon Skill 4, no armour, Short sword (Small, length 2, d8, armour modifier −1)
 
-    **Defender — Hans:** Weapon Skill 2, Agility Bonus +2, Rapier (length 4, 1d8), Light Armour (AR 2)
+    **Defender — Hans:** Weapon Skill 2, Agility Bonus +2, Rapier (length 4, d8, armour modifier −2), Buff coat (Armour Rating 2)
 
     **Hans's AC:** 10 (base) + 2 (Agility) + 2 (Weapon Skill) + 2 (Armour Rating) = **16**
 
-    *Kurt is using the shorter weapon, so he rolls d20 and adds Weapon Skill (4) + Strength Bonus (+1) + Weapon Length (-2) = +3:*
+    *Kurt is using the shorter weapon against a man in armour, so he rolls d20 and adds Weapon Skill (4) + Weapon Length (−2) + armour modifier (−1) = +1:*
 
-    - *Roll = 5: total 8 — miss.*
-    - *Roll = 13: total 16 — hit. The total need only **match** the AC, not beat it.*
-    - *Roll = 18: total 21 — hit. Kurt rolls 1d6 for damage.*
+    - *Roll = 5: total 6 — miss.*
+    - *Roll = 15: total 16 — hit. The total need only **match** the AC, not beat it.*
+    - *Roll = 18: total 19 — hit. Kurt rolls d8 for damage.*
     - *Roll = 1: miss regardless of the total.*
-    - *Roll = 20: hit regardless of the total. Kurt's 1d6 comes straight off Hans's Wounds, taking an equal bite out of his Stamina with it.*
+    - *Roll = 20: hit regardless of the total. Kurt's d8 comes straight off Hans's Wounds, taking an equal bite out of his Stamina with it.*
 
     **Now suppose Hans answers.** Kurt declares his attack; before any dice are rolled, Hans declares a **Counterattack**. His rapier is a proper weapon for it and he has not yet acted.
 
-    Hans's Weapon Skill no longer counts toward his AC, which drops to **14** — so Kurt now hits on a roll of 11 rather than 13. In exchange, Hans strikes at the same moment: d20 + Weapon Skill (2) + Weapon Length (0, his rapier is longer) against Kurt's AC.
+    Hans's Weapon Skill no longer counts toward his AC, which drops to **14** — so Kurt now hits on a roll of 13 rather than 15. In exchange, Hans strikes at the same moment: d20 + Weapon Skill (2) + Weapon Length (0, his rapier is longer) against Kurt's AC. Kurt wears no armour, so the rapier's armour modifier does nothing.
 
     Both blows land together. If each kills the other, both die — Hans has bought a guaranteed answer with the opening in his guard.
 
@@ -105,7 +118,7 @@ A **natural 20** on an attack roll always hits, whatever the target's AC and wha
 | Attacking an Opponent with WS 1+ and a proper weapon | Opponent may spend their action to Counterattack (see below)                                   |
 | Natural 20 on the attack roll               | Always hits; damage applies directly to Wounds, bypassing Stamina                                   |
 | Natural 1 on the attack roll                | Always misses                                                                                       |
-| Fighting inside an Opponent's reach         | Weapon Length does not apply; a weapon 2+ grades longer deals only d3                               |
+| Fighting inside an Opponent's reach         | Weapon Length does not apply; a weapon 2+ grades longer rolls 2d8 and keeps the lower               |
 | Attacking a Helpless Opponent               | Automatically deal maximum weapon damage in Melee                                                   |
 | Outnumbering two-on-one                     | +2 to attack roll                                                                                   |
 | Outnumbering three-on-one                   | +4 to attack roll                                                                                   |
@@ -119,6 +132,9 @@ A **natural 20** on an attack roll always hits, whatever the target's AC and wha
 | Ranged attack against full cover            | +10 to target's AC                                                                                  |
 | Fighting in darkness                        | −4 to attack roll; ranged attacks miss; all incoming attacks treat the target as Unaware            |
 | Mounted combat                              | −4 to ranged attack rolls; +1 to melee attack roll and −1 to Opponent's AC; double damage after running |
+| Guard                                       | +2 AC, or +4 with Weapon Skill 1+ and a weapon or shield at hand; not against firearms; no attack  |
+| Press                                       | +2 to the melee attack roll; −4 to own AC until the end of the Round                               |
+| Defensive Fighting                          | −4 to the melee attack roll; +2 to own AC until the end of the Round                               |
 
 ### Counterattack
 Your enemies do not stand still while you cut them. A character attacked in melee, who has **Weapon Skill 1 or better**, holds a **proper weapon**, and has **not yet acted** this Round, may declare a Counterattack. They strike back at the same moment as the blow aimed at them.
@@ -149,7 +165,7 @@ If a character is not holding the weapon that he wants to use, he can drop what 
 ### Wrestling
 A character may attempt to wrestle another character to either immobilize or take something out of that character's hands. The attacker must have both hands free or wield a weapon effective for wrestling. A defender who is armed and has not yet acted may answer with a [Counterattack](#counterattack) on the usual terms — it costs their action and their Weapon Skill no longer counts toward their AC — resolved simultaneously with the wrestling attempt.
 
-Wrestling is resolved with a contested roll. Both parties roll 1d20 and apply both their Weapon Skill and Strength modifier. Ties are decided by Agility modifier, or a die roll if both are still tied. The winner decides whether the loser is immobilized, if he will attempt to disarm the loser of the contest, or if he releases the loser. An immobilized opponent can usually take no action other than attempting to escape on his next action, but can instead attack a wrestling opponent with natural or minor weapons. Resolve this with another wrestling roll. Any character immobilized for three successive wrestling contests is considered pinned and helpless — no further attempts to escape can be made. If disarmament is attempted (and this includes snatching any held object, not just taking away weapons), the defender must make a save versus Paralyzation to keep hold of the object that his attacker is attempting to take.
+Wrestling is resolved with a contested roll. Both parties roll 1d20 and apply both their Weapon Skill and Strength modifier; a character who is trying to break free of a hold adds their Agility modifier instead of Strength. Ties are decided by Agility modifier, or a die roll if both are still tied. The winner decides whether the loser is immobilized, if he will attempt to disarm the loser of the contest, or if he releases the loser. An immobilized opponent can usually take no action other than attempting to escape on his next action, but can instead attack a wrestling opponent with natural or minor weapons. Resolve this with another wrestling roll. Any character immobilized for three successive wrestling contests is considered pinned and helpless — no further attempts to escape can be made. If disarmament is attempted (and this includes snatching any held object, not just taking away weapons), the defender must make a save versus Paralyzation to keep hold of the object that his attacker is attempting to take.
 
 If there are multiple opponents attempting to wrestle a single defender, all attackers make their rolls as normal, but only the best roll is used with a +1 bonus for each additional attacker. Creatures whose physiology or special abilities suggest that they have an advantage when wrestling (tentacles, adhesive, multiple limbs) gain a further +1 bonus to their wrestling roll per Hit Die.
 
@@ -158,18 +174,32 @@ A character can try to beat an intelligent opponent senseless rather than kill t
 
 Attack and damage are rolled normally, but **subdual damage** is noted separately from real damage. It depletes Stamina first like any other damage; an opponent whose Wounds would be reduced to 0 by subdual damage instead falls senseless or surrenders. They suffer no injury and are in no danger of death. Subdual damage recovers exactly as Stamina does, whichever pool it was marked against — an hour's rest restores the Stamina die plus Toughness modifier of it, and a full night in safety clears it entirely (see [Healing](../Adventuring/Healing.md)).
 
-### Full Defence
-Characters can decide to focus entirely on defence at the expense of all other activity. A player is free to declare Full Defence at any point during the Round, even out of Initiative sequence, provided that the character has not yet acted. This adds +2 to the Character's AC for the Round, or +4 AC if the Character has Weapon Skill 1 or better.
+### Guard
+Characters can decide to focus entirely on defence at the expense of all other activity. A player is free to declare Guard at any point during the Round, even out of Initiative sequence, provided that the character has not yet acted. For the rest of the Round the character adds **+2** to their AC, or **+4** if they have Weapon Skill 1 or better and a weapon or shield at hand.
+
+- A Guarding character makes no attack, but may move up to **half** their combat movement.
+- Guard helps against melee and ordinary ranged attacks, **never against a firearm**.
+- It does nothing in [wrestling](#wrestling), which is a contested roll rather than an attack against AC.
+
+### Press and Defensive Fighting
+A character with **Weapon Skill 1 or better** may trade defence for attack, or attack for defence, when they make a melee attack. The choice is declared with the attack, and applies to a [Counterattack](#counterattack) as well, since that is a melee attack too.
+
+- **Press:** +2 to the attack roll, and −4 to the character's own AC until the end of the Round.
+- **Defensive Fighting:** −4 to the attack roll, and +2 to the character's own AC until the end of the Round.
+
+Both change melee and ranged AC only. Against a firearm the AC stays 10 + the armour's firearm rating.
 
 ### Mounted Combat
 Mounted characters receive +1 to their melee attack rolls (unless using Minor or Small weapons) and reduce the Opponent's AC by 1 when in melee combat against enemies on foot. Mounted characters suffer a −4 penalty to ranged attack rolls while mounted. A Mounted Charge deals double damage.
 
 ---
 ## Ranged
-Ranged attacks follow the same steps as melee but use **Ballistic Skill + Agility Bonus** and the same base AC of 10 — the defender simply has no Weapon Skill to add, because no amount of swordsmanship parries an arrow. Several conditions specific to ranged combat are described below.
+Ranged attacks follow the same steps as melee but use **Ballistic Skill** and the same base AC of 10 — the defender simply has no Weapon Skill to add, because no amount of swordsmanship parries an arrow. A firearm does not even use Ballistic Skill; see below. Several conditions specific to ranged combat are described below.
 
 !!! warning "Against a firearm"
-    A defender adds **no Agility Bonus** against a firearm. A ball crosses fifty feet in less time than a man takes to notice it has been fired; nimbleness has nothing to do with the matter. Against a shot the AC is **10 + whatever Armour Rating the armour's [Proof](../Equipment/Armor.md#proof) allows**, and nothing else — no Weapon Skill, no buckler, no ordinary target. Only [cover](#cover) and proved plate help.
+    A firearm attack is **d20** plus situational modifiers, and nothing else: no Ballistic Skill, because anyone can point a gun. What a gunner's training buys is loading, not aim.
+
+    A defender adds **no Agility Bonus** against a firearm. A ball crosses fifty feet in less time than a man takes to notice it has been fired; nimbleness has nothing to do with the matter. Against a shot the AC is **10 + the armour's firearm rating**, and nothing else — no Weapon Skill, no Guard, no buckler, no ordinary target. Only [cover](#cover), a target of proof and proved plate help.
 
     This is why this age's answer to the gun was to make armour thicker rather than to train men to be quicker.
 
@@ -219,4 +249,4 @@ Any action can be held until the end of the Round, and at the time the action is
 
 A held action suffers **−2** when it is finally taken.
 
-The Character must name the **trigger** when the action is held — an enemy closing, a caster beginning his incantation, a door opening. Holding an action is a prediction, not a reaction; a defender who wants to answer a blow already aimed at him is making a [Counterattack](#counterattack), and pays for it in AC rather than accuracy.
+The Character must name the **trigger** when the action is held — an enemy closing, a caster beginning his incantation, a door opening. Holding an action is a prediction, not a reaction; a defender who wants to answer a blow already aimed at him is making a [Counterattack](#counterattack), and pays for it in AC rather than accuracy, and one who only wants to survive the Round declares [Guard](#guard).

@@ -35,16 +35,16 @@ On a success you are **inside the reach** of that opponent.
 While two fighters are inside one another's reach:
 
 - The **Weapon Length** table does not apply between them. Neither takes the shorter-weapon penalty. A dagger is as good as a sword here.
-- If one weapon is **two or more length grades longer** than the other, the longer weapon deals only **d3** damage and gains nothing whatever from its length. There is no room to use it.
+- If one weapon is **two or more length grades longer** than the other, the longer weapon rolls **2d8 and keeps the lower** for damage, whatever it normally rolls, and gains nothing whatever from its length. There is no room to use it.
 
 | Matchup | Grades apart | Inside the reach |
 | --- | --- | --- |
 | Dagger (1) vs. Sword (2) | 1 | No penalty either way |
 | Medium one-handed (2) vs. Medium two-handed (3) | 1 | No penalty either way |
-| Dagger (1) vs. Rapier (4) | 3 | Rapier deals d3 |
-| Sword (2) vs. Great weapon (4) | 2 | Great weapon deals d3 |
-| Sword (2) vs. Polearm (4) | 2 | Polearm deals d3 |
-| Sword (2) vs. Pike or Lance (5) | 3 | Pike or Lance deals d3 |
+| Dagger (1) vs. Rapier (4) | 3 | Rapier keeps the lower |
+| Sword (2) vs. Great weapon (4) | 2 | Great weapon keeps the lower |
+| Sword (2) vs. Polearm (4) | 2 | Polearm keeps the lower |
+| Sword (2) vs. Pike or Lance (5) | 3 | Pike or Lance keeps the lower |
 
 ### Getting Back Out
 
@@ -58,6 +58,6 @@ Re-opening the measure is also your **action** for the Round, and it is conteste
 
 Measure is tracked **between two fighters**, never for the battlefield as a whole.
 
-A pikeman with a cutpurse inside his reach is still **at measure** with everyone else. He is in real trouble with the cutpurse — d3 and no length — and can still set his pike against the thug charging in from the flank. Each is a separate argument about distance, and each is resolved on its own terms.
+A pikeman with a cutpurse inside his reach is still **at measure** with everyone else. He is in real trouble with the cutpurse — the lower of two dice and no length — and can still set his pike against the thug charging in from the flank. Each is a separate argument about distance, and each is resolved on its own terms.
 
 Note it on the character sheet, or put the two figures touching.

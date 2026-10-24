@@ -2,6 +2,11 @@
 
 Characters may possess various skills such as but not limited to: Architecture, Tinkering, Search. Any character has a base chance of 1 in 6 to succeed in any specific situation where such skill is required. Some characters have a natural affinity to certain skills. For example, Dwarves have a basic chance of 3 in 6 to Architecture skill. Also, certain Careers or Classes allow characters to gain skill advances, improving the success chance. A single advance improves the base chance by one, turning 2 in 6 chance to 3 in 6 chance and so on. Numbers may also be modified by the situation (some strong doors and rare languages require some expertise to even have a chance of success).
 
+The list of skills is open. When a career calls for something no skill below covers — Cooking, say — the Referee adds it, as a Common or a Special Skill as fits.
+
+!!! note "Sure things and long shots"
+    A skill at **6 in 6** or better is not a certainty: roll 2d6 instead, and the attempt fails only on a double 6. A skill at **0 in 6** or worse, after modifiers, is not hopeless either: roll 2d6, and it succeeds only on a double 1. Either way the chance is 1 in 36.
+
 Skills fall into two lists. The **Common Skills** are open to everyone: any character may attempt them at the base chance, and every character will need them. The **Special Skills** are learned crafts and professions, and a character comes by one only through a class or career that names it.
 
 ## Common Skills
@@ -82,7 +87,7 @@ A character gets one attempt to know any particular language. If that one attemp
 ---
 ### Lore
 
-The Lore skill must be selected for a specific field of knowledge, such as history, religion, scholarly discipline, etc. A successful check allows the character to recall something interesting, useful, or valuable within that field, such as details of an ancient civilization, the principles behind a natural phenomenon, or the workings of a strange device. It can also be applied to conducting experiments, interpreting research, or evaluating the accuracy of information found in texts and rumors. 
+The Lore skill must be selected for a specific field of knowledge, such as history, religion, scholarly discipline, etc. A successful check allows the character to recall something interesting, useful, or valuable within that field, such as details of an ancient civilization, the principles behind a natural phenomenon, or the workings of a strange device. It can also be applied to conducting experiments, interpreting research, or evaluating the accuracy of information found in texts and rumours. 
 
 ---
 ### Search
@@ -106,7 +111,7 @@ If a character attacks after successfully using Stealth, that attack is always c
 ---
 ### Swim
 
-It is assumed that every unencumbered character is able to hold to the water surface. Characters move at half their normal movement when swimming. Characters that are encumbered have a likelihood of drowning, though this is at the Referee’s discretion. Heavily encumbered characters, wearing plate mail armor and/or carrying a large proportion of treasure, probably have a chance of 5 in 6 to drown. Characters carrying less treasure or wearing lighter armor may have as little as a 1 in 6 chance of drowning.
+It is assumed that every unencumbered character is able to hold to the water surface. Characters move at half their normal movement when swimming. Characters that are encumbered have a likelihood of drowning, though this is at the Referee’s discretion. Heavily encumbered characters, wearing plate mail armour and/or carrying a large proportion of treasure, probably have a chance of 5 in 6 to drown. Characters carrying less treasure or wearing lighter armour may have as little as a 1 in 6 chance of drowning.
 
 ---
 ### Tinkering
@@ -129,7 +134,7 @@ The base chance of success for Tinkering is 1 in 6.
 
 ### Engineering
 
-Engineering skill covers the design and manipulation of machines, engines, and fortifications. It allows a character to construct or sabotage siege engines, reinforce or weaken defenses, improvise mechanical solutions such as pulleys or bridges, and manage large works like mines, mills, or waterworks. Where Architecture identifies what already exists, Engineering actively changes or creates, with success ensuring stability and function, and failure often leading to collapse, malfunction, or wasted effort.
+Engineering skill covers the design and manipulation of machines, engines, and fortifications. It allows a character to construct or sabotage siege engines, reinforce or weaken defences, improvise mechanical solutions such as pulleys or bridges, and manage large works like mines, mills, or waterworks. Where Architecture identifies what already exists, Engineering actively changes or creates, with success ensuring stability and function, and failure often leading to collapse, malfunction, or wasted effort.
 
 ---
 ### Evaluate
@@ -137,27 +142,27 @@ Engineering skill covers the design and manipulation of machines, engines, and f
  A successful Evaluate check allows characters to know the value of a given piece of treasure, and whether there is anyone who might pay extra for it. Appraisal will also identify fake treasures, such as copper coins painted gold.
 
 ---
-### Heal
-
-The **Heal** skill represents a character’s ability to treat wounds, stop bleeding, and perform rudimentary surgery. It cannot restore lost Wounds directly, but it can prevent death, reduce recovery time, and sometimes downgrade permanent injuries.
-
-**Using Heal:**
-
-- **Stabilize:** A dying character at 0 Wounds or fewer can be stabilized with a successful Heal check. This prevents death but leaves the character unconscious until naturally healed. On failed check the patient must make a Save vs Poison or take 1d4 damage.
-
-- With a successful use of the Heal skill you can bind wounds, doubling the number of Wounds recovered by a single patient when resting for that day. If the patient has at least half their Wounds, a failed attempt means the patient recovers no Wounds at all for their rest. If the patient has less than half their Wounds, a failure also requires the patient to Save vs Poison or suffer 1d4 damage.
-
-
-!!! note "Bone-saw crew"
-    If multiple characters attempt to use Heal on the same patient, only the most skilled roll is used.
-
-!!! note "Butcher's Work"
-    Improper tools (e.g., trying to perform surgery without knives, herbs, bandages) impose a −1 penalty to the check.
-
----
 ### Herbalism
 
 Herbalism skill represents a character’s knowledge of plants and their practical uses, including identifying, gathering, and preparing herbs for medicinal, alchemical, or toxic purposes. A character skilled in Herbalism can recognize edible or poisonous flora, create basic remedies or salves, and combine ingredients to enhance or neutralize effects. When encountering an unfamiliar potion or mixture, the character may roll a Herbalism check to determine if they recognize its recipe and potential effects.
+
+---
+### Medicine
+
+The **Medicine** skill represents a character’s ability to treat wounds, stop bleeding, and perform rudimentary surgery. It cannot restore lost Wounds directly, but it can prevent death, reduce recovery time, and sometimes downgrade permanent injuries.
+
+**Using Medicine:**
+
+- **Stabilize:** A dying character at 0 Wounds or fewer can be stabilized with a successful Medicine check. This prevents death but leaves the character unconscious until naturally healed. On failed check the patient must make a Save vs Poison or take 1d4 damage.
+
+- With a successful use of the Medicine skill you can bind wounds, doubling the number of Wounds recovered by a single patient when resting for that day. If the patient has at least half their Wounds, a failed attempt means the patient recovers no Wounds at all for their rest. If the patient has less than half their Wounds, a failure also requires the patient to Save vs Poison or suffer 1d4 damage.
+
+
+!!! note "Bone-saw crew"
+    If multiple characters attempt to use Medicine on the same patient, only the most skilled roll is used.
+
+!!! note "Butcher's Work"
+    Improper tools (e.g., trying to perform surgery without knives, herbs, bandages) impose a −1 penalty to the check.
 
 ---
 ### Sailing

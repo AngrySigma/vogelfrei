@@ -4,9 +4,9 @@
 AC per docs/Encounters/Combat Actions.md:
   Melee AC   = 10 + Agility bonus + WS + Armour Rating + shield melee bonus
   Ranged AC  = 10 + Agility bonus      + Armour Rating + shield ranged bonus
-  Firearm AC = 10 + whatever Armour Rating the harness's Proof keeps against
-               a shot (docs/Equipment/Armor.md). No Agility — nobody dodges a
-               ball — and no shield but a target of proof.
+  Firearm AC = 10 + the harness's Firearm rating (docs/Equipment/Armor.md).
+               No Agility — nobody dodges a ball — and no shield but a
+               target of proof.
 
 Also computes encumbrance and movement, flags weapons whose Training column
 says so, and enforces the Magic-User armour ban.
@@ -86,6 +86,7 @@ def main():
             warnings.append(f"{e['name']}: {note}")
         slots.append({"name": e["name"], "qty": e["qty"], "category": e["category"],
                       "damage": props.get("damage"),
+                      "armour_mod": props.get("armour_mod"),
                       "reach": props.get("length") or props.get("range"),
                       "requirements": "Training" if needs_training else "—",
                       "note": note})
@@ -94,13 +95,10 @@ def main():
         warnings.append("no weapon in the inventory")
     enc = encumbrance(state, worn_armor=worn["name"] if worn else None)
 
-    # docs/Equipment/Armor.md: a firearm meets only the Armour Rating the
-    # harness's Proof entitles it to, and no shield at all.
+    # docs/Equipment/Armor.md: a firearm meets only the harness's Firearm
+    # rating, and only a shield with a Firearm value (the target of proof).
     shot_ar = shot_armor_rating(worn["props"]) if worn else 0
-    # Only a target of proof counts against a shot — its Proof column says so.
-    sh_shot = (shield["props"].get("ranged_ac", 0)
-               if shield and str(shield["props"].get("proof", "")).lower().startswith("full")
-               else 0)
+    sh_shot = shield["props"].get("firearm_ac", 0) if shield else 0
 
     state["combat"] = {
         "melee_ac": 10 + agi + ws + ar + sh_melee,
@@ -108,7 +106,6 @@ def main():
         "firearm_ac": 10 + shot_ar + sh_shot,
         "armor_worn": worn["name"] if worn else None,
         "armor_rating": ar,
-        "armor_proof": (worn["props"].get("proof") or "—") if worn else "—",
         "shot_armor_rating": shot_ar,
         "shield": shield["name"] if shield else None,
         "weapons": slots,
@@ -121,12 +118,13 @@ def main():
                f"Ranged AC {state['combat']['ranged_ac']} "
                f"(10 {agi:+d} Agi +{ar} AR +{sh_ranged} shield); "
                f"vs firearms {state['combat']['firearm_ac']} "
-               f"(10 +{shot_ar} AR after Proof +{sh_shot} proofed target; "
+               f"(10 +{shot_ar} firearm rating +{sh_shot} target of proof; "
                f"no Agility against a ball)")
     log(state, f"Wearing: {worn['name'] if worn else 'no armour'}"
                + (f", carrying {shield['name']}" if shield else ""))
     for s in slots:
-        log(state, f"Weapon: {s['qty']}x {s['name']} — {s['damage'] or '?'} dmg, "
+        log(state, f"Weapon: {s['qty']}x {s['name']} — {s['damage'] or '?'} dmg"
+                   + (f", armour {s['armour_mod']}" if s.get("armour_mod") else "") + ", "
                    f"{s['requirements']}{'; ' + s['note'] if s['note'] else ''}")
     log(state, f"Encumbrance {enc['points']} points -> {enc['label']} "
                f"({enc['miles_per_day']} miles/day, {enc['combat']} combat move)")

@@ -9,13 +9,16 @@ The table lists complete, ordinary examples with the lock most often supplied fo
 | Horse pistol | d8 | 30'—60'—150' | Firelock | Minor | Training | 80sp | - |
 | ***Carbine (2H)*** | d8 | 50'—100'—300' | Firelock | Small | Training | 100sp | - |
 | ***Arquebus or caliver (2H)*** | d8 | 50'—100'—400' | Matchlock | Small | Training | 40sp | 80sp |
-| ***Musket (2H)*** | d10 | 50'—150'—600' | Matchlock | Small | Training | 60sp | - |
+| ***Musket (2H)*** | d8 high | 50'—150'—600' | Matchlock | Small | Training | 60sp | - |
 | ***Blunderbuss (2H)*** | d8 | 10'—30'—80' | Firelock | Small | Training | 40sp | 80sp |
 | ***Fowling piece (2H)*** | d8 | 50'—150'—500' | Firelock | Small | Training | 60sp | 100sp |
-| ***Rifled hunting gun (2H)*** | d10 | 100'—300'—900' | Firelock | Small | Training | 400sp | - |
+| ***Rifled hunting gun (2H)*** | d8 high | 100'—300'—900' | Firelock | Small | Training | 400sp | - |
 
 !!! info "Training"
-    Every firearm requires training, whatever its lock. A character with no plausible background with one must spend time learning it before it can be used effectively; the Referee decides what a character's background already covers.
+    Anyone can point a gun, and a firearm attack adds no Ballistic Skill (see [Combat Actions](../../Encounters/Combat%20Actions.md#ranged)). What every firearm requires, whatever its lock, is training in **loading and handling** it: measuring a charge, priming the pan, keeping the match away from the powder. A character with no plausible background with one must spend time learning that before they can use the piece at all; the Referee decides what a character's background already covers.
+
+!!! info "Damage"
+    **d8 high** means roll 2d8 and keep the higher. Firearms carry no armour modifier: what armour is worth against a ball is its own firearm rating (see [Armour](../Armor.md)).
 
 A **carbine** is any shortened long arm made for a horseman, carried on a belt hook — the petronel and the dragoon's piece are both carbines here. The **caliver** is a lighter arquebus that a man can fire from the shoulder unsupported; the **musket** proper is heavy enough to want a rest.
 
@@ -24,9 +27,11 @@ A **carbine** is any shortened long arm made for a horseman, carried on a belt h
 
 - Firearms suffer -4 to hit at Medium range and -8 at Long range. A rifled barrel changes these to the ordinary -2 and -4.
 
-- Against a firearm the target's AC is **10 + the Armor Rating its [Proof](../Armor.md#proof) allows**, and nothing else. No Agility Bonus — nobody dodges a ball. No buckler, and no ordinary target; only a [target of proof](../Armor.md) counts. Substantial [cover](../../Encounters/Combat%20Actions.md#cover) always does.
+- A firearm attack is a plain d20 plus situational modifiers: no Ballistic Skill.
 
-- A firearm used in melee applies a -1 penalty to the wielder's Weapon Skill for the purpose of their own Armor Class, and strikes as the melee equivalent listed in the table. A firearm damaged in melee may cease to work at the Referee's discretion.
+- Against a firearm the target's AC is **10 + its armour's [firearm rating](../Armor.md)**, and nothing else. No Agility Bonus — nobody dodges a ball. No Guard, no buckler, and no ordinary target; only a [target of proof](../Armor.md) counts. Substantial [cover](../../Encounters/Combat%20Actions.md#cover) always does.
+
+- A firearm used in melee applies a -1 penalty to the wielder's Weapon Skill for the purpose of their own Armour Class, and strikes as the melee equivalent listed in the table. A firearm damaged in melee may cease to work at the Referee's discretion.
 
 - The first unexpected discharge or volley in an encounter forces enemies with Morale 7 or less, who are not accustomed to gunfire, to make a Morale Check. Later shots do not repeat this check merely for being loud.
 
@@ -39,7 +44,7 @@ Rare combination guns, magazine mechanisms, grenades, hand mortars, and weapons 
 ---
 ## Loading
 
-Reloading any muzzle-loading firearm takes **10 Rounds**, reduced by the character's Ballistic Skill and Agility modifier, then increased by Encumbrance. Reloading always takes at least 3 Rounds. A Round spent moving, attacking, or defending with normal AC does not count toward the reload.
+Reloading any muzzle-loading firearm takes **10 Rounds**, reduced by the character's Ballistic Skill, then increased by Encumbrance. Reloading always takes at least 3 Rounds. A Round spent moving, attacking, or defending with normal AC does not count toward the reload.
 
 A reload includes measuring powder, charging the barrel, adding wad and ball or shot, ramming home, and priming the pan. It also includes winding a wheellock after firing. Rifling increases the final reload time by half, rounded up.
 

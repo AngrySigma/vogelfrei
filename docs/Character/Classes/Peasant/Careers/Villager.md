@@ -6,6 +6,9 @@ image_alt: Villager illustration
 ---
 # Villager
 
+!!! warning "Work in progress"
+    This career is not written yet, so it is not yet supported in play.
+
 **Class**: [Peasant](../index.md)
 
 **Status**:

@@ -6,6 +6,9 @@ image_alt: Road Warden illustration
 ---
 # Road Warden
 
+!!! warning "Work in progress"
+    This career is not written yet, so it is not yet supported in play.
+
 **Class**: [Ranger](../index.md)
 
 **Status**:

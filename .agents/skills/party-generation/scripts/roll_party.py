@@ -23,10 +23,6 @@ sys.path.insert(0, str(HERE.parents[2] / "character-generation" / "scripts"))
 from vflib import (ABILITIES, CLASS_HINTS, CLASSES, Dice, die, load_class,  # noqa: E402
                    modifier, new_state, repo_root, save_state)
 
-# Demihuman classes, for --humans-only (docs/Character/Classes/).
-DEMIHUMAN = {"Dwarf", "Halfling", "High Elf", "Wood Elf"}
-
-
 def fit_score(mods: dict, klass: str) -> int:
     h = CLASS_HINTS[klass]
     return 2 * sum(mods[a] for a in h["primary"]) + sum(mods[a] for a in h["secondary"])
@@ -63,9 +59,7 @@ def main():
     ap.add_argument("--dir", type=Path, required=True,
                     help="party directory, e.g. characters/tower-of-the-stargazer")
     ap.add_argument("--count", type=int, required=True, help="how many characters")
-    ap.add_argument("--classes", help="comma-separated class pool (default: all twelve)")
-    ap.add_argument("--humans-only", action="store_true",
-                    help="drop Dwarf, Halfling, High Elf and Wood Elf from the pool")
+    ap.add_argument("--classes", help="comma-separated class pool (default: every playable class)")
     ap.add_argument("--reroll-unsuitable", action="store_true",
                     help="reroll any array whose modifier total is negative")
     ap.add_argument("--seed", type=int)
@@ -82,8 +76,6 @@ def main():
         if unknown:
             die(f"unknown class(es): {', '.join(unknown)} (options: {', '.join(CLASSES)})")
         pool = [c for c in CLASSES if c in want]
-    if args.humans_only:
-        pool = [c for c in pool if c not in DEMIHUMAN]
     if not pool:
         die("the class pool is empty")
 
@@ -158,10 +150,10 @@ def main():
           "traits are pending rulebook content.")
 
     # --- wounds, for party durability planning ----------------------------
-    print("\nWounds dice by class (Toughness modifier is added once at level 1):\n")
+    print("\nStarting Wounds by class (Toughness modifier is added once at level 1):\n")
     for c in pool:
         info = load_class(c)
-        print(f"  {c:<{width}} {info['wounds_die']} (min {info['wounds_min']}), "
+        print(f"  {c:<{width}} {info['wounds']}, "
               f"Stamina {info['stamina_die'] or '—'}, WS +{info['ws']} / BS +{info['bs']}")
 
     print(f"\nNext: decide class + career + concept per PC, write the briefs, then run\n"

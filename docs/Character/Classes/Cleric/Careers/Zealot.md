@@ -6,6 +6,9 @@ image_alt: Zealot illustration
 ---
 # Zealot
 
+!!! warning "Work in progress"
+    This career is not written yet, so it is not yet supported in play.
+
 **Class**: [Cleric](../index.md)
 
 **Status**:

@@ -6,6 +6,9 @@ image_alt: Witch illustration
 ---
 # Witch
 
+!!! warning "Work in progress"
+    This career is not written yet, so it is not yet supported in play.
+
 **Class**: [Magic-User](../index.md)
 
 **Status**:

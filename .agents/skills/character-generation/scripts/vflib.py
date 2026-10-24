@@ -28,9 +28,12 @@ from pathlib import Path
 # score ... in order"). Order matters: 3d6 is rolled down this list.
 ABILITIES = ["Strength", "Intelligence", "Willpower", "Agility", "Toughness", "Leadership"]
 
+# The playable classes. The demihumans and the Phoenix are frozen — their
+# pages carry a "Not available" banner and no longer follow the rules — so
+# they are never offered.
 CLASSES = [
     "Warrior", "Magic-User", "Cleric", "Ranger", "Rogue", "Peasant",
-    "Academic", "Townsman", "Dwarf", "High Elf", "Wood Elf", "Halfling",
+    "Academic", "Townsman",
 ]
 
 # Alignment rules (docs/Character/Alignment.md): divine powers must be
@@ -43,32 +46,11 @@ FORCED_ALIGNMENT = {
 }
 ALIGNMENTS = ["Order", "Neutral", "Chaos"]
 
-# Transcribed from docs/Character/Class and Career.md (roll tables).
-CLASS_ROLL_2D6 = {
-    2: "Dwarf", 3: "Halfling", 4: "Rogue", 5: "Ranger", 6: "Townsman",
-    7: "Peasant", 8: "Warrior", 9: "Cleric", 10: "Academic",
-    11: "Magic-User", 12: "High Elf",
-}
-CAREER_ROLL_D6 = {
-    "Dwarf": ["Artisan", "Hold Ranger", "Engineer", "Brewer", "Miner", "Oathbound"],
-    "Halfling": ["Artisan", "Charlatan", "Badger Rider", "Herbalist", "Merchant", "Scout"],
-    "Rogue": [None, None, None, None, None, None],   # Rogue has no careers
-    "Ranger": ["Scout", "Thief-Taker", "Coachman", "Road Warden", "Pedlar", "Sailor"],
-    "Townsman": ["Artisan", "Rat Catcher", "Beggar", "Militia", "Scion", "Merchant"],
-    "Peasant": ["Miner", "Villager", "Herbalist", "Hunter", "Hedge Witch", None],
-    "Warrior": ["Mercenary", "Pit Fighter", "Soldier", "Knight", "Witch Hunter", "Duellist"],
-    "Cleric": ["Priest", "Zealot", "Warrior Priest", None, None, None],
-    "Academic": ["Apothecary", "Barber", "Engineer", "Scholar", "Alchemist", "Cartographer"],
-    "Magic-User": ["Wizard", "Witch", None, None, None, None],
-    "High Elf": ["Artisan", "Wizard", "Blademaster", "Hunter", "Shadow", None],
-    "Wood Elf": ["Artisan", "Wizard", "Hunter", "Blade Dancer", "Pathwarden", None],
-}
-
 # Fit heuristics (not rulebook text): which abilities pay off most for each
 # class, used to rank suggestions. Primary abilities count double.
 CLASS_HINTS = {
-    "Warrior": {"primary": ["Strength", "Toughness"], "secondary": ["Agility"],
-                "note": "best Wounds among humans; melee attack runs on Strength"},
+    "Warrior": {"primary": ["Toughness", "Agility"], "secondary": ["Strength"],
+                "note": "7 Wounds and a d6 Stamina die, the most of any class"},
     "Magic-User": {"primary": ["Intelligence"], "secondary": ["Agility"],
                    "note": "must be Chaotic; cannot wear armour or use shields"},
     "Cleric": {"primary": ["Willpower"], "secondary": ["Toughness", "Leadership"],
@@ -83,14 +65,6 @@ CLASS_HINTS = {
                  "note": "skill points; reads and writes"},
     "Townsman": {"primary": ["Leadership"], "secondary": ["Intelligence", "Agility"],
                  "note": "skill points; +1 urban reaction rolls (Familiar place)"},
-    "Dwarf": {"primary": ["Toughness", "Strength"], "secondary": [],
-              "note": "d10 Wounds and the best saves; demihuman"},
-    "High Elf": {"primary": ["Intelligence", "Agility"], "secondary": [],
-                 "note": "must be Chaotic; arcane demihuman"},
-    "Wood Elf": {"primary": ["Agility"], "secondary": ["Intelligence"],
-                 "note": "must be Chaotic; wilderness demihuman"},
-    "Halfling": {"primary": ["Agility"], "secondary": ["Toughness"],
-                 "note": "small; save throws improve fast; demihuman"},
 }
 
 BP_PER_SP = 12
@@ -298,7 +272,7 @@ def load_class(name: str) -> dict:
     info = {
         "name": name,
         "page": str(path.relative_to(repo_root())),
-        "wounds_die": None, "wounds_min": 0, "stamina_die": None,
+        "wounds": None, "stamina_die": None,
         "ws": 0, "bs": 0, "skill_points": 0, "saves": {},
     }
     for table in md_tables(text):
@@ -310,9 +284,11 @@ def load_class(name: str) -> dict:
             continue
         cells = dict(zip(header, row1))
         if "wounds" in cells:
-            m = re.match(r"(\d*d\d+)\s*\(min\s*(\d+)\)", cells["wounds"])
+            # docs/Character/Class and Career.md: Wounds are not rolled; the
+            # level 1 row gives the starting figure before Toughness.
+            m = re.match(r"(\d+)$", cells["wounds"].strip())
             if m:
-                info["wounds_die"], info["wounds_min"] = m.group(1), int(m.group(2))
+                info["wounds"] = int(m.group(1))
             if "stamina" in cells:
                 m = re.search(r"\d*d\d+", cells["stamina"])
                 if m:
@@ -330,7 +306,7 @@ def load_class(name: str) -> dict:
             for col in ("Paralyze", "Poison", "Breath", "Device", "Magic"):
                 if col.lower() in cells and cells[col.lower()].strip().isdigit():
                     info["saves"][col] = int(cells[col.lower()])
-    if not info["wounds_die"]:
+    if info["wounds"] is None:
         die(f"could not parse the level table on {path}")
     if not info["saves"]:
         die(f"could not parse the saving-throw table on {path}")
@@ -584,16 +560,27 @@ def _header_semantics(head_grid: list[list[HCell | None]]) -> dict[int, str]:
             sem[col] = "damage"
         elif "length" in h:
             sem[col] = "length"
-        elif "range" in h:
+        elif "range" in h and "ranged" not in h:
             sem[col] = "range"
         elif "requirement" in h:
             sem[col] = "requirements"
         elif "melee equivalent" in h:
             sem[col] = "melee_equivalent"
+        # docs/Equipment/Armor.md: "Armour Rating" spans Melee / Ranged /
+        # Firearm sub-columns; a harness's Melee and Ranged cells are one
+        # merged cell, a shield's are split.
+        elif "firearm" in h:
+            sem[col] = "firearm"
+        elif "melee" in h:
+            sem[col] = "melee"
+        elif "ranged" in h:
+            sem[col] = "ranged"
         elif "armor rating" in h or "armour rating" in h or h in ("ar",):
             sem[col] = "armor_rating"
-        elif h == "proof":
-            sem[col] = "proof"
+        elif h in ("armour", "armor") and col > 0:
+            # The weapon tables' armour modifier; on the Armor page the
+            # "Armour" header is the name column, col 0.
+            sem[col] = "armour_mod"
         elif h == "enc":
             sem[col] = "enc_points"
         elif "training" in h:
@@ -617,19 +604,9 @@ def _armor_props(text: str) -> dict:
 
 
 def shot_armor_rating(item_props: dict) -> int:
-    """The Armour Rating that survives a firearm, per docs/Equipment/Armor.md.
-
-    Proof "—" loses the whole rating, "Partial" keeps half rounding down, and
-    "Full" keeps all of it. This replaced the old flat "firearms ignore 5
-    Armour Rating", which made every harness in the book worthless.
-    """
-    ar = item_props.get("armor_rating") or 0
-    proof = (item_props.get("proof") or "").strip().lower()
-    if proof.startswith("full"):
-        return ar
-    if proof.startswith("partial"):
-        return ar // 2
-    return 0
+    """What a harness is worth against a firearm: its Firearm column on
+    docs/Equipment/Armor.md."""
+    return item_props.get("firearm_rating") or 0
 
 
 def armour_enc_points(name: str | None) -> int:
@@ -681,6 +658,17 @@ def _items_from_grids(head, body, category) -> list[Item]:
                 rural = _parse_price_cell(parts[1]) if len(parts) > 1 else None
             elif kind == "armor_rating":
                 props.update(_armor_props(text))
+            elif kind in ("melee", "ranged", "firearm"):
+                m = re.fullmatch(r"\+?(\d+)", text.strip())
+                if not m:
+                    continue
+                n = int(m.group(1))
+                if not text.strip().startswith("+"):
+                    # A plain number is a harness's rating; the melee and
+                    # ranged cells are the same merged cell.
+                    props["firearm_rating" if kind == "firearm" else "armor_rating"] = n
+                else:
+                    props[f"{kind}_ac"] = n
             elif text and text not in ("-", "–", "—"):
                 props[kind] = text
         # The emphasis flags mark encumbrance per the Equipment legend.
@@ -797,7 +785,10 @@ def encumbrance(state: dict, worn_armor: str | None) -> dict:
             oversize += 1
         else:
             regular += 1
-    points = regular // 5 + oversize + graded
+    # docs/Adventuring/Time and Movement.md: a Point per 5 + Strength
+    # modifier ordinary items; oversize items are +1 each whatever the Strength.
+    per_point = 5 + state.get("abilities", {}).get("Strength", {}).get("mod", 0)
+    points = regular // per_point + oversize + graded
     points += armour_enc_points(worn_armor)
     points += state.get("enc_adjust", 0)
     points = max(points, 0)

@@ -13,7 +13,7 @@ Loss of ability scores only affects the character so much as their modifiers and
 A character who falls to zero in any ability score dies.
 
 ---
-### Aging
+### Ageing
 Characters who grow old will lose their faculties and eventually die. The chart below gives the starting age that characters must make a saving throw versus Paralyzation, at what ages there are penalties to the modifier, and how often the saving throw must be made. A failed saving throw means that one randomly determined ability score will permanently decrease by one point.
 
 <table>
@@ -55,7 +55,7 @@ Characters who grow old will lose their faculties and eventually die. The chart 
     </tbody>
 </table>
 
-If a character is aged by magical means, then all saving throws that would have needed to be made if the aging occurred naturally must be made immediately, with any ability score penalties also being applied immediately.
+If a character is aged by magical means, then all saving throws that would have needed to be made if the ageing occurred naturally must be made immediately, with any ability score penalties also being applied immediately.
 
 ---
 ### Disease

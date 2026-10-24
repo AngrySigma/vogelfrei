@@ -14,16 +14,16 @@ The “Round” is ten seconds long. This is primarily used for time management 
 
 ---
 ## Encumbrance
-A character’s movement rate is determined by how much gear he is carrying, or how much he is encumbered. The Referee has the authority to call an audit of a character’s inventory at any time, so each player should make sure that their character is carrying a reasonable amount of equipment and that all of the equipment fits somewhere on the character or in a pack. Worn items, such as cloaks, jewelry, backpacks, etc., do not themselves count as items for encumbrance purposes. Carried sacks full of stuff count as an oversize item. 100 coins count as one regular item.
+A character’s movement rate is determined by how much gear he is carrying, or how much he is encumbered. The Referee has the authority to call an audit of a character’s inventory at any time, so each player should make sure that their character is carrying a reasonable amount of equipment and that all of the equipment fits somewhere on the character or in a pack. Worn items, such as cloaks, jewellery, backpacks, etc., do not themselves count as items for encumbrance purposes. Carried sacks full of stuff count as an oversize item. 100 coins count as one regular item.
 
 | Criterion                                               | Effect    |
 | ------------------------------------------------------- | --------- |
-| Character is wearing metal armor                        | +1 Point  |
-| Three-quarter or heavier armor                          | +2 Points |
-| Per 5 items the Character is carrying                   | +1 Point  |
+| Character is wearing metal armour                        | +1 Point  |
+| Three-quarter or heavier armour                          | +2 Points |
+| Per 5 + Strength modifier items the Character is carrying | +1 Point |
 | Character is carrying an oversize item                  | +1 Point  |
 
-Very small single items do not count for encumbrance purposes. Multiple small items of the same type (spikes, arrows, etc.) count as one item. All weapons count as separate items. Oversize items are counted separately. Such items include great and other two handed weapons, and any item that requires two hands to carry or is as tall as the carrying character.
+Very small single items do not count for encumbrance purposes. Multiple small items of the same type (spikes, arrows, etc.) count as one item. All weapons count as separate items. Oversize items are counted separately, +1 Point each, whatever the character's Strength. The Strength modifier changes only how many ordinary items make a Point: a character with Strength 3 gains a Point for every 2 items, one with Strength 18 for every 8. Such items include great and other two handed weapons, and any item that requires two hands to carry or is as tall as the carrying character.
 
 ---
 ## Movement
@@ -46,9 +46,7 @@ If an animal is pulling a cart or other vehicle, the load of the vehicle (as per
 
 | Criteria                                | Encumbrance                              |
 | --------------------------------------- | ---------------------------------------- |
-| Every Human or Dwarf riding the animal  | +5 Points and the rider's Encumbrance    |
-| Elf riding                              | +4 Points and the rider's Encumbrance    |
-| Halfling riding                         | +3 Points and the rider's Encumbrance    |
+| Every Human riding the animal           | +5 Points and the rider's Encumbrance    |
 | Animal is wearing Leather Barding       | +1 Point                                 |
 | Chain Barding                           | +2 Points                                |
 | Plate Barding                           | +3 Points                                |

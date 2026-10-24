@@ -10,7 +10,7 @@ Everything needed to bring a character into the world of Vogelfrei.
 
 *   **[Ability Scores](./Character/Ability%20Scores.md)** — roll 3d6 in order for Strength, Intelligence, Willpower, Agility, Toughness, and Leadership; note modifiers and decide on one swap.
 
-*   **[Class and Career](./Character/Class%20and%20Career.md)** — roll or choose a social class, then your career within it; determines Wounds, Weapon Skill, Ballistic Skill, Saving Throws, and career traits.
+*   **[Class and Career](./Character/Class%20and%20Career.md)** — choose a social class, then your career within it; determines Wounds, Stamina, Weapon Skill, Ballistic Skill, Saving Throws, and career traits.
 
 *   **[Classes](./Character/Classes/index.md)** — all available classes with their careers, special rules, and advancement tables:
     *   [Warrior](./Character/Classes/Warrior/index.md) — the martial class; careers include Mercenary, Pit Fighter, Soldier, Knight, Witch Hunter, Duellist.
@@ -20,11 +20,11 @@ Everything needed to bring a character into the world of Vogelfrei.
     *   [Rogue](./Character/Classes/Rogue/index.md) — urban opportunists; a class in itself, with no careers.
     *   [Peasant](./Character/Classes/Peasant/index.md) — common folk; careers include Hedge Witch, Herbalist, Hunter, Miner, Villager.
     *   [Academic](./Character/Classes/Academic/index.md) — learned scholars; careers include Alchemist, Apothecary, Barber, Cartographer, Engineer, Scholar.
-    *   [Townsman](./Character/Classes/Townsman/index.md) — urban civilians; careers include Artisan, Beggar, Merchant, Militia, Rat Catcher, Scion.
-    *   [Dwarf](./Character/Classes/Dwarf/index.md) — stoic demihuman; careers include Artisan, Brewer, Engineer, Hold Ranger, Miner, Oathbound.
-    *   [High Elf](./Character/Classes/High%20Elf/index.md) — ancient demihuman; careers include Artisan, Hunter, Shadow, Blademaster, Wizard.
-    *   [Wood Elf](./Character/Classes/Wood%20Elf/index.md) — forest demihuman; careers include Artisan, Blade Dancer, Hunter, Pathwarden, Wizard.
-    *   [Halfling](./Character/Classes/Halfling/index.md) — small-folk demihuman; careers include Artisan, Badger Rider, Charlatan, Herbalist, Merchant, Scout.
+    *   [Townsman](./Character/Classes/Townsman/index.md) — urban civilians, still a work in progress; careers include Artisan, Beggar, Merchant, Militia, Rat Catcher, Scion.
+    *   [Dwarf](./Character/Classes/Dwarf/index.md) — stoic demihuman, not available at the moment; careers include Artisan, Brewer, Engineer, Hold Ranger, Miner, Oathbound.
+    *   [High Elf](./Character/Classes/High%20Elf/index.md) — ancient demihuman, not available at the moment; careers include Artisan, Hunter, Shadow, Blademaster, Wizard.
+    *   [Wood Elf](./Character/Classes/Wood%20Elf/index.md) — forest demihuman, not available at the moment; careers include Artisan, Blade Dancer, Hunter, Pathwarden, Wizard.
+    *   [Halfling](./Character/Classes/Halfling/index.md) — small-folk demihuman, not available at the moment; careers include Artisan, Badger Rider, Charlatan, Herbalist, Merchant, Scout.
 
 *   **[Alignment](./Character/Alignment.md)** — choose Order, Neutrality, or Chaos; determines magical interactions and divine constraints.
 
@@ -47,7 +47,7 @@ Complete spell and miracle lists for arcane and divine casters.
 ## 🎒 Equipment
 All items available for purchase during character creation or between expeditions.
 
-*   **[Armor](./Equipment/Armor.md)** — period armour, Armor Rating, and what a proofed plate does against a bullet.
+*   **[Armour](./Equipment/Armor.md)** — period armour, its Armour Rating in melee, at range and against a firearm.
 
 *   **[Weapons](./Equipment/Weapons/index.md)** — weapon categories, requirements, and combat properties:
     *   [Melee Weapons](./Equipment/Weapons/Melee%20Weapons.md) — hand-to-hand weapons, length, and special qualities.
@@ -86,7 +86,7 @@ Rules governing what happens outside of direct combat.
 
 *   **[Party Organization](./Adventuring/Party%20Organization.md)** — marching order, the caller and the mapper, and dividing the spoils.
 
-*   **[Skills](./Adventuring/Skills.md)** — skill checks, the 1-in-6 base chance, natural affinities, career advances, situational modifiers, and optional ability checks.
+*   **[Skills](./Adventuring/Skills.md)** — skill checks, the 1-in-6 base chance, sure things and long shots, natural affinities, career advances, situational modifiers, and optional ability checks.
 
 *   **[Time and Movement](./Adventuring/Time%20and%20Movement.md)** — watches, turns, and rounds; movement rates in dungeon and wilderness; encumbrance and the forced march.
 
@@ -113,7 +113,7 @@ The full encounter pipeline, from first contact to resolution.
 
 *   **[Initiative](./Encounters/Initiative.md)** — how turn order is determined each round.
 
-*   **[Combat Actions](./Encounters/Combat%20Actions.md)** — the full list of actions available in a round: Move, Flee, Attack, Counterattack, Brace, Wrestle, and more.
+*   **[Combat Actions](./Encounters/Combat%20Actions.md)** — the full list of actions available in a round: Move, Flee, Attack, Counterattack, Brace, Wrestle, Guard, Press, and more.
 
 *   **[Measure and Reach](./Encounters/Measure%20and%20Reach.md)** — fighting distance: closing inside a long weapon's reach, and forcing it back out.
 

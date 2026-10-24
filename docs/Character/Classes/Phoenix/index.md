@@ -4,6 +4,9 @@ tier: expert
 ---
 # Phoenix
 
+!!! danger "Not available"
+    This class is not available at the moment. Its page and careers are kept as they were, but they no longer follow the current rules and are not maintained.
+
 Not born but made. Somewhere, an alchemist's Great Work succeeded — a rooster stuffed with a human brain and heart, cooked in an athanor — and out of the vessel came a thing that speaks, remembers, and does not stay dead. It wears the body of a bird the size of a pelican. Whose work it was, and whether the debt on it is paid, is a question best not asked in front of a Witch Hunter.
 
 | Level | Experience | Wounds      | Stamina | Gifts |
@@ -34,8 +37,8 @@ The Phoenix speaks all languages it knew in the vessel, and its voice carries st
 
 
 - **Flight.** Flies at three times the usual speed; walks and hops at half a man's pace.
-- **Talons and beak.** Manipulation as a clever corvid: it can carry one small object, tug a lever, worry at a simple knot or latch — given time and, for fine work, a [skill](../../../Adventuring/Skills.md) roll, the Referee determining which skill applies each time. It cannot wield weapons, wear armor, load a firearm, or carry more than a tenth of what a man carries.
-- **Small and quick.** +2 to melee AC and, while flying, +2 to ranged AC. It has no armor and never will.
+- **Talons and beak.** Manipulation as a clever corvid: it can carry one small object, tug a lever, worry at a simple knot or latch — given time and, for fine work, a [skill](../../../Adventuring/Skills.md) roll, the Referee determining which skill applies each time. It cannot wield weapons, wear armour, load a firearm, or carry more than a tenth of what a man carries.
+- **Small and quick.** +2 to melee AC and, while flying, +2 to ranged AC. It has no armour and never will.
 - **Encumbrance** is limited to 2 points if a bag or sack is carried. Otherwise a Phoenix can carry three items, or a single encumbering one.
 
 
@@ -82,7 +85,7 @@ At each level past the first, roll 1d20 on the list below. Rolling a Gift alread
 | 14 | **Feather of Ransom.** Pluck a living feather (take 1 Wound; it does not regrow until your next rebirth). The feather holds one use of your Spark and anyone may spend it. It can be given, sold, or stolen. |
 | 15 | **Awe.** Unfurl and blaze: hostile beasts check Morale; men save versus Magic or hesitate one round. Once per encounter — and it also triggers *involuntarily* the first time you take a Wound in a fight. |
 | 16 | **The Element's Due.** Your Ward becomes full immunity to fire. *Deepened:* allies within 10' gain your original Ward. |
-| 17 | **Lodestone.** Heat and tallow answers you: at 20' put out or burn a torch, make some flammable object catch fire, or heat and jam some clockwork. *Deepened (surge):* damage a metal item. Weapons gain -1 to attack, armor gets -1 AC, complex mechanisms require full maintenance. |
+| 17 | **Lodestone.** Heat and tallow answers you: at 20' put out or burn a torch, make some flammable object catch fire, or heat and jam some clockwork. *Deepened (surge):* damage a metal item. Weapons gain -1 to attack, armour gets -1 AC, complex mechanisms require full maintenance. |
 | 18 | **Moult of Ash.** *(surge)* Burst into ash and reform 10' away, escaping any bond, grasp, or snare. Anything carried stays behind. |
 | 19 | **Long Memory.** Touch what your fire has marked — the scorch, the extinguished fire, the bullet hole — and glimpse the moment it happened. |
 | 20 | **Unruly Gift.** Roll twice more and keep both — but every use of either invites surge one step easier. |

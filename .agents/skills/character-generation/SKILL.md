@@ -53,14 +53,15 @@ may discard by the book and ask whether to reroll (`--force` to overwrite).
 python3 $S/class_options.py --file characters/<slug>.json
 ```
 
-This ranks all twelve classes for the rolled array, suggests the single
+This ranks the eight playable classes for the rolled array (the demihumans and
+the Phoenix are not available and never offered), suggests the single
 two-score swap that would most improve each, and lists careers with Status
 (Gold/Silver/Brass — that is the starting-money bracket). A character is
 allowed **one** swap of two ability scores, ever; it is applied in step 3,
 so treat it as part of the class decision.
 
 - **2a. No preference given**: pick from the top of the ranking, weighing
-  the notes (forced alignment, Magic-User armour ban, wounds die) and any
+  the notes (forced alignment, Magic-User armour ban, Wounds and Stamina) and any
   personality the request implies. Interactive mode: present the 2–3 best
   class+career combinations (with the swap each would use and one line of
   why) and let the player choose. Quick mode: decide yourself, prefer the
@@ -71,9 +72,9 @@ so treat it as part of the class decision.
   propose the closest-fitting alternatives from the ranking — interactive:
   ask; quick: pick the preference anyway if merely mediocre, or the best
   alternative if it is truly hopeless, and note why on the sheet.
-- The rulebook default is *rolling* class (2d6) and career (d6):
-  `class_options.py --roll` does both. Use it when the request asks for a
-  by-the-book random character.
+- The rulebook has no roll tables: a player chooses class and career. When
+  the request asks for a random character anyway, `class_options.py --roll`
+  picks a class and one of its careers at random.
 
 ## Step 3 — apply class, career, alignment, money
 

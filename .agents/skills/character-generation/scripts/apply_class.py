@@ -8,8 +8,8 @@ docs/Character/Classes/.
 import argparse
 from pathlib import Path
 
-from vflib import (ALIGNMENTS, CAREER_ROLL_D6, Dice, FORCED_ALIGNMENT, canon_ability,
-                   canon_class, die, find_career, fmt_money, load_class, load_state,
+from vflib import (ALIGNMENTS, Dice, FORCED_ALIGNMENT, canon_ability,
+                   canon_class, careers_of, die, find_career, fmt_money, load_class, load_state,
                    log, modifier, parse_career, roll_starting_money, save_state)
 
 
@@ -19,7 +19,7 @@ def main():
     ap.add_argument("--class", dest="klass", required=True)
     ap.add_argument("--career")
     ap.add_argument("--roll-career", action="store_true",
-                    help="roll the career on the rulebook d6 table")
+                    help="pick one of the class's careers at random")
     ap.add_argument("--swap", nargs=2, metavar=("A", "B"),
                     help="swap two ability scores (allowed once, ever)")
     ap.add_argument("--alignment", help="Order, Neutral or Chaos (free classes only)")
@@ -46,16 +46,17 @@ def main():
         state["swap_used"] = True
         log(state, f"Swapped {a} ({ab[a]['score']}) <-> {b} ({ab[b]['score']})")
 
+    # The rulebook no longer has career roll tables; --roll-career picks one
+    # of the class's career pages at random, as a convenience.
     career_name = args.career
+    careers = careers_of(klass)
     if args.roll_career and not career_name:
-        table = CAREER_ROLL_D6[klass]
-        if not any(table):
-            die(f"{klass} has no careers written yet — drop --roll-career "
+        if not careers:
+            die(f"{klass} has no careers — drop --roll-career "
                 f"and pass --status brass|silver|gold instead")
-        while career_name is None:
-            career_name = table[dice.roll(1, 6) - 1]
+        career_name = careers[dice.roll(1, len(careers)) - 1].stem
         log(state, f"Rolled career: {career_name}")
-    careerless = not any(CAREER_ROLL_D6[klass])
+    careerless = not careers
     if not career_name and not careerless:
         die("give --career or --roll-career (see class_options.py for the lists)")
 
@@ -109,8 +110,8 @@ def main():
         career_grant = f"{', '.join(parts)} (career level 1)"
 
     tough = state["abilities"]["Toughness"]["mod"]
-    wounds_roll = dice.roll_expr(info["wounds_die"])
-    wounds = max(max(wounds_roll, info["wounds_min"]) + tough, 1)
+    # docs/Character/Class and Career.md: Wounds are not rolled.
+    wounds = max(info["wounds"] + tough, 1)
     stamina = dice.roll_expr(info["stamina_die"]) if info["stamina_die"] else 0
     money_bp, money_desc = roll_starting_money(status, dice)
 
@@ -128,8 +129,8 @@ def main():
     })
     label = f"{klass} / {career['name']}" if career["name"] else f"{klass} (no career)"
     log(state, f"Class {label} (Status {status}, {alignment})")
-    log(state, f"Wounds: {info['wounds_die']} = {wounds_roll} (min {info['wounds_min']}) "
-               f"{tough:+d} Toughness -> {wounds}; Stamina {info['stamina_die']} = {stamina}")
+    log(state, f"Wounds: {info['wounds']} {tough:+d} Toughness -> {wounds}; "
+               f"Stamina {info['stamina_die']} = {stamina}")
     log(state, f"Saves: {info['saves']}; WS {ws}, BS {bs}"
                + (f" [{career_grant}]" if career_grant else "")
                + (f"; Skill Points {info['skill_points']}" if info["skill_points"] else ""))

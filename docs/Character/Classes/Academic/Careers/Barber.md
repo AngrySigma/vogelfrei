@@ -11,9 +11,9 @@ image_alt: Barber illustration
 
 **Status**: Brass
 
-**Skills**: [Heal](../../../../Adventuring/Skills.md#heal), [Sleight of Hand](../../../../Adventuring/Skills.md#sleight-of-hand), [Languages](../../../../Adventuring/Skills.md#languages), [Lore](../../../../Adventuring/Skills.md#lore)
+**Skills**: [Medicine](../../../../Adventuring/Skills.md#medicine), [Sleight of Hand](../../../../Adventuring/Skills.md#sleight-of-hand), [Languages](../../../../Adventuring/Skills.md#languages), [Lore](../../../../Adventuring/Skills.md#lore)
 
-***Trait***: You can perform surgery. On a successful Heal check, use the same d6 roll to shorten a Minor Wound’s recovery time. The roll result equals the number of days, weeks, or months reduced, depending on the wound. If a wound specifies “surgery required,” a Heal check must succeed to save the limb; failure results in amputation.
+***Trait***: You can perform surgery. On a successful Medicine check, use the same d6 roll to shorten a Minor Wound’s recovery time. The roll result equals the number of days, weeks, or months reduced, depending on the wound. If a wound specifies “surgery required,” a Medicine check must succeed to save the limb; failure results in amputation.
 
 | Level | Progression     |
 | ----- | --------------- |

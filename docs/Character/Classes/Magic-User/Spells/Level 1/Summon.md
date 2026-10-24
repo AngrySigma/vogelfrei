@@ -65,7 +65,7 @@ To determine the creature’s basic form, roll 1d12 if the original casting save
 |       | 3    | Squid                                                                                                     |
 | 13–19 | 1    | Anti-Matter (HDd6 explosion on every contact)                                                             |
 |       | 2    | Dream-Matter (all touched become Confused)                                                                |
-|       | 3    | Flowing Colors                                                                                            |
+|       | 3    | Flowing Colours                                                                                            |
 |       | 4    | Fog (immune to normal attacks)                                                                            |
 |       | 5    | Lightning (Move 240', immune to normal attacks, 1d8 damage touch, touching it with metal does 1d8 damage) |
 |       | 6    | Orb of Light (immune to normal attacks)                                                                   |

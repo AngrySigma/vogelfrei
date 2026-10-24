@@ -21,57 +21,59 @@ Each ability score has a Modifier which is associated with it:
 An ability score modifier only ever affects the character it belongs to — a caster’s scores speed their own research, but never touch the saving throws of their victims.
 
 **Strength**
-Strength is a measure of a character’s raw power. Strength modifiers affect a character’s ability to hit in melee combat, wrestle, open stuck doors, or succeed in unarmed combat.
+Strength is physical power: how much a character can carry, and how hard they can wrestle, force a door or dig. It does not make anyone better with a weapon — that is Weapon Skill's business.
 
 | Strength Modifier | Effect |
 | ----------------- | ------ |
-| Melee attack rolls | Added to the attack roll |
-| Unarmed combat | Added to the attack roll |
+| Encumbrance | Items per Encumbrance Point: 5 + modifier (see [Time and Movement](../Adventuring/Time%20and%20Movement.md)) |
 | Wrestling | Added to the contested roll |
 | Stuck doors | Added to the Doors skill chance |
+| Excavation | Added to the cubic feet dug per hour |
 
 **Intelligence**
-Intelligence is the measure of a character’s knowledge prior to the start of play. Intelligence modifiers affect the character’s ability to learn languages, are added to the character’s own saving throw rolls against Magic-User spells, and for Magic-Users it affects the time (and thus expense) required to research spells and create magic items.
+Intelligence is learning and a trained mind: languages and letters, the Magic-User's research, and the resistance an educated mind puts up against magic. Intelligence modifiers are added to the character's own saving throws against anything magical — a Magic-User's spell, a Cleric's miracle, a magic item, or a creature's innate magical effect.
 
 | Intelligence Modifier | Effect |
 | --------------------- | ------ |
-| Saving throws against Magic-User spells | Added to the character’s own save |
+| Saving throws against magic | Added to the character's own save |
 | Languages | Added to the language roll and to the [literacy](../Adventuring/Skills.md#literacy) roll |
 | Magic-User research and scribing | Reduces the required days by the modifier |
 
 **Willpower**
-Willpower is the measure of a character’s connection to the greater universe, and the strength of the character’s spirit. Willpower modifiers affect the character’s non-spell related saving throw rolls, and for Clerics it affects the time (and thus expense) required to research spells and create holy items.
+Willpower is grit and nerve: holding on against poison, paralysis, a blast, or anything else that is not magic. Willpower modifiers are added to every saving throw that Intelligence does not cover, and for Clerics they affect the time (and thus expense) required to research miracles and create holy items.
 
 | Willpower Modifier | Effect |
 | ------------------ | ------ |
-| All non-spell saving throws | Added to the save |
+| All other saving throws | Added to the save |
 | Cleric research and scroll writing | Reduces the required days by the modifier |
 
 **Agility**
-Agility is the measure of a character’s mobility and reflexes. Agility modifiers affect a character’s ranged and melee defence — though not against a firearm, which no reflex is quick enough to answer — the ability to hit with ranged weapons, and the speed of reloading firearms.
+Agility is quickness and balance: getting out of the way of a blade or an arrow — though never a ball, which no reflex is quick enough to answer — outrunning pursuit, and slipping out of a hold.
 
 | Agility Modifier | Effect |
 | ---------------- | ------ |
-| Melee AC and Ranged AC | Added to the character’s AC — but never against a firearm |
-| Ranged attack rolls | Added to the attack roll |
-| Firearm reloading | Reduces the Rounds to reload by the modifier |
+| Melee AC and Ranged AC | Added to the character's AC — but never against a firearm |
+| Fleeing | Added to the [pursuit](../Encounters/Combat%20Actions.md#flee) roll |
+| Escaping a wrestle | Added in place of Strength when breaking free (see [Wrestling](../Encounters/Combat%20Actions.md#wrestling)) |
+| Wrestling ties | Decides a tied contest |
 
 **Toughness**
-Toughness is the measure of a character’s health, vitality, and overall constitution. The Toughness modifier is added to a character’s starting Wounds once, at Level 1, and does not apply again as the character levels up. Toughness also determines fitness for certain physical activities such as travelling long distances, and how much of a character’s battle-readiness returns from a short rest.
+Toughness is health and endurance: how many Wounds a body can take, how far it can walk in a day, and how fast it gets its wind back. The Toughness modifier is added to a character's starting Wounds once, at Level 1, and does not apply again as the character levels up.
 
 | Toughness Modifier | Effect |
 | ------------------ | ------ |
 | Starting Wounds | Added once, at Level 1 |
 | Daily travel distance on foot | Added to the miles travelled per day |
-| Stamina recovery | Added to the Stamina die rolled after an hour’s rest |
+| Stamina recovery | Added to the Stamina die rolled after an hour's rest |
 
 **Leadership**
-Leadership is the measure of a character’s aptitude for gaining obeyance and the respect that others bestow on the character’s authority. Leadership modifiers affect the character’s ability to hire retainers and secure their loyalty, and set the limit on henchmen.
+Leadership is the habit of being obeyed: hiring retainers and keeping their loyalty, holding henchmen, and doing the talking when a meeting could go either way.
 
 | Leadership Modifier | Effect |
 | ------------------- | ------ |
 | Hiring retainers | Added to hire rolls |
 | Henchmen | Limit of 4 + modifier |
+| Reaction rolls | Added when the character leads the parley (see [Reaction Roll](../Encounters/Reaction%20Roll.md)) |
 
 #### Is the character suitable?
 If the total of all of the character’s ability score modifiers is less than zero, then the player may discard the character and begin the process again.

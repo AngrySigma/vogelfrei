@@ -28,7 +28,7 @@
       "class_slug": "academic",
       "status": "Brass",
       "combat_skills": null,
-      "skills": "[Herbalism](../../../../Adventuring/Skills.md#herbalism), [Heal](../../../../Adventuring/Skills.md#heal), [Languages](../../../../Adventuring/Skills.md#languages), [Lore](../../../../Adventuring/Skills.md#lore)",
+      "skills": "[Herbalism](../../../../Adventuring/Skills.md#herbalism), [Medicine](../../../../Adventuring/Skills.md#medicine), [Languages](../../../../Adventuring/Skills.md#languages), [Lore](../../../../Adventuring/Skills.md#lore)",
       "trait": "You gain +2 to all saving throws against disease and infection.",
       "progression": [
         {
@@ -75,8 +75,8 @@
       "class_slug": "academic",
       "status": "Brass",
       "combat_skills": null,
-      "skills": "[Heal](../../../../Adventuring/Skills.md#heal), [Sleight of Hand](../../../../Adventuring/Skills.md#sleight-of-hand), [Languages](../../../../Adventuring/Skills.md#languages), [Lore](../../../../Adventuring/Skills.md#lore)",
-      "trait": "You can perform surgery. On a successful Heal check, use the same d6 roll to shorten a Minor Wound’s recovery time. The roll result equals the number of days, weeks, or months reduced, depending on the wound. If a wound specifies “surgery required,” a Heal check must succeed to save the limb; failure results in amputation.",
+      "skills": "[Medicine](../../../../Adventuring/Skills.md#medicine), [Sleight of Hand](../../../../Adventuring/Skills.md#sleight-of-hand), [Languages](../../../../Adventuring/Skills.md#languages), [Lore](../../../../Adventuring/Skills.md#lore)",
+      "trait": "You can perform surgery. On a successful Medicine check, use the same d6 roll to shorten a Minor Wound’s recovery time. The roll result equals the number of days, weeks, or months reduced, depending on the wound. If a wound specifies “surgery required,” a Medicine check must succeed to save the limb; failure results in amputation.",
       "progression": [
         {
           "level": "1",
@@ -1280,7 +1280,7 @@
       "status": "Brass",
       "combat_skills": "WS",
       "skills": null,
-      "trait": "Pit Fighter is good at wrestling and unarmed attacks. They add their Strength AND Agility bonus to Wrestling checks, and automatically win ties (unless wrestling with another Pit Fighter or creature with a natural wrestling ability). Pit Fighter's unarmed attacks deal d4 damage.",
+      "trait": "Pit Fighter is good at wrestling and unarmed attacks. They add their Strength AND Agility bonus to Wrestling checks, and automatically win ties (unless wrestling with another Pit Fighter or creature with a natural wrestling ability). Pit Fighter's unarmed attacks deal d8 low damage, like a Minor weapon.",
       "progression": [],
       "complete": true,
       "tags": [
