@@ -5,4 +5,4 @@ When surprise is possible, roll 1d6 for each side which might be surprised; most
 The foes of surprised characters can take a free action before Initiative is rolled.
 
 !!! tip "Clunking brutes"
-    Explorers traveling in a large party underground with light sources and metal armor clomping on stone floors are not going to surprise anything or anyone.
+    Explorers travelling in a large party underground with light sources and metal armour clomping on stone floors are not going to surprise anything or anyone.

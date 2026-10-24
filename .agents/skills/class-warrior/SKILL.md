@@ -43,7 +43,7 @@ career page (`career_page`) and act:
 | Duellist | Fights with a weapon in each hand (one Minor/Small), rolling both damage dice, keeping higher. Make sure the inventory actually contains a suitable off-hand weapon (e.g. `buy.py add "Weapon (Minor)"`); note that a shield forfeits the trait. |
 | Knight | Gains a 0-level squire henchman; henchmen get +half level (round up) to Loyalty and Morale. Add a note naming the squire (roll or invent a name with `roll_name.py`). |
 | Mercenary | Weapon-switch trait needs no setup, but it rewards carrying a loaded backup weapon — suggest one if the purse allows. |
-| Pit Fighter | Unarmed attacks deal d4; adds Strength AND Agility bonus to Grappling, wins ties. Add a note; a Cestus is a cheap thematic buy. |
+| Pit Fighter | Unarmed attacks deal d8 low (2d8, keep the lower); adds Strength AND Agility bonus to Grappling, wins ties. Add a note; a Cestus is a cheap thematic buy. |
 | Soldier | Reduces Encumbrance by 1: `annotate.py --set enc_adjust=-1`, then **re-run finalize.py** so movement updates. Note the half forced-march damage and −1h sleep. |
 | Witch Hunter | Adds +half level (round up, so +1 now) to Magic and Device saving throw rolls. Note it next to the saves — do not edit the save table itself. |
 

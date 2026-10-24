@@ -6,7 +6,7 @@ For domestic retainers, Morale should be checked in any of the following cases:
 
 * Anything scandalous or illegal happens
 
-* Significant changes in Employer's behavior or appearance become obvious
+* Significant changes in Employer's behaviour or appearance become obvious
 
 * Any change in pay or living conditions
 

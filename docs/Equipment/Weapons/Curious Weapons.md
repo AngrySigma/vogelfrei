@@ -12,7 +12,7 @@ This page keeps fighting systems and weapons that do not belong among the ordina
 
 Achille Marozzo's *Opera Nova* of 1536 devotes a book to hafted weapons, and among them teaches ***partigiana e rotella*** — the partisan carried in one hand with a round shield on the other arm. It was a real system, formally taught, and it long outlived the war it was made for: by the close of this age it survives in the fencing schools, in bodyguards' hands, and on ceremonial guards, rather than anywhere near a battle line.
 
-A Referee may allow a character to hold a **Spear** in one hand with a **Target** or **Buckler**. In that grip the spear deals **d4** rather than d6 and cannot [Brace](../../Encounters/Combat%20Actions.md#brace) — one arm cannot set a shaft against a charging horse.
+A Referee may allow a character to hold a **Spear** in one hand with a **Target** or **Buckler**. In that grip the spear rolls **d8 low** rather than d8 and cannot [Brace](../../Encounters/Combat%20Actions.md#brace) — one arm cannot set a shaft against a charging horse.
 
 This never extends to a **Polearm**. A halberd kills by leverage through both hands, and a man holding one in a single fist is holding a heavy stick.
 
@@ -20,11 +20,11 @@ This never extends to a **Polearm**. A halberd kills by leverage through both ha
 
 The following entries belong to other ages or other continents. They are not available in a game that keeps strictly to the age.
 
-| Weapon | Damage | Length / Range | Training | Cost | Why it is here |
-| --- | ---: | --- | --- | ---: | --- |
-| *Cestus* | d3 | 0 | — | 10sp | A weighted boxing glove of the Roman arena |
-| Weighted net | - | 0 | Training | 15sp | A gladiator's weapon; fishermen's nets are tools, not arms |
-| Blowgun | - | 20'—50'—80' | Training | 5sp | A weapon of the peoples of the Americas and the East Indies, known in Europe from travellers' accounts |
+| Weapon | Damage | Armour | Length / Range | Training | Cost | Why it is here |
+| --- | ---: | ---: | --- | --- | ---: | --- |
+| *Cestus* | d8−3 | 0 | 0 | — | 10sp | A weighted boxing glove of the Roman arena |
+| Weighted net | - | - | 0 | Training | 15sp | A gladiator's weapon; fishermen's nets are tools, not arms |
+| Blowgun | - | - | 20'—50'—80' | Training | 5sp | A weapon of the peoples of the Americas and the East Indies, known in Europe from travellers' accounts |
 
 | Weapon | Effects |
 | --- | --- |

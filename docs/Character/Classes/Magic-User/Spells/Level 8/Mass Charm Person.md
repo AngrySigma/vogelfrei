@@ -16,7 +16,7 @@ tier: expert
 **Duration**: See Below  
 **Range**: 5'/level  
 
-The Mass Charm Person spell makes a number of subjects (subjects whose total Hit Dice is up to twice the caster’s level) utterly enamored with the caster and desperate to please him. Each receives a saving throw versus Magic to resist the charm. This is not mind control, as each subject retains his personality and controls how he acts but for his utter fascination with the caster. The caster must articulate his desires if he expects the subject to fulfill them.
+The Mass Charm Person spell makes a number of subjects (subjects whose total Hit Dice is up to twice the caster’s level) utterly enamoured with the caster and desperate to please him. Each receives a saving throw versus Magic to resist the charm. This is not mind control, as each subject retains his personality and controls how he acts but for his utter fascination with the caster. The caster must articulate his desires if he expects the subject to fulfil them.
 
 Any request which is not against the subjects’ interests or personality will be followed. Any request which is against the subjects’ interests or personality triggers a saving throw to refuse the request. If the saving throw is successful, the request will be refused, but this will not break the Charm. If as part of a request, the caster promises the subjects something that they are normally inclined to want, then this saving throw is not necessary, and the subjects will comply.
 

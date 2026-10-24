@@ -38,8 +38,9 @@ Settle these before rolling. They are party-wide and only you can see them:
 - **Level** — these skills build level 1 only. If a higher level is asked
   for, say so and build level 1, or stop and ask.
 - **Culture / setting** — e.g. "17th-century England, all human". This fixes
-  the naming culture (`roll_name.py --culture`) and the class pool: all-human
-  means dropping Dwarf, Halfling, High Elf and Wood Elf (`--humans-only`).
+  the naming culture (`roll_name.py --culture`). The class pool is human
+  only: the demihumans and the Phoenix are not available at the moment and
+  the scripts never offer them.
 - **Class spread** — "a variety of classes and careers", "two fighters and a
   healer", or nothing. Nothing means you choose for coverage.
 - **The adventure** — what the party is walking into. This drives concepts,
@@ -50,7 +51,7 @@ Settle these before rolling. They are party-wide and only you can see them:
   reverse. Write this down — sub-agents cannot see each other's purchases, so
   shared gear must be *assigned* to named slots.
 - **Alignment constraints** — watch for a conflict before you assign:
-  Clerics are forced Order, Magic-Users and both Elf classes forced Chaos
+  Clerics are forced Order, Magic-Users forced Chaos
   (`docs/Character/Alignment.md`). A party required to be all-Order cannot
   contain a Magic-User.
 
@@ -58,7 +59,7 @@ Settle these before rolling. They are party-wide and only you can see them:
 
 ```
 python3 $P/roll_party.py --dir characters/<party-slug> --count 8 \
-    [--humans-only] [--classes "Warrior,Cleric,Rogue,..."] [--reroll-unsuitable]
+    [--classes "Warrior,Cleric,Rogue,..."] [--reroll-unsuitable]
 ```
 
 One 3d6-in-order array per character, written to `pcN.json`. The output then
@@ -69,7 +70,7 @@ gives you everything the assignment needs:
   classes, so you can read the whole assignment problem off one table,
 - each PC's four strongest classes with the single two-score **swap** that
   would most improve each, and the class's caveat (forced alignment, the
-  Magic-User armour ban, wounds die),
+  Magic-User armour ban, Wounds and Stamina),
 - which careers are **fully written** in the rulebook vs still stubs
   (from `docs/data/careers.json`),
 - the wounds/stamina/WS/BS line per class, for judging party durability.
@@ -100,8 +101,8 @@ and a concept. Aim for:
   can carry a Status and nothing else: no skills, no trait, a blank six-row
   progression table. Building a PC on one produces a character sheet with a
   class name and no mechanics, which is worse than no character.
-  Whole classes have nothing written: as it stands **no Townsman, Dwarf,
-  Halfling, High Elf or Wood Elf career is finished**. **Rogue is the
+  Whole classes have nothing written: as it stands **no Townsman career is
+  finished**, and the class page says so. **Rogue is the
   exception that looks like a stub and is not** — it has no careers by
   design, and everything mechanical sits on the class page.
   Also check the progression table for content the book does not have: the
@@ -153,12 +154,12 @@ and a concept. Aim for:
   act on, either change it or give it something to work with (a retainer,
   see `docs/Retainers/`).
 - **Nobody ships at lethal Wounds.** After you fix the classes, check what
-  each character's Toughness modifier does to their wounds die. A level-1 PC
-  who lands on 2 Wounds dies to one hit of almost anything and is not a
+  each character's Toughness modifier does to their Wounds (6, or 7 for a
+  Warrior, plus Toughness — not rolled). A level-1 PC on 3 Wounds dies to one hit of almost anything and is not a
   playable pregen — spend the ability swap to fix it, even at the cost of a
   score the concept liked. Swap into an ability the character genuinely does
   not use (a talker's Strength) rather than one that pays out broadly
-  (Willpower feeds every non-spell save).
+  (Willpower feeds every save against anything not magical).
 
 Then write the brief. `characters/<party-slug>/party.md` holds the shared
 context, and each slot gets its own section:

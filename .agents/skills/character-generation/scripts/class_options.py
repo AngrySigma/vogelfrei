@@ -3,14 +3,14 @@
 
 Prints every class with a heuristic fit score (primary abilities double),
 the best single two-score swap that would improve that fit, and the class's
-careers with their Status. Use --roll to roll class and career on the
-rulebook tables instead of choosing.
+careers with their Status. The rulebook has no roll tables; use --roll to
+pick a class and career at random instead of choosing.
 """
 import argparse
 import itertools
 from pathlib import Path
 
-from vflib import (ABILITIES, CAREER_ROLL_D6, CLASS_HINTS, CLASS_ROLL_2D6, CLASSES,
+from vflib import (ABILITIES, CLASS_HINTS, CLASSES,
                    Dice, FORCED_ALIGNMENT, careers_of, load_class, load_state,
                    modifier, parse_career)
 
@@ -36,7 +36,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--file", type=Path, default=Path("character.json"))
     ap.add_argument("--roll", action="store_true",
-                    help="roll 2d6 for class and d6 for career on the rulebook tables")
+                    help="pick a class and one of its careers at random")
     ap.add_argument("--seed", type=int)
     args = ap.parse_args()
 
@@ -49,19 +49,15 @@ def main():
 
     if args.roll:
         dice = Dice(args.seed)
-        roll = dice.roll(2, 6)
-        klass = CLASS_ROLL_2D6[roll]
-        table = CAREER_ROLL_D6[klass]
-        career = None
-        if any(table):
-            while career is None:
-                d = dice.roll(1, 6)
-                career = table[d - 1]
-            print(f"Rolled class 2d6 = {roll} -> {klass}; career d6 -> {career}")
+        klass = CLASSES[dice.roll(1, len(CLASSES)) - 1]
+        table = careers_of(klass)
+        if table:
+            career = table[dice.roll(1, len(table)) - 1].stem
+            print(f"Picked class {klass}; career {career}")
             print(f"Apply with: apply_class.py --file {args.file} "
                   f"--class '{klass}' --career '{career}'")
         else:
-            print(f"Rolled class 2d6 = {roll} -> {klass}; {klass} has no careers")
+            print(f"Picked class {klass}; {klass} has no careers")
             print(f"Apply with: apply_class.py --file {args.file} "
                   f"--class '{klass}' --status brass|silver|gold")
         return
@@ -81,7 +77,8 @@ def main():
     rows.sort(key=lambda r: (-(r[0] + (r[4][2] if r[4] else 0)), -r[0]))
     for fit, klass, info, h, swap, careers in rows:
         keys = "/".join(h["primary"]) + ("; " + "/".join(h["secondary"]) if h["secondary"] else "")
-        line = f"{fit:+d}  {klass:<11} Wounds {info['wounds_die']} (min {info['wounds_min']})  key: {keys}"
+        line = (f"{fit:+d}  {klass:<11} Wounds {info['wounds']}, Stamina {info['stamina_die']}"
+                f"  key: {keys}")
         if klass in FORCED_ALIGNMENT:
             line += f"  [must be {FORCED_ALIGNMENT[klass]}]"
         print(line)

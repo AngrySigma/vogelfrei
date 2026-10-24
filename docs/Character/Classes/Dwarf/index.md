@@ -4,6 +4,9 @@ tier: expert
 ---
 # Dwarf
 
+!!! danger "Not available"
+    This class is not available at the moment. Its page and careers are kept as they were, but they no longer follow the current rules and are not maintained.
+
 | Level | Experience | Wounds       | Stamina |
 | ----- | ---------- | ------------ | ------- |
 | 1     | 0          | 1d10 (min 6) | 1d4     |

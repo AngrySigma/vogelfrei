@@ -6,6 +6,9 @@ image_alt: Alchemist illustration
 ---
 # Alchemist
 
+!!! warning "Work in progress"
+    This career is not written yet, so it is not yet supported in play.
+
 **Class**: [Academic](../index.md)
 
 **Status**:

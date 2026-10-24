@@ -3,14 +3,17 @@ title: Townsman
 ---
 # Townsman
 
+!!! warning "Work in progress"
+    None of this class's careers is written yet, so the class is not yet supported in play.
+
 | Level | Experience | Wounds      | Stamina | Skill Points |
 | ----- | ---------- | ----------- | ------- | ------------ |
-| 1     | 0          | 1d6 (min 4) | 1d2     | 2            |
-| 2     | 1600       | —           | +1d2    | +1           |
-| 3     | 3200       | +1          | +1d2    | +1           |
-| 4     | 6400       | —           | +1d2    | +1           |
-| 5     | 12800      | —           | +1d2    | +1           |
-| 6     | 25600      | +1          | +1d2    | +1           |
+| 1 | 0 | 6 | 1d2 | 2 |
+| 2 | 1600 | — | +1d2 | +1 |
+| 3 | 3200 | — | +1d2 | +1 |
+| 4 | 6400 | +1 | +1d2 | +1 |
+| 5 | 12800 | — | +1d2 | +1 |
+| 6 | 25600 | — | +1d2 | +1 |
 
 #### Saving Throws
 

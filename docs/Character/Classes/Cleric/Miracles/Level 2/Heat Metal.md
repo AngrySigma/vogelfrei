@@ -16,7 +16,7 @@ tier: expert
 **Duration**: 7 Rounds  
 **Range**: 40'  
 
-Those who would dare take up arms against the gods' chosen shall burn. This spell targets one opponent and causes all metal arms and armor (including impromptu weapons!) to become hot enough to burn flesh. The caster's own arms and armor heat up as well.  
+Those who would dare take up arms against the gods' chosen shall burn. This spell targets one opponent and causes all metal arms and armour (including impromptu weapons!) to become hot enough to burn flesh. The caster's own arms and armour heat up as well.  
 The metal warms, sears, and cools again over the spell's duration, as shown on the table below:
 
 | Round | Metal Temperature | Damage   |
@@ -31,7 +31,7 @@ Note that when searing damage is delivered, additional effects occur depending o
 
 - **Extremities** (hands, feet): unusable  
 
-- **Body** (covered by metal armor): bedridden from extreme burns  
+- **Body** (covered by metal armour): bedridden from extreme burns  
 
 - **Head** (covered by a helmet): severely burned, victim is unconscious  
 

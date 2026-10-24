@@ -133,7 +133,7 @@
             <td>1sp+ / 5sp+</td>
         </tr>
         <tr>
-            <td colspan="2"><em>Jewelry</em></td>
+            <td colspan="2"><em>Jewellery</em></td>
             <td>10sp+ / 10sp+</td>
         </tr>
         <tr>
@@ -299,7 +299,7 @@
 </div>
 
 ### Holy Water
-Holy water can be sprinkled on an opponent within melee range, and the opponent will always be considered AC10 in this situation unless using actual armor and/or shield. This takes up both the attacker's hands and actions for the full Round.
+Holy water can be sprinkled on an opponent within melee range, and the opponent will always be considered AC10 in this situation unless using actual armour and/or shield. This takes up both the attacker's hands and actions for the full Round.
 
 Holy water, if in a glass container or flask, can be thrown with the same range modifiers as a rock. If it hits, it will only break and unleash the holy water 75% of the time. Otherwise it simply does the same damage as a thrown rock.
 

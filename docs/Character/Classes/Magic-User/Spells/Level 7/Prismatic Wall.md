@@ -18,7 +18,7 @@ tier: expert
 
 Prismatic Wall creates a vertical, opaque wall—a shimmering, multicolored plane of light that protects the caster from all forms of attack. For all purposes this spell functions identically to the Magic-User spell [Prismatic Sphere](Prismatic%20Sphere.md), except a shimmering wall is produced rather than an opaque globe.
 
-| Order | Color | Prismatic Sphere/Wall Effects | Negated By |
+| Order | Colour | Prismatic Sphere/Wall Effects | Negated By |
 |-------|-------|-------------------------------|------------|
 | 1st | Red | Stops non-magical ranged weapons.<br>Deals 10 points of damage (saving throw for half damage) | [Knock](../Level%202/Knock.md) |
 | 2nd | Orange | Stops magical ranged weapons.<br>Deals 15 points of damage (saving throw for half) | [Gust of Wind](../Level%203/Gust%20of%20Wind.md) |

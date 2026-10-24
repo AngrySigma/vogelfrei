@@ -19,9 +19,10 @@ Read `docs/Character/Classes/Rogue/index.md` and `docs/Adventuring/Skills.md`
 **The Rogue has no careers.** It is a class in itself — everything with real
 mechanics sits on the class page.
 
-From the class page: Wounds `1d6 (min 4)`, Stamina `1d3`, its own saving-throw
+From the class page: 6 Wounds (+ Toughness, not rolled), Stamina `1d3`, its own saving-throw
 row (all set by `apply_class.py`), **WS +0 / BS +0**, a nine-skill list, the
-**Sneak Attack** trait, and **2 Skill Points** at level 1 (+2 per level after).
+**Sneak Attack** trait, and **4 Skill Points** at level 1 (+2 per level after) —
+the Rogue is the skill specialist; every other class gets 2, +1 per level.
 The class has no forced alignment and its flavour is the adaptable outsider —
 "a Rogue may have been anything before taking to the road."
 
@@ -34,10 +35,10 @@ the Rogue's skills (Architecture, Bushcraft, Climb, Doors, Languages, Search,
 Sleight of Hand, Stealth, Tinkering). Skill Points raise them: one point =
 +1-in-6 to one skill.
 
-**Spend the 2 points.** Two ways, agent's judgement:
+**Spend the 4 points.** Two ways, agent's judgement:
 
 - **Given a brief** — if the request named a skill set or described the
-  character ("a cat burglar", "a con artist", "a tomb robber"), assign the 2
+  character ("a cat burglar", "a con artist", "a tomb robber"), assign the 4
   points to fit it. A burglar leans Stealth/Climb/Doors; a pickpocket Sleight
   of Hand/Stealth; a tomb robber Search/Tinkering/Architecture.
 - **No brief** — roll a weighted spread, the street-skills weighted high and
@@ -49,7 +50,7 @@ import random
 weights = {"Stealth":5, "Sleight of Hand":4, "Search":4, "Climb":3,
            "Doors":3, "Tinkering":3, "Bushcraft":2, "Architecture":1,
            "Languages":1}
-POINTS, CAP = 2, 2          # 2 points at L1; both may pile on one skill (-> 3-in-6)
+POINTS, CAP = 4, 2          # 4 points at L1; at most 2 on one skill (-> 3-in-6)
 adv, skills, w = {}, list(weights), list(weights.values())
 while sum(adv.values()) < POINTS:
     s = random.choices(skills, weights=w)[0]
@@ -67,7 +68,7 @@ it — so pass `--spend N` in the same call, or the sheet goes on reporting the
 points as unspent:
 
 ```
-python3 $S/annotate.py --file ... --skill "Stealth=2" --skill "Sleight of Hand=2" --spend 2
+python3 $S/annotate.py --file ... --skill "Stealth=3" --skill "Sleight of Hand=2" --skill "Climb=2" --spend 4
 python3 $S/annotate.py --file ... --note "Base 1-in-6 in all other Rogue skills; +2 Skill Points per level after 1st"
 ```
 

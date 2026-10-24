@@ -58,7 +58,7 @@ Treasure is calculated for XP only after it has been returned to a secure locati
 When a Character earns enough Experience Points to qualify for the next level, the change will happen the next time the Character has returned to a secure location. At that point the Character’s level changes, and all benefits of that next level are immediately granted. When gaining a new level, a Character gains Stamina and possibly Wounds as shown in their Class table. Roll the Class Stamina die and add the result to both the current and maximum Stamina — a character already depleted in Stamina still gains the full roll, and remains depleted by the same amount as before.
 
 !!! example
-    For example, a Warrior levels up with a current Stamina of 2 out of a maximum of 7 (depleted by 5). The player rolls 1d4 for Stamina gained and gets a 3. The Warrior’s maximum Stamina is now 10 and current Stamina is 5 (still depleted by 5).
+    For example, a Warrior levels up with a current Stamina of 2 out of a maximum of 7 (depleted by 5). The player rolls 1d6 for Stamina gained and gets a 3. The Warrior’s maximum Stamina is now 10 and current Stamina is 5 (still depleted by 5).
 
 If the class table shows a Wounds increase at this level (+1 in the Wounds column), add 1 to both the current and maximum Wounds in the same way, regardless of any injuries the Character has sustained.
 
@@ -70,6 +70,6 @@ Characters can only gain a maximum of one level per game session. Any Experience
 
 ### Career Change
 
-A Player might want a character to change their Career and even Class sometimes. In such cases, a Character gains all the first level advances in a Career and Class of choice, including Stamina dice roll, but never gains any more Wounds. They lose Status of the previous Class and all the other social benefits, retaining Skills only. Character’s further new levels may either lead to new levels in their new Career, or the first level in some other Career of choice.
+A Player might want a character to change their Career and even Class sometimes. In such cases, a Character gains all the first level advances in a Career and Class of choice, including Stamina dice roll, but never gains any more Wounds — not even the extra Wound a Warrior starts with. They lose Status of the previous Class and all the other social benefits, retaining Skills only. Character’s further new levels may either lead to new levels in their new Career, or the first level in some other Career of choice.
 
 The amount of Experience Points required to get to the new level only depends on total Character level and current Class. For example, a level 3 Mercenary would require as much XP to gain a 1st level of a Priest, as they need to level up as a Mercenary. However, after they become a Priest and want to gain another level in that Career, they need to gain as much XP, as a level 4 Priest would have.

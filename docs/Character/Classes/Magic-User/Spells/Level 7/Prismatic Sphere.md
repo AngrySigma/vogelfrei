@@ -16,11 +16,11 @@ tier: expert
 **Duration**: 1 Turn/level  
 **Range**: 0  
 
-The caster conjures up an immobile, opaque globe of shimmering, multicolored light that surrounds him and offers protection from all forms of attack. The sphere flashes in all colors of the visible spectrum. The sphere has a blindness effect on creatures with less than 8 Hit Dice, which lasts 2d4 Turns.
+The caster conjures up an immobile, opaque globe of shimmering, multicolored light that surrounds him and offers protection from all forms of attack. The sphere flashes in all colours of the visible spectrum. The sphere has a blindness effect on creatures with less than 8 Hit Dice, which lasts 2d4 Turns.
 
-The caster can pass into and out of the prismatic sphere and remain near it without harm. However, the sphere blocks any attempt to project something into the sphere (including spells). Other creatures that attempt to attack the caster or pass through suffer the effects of each color, one at a time in order. Typically, only the upper hemisphere of the globe will exist, since the caster is at the center of the sphere, so the lower half is usually excluded by the floor surface.
+The caster can pass into and out of the prismatic sphere and remain near it without harm. However, the sphere blocks any attempt to project something into the sphere (including spells). Other creatures that attempt to attack the caster or pass through suffer the effects of each colour, one at a time in order. Typically, only the upper hemisphere of the globe will exist, since the caster is at the centre of the sphere, so the lower half is usually excluded by the floor surface.
 
-| Order | Color | Prismatic Sphere/Wall Effects | Negated By |
+| Order | Colour | Prismatic Sphere/Wall Effects | Negated By |
 |-------|-------|-------------------------------|------------|
 | 1st | Red | Stops non-magical ranged weapons.<br>Deals 10 points of damage (saving throw for half damage) | [Knock](../Level%202/Knock.md) |
 | 2nd | Orange | Stops magical ranged weapons.<br>Deals 15 points of damage (saving throw for half) | [Gust of Wind](../Level%203/Gust%20of%20Wind.md) |

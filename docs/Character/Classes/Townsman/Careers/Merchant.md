@@ -6,6 +6,9 @@ image_alt: Merchant illustration
 ---
 # Merchant
 
+!!! warning "Work in progress"
+    This career is not written yet, so it is not yet supported in play.
+
 **Class**: [Townsman](../index.md)
 
 **Status**:

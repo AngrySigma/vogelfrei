@@ -16,4 +16,4 @@ tier: expert
 **Duration**: 1 Turn/level  
 **Range**: Touch  
 
-This spell shields the subject by the power of faith, granting them a +1 Armor Class for every level of the caster. This spell does not function if the subject is wearing armor or using any sort of protective enchantments or items.
+This spell shields the subject by the power of faith, granting them a +1 Armour Class for every level of the caster. This spell does not function if the subject is wearing armour or using any sort of protective enchantments or items.

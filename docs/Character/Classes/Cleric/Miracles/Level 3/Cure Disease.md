@@ -16,7 +16,7 @@ tier: expert
 **Duration**: Instantaneous  
 **Range**: Touch  
 
-Through the mercy of divine powers, this spell allows a Cleric to cast out the sin and degeneracy in a person that allows evil spirits to invade his body and misalign his humors. Yet because man is a naturally immoral and spiritually disgusting creature, the subject of the spell must make a saving throw versus Magic in order for the spell to be effective.
+Through the mercy of divine powers, this spell allows a Cleric to cast out the sin and degeneracy in a person that allows evil spirits to invade his body and misalign his humours. Yet because man is a naturally immoral and spiritually disgusting creature, the subject of the spell must make a saving throw versus Magic in order for the spell to be effective.
 
 A successful casting instantly cures all diseases, including mummy rot and lycanthropy. If used against oozes or slimes, they do not receive a saving throw and suffer 1d6 damage per level of the caster (the cleric suffers an attack’s worth of damage when touching the slime with this attack).
 

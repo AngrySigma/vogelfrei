@@ -10,7 +10,7 @@ Each Cleric knows the blessings given by their God: either **three determined ra
 | 2   | **Breath**    | The target does not need to breathe     | 12  | **Protection**    | +1 AC                                           |
 | 3   | **Charisma**  | + 1 Leadership                          | 13  | **Recuperation**  | Removes minor ailments                          |
 | 4   | **Courage**   | +1 Morale                               | 14  | **Resolve**       | +1 Willpower                                    |
-| 5   | **Finesse**   | For next attack, ignore +2 Armor Rating | 15  | **Righteousness** | Weapon counts as Magical                        |
+| 5   | **Finesse**   | For next attack, ignore +2 Armour Rating | 15  | **Righteousness** | Weapon counts as Magical                        |
 | 6   | **Fortune**   | Reroll next failed roll                 | 16  | **Savagery**      | Roll two damage die, choose best on next attack |
 | 7   | **Grace**     | +1 to next saving throw                 | 17  | **Tenacity**      | +1 Toughness                                    |
 | 8   | **Hardiness** | +1 Wound if not at 0 Wounds             | 18  | **Wisdom**        | +1 Intelligence                                 |

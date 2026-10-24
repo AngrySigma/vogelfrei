@@ -34,7 +34,7 @@ To see how well the teleportation works, after casting the spell, the player mus
 
 - **On Target**: The caster appears exactly where desired.
 
-- **Off Target**: The caster arrives safely a random distance away from the destination in a random direction. Distance off target is 1d10x1d10% of the distance that was to be traveled. The direction off target is determined randomly.
+- **Off Target**: The caster arrives safely a random distance away from the destination in a random direction. Distance off target is 1d10x1d10% of the distance that was to be travelled. The direction off target is determined randomly.
 
 - **Similar Area**: The caster winds up in an area that is visually or thematically similar to the target area. This means that the caster appears in the closest similar place within range. If no such area exists within the spell’s range, the spell simply fails instead.
 

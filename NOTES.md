@@ -40,9 +40,6 @@ Options, none applied:
   *Wisdom*, stats the game does not have. Their effects (+1 Leadership, +1
   Intelligence) are correct and were left alone; only the names are odd.
 
-- **Firearms ignore 5 Armor Rating at short range** (Muskets and Long Rifles at
-  any range) when the best armour in the game is AR 6. Deferred by request.
-
 - **Status is unset on 49 of 66 career pages**, so those characters cannot roll
   starting money. Deferred by request.
 

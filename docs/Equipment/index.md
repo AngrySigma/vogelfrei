@@ -10,7 +10,7 @@ All equipment a character may purchase or acquire during play. Items are purchas
 
 ## Categories
 
-- [Armor](Armor.md) — cloth, leather, and proofed plate
+- [Armour](Armor.md) — cloth, leather, and plate, and what each is worth against a gun
 
 - [Weapons](Weapons/index.md) — melee, ranged, and firearms
 

@@ -10,8 +10,8 @@ Character creation follows these steps in order:
     1. Note bonuses
     2. Is the character suitable?
 
-2. Roll for [Class and Career](Class%20and%20Career.md)
-    1. Determine Wounds
+2. Choose a [Class and Career](Class%20and%20Career.md)
+    1. Determine Wounds and Stamina
     2. Determine Weapon Skill, Ballistic Skill and Saving Throws
     3. Note career traits and bonuses
     4. Note character Status
