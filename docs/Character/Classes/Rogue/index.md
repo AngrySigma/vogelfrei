@@ -7,6 +7,7 @@ Rogues are defined by their adaptability and their lack of official social stand
 
 | Level | Experience | Wounds      | Stamina | Skill Points        |
 | ----- | ---------- | ----------- | ------- | ------------------- |
+| 0 | — | 6 | — | — |
 | 1 | 0 | 6 | 1d3 | 4, Sneak Attack |
 | 2 | 1500 | — | +1d3 | +2 |
 | 3 | 3000 | +1 | +1d3 | +2 |

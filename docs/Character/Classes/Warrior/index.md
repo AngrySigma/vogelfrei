@@ -5,6 +5,7 @@ title: Warrior
 
 | Level | Experience | Wounds      | Stamina | Combat Skill Points |
 | ----- | ---------- | ----------- | ------- | ------------------- |
+| 0 | — | 7 | — | — |
 | 1 | 0 | 7 | 1d6 | 1 WS, 1 BS |
 | 2 | 2000 | +1 | +1d6 | +1 |
 | 3 | 4000 | — | +1d6 | +1 |

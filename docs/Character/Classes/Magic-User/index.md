@@ -7,6 +7,7 @@ image_alt: Magic-User illustration
 
 | Level | Experience | Wounds      | Stamina |
 | ----- | ---------- | ----------- | ------- |
+| 0 | — | 5 | — |
 | 1 | 0 | 5 | 1d2 |
 | 2 | 2250 | — | +1d2 |
 | 3 | 4500 | — | +1d2 |

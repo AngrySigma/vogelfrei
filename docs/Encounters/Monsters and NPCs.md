@@ -33,6 +33,11 @@ Everyone in the world has a class, but most people have no career advances at al
 
 - save on the **Level 0** row of the table above, unless their class description says otherwise;
 
-- are still trained, intelligent beings, so they may have a sliver of Stamina if the Referee thinks their life has earned them one — a veteran watchman, yes; a pastry cook, no.
+- have the Wounds on the **Level 0** row of their class table, and **no Stamina**: every blow goes straight to Wounds.
 
-Classed NPCs — a level 2 Road Warden, a level 4 Witch — use their class and career tables exactly as a player Character would.
+As a rule of thumb, a peasant has **6 Wounds**, a townsman or a clerk **5**, and someone who has seen hard service — an old soldier, a veteran watchman — **7**. When in doubt, an unlevelled man met in a dungeon has 6. Toughness counts only if the Referee has bothered to give the NPC ability scores.
+
+Classed NPCs — a level 2 Road Warden, a level 4 Witch — use their class and career tables exactly as a player Character would, Stamina included.
+
+!!! note "Monsters"
+    This book does not stat monsters. Their Hit Dice, Wounds and abilities are the Referee's to set, from a bestiary or from imagination; the conventions on this page say only how they attack and save.
