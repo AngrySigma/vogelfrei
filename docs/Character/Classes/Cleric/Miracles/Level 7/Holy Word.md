@@ -21,7 +21,7 @@ The language of gods is not one for mortal ears. In fact, it is the speaking of 
 | Hit Dice | Effect                                                |
 |----------|-------------------------------------------------------|
 | < 4      | Killed                                                |
-| 4–7      | Paralyzed 1d4 Turns                                   |
+| 4–7      | Paralysed 1d4 Turns                                   |
 | 8–11     | Slowed 2d4 Rounds                                     |
 | 12+      | Deafened 1d4 Rounds, –2 to hit, Movement –25%         |
 

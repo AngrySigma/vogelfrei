@@ -7,7 +7,7 @@ Choose a class from [Classes](Classes/index.md), then a career within it. A play
 
 # Determine Wounds
 
-Wounds are not rolled. Every character starts with **6 Wounds** plus their Toughness modifier, except a Warrior, who starts with **7** plus Toughness. The level 1 row of each class table gives the figure before Toughness.
+Wounds are not rolled. Every character starts with **6 Wounds** plus their Toughness modifier, except a Warrior, who starts with **7**, and a Magic-User, Academic or Townsman, who starts with **5**. The level 1 row of each class table gives the figure before Toughness.
 
 The character's starting Wounds are the maximum Wounds the character can ever have without gaining a level. No amount of healing can cause the character to gain more than their normal maximum number of Wounds. Wounds grow slowly, never by more than 1 at a level, and only at the levels the class table marks.
 
@@ -36,7 +36,7 @@ Saving Throw charts for Player characters of all classes and levels are found wi
 
 These saving throws cover all possible save situations. When there is a doubt as to which save category to use, start at the left column on the Saving Throw chart and move to the right, using the first category which matches the particular effect.
 
-- **Paralyzation** will cover any effect in which the victim is unable to move (such as petrification, being the subject of a Hold Person or Web spell, etc.)
+- **Paralysation** will cover any effect in which the victim is unable to move (such as petrification, being the subject of a Hold Person or Web spell, etc.)
 
 - **Poison** will be used for any situation where Wounds are irrelevant and the result is unconsciousness or death.
 

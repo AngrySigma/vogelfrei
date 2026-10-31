@@ -25,7 +25,7 @@ This spell allows the caster to know if anything within their field of vision (o
 
 - **Any creature with innate magical abilities**
 
-- **Artifacts, symbols, or sacred places dedicated to evil gods**
+- **Artefacts, symbols, or sacred places dedicated to evil gods**
 
 - **Supernatural creatures incapable of being good**
 

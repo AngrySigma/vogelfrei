@@ -1,5 +1,5 @@
 ---
-title: Enthrall
+title: Enthral
 class: cleric
 level: 2
 duration: See Below
@@ -9,7 +9,7 @@ tags:
   - cleric
 tier: expert
 ---
-# Enthrall
+# Enthral
 
 **Class**: Cleric  
 **Level**: 2  

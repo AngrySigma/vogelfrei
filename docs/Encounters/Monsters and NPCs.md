@@ -12,7 +12,7 @@ A monster's AC is part of its description — as noted in [Combat Actions](Comba
 
 Monsters save using the row matching their Hit Dice on the table below. Save categories work exactly as for Characters, including the left-to-right precedence rule from [Class and Career](../Character/Class%20and%20Career.md).
 
-| Hit Dice | Paralyze | Poison | Breath | Device | Magic |
+| Hit Dice | Paralyse | Poison | Breath | Device | Magic |
 | -------- | -------- | ------ | ------ | ------ | ----- |
 | Level 0 | 16 | 14 | 17 | 15 | 18 |
 | 1–3 | 14 | 12 | 15 | 13 | 16 |
@@ -31,8 +31,15 @@ Everyone in the world has a class, but most people have no career advances at al
 
 - attack with a plain **d20**, with no Weapon Skill or Ballistic Skill bonus;
 
-- save on the **Level 0** row of the table above, unless their class description says otherwise;
+- save on the **Level 0** row of their class's saving throw table, which is the level 1 row two points worse; if the Referee has not settled the class, the **Level 0** row of the table above serves;
 
-- are still trained, intelligent beings, so they may have a sliver of Stamina if the Referee thinks their life has earned them one — a veteran watchman, yes; a pastry cook, no.
+- have the Wounds on the **Level 0** row of their class table, and **no Stamina**: every blow goes straight to Wounds.
 
-Classed NPCs — a level 2 Road Warden, a level 4 Witch — use their class and career tables exactly as a player Character would.
+As a rule of thumb, a peasant has **6 Wounds**, a townsman or a clerk **5**, and someone who has seen hard service — an old soldier, a veteran watchman — **7**. When in doubt, an unlevelled man met in a dungeon has 6. Toughness counts only if the Referee has bothered to give the NPC ability scores.
+
+There are no level 0 Magic-Users: whoever has learned to cast a spell has the first level of the class.
+
+Classed NPCs — a level 2 Road Warden, a level 4 Witch — use their class and career tables exactly as a player Character would, Stamina included.
+
+!!! note "Monsters"
+    This book does not stat monsters. Their Hit Dice, Wounds and abilities are the Referee's to set, from a bestiary or from imagination; the conventions on this page say only how they attack and save.

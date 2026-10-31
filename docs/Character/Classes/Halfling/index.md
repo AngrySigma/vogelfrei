@@ -18,7 +18,7 @@ tier: expert
 
 #### Saving Throws
 
-| Level | Paralyze | Poison | Breath | Device | Magic |
+| Level | Paralyse | Poison | Breath | Device | Magic |
 | ----- | -------- | ------ | ------ | ------ | ----- |
 | 1     | 10       | 8      | 13     | 9      | 12    |
 | 2     | 8        | 6      | 10     | 7      | 10    |

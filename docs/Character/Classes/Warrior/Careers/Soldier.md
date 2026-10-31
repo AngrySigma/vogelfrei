@@ -14,4 +14,4 @@ image_alt: Soldier illustration
 **Combat Skills**: WS
 
 !!! tip "Trait"
-    Soldiers reduce their Encumbrance by 1 and suffer only half damage from [forced marches](../../../../Adventuring/Time%20and%20Movement.md). Soldiers require 1 hour less sleep than normal.
+    Soldiers reduce their Encumbrance by 1 and suffer only half damage from [forced marches](../../../../Adventuring/Time%20and%20Movement.md). Soldiers dig at twice the normal rate of [excavation](../../../../Adventuring/Time%20and%20Movement.md#excavations).

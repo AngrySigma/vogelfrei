@@ -32,7 +32,7 @@ class: cleric
 
 2. [Delay Poison](Level%202/Delay%20Poison.md)
 
-3. [Enthrall](Level%202/Enthrall.md)
+3. [Enthral](Level%202/Enthrall.md)
 
 4. [Heat Metal](Level%202/Heat%20Metal.md)
 

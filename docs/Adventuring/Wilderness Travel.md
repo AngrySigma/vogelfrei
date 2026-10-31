@@ -25,7 +25,7 @@ In each watch, each Character takes one action. A party usually acts as one — 
 
 ## Rest
 
-The day ends with two watches of rest. Each Character spends **one of them asleep** and has **one free for a single action** of their own: foraging by firelight, a ritual, a bargain struck in the village, or standing guard. That action cannot be travel — a party that moves on through its rest is on a [forced march](Time%20and%20Movement.md#forced-march).
+The day ends with two watches of rest. Each Character spends **one of them asleep** and has **one free for a single light action** of their own. Making camp, cooking, eating, and the rest of the day's upkeep are already part of this watch; the free action is something easy alongside them — a ritual, a bargain struck in the village, mending gear, or standing guard. Anything that would fill an active watch — travelling, exploring, foraging, digging — does not fit: a Character who spends a rest watch on it is on a [forced march](Time%20and%20Movement.md#forced-march).
 
 **Guard.** A camp is watched only in the watches in which someone spends their free action on guard, so two guards, one in each watch, cover the whole night. An unguarded camp may be Surprised, and a sleeping Character wakes to whatever has already arrived. Standing guard does not spoil a [night's rest](Healing.md).
 

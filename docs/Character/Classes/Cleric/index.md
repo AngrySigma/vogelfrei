@@ -5,6 +5,7 @@ title: Cleric
 
 | Level | Experience | Wounds      | Stamina |
 | ----- | ---------- | ----------- | ------- |
+| 0 | — | 6 | — |
 | 1 | 0 | 6 | 1d3 |
 | 2 | 1750 | — | +1d3 |
 | 3 | 3500 | +1 | +1d3 |
@@ -14,8 +15,9 @@ title: Cleric
 
 #### Saving Throws
 
-| Level | Paralyze | Poison | Breath | Device | Magic |
+| Level | Paralyse | Poison | Breath | Device | Magic |
 | ----- | -------- | ------ | ------ | ------ | ----- |
+| 0     | 16       | 13     | 18     | 14     | 17    |
 | 1     | 14       | 11     | 16     | 12     | 15    |
 | 2     | 14       | 11     | 16     | 12     | 15    |
 | 3     | 14       | 11     | 16     | 12     | 15    |

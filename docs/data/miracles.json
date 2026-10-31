@@ -46,7 +46,7 @@
       "level": 1,
       "duration": "Instantaneous",
       "range": "Touch",
-      "text": "By the power of the Cleric’s faith, this spell restores **1d6 Wounds** to one damaged character, plus a number of points equal to the level of the caster. For example, if the caster is **5th level**, the spell restores **1d6+5 Wounds**.  \n\nThe spell can also be used to remove **one temporary negative condition** instead of restoring lost Wounds. For example, if a character is **paralyzed, stunned, or blinded** for a set period of time, this spell will remove any of these conditions. It will **not** work on permanent conditions, and only **one condition (or damage) can be treated per casting** of the spell. Casting a spell on a long-term effect reduces its restoration time by one day, but this can only be done once per day.\n\nRecipients of the spell can only be restored to their **normal maximum Wounds**; excess points are lost.  \n\nThe **reverse of the spell** can only be used to inflict damage.",
+      "text": "By the power of the Cleric’s faith, this spell restores **1d6 Wounds** to one damaged character, plus a number of points equal to the level of the caster. For example, if the caster is **5th level**, the spell restores **1d6+5 Wounds**.  \n\nThe spell can also be used to remove **one temporary negative condition** instead of restoring lost Wounds. For example, if a character is **paralysed, stunned, or blinded** for a set period of time, this spell will remove any of these conditions. It will **not** work on permanent conditions, and only **one condition (or damage) can be treated per casting** of the spell. Casting a spell on a long-term effect reduces its restoration time by one day, but this can only be done once per day.\n\nRecipients of the spell can only be restored to their **normal maximum Wounds**; excess points are lost.  \n\nThe **reverse of the spell** can only be used to inflict damage.",
       "tags": [
         "level_1",
         "cleric"
@@ -65,7 +65,7 @@
       "level": 1,
       "duration": "Instantaneous",
       "range": "Line of Sight",
-      "text": "“Evil,” for purposes of this spell, is an in-game colloquial term. It should properly be called “Detect Chaos.”\n\nThis spell allows the caster to know if anything within their field of vision (or on their person) is **Chaotic**. For the purposes of this spell, Chaotic is defined as, but not limited to:  \n\n- **Undead creatures**\n\n- **Any creatures from other spheres or planes**\n\n- **Any creature with innate magical abilities**\n\n- **Artifacts, symbols, or sacred places dedicated to evil gods**\n\n- **Supernatural creatures incapable of being good**\n\nMortal creatures, physical objects not directly connected to evil deities, traps, poison, or places where great atrocities have taken place are **not** considered Chaotic or evil for the purposes of this spell.\n\nThis spell **does not detect magical items or effects**.  \n\nThe **reverse of this spell, Detect Order, detects Order instead of Chaos**.",
+      "text": "“Evil,” for purposes of this spell, is an in-game colloquial term. It should properly be called “Detect Chaos.”\n\nThis spell allows the caster to know if anything within their field of vision (or on their person) is **Chaotic**. For the purposes of this spell, Chaotic is defined as, but not limited to:  \n\n- **Undead creatures**\n\n- **Any creatures from other spheres or planes**\n\n- **Any creature with innate magical abilities**\n\n- **Artefacts, symbols, or sacred places dedicated to evil gods**\n\n- **Supernatural creatures incapable of being good**\n\nMortal creatures, physical objects not directly connected to evil deities, traps, poison, or places where great atrocities have taken place are **not** considered Chaotic or evil for the purposes of this spell.\n\nThis spell **does not detect magical items or effects**.  \n\nThe **reverse of this spell, Detect Order, detects Order instead of Chaos**.",
       "tags": [
         "level_1",
         "cleric"
@@ -141,7 +141,7 @@
       "level": 1,
       "duration": "See Below",
       "range": "Touch",
-      "text": "This spell instills courage in the subject, and potentially removes the effect of magic-induced fear by allowing the target a saving throw versus Magic to attempt to remove the effects. The subject receives a saving throw bonus of +1 per level of the caster. The subject automatically succeeds in any morale checks for a number of Rounds equal to the caster’s level. Remove Fear spell counters and dispels Cause Fear.\n\nThe reverse, **Cause Fear**, will cause a subject who is touched to run away, hysterical, at full running movement for a number of Rounds equal to the caster’s level.",
+      "text": "This spell instils courage in the subject, and potentially removes the effect of magic-induced fear by allowing the target a saving throw versus Magic to attempt to remove the effects. The subject receives a saving throw bonus of +1 per level of the caster. The subject automatically succeeds in any morale checks for a number of Rounds equal to the caster’s level. Remove Fear spell counters and dispels Cause Fear.\n\nThe reverse, **Cause Fear**, will cause a subject who is touched to run away, hysterical, at full running movement for a number of Rounds equal to the caster’s level.",
       "tags": [
         "level_1",
         "cleric"
@@ -228,7 +228,7 @@
       "source": "Character/Classes/Cleric/Miracles/Level 2/Delay Poison.md"
     },
     {
-      "name": "Enthrall",
+      "name": "Enthral",
       "kind": "miracle",
       "class": "cleric",
       "level": 2,
@@ -450,7 +450,7 @@
       "level": 4,
       "duration": "Instantaneous",
       "range": "Touch",
-      "text": "By the power of the Cleric’s faith and the strength of the life force of the wounded character, this spell restores 1d6 Wounds to one damaged character, plus a number of points equal to the level of the caster, plus a number of points equal to the level of the subject. For example, if the caster is 10th level and the character being healed is 5th level, the spell restores 1d6+15 Wounds.\n\nThe spell can also be used to remove one temporary negative condition instead of restoring lost Wounds. For example, if a character is paralyzed, stunned, or blinded for a set period of time, then this spell will remove any of these conditions. It will not work on permanent conditions, and only one condition (or damage) can be treated per casting of the spell.\n\nRecipients of the spell can only be restored to their normal maximum Wounds, and no more. Any excess restored points are lost.\n\nThe reverse of the spell can only be used to inflict points of damage.",
+      "text": "By the power of the Cleric’s faith and the strength of the life force of the wounded character, this spell restores 1d6 Wounds to one damaged character, plus a number of points equal to the level of the caster, plus a number of points equal to the level of the subject. For example, if the caster is 10th level and the character being healed is 5th level, the spell restores 1d6+15 Wounds.\n\nThe spell can also be used to remove one temporary negative condition instead of restoring lost Wounds. For example, if a character is paralysed, stunned, or blinded for a set period of time, then this spell will remove any of these conditions. It will not work on permanent conditions, and only one condition (or damage) can be treated per casting of the spell.\n\nRecipients of the spell can only be restored to their normal maximum Wounds, and no more. Any excess restored points are lost.\n\nThe reverse of the spell can only be used to inflict points of damage.",
       "tags": [
         "level_4",
         "cleric"
@@ -576,7 +576,7 @@
       "level": 5,
       "duration": "Instantaneous",
       "range": "Touch",
-      "text": "By the power of the Cleric’s faith, this spell restores 4d6 Wounds to one damaged character, plus a number of points equal to the level of the caster. For example, if the caster is 13th level, the spell restores 4d6+13 Wounds.\n\nThe spell can also be used to remove one temporary negative condition instead of restoring lost Wounds. For example, if a character is paralyzed, stunned, or blinded for a set period of time, then this spell will remove any of these conditions. It will not work on permanent conditions, and only one condition (or damage) can be treated per casting of the spell.\n\nRecipients of the spell can only be restored to their normal maximum Wounds, and no more. Any excess restored points are lost.\n\nThe reverse of the spell can only be used to inflict points of damage.",
+      "text": "By the power of the Cleric’s faith, this spell restores 4d6 Wounds to one damaged character, plus a number of points equal to the level of the caster. For example, if the caster is 13th level, the spell restores 4d6+13 Wounds.\n\nThe spell can also be used to remove one temporary negative condition instead of restoring lost Wounds. For example, if a character is paralysed, stunned, or blinded for a set period of time, then this spell will remove any of these conditions. It will not work on permanent conditions, and only one condition (or damage) can be treated per casting of the spell.\n\nRecipients of the spell can only be restored to their normal maximum Wounds, and no more. Any excess restored points are lost.\n\nThe reverse of the spell can only be used to inflict points of damage.",
       "tags": [
         "level_5",
         "cleric"
@@ -810,7 +810,7 @@
       "level": 7,
       "duration": "See Below",
       "range": "0",
-      "text": "The language of gods is not one for mortal ears. In fact, it is the speaking of these words that is behind the power of Clerical magic. Some words though, are more devastating than others. The most destructive word is the true name of the Cleric’s god, spoken as the god would speak it. The intonation of this *Holy Word* utterly banishes creatures not native to the caster’s plane, hurling them back to their respective planes of existence. Additionally, other creatures will suffer effects from the *Holy Word* in accordance with the creature’s Hit Dice:\n\n| Hit Dice | Effect                                                |\n|----------|-------------------------------------------------------|\n| < 4      | Killed                                                |\n| 4–7      | Paralyzed 1d4 Turns                                   |\n| 8–11     | Slowed 2d4 Rounds                                     |\n| 12+      | Deafened 1d4 Rounds, –2 to hit, Movement –25%         |\n\nAll creatures, save angels or other legitimately holy beings, priests, Clerics and devout followers of the caster’s religion, within 60' of the caster are affected.\n\nThe reverse of *Holy Word*, **Unholy Word**, has the same effect save that demons and unholy creatures are not affected.",
+      "text": "The language of gods is not one for mortal ears. In fact, it is the speaking of these words that is behind the power of Clerical magic. Some words though, are more devastating than others. The most destructive word is the true name of the Cleric’s god, spoken as the god would speak it. The intonation of this *Holy Word* utterly banishes creatures not native to the caster’s plane, hurling them back to their respective planes of existence. Additionally, other creatures will suffer effects from the *Holy Word* in accordance with the creature’s Hit Dice:\n\n| Hit Dice | Effect                                                |\n|----------|-------------------------------------------------------|\n| < 4      | Killed                                                |\n| 4–7      | Paralysed 1d4 Turns                                   |\n| 8–11     | Slowed 2d4 Rounds                                     |\n| 12+      | Deafened 1d4 Rounds, –2 to hit, Movement –25%         |\n\nAll creatures, save angels or other legitimately holy beings, priests, Clerics and devout followers of the caster’s religion, within 60' of the caster are affected.\n\nThe reverse of *Holy Word*, **Unholy Word**, has the same effect save that demons and unholy creatures are not affected.",
       "tags": [
         "level_7",
         "cleric"

@@ -73,7 +73,7 @@ Naming the object matters more than the category. A man who says he carries a sa
 | Spear | May attack from the second rank or [Brace](../../Encounters/Combat%20Actions.md#brace). A boar or bear spear carries a crossbar below the head to stop a charging animal running up the shaft: when braced against a charge, the wielder takes no damage from the charge itself. |
 | War flail | Ignores the benefit of a shield, buckler or target; the head comes round it. |
 | Whip | Ineffective against targets in metal armour, but may attack opponents up to 10' away. |
-| Mancatcher | The watchman's and the gaoler's tool, for taking a man alive or pulling him off a horse. On a hit the victim must save versus Paralyzation or become helpless; the wielder is also helpless against other attacks while holding him. |
+| Mancatcher | The watchman's and the gaoler's tool, for taking a man alive or pulling him off a horse. On a hit the victim must save versus Paralysation or become helpless; the wielder is also helpless against other attacks while holding him. |
 
 Some weapons can attack “from the second rank.” This is used when there is a definite battle line in combat. Usually only those on the front line can strike, but a weapon usable from the second rank allows the person immediately behind that line to attack as well.
 

@@ -114,7 +114,7 @@ site navigation.
 - [Gaseous Form](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%203/Gaseous%20Form/index.md): The subject, but not his gear, becomes insubstantial, shapeless, misty, and translucent. [expert only]
 - [Gust of Wind](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%203/Gust%20of%20Wind/index.md): This spell summons forth a powerful blast of air, forceful enough to blow out unprotected flames. [expert only]
 - [Haste](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%203/Haste/index.md): This spell makes creatures move and act more quickly than normal. [expert only]
-- [Hold Person](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%203/Hold%20Person/index.md): This spell projects a mystic force (unique to each formulation of the spell; different forms must be researched and prepared separately) that paralyzes living human and human-like targets. [expert only]
+- [Hold Person](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%203/Hold%20Person/index.md): This spell projects a mystic force (unique to each formulation of the spell; different forms must be researched and prepared separately) that paralyses living human and human-like targets. [expert only]
 - [Howl of the Moon](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%203/Howl%20of%20the%20Moon/index.md): The Magic-User summons the primal self that exists within all humanity. [expert only]
 - [Invisibility 10' Radius](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%203/Invisibility%2010%27%20Radius/index.md): The caster’s rage is so great that the light is terrified on a grand scale, and any beings, and their carried equipment, within 10' of the caster at the time of the casting become invisible as per the Invisibility spell. [expert only]
 - [Phantasmal Psychedelia](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%203/Phantasmal%20Psychedelia/index.md): This spell creates a creature the caster has previously seen that will obey his every mental command. [expert only]
@@ -157,7 +157,7 @@ site navigation.
 - [Contact Outer Sphere](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%205/Contact%20Outer%20Sphere/index.md): The stars are repositories of all knowledge. [expert only]
 - [Faithful Hound](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%205/Faithful%20Hound/index.md): This spell summons a guardian spirit to act as a guard dog for a particular area. [expert only]
 - [Feeblemind](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%205/Feeblemind/index.md): This spell turns the neural pathways of the target into a superconducting network of thought. [expert only]
-- [Hold Monster](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%205/Hold%20Monster/index.md): This spell will render any living creature paralyzed. [expert only]
+- [Hold Monster](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%205/Hold%20Monster/index.md): This spell will render any living creature paralysed. [expert only]
 - [Interposing Hand](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%205/Interposing%20Hand/index.md): Interposing Hand creates a large magic hand that appears between the caster and one opponent. [expert only]
 - [Magic Jar](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%205/Magic%20Jar/index.md): By casting Magic Jar, the caster places his soul in a gem or large crystal (known as the magic jar), leaving his body lifeless. [expert only]
 - [Major Creation](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%205/Major%20Creation/index.md): The caster creates an object of nonliving vegetable (rope, cloth, wood, etc.) or inorganic (metal, stone, plastic, etc.) matter. [expert only]
@@ -199,7 +199,7 @@ site navigation.
 - [Animated Artwork](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%207/Animated%20Artwork/index.md): The caster can pull an object or creature depicted in a piece of art, such as a drawing, painting, etc., into the real world. [expert only]
 - [Bestow Spell Ability](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%207/Bestow%20Spell%20Ability/index.md): This spell allows a Magic-User to grant some of his own spell ability to a subject. [expert only]
 - [Duo-Dimension](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%207/Duo-Dimension/index.md): This spell banishes the depth dimension of the caster’s three dimensions of being, thus reducing the visible portion of himself to the two-dimensional aspects of height and width. [expert only]
-- [Grasping Hand](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%207/Grasping%20Hand/index.md): A Grasping Hand can automatically grapple one opponent who fails their saving throw versus Paralyzation. [expert only]
+- [Grasping Hand](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%207/Grasping%20Hand/index.md): A Grasping Hand can automatically grapple one opponent who fails their saving throw versus Paralysation. [expert only]
 - [Instant Summons](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%207/Instant%20Summons/index.md): Time and space do not exist to the forces of magic, and this spell allows the Magic-User to disregard both in limited circumstances. [expert only]
 - [Magic Sword](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%207/Magic%20Sword/index.md): The caster evokes a magical sword into being and can wield it by exerting his will. [expert only]
 - [Mass Invisibility](https://angrysigma.github.io/vogelfrei/Character/Classes/Magic-User/Spells/Level%207/Mass%20Invisibility/index.md): This spell is identical to the Invisibility 10' Radius spell, but all living things (and their equipment) in a 30' square area become invisible. [expert only]
@@ -268,7 +268,7 @@ site navigation.
 - [Invisibility to Undead](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%201/Invisibility%20to%20Undead/index.md): For the duration of the spell, undead creatures cannot see, hear, or smell the subject at all, until the subject does something to intentionally gain an undead creature’s attention (including attacking).
 - [Protection from Evil](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%201/Protection%20from%20Evil/index.md): “Evil,” for purposes of this spell, is an in-game colloquial term.
 - [Purify Food and Drink](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%201/Purify%20Food%20and%20Drink/index.md): Enough food and water for up to a dozen people is made pure, removing all spoilage and poisons.
-- [Remove Fear](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%201/Remove%20Fear/index.md): This spell instills courage in the subject, and potentially removes the effect of magic-induced fear by allowing the target a saving throw versus Magic to attempt to remove the effects.
+- [Remove Fear](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%201/Remove%20Fear/index.md): This spell instils courage in the subject, and potentially removes the effect of magic-induced fear by allowing the target a saving throw versus Magic to attempt to remove the effects.
 - [Sanctuary](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%201/Sanctuary/index.md): This spell allows the subject to be attacked less often by foes.
 - [Turn Undead](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%201/Turn%20Undead/index.md): One true measure of divine power is the command over life and death.
 
@@ -276,7 +276,7 @@ site navigation.
 
 - [Augury](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%202/Augury/index.md): This spell allows the caster to see a vision of all timelines, possibilities, and probabilities for but a moment, allowing him the chance to determine whether a particular action will bring weal or woe. [expert only]
 - [Delay Poison](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%202/Delay%20Poison/index.md): This spell counteracts the work of poison already done, weakening it, giving its victim a new chance at life. [expert only]
-- [Enthrall](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%202/Enthrall/index.md): When one’s voice is given divine authority, it will be listened to. [expert only]
+- [Enthral](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%202/Enthrall/index.md): When one’s voice is given divine authority, it will be listened to. [expert only]
 - [Heat Metal](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%202/Heat%20Metal/index.md): Those who would dare take up arms against the gods' chosen shall burn. [expert only]
 - [Heroism](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%202/Heroism/index.md): This spell grants the subject 1d4 levels’ worth of Wounds and saving throws (and, for Warriors, Weapon Skill and Ballistic Skill) for the duration of the spell. [expert only]
 - [Resist Cold](https://angrysigma.github.io/vogelfrei/Character/Classes/Cleric/Miracles/Level%202/Resist%20Cold/index.md): While under the effects of this spell, a character or monster is unharmed by freezing (non-magical) cold, and receives a bonus of +2 to all saving throws versus cold-based magical or breath attacks. [expert only]
@@ -493,7 +493,7 @@ site navigation.
 
 ## Adventuring
 
-- [Healing](https://angrysigma.github.io/vogelfrei/Adventuring/Healing/index.md): Damaged characters who have at least half of their Wounds remaining recover 1 Wound after a peaceful night’s rest.
+- [Healing](https://angrysigma.github.io/vogelfrei/Adventuring/Healing/index.md): Damaged characters who have at least half of their Wounds remaining recover 1 Wound after a peaceful night’s rest: the day’s two watches of rest, taken one after the other.
 
 ## Encounters
 

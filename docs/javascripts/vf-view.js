@@ -123,7 +123,11 @@ function vfPruneNav(view) {
   const sections = [...root.querySelectorAll(".md-nav__item--nested")].reverse();
   sections.forEach(section => {
     if (decided.has(section)) return;
-    const alive = [...section.querySelectorAll(".md-nav__item")]
+    /* A section with its own index page has something to show even with no
+       children (the Rogue, with no careers yet). Had the index been gated,
+       the section would be in `decided` and never reach this point. */
+    const ownIndex = section.querySelector(":scope > .md-nav__container > a[href]");
+    const alive = !!ownIndex || [...section.querySelectorAll(".md-nav__item")]
       .some(item => item.style.display !== "none");
     section.style.display = alive ? "" : "none";
   });

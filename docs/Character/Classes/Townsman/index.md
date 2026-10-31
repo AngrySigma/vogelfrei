@@ -8,7 +8,8 @@ title: Townsman
 
 | Level | Experience | Wounds      | Stamina | Skill Points |
 | ----- | ---------- | ----------- | ------- | ------------ |
-| 1 | 0 | 6 | 1d2 | 2 |
+| 0 | — | 5 | — | — |
+| 1 | 0 | 5 | 1d2 | 2 |
 | 2 | 1600 | — | +1d2 | +1 |
 | 3 | 3200 | — | +1d2 | +1 |
 | 4 | 6400 | +1 | +1d2 | +1 |
@@ -17,8 +18,9 @@ title: Townsman
 
 #### Saving Throws
 
-| Level | Paralyze | Poison | Breath | Device | Magic |
+| Level | Paralyse | Poison | Breath | Device | Magic |
 | ----- | -------- | ------ | ------ | ------ | ----- |
+| 0     | 16       | 15     | 18     | 15     | 16    |
 | 1     | 14       | 13     | 16     | 13     | 14    |
 | 2     | 14       | 13     | 16     | 13     | 14    |
 | 3     | 14       | 13     | 16     | 13     | 14    |

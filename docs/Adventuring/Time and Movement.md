@@ -65,7 +65,7 @@ If an animal is pulling a cart or other vehicle, the load of the vehicle (as per
 | 21-25              | Severely Encumbered | 1                      | 12                      | 60'               | 20'                | 60'     |
 | 26+                | Overencumbered      | 0                      | 0                       | 0'                | 0'                 | 0'      |
 
-Mules subtract five points from their encumbrance load, but move at half the listed speeds. Ponies move at the listed speeds, but automatically start with 6 points of Encumbrance. A mounted party's day holds as many active watches as its most burdened animal — or its most burdened walker, if anyone goes on foot. Characters apply their Toughness modifier to their per-day travel distance on foot.
+Mules subtract five points from their encumbrance load, but move at half the listed speeds. Ponies move at the listed speeds, but automatically start with 6 points of Encumbrance. A mounted party's day holds as many active watches as its most burdened animal — or its most burdened walker, if anyone goes on foot.
 
 ### Miles per Watch
 The per-day distances above are for open road, and include periodic rests. A watch of travel covers 6 miles of road on foot, or 12 mounted; the terrain crossed and the weather cut this down, as shown on the table below.
@@ -115,7 +115,7 @@ The per-day distances above are for open road, and include periodic rests. A wat
 </table>
 
 ### Forced March
-Characters can choose to travel through their watches of rest. Each rest watch spent marching adds a watch of travel, and inflicts damage on every Character and animal that marches, by their Encumbrance:
+Characters can choose to travel through their watches of rest, or to spend them on any other business that would fill an active watch — exploring, foraging, digging. Each rest watch spent this way adds an active watch to the day, and inflicts damage on every Character and animal that works through it, by their Encumbrance:
 
 | Encumbrance         | Damage per Watch Marched |
 | ------------------- | ------------------------ |
@@ -128,4 +128,4 @@ A Character who marches through their watch of sleep has also gone without it �
 
 ---
 ### Excavations
-A single man can excavate 3 cubic feet of earth per hour if they have proper equipment (Strength modifiers apply to the number of cubic feet). They can dig at half of this rate if they have improvised tools, and one quarter of this rate if they have no tools at all.
+A single man can excavate 12 cubic feet of earth per watch if they have proper equipment, adjusted by 3 cubic feet per point of Strength modifier. They can dig at half of this rate if they have improvised tools, and one quarter of this rate if they have no tools at all.

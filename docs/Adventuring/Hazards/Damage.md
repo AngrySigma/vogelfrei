@@ -21,7 +21,7 @@ Not all damage can be avoided through skill. The following sources go directly t
 
 - **Attacking an unaware target** — the victim has no opportunity to react (see [Combat Actions](../../Encounters/Combat%20Actions.md))
 
-- **Attacking a helpless or paralyzed target** — the body cannot answer; skill is irrelevant
+- **Attacking a helpless or paralysed target** — the body cannot answer; skill is irrelevant
 
 - **Poison and venoms** — physiological; no amount of experience stops a toxin already in the blood
 

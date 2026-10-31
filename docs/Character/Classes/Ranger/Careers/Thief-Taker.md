@@ -16,7 +16,7 @@ image_alt: Thief-Taker illustration
 | Level | Progression       |
 | ----- | ----------------- |
 | 1     | + 1 WS/BS         |
-| 2     | + 2 Paralyze save |
+| 2     | + 2 Paralyse save |
 | 3     | + 1 WS/BS         |
 | 4     | + 2 Breath save   |
 | 5     | + 1 WS/BS         |

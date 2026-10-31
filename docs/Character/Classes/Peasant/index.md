@@ -5,6 +5,7 @@ title: Peasant
 
 | Level | Experience | Wounds      | Stamina | Skill Points |
 | ----- | ---------- | ----------- | ------- | ------------ |
+| 0 | — | 6 | — | — |
 | 1 | 0 | 6 | 1d3 | 2 |
 | 2 | 1200 | — | +1d3 | +1 |
 | 3 | 2400 | +1 | +1d3 | +1 |
@@ -14,8 +15,9 @@ title: Peasant
 
 #### Saving Throws
 
-| Level | Paralyze | Poison | Breath | Device | Magic |
+| Level | Paralyse | Poison | Breath | Device | Magic |
 | ----- | -------- | ------ | ------ | ------ | ----- |
+| 0     | 15       | 13     | 16     | 17     | 18    |
 | 1     | 13       | 11     | 14     | 15     | 16    |
 | 2     | 13       | 11     | 14     | 15     | 16    |
 | 3     | 13       | 11     | 14     | 15     | 16    |

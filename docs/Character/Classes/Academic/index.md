@@ -5,7 +5,8 @@ title: Academic
 
 | Level | Experience | Wounds      | Stamina | Skill Points |
 | ----- | ---------- | ----------- | ------- | ------------ |
-| 1 | 0 | 6 | 1d2 | 2 |
+| 0 | — | 5 | — | — |
+| 1 | 0 | 5 | 1d2 | 2 |
 | 2 | 1500 | — | +1d2 | +1 |
 | 3 | 3000 | — | +1d2 | +1 |
 | 4 | 6000 | +1 | +1d2 | +1 |
@@ -14,8 +15,9 @@ title: Academic
 
 #### Saving Throws
 
-| Level | Paralyze | Poison | Breath | Device | Magic |
+| Level | Paralyse | Poison | Breath | Device | Magic |
 | ----- | -------- | ------ | ------ | ------ | ----- |
+| 0     | 17       | 16     | 18     | 14     | 15    |
 | 1     | 15       | 14     | 16     | 12     | 13    |
 | 2     | 15       | 14     | 16     | 12     | 13    |
 | 3     | 15       | 14     | 16     | 12     | 13    |

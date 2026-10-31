@@ -5,6 +5,7 @@ title: Ranger
 
 | Level | Experience | Wounds      | Stamina | Skill Points |
 | ----- | ---------- | ----------- | ------- | ------------ |
+| 0 | — | 6 | — | — |
 | 1 | 0 | 6 | 1d4 | 2 |
 | 2 | 1750 | +1 | +1d4 | +1 |
 | 3 | 3500 | — | +1d4 | +1 |
@@ -14,8 +15,9 @@ title: Ranger
 
 #### Saving Throws
 
-| Level | Paralyze | Poison | Breath | Device | Magic |
+| Level | Paralyse | Poison | Breath | Device | Magic |
 | ----- | -------- | ------ | ------ | ------ | ----- |
+| 0     | 14       | 15     | 16     | 18     | 17    |
 | 1     | 12       | 13     | 14     | 16     | 15    |
 | 2     | 12       | 13     | 14     | 16     | 15    |
 | 3     | 12       | 13     | 14     | 16     | 15    |

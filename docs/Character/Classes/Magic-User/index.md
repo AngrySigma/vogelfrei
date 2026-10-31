@@ -7,7 +7,7 @@ image_alt: Magic-User illustration
 
 | Level | Experience | Wounds      | Stamina |
 | ----- | ---------- | ----------- | ------- |
-| 1 | 0 | 6 | 1d2 |
+| 1 | 0 | 5 | 1d2 |
 | 2 | 2250 | — | +1d2 |
 | 3 | 4500 | — | +1d2 |
 | 4 | 9000 | +1 | +1d2 |
@@ -16,7 +16,7 @@ image_alt: Magic-User illustration
 
 #### Saving Throws
 
-| Level | Paralyze | Poison | Breath | Device | Magic |
+| Level | Paralyse | Poison | Breath | Device | Magic |
 | ----- | -------- | ------ | ------ | ------ | ----- |
 | 1     | 13       | 13     | 16     | 13     | 14    |
 | 2     | 13       | 13     | 16     | 13     | 14    |

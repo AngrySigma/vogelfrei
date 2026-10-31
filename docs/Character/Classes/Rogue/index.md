@@ -7,6 +7,7 @@ Rogues are defined by their adaptability and their lack of official social stand
 
 | Level | Experience | Wounds      | Stamina | Skill Points        |
 | ----- | ---------- | ----------- | ------- | ------------------- |
+| 0 | — | 6 | — | — |
 | 1 | 0 | 6 | 1d3 | 4, Sneak Attack |
 | 2 | 1500 | — | +1d3 | +2 |
 | 3 | 3000 | +1 | +1d3 | +2 |
@@ -16,8 +17,9 @@ Rogues are defined by their adaptability and their lack of official social stand
 
 #### Saving Throws
 
-| Level | Paralyze | Poison | Breath | Device | Magic |
+| Level | Paralyse | Poison | Breath | Device | Magic |
 | ----- | -------- | ------ | ------ | ------ | ----- |
+| 0     | 16       | 18     | 17     | 16     | 16    |
 | 1     | 14       | 16     | 15     | 14     | 14    |
 | 2     | 14       | 16     | 15     | 14     | 14    |
 | 3     | 14       | 16     | 15     | 14     | 14    |
