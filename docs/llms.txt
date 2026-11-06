@@ -332,7 +332,7 @@ site navigation.
 
 ## Character Creation › Classes › Ranger › Careers
 
-- [Scout](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Scout/index.md): This career is not written yet, so it is not yet supported in play.
+- [Scout](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Scout/index.md): Scouts range ahead of travellers and armies, finding routes, watching unseen, and reading the signs left by those who passed before them.
 - [Thief-Taker](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Thief-Taker/index.md)
 - [Coachman](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Coachman/index.md): This career is not written yet, so it is not yet supported in play.
 - [Pedlar](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Pedlar/index.md): This career is not written yet, so it is not yet supported in play.

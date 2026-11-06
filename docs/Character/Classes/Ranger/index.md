@@ -30,7 +30,7 @@ title: Ranger
 
 - **Skill Points Progression:** Rangers get Skill Points, which can be used to improve their skills. A Ranger may spend them on any skill that is not a [Special Skill](../../../Adventuring/Skills.md#special-skills), and on a Special Skill only where their career names it. Every character starts with the base proficiency of 1-in-6, and each point raises one skill's chance by 1-in-6.
 
-- **Seasoned Traveller:** Rangers apply 1d4 + Toughness modifier to their per-day travel distance.
+- **Seasoned Traveller:** Rangers can perform the work of a [Teamster](../../../Retainers/Expanded%20Retainer%20List.md#teamster). When a Ranger packs an animal's load, reduce that animal's [Encumbrance](../../../Adventuring/Time%20and%20Movement.md#mounts) by 5 Points. This reduction applies once per animal, regardless of how many Rangers or Teamsters pack it.
 
 ---
 

@@ -1015,14 +1015,40 @@
       "name": "Scout",
       "class": "Ranger",
       "class_slug": "ranger",
-      "status": null,
+      "status": "Silver",
       "combat_skills": null,
-      "skills": null,
-      "trait": null,
-      "progression": [],
-      "complete": false,
+      "skills": "Any non-special skills",
+      "trait": "**Wayfinding:** When the Scout navigates for the party, reduce the terrain's [chance of becoming lost](../../../../Adventuring/Wilderness%20Travel.md#losing-direction) by 1-in-6. A chance reduced to zero requires no lost roll. The navigator's normal Bushcraft roll still applies before any lost roll. Multiple Scouts do not combine this reduction.",
+      "progression": [
+        {
+          "level": "1",
+          "progression": "Wayfinding"
+        },
+        {
+          "level": "2",
+          "progression": "+1 BS"
+        },
+        {
+          "level": "3",
+          "progression": "Awareness"
+        },
+        {
+          "level": "4",
+          "progression": "+1-in-6 Bushcraft; Wilderness Stealth"
+        },
+        {
+          "level": "5",
+          "progression": "+1 BS"
+        },
+        {
+          "level": "6",
+          "progression": "Pursuit and Tracking"
+        }
+      ],
+      "complete": true,
       "tags": [
-        "ranger"
+        "ranger",
+        "silver"
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
