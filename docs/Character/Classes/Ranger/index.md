@@ -18,19 +18,19 @@ title: Ranger
 | Level | Paralyse | Poison | Breath | Device | Magic |
 | ----- | -------- | ------ | ------ | ------ | ----- |
 | 0     | 14       | 15     | 16     | 18     | 17    |
-| 1     | 12       | 13     | 14     | 16     | 15    |
-| 2     | 12       | 13     | 14     | 16     | 15    |
-| 3     | 12       | 13     | 14     | 16     | 15    |
-| 4     | 10       | 11     | 12     | 14     | 13    |
-| 5     | 10       | 11     | 12     | 14     | 13    |
-| 6     | 10       | 11     | 12     | 14     | 13    |
+| 1 | 12 | 10 | 15 | 11 | 14 |
+| 2 | 12 | 10 | 15 | 11 | 14 |
+| 3 | 10 | 8 | 13 | 9 | 12 |
+| 4 | 10 | 8 | 13 | 9 | 12 |
+| 5 | 8 | 6 | 10 | 7 | 10 |
+| 6 | 8 | 6 | 10 | 7 | 10 |
 
 ---
 ### Starting traits:
 
 - **Skill Points Progression:** Rangers get Skill Points, which can be used to improve their skills. A Ranger may spend them on any skill that is not a [Special Skill](../../../Adventuring/Skills.md#special-skills), and on a Special Skill only where their career names it. Every character starts with the base proficiency of 1-in-6, and each point raises one skill's chance by 1-in-6.
 
-- **Seasoned Traveller:** Rangers apply 1d4 + Toughness modifier to their per-day travel distance.
+- **Seasoned Traveller:** Rangers can perform the work of a [Teamster](../../../Retainers/Expanded%20Retainer%20List.md#teamster). When a Ranger packs an animal's load, reduce that animal's [Encumbrance](../../../Adventuring/Time%20and%20Movement.md#mounts) by 5 Points. This reduction applies once per animal, regardless of how many Rangers or Teamsters pack it.
 
 ---
 

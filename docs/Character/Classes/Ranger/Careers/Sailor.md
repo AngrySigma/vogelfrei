@@ -16,8 +16,8 @@ image_alt: Sailor illustration
 | Level | Progression |
 | ----- | ----------- |
 | 1     | + 1 WS/BS   |
-| 2     | + 1 hit     |
+| 2     | + 1 Wound   |
 | 3     | + 1 WS/BS   |
-| 4     | + 1 hit     |
+| 4     | + 1 Wound   |
 | 5     | + 1 WS/BS   |
-| 6     | + 1 hit     |
+| 6     | + 1 Wound   |

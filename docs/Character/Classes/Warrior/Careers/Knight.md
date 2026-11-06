@@ -14,4 +14,4 @@ image_alt: Knight illustration
 **Combat Skills**: WS
 
 !!! tip "Trait"
-    At start, a Knight gains a 0-level squire as a henchman. The Squire taknes 0.5 of Treasure share and gains Experience Points, reaching Level 1 at 500. Then the Squire progresses as a Knight. All of the Knight’s henchmen add 1 to Loyalty and Morale checks.
+    At start, a Knight gains a 0-level squire as a henchman. The Squire takes 0.5 of Treasure share and gains Experience Points, reaching Level 1 at 500. Then the Squire progresses as a Knight. All of the Knight’s henchmen add 1 to their Loyalty and Morale scores.

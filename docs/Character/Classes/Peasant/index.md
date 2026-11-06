@@ -18,19 +18,19 @@ title: Peasant
 | Level | Paralyse | Poison | Breath | Device | Magic |
 | ----- | -------- | ------ | ------ | ------ | ----- |
 | 0     | 15       | 13     | 16     | 17     | 18    |
-| 1     | 13       | 11     | 14     | 15     | 16    |
-| 2     | 13       | 11     | 14     | 15     | 16    |
-| 3     | 13       | 11     | 14     | 15     | 16    |
-| 4     | 11       | 9      | 12     | 13     | 14    |
-| 5     | 11       | 9      | 12     | 13     | 14    |
-| 6     | 11       | 9      | 12     | 13     | 14    |
+| 1 | 15 | 11 | 15 | 12 | 15 |
+| 2 | 15 | 11 | 15 | 12 | 15 |
+| 3 | 15 | 11 | 15 | 12 | 15 |
+| 4 | 13 | 9 | 13 | 10 | 13 |
+| 5 | 13 | 9 | 13 | 10 | 13 |
+| 6 | 13 | 9 | 13 | 10 | 13 |
 
 ---
 ### Starting traits:
 
 - **Skill Points Progression:** Peasants get Skill Points, which can be used to improve their skills. Each Peasant career has a defined list of skills. Characters start with a base proficiency of 1-in-6 in these skills and can spend Skill Points to improve them.
 
-- **Connection with Nature:** Peasants can understand the subtle body language and moods of normal animals, though the animals may not understand the character. This grants a +2 bonus to all reaction rolls when interacting with normal animals and allows them to take animals as henchmen.
+- **Connection with Nature:** Peasants can understand the subtle body language and moods of normal animals, though the animals may not understand the character. They gain +1 to reaction rolls with normal animals, or +2 with livestock.
 
 ---
 

@@ -28,32 +28,32 @@
       "class_slug": "academic",
       "status": "Brass",
       "combat_skills": null,
-      "skills": "[Herbalism](../../../../Adventuring/Skills.md#herbalism), [Medicine](../../../../Adventuring/Skills.md#medicine), [Languages](../../../../Adventuring/Skills.md#languages), [Lore](../../../../Adventuring/Skills.md#lore)",
-      "trait": "You gain +2 to all saving throws against disease and infection.",
+      "skills": "[Bushcraft](../../../../Adventuring/Skills.md#bushcraft), [Languages](../../../../Adventuring/Skills.md#languages), [Lore (Herbalism)](../../../../Adventuring/Skills.md#lore)",
+      "trait": null,
       "progression": [
         {
           "level": "1",
-          "progression": "*Apothecary trait*"
+          "progression": "Potion Recipes"
         },
         {
           "level": "2",
-          "progression": "+ 1 potion recipe"
+          "progression": "+2 Poison save"
         },
         {
           "level": "3",
-          "progression": "+ 2 Poison Save"
+          "progression": "First-level spell potions"
         },
         {
           "level": "4",
-          "progression": "+ 1 potion recipe"
+          "progression": "+2 Breath save"
         },
         {
           "level": "5",
-          "progression": "+ 2 Magic Save"
+          "progression": "+2 Magic save"
         },
         {
           "level": "6",
-          "progression": "+ 1 potion recipe"
+          "progression": "Second-level spell potions"
         }
       ],
       "complete": true,
@@ -88,7 +88,7 @@
         },
         {
           "level": "3",
-          "progression": "+ 1 hit"
+          "progression": "+ 1 Wound"
         },
         {
           "level": "4",
@@ -96,14 +96,14 @@
         },
         {
           "level": "5",
-          "progression": "+ 1 hit"
+          "progression": "+ 1 Wound"
         },
         {
           "level": "6",
           "progression": "+ 2 Poison save"
         }
       ],
-      "complete": true,
+      "complete": false,
       "tags": [
         "academic",
         "brass"
@@ -171,7 +171,7 @@
           "progression": "+ 1 Draft"
         }
       ],
-      "complete": true,
+      "complete": false,
       "tags": [
         "academic",
         "silver"
@@ -744,37 +744,31 @@
         {
           "level": "1",
           "wp": "1",
-          "spells memorized": "1",
           "max spell level": "1"
         },
         {
           "level": "2",
           "wp": "2",
-          "spells memorized": "2",
           "max spell level": "1"
         },
         {
           "level": "3",
           "wp": "4",
-          "spells memorized": "3",
-          "max spell level": "2"
+          "max spell level": "1"
         },
         {
           "level": "4",
           "wp": "5",
-          "spells memorized": "4",
           "max spell level": "2"
         },
         {
           "level": "5",
           "wp": "7",
-          "spells memorized": "4",
-          "max spell level": "3"
+          "max spell level": "2"
         },
         {
           "level": "6",
           "wp": "8",
-          "spells memorized": "5",
           "max spell level": "3"
         }
       ],
@@ -827,7 +821,7 @@
         },
         {
           "level": "2",
-          "progression": "Surprised only on 1"
+          "progression": "May take normal animals as henchmen"
         },
         {
           "level": "3",
@@ -979,7 +973,7 @@
         },
         {
           "level": "2",
-          "progression": "+ 1 hit"
+          "progression": "+ 1 Wound"
         },
         {
           "level": "3",
@@ -987,7 +981,7 @@
         },
         {
           "level": "4",
-          "progression": "+ 1 hit"
+          "progression": "+ 1 Wound"
         },
         {
           "level": "5",
@@ -995,7 +989,7 @@
         },
         {
           "level": "6",
-          "progression": "+ 1 hit"
+          "progression": "+ 1 Wound"
         }
       ],
       "complete": true,
@@ -1015,14 +1009,40 @@
       "name": "Scout",
       "class": "Ranger",
       "class_slug": "ranger",
-      "status": null,
+      "status": "Brass",
       "combat_skills": null,
-      "skills": null,
-      "trait": null,
-      "progression": [],
-      "complete": false,
+      "skills": "Any non-special skills",
+      "trait": "**Wayfinding:** When the Scout navigates for the party, reduce the terrain's [chance of becoming lost](../../../../Adventuring/Wilderness%20Travel.md#losing-direction) by 1-in-6. A chance reduced to zero requires no lost roll. The navigator's normal Bushcraft roll still applies before any lost roll. Multiple Scouts do not combine this reduction.",
+      "progression": [
+        {
+          "level": "1",
+          "progression": "Wayfinding"
+        },
+        {
+          "level": "2",
+          "progression": "+1 BS"
+        },
+        {
+          "level": "3",
+          "progression": "Awareness"
+        },
+        {
+          "level": "4",
+          "progression": "+1-in-6 Bushcraft; Wilderness Stealth"
+        },
+        {
+          "level": "5",
+          "progression": "+1 BS"
+        },
+        {
+          "level": "6",
+          "progression": "Pursuit and Tracking"
+        }
+      ],
+      "complete": true,
       "tags": [
-        "ranger"
+        "ranger",
+        "brass"
       ],
       "image": "assets/img/cover.webp",
       "tiers": [
@@ -1212,9 +1232,9 @@
       "class": "Warrior",
       "class_slug": "warrior",
       "status": "Silver",
-      "combat_skills": "WS or BS",
+      "combat_skills": "WS",
       "skills": null,
-      "trait": "Duellist may wield a weapon in either hand, one of which must be small or minor sized, and rolls both weapon damage dice when he attacks, using whichever result is higher.",
+      "trait": "When making a [Counterattack](../../../../Encounters/Combat%20Actions.md#counterattack), the Duellist retains their Weapon Skill bonus to AC against the opponent they counterattack. Other attackers ignore that bonus as usual.",
       "progression": [],
       "complete": true,
       "tags": [
@@ -1236,7 +1256,7 @@
       "status": "Gold",
       "combat_skills": "WS",
       "skills": null,
-      "trait": "At start, a Knight gains a 0-level squire as a henchman. The Squire taknes 0.5 of Treasure share and gains Experience Points, reaching Level 1 at 500. Then the Squire progresses as a Knight. All of the Knight’s henchmen add 1 to Loyalty and Morale checks.",
+      "trait": "At start, a Knight gains a 0-level squire as a henchman. The Squire takes 0.5 of Treasure share and gains Experience Points, reaching Level 1 at 500. Then the Squire progresses as a Knight. All of the Knight’s henchmen add 1 to their Loyalty and Morale scores.",
       "progression": [],
       "complete": true,
       "tags": [

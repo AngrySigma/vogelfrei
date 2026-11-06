@@ -30,7 +30,7 @@ site navigation.
 
 ## Character Creation › Classes › Warrior › Careers
 
-- [Duellist](https://angrysigma.github.io/vogelfrei/Character/Classes/Warrior/Careers/Duellist/index.md): Duellist may wield a weapon in either hand, one of which must be small or minor sized, and rolls both weapon damage dice when he attacks, using whichever result is higher.
+- [Duellist](https://angrysigma.github.io/vogelfrei/Character/Classes/Warrior/Careers/Duellist/index.md): When making a Counterattack, the Duellist retains their Weapon Skill bonus to AC against the opponent they counterattack.
 - [Knight](https://angrysigma.github.io/vogelfrei/Character/Classes/Warrior/Careers/Knight/index.md): At start, a Knight gains a 0-level squire as a henchman.
 - [Mercenary](https://angrysigma.github.io/vogelfrei/Character/Classes/Warrior/Careers/Mercenary/index.md): Mercenary can draw a single stowed or holstered weapon, or switch weapons and attack in the same round without penalty.
 - [Pit Fighter](https://angrysigma.github.io/vogelfrei/Character/Classes/Warrior/Careers/Pit%20Fighter/index.md): Pit Fighter is good at wrestling and unarmed attacks.
@@ -332,7 +332,7 @@ site navigation.
 
 ## Character Creation › Classes › Ranger › Careers
 
-- [Scout](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Scout/index.md): This career is not written yet, so it is not yet supported in play.
+- [Scout](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Scout/index.md): Scouts range ahead of travellers and armies, finding routes, watching unseen, and reading the signs left by those who passed before them.
 - [Thief-Taker](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Thief-Taker/index.md)
 - [Coachman](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Coachman/index.md): This career is not written yet, so it is not yet supported in play.
 - [Pedlar](https://angrysigma.github.io/vogelfrei/Character/Classes/Ranger/Careers/Pedlar/index.md): This career is not written yet, so it is not yet supported in play.
@@ -349,7 +349,7 @@ site navigation.
 
 ## Character Creation › Classes › Peasant › Careers
 
-- [Hedge Witch](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Hedge%20Witch/index.md): Witchcraft is not about arcane precision and following magical formulae, but about primal incantations and manipulating raw magical energies.
+- [Hedge Witch](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Hedge%20Witch/index.md): Witches draw on the hidden virtues and currents of the world through primal incantations, covens, and blood sacrifice.
 - [Herbalist](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Herbalist/index.md): This career is not written yet, so it is not yet supported in play.
 - [Hunter](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Hunter/index.md)
 - [Miner](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Miner/index.md): This career is not written yet, so it is not yet supported in play.
@@ -362,10 +362,10 @@ site navigation.
 ## Character Creation › Classes › Academic › Careers
 
 - [Alchemist](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Alchemist/index.md): This career is not written yet, so it is not yet supported in play.
-- [Apothecary](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Apothecary/index.md)
-- [Barber](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Barber/index.md)
+- [Apothecary](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Apothecary/index.md): An Apothecary begins with one potion recipe, chosen with the Referee.
+- [Barber](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Barber/index.md): This career does not yet follow the current injury rules, so it is not yet supported in play.
 - [Cartographer](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Cartographer/index.md): This career is not written yet, so it is not yet supported in play.
-- [Engineer](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Engineer/index.md)
+- [Engineer](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Engineer/index.md): This career's features are not finished, so it is not yet supported in play.
 - [Scholar](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Scholar/index.md): This career is not written yet, so it is not yet supported in play.
 
 ## Character Creation › Classes › Townsman

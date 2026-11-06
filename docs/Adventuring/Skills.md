@@ -41,7 +41,7 @@ All food gained from foraging and hunting is considered to be the equivalent of 
 
 Finding enough water to drink is easy in most environments, but in the desert water can only be found if a Bushcraft roll is successfully made on 1d12 rather than 1d6.
 
-Apart for foraging, Bushcraft may be used for simple crafts and pathfinding.
+Apart from foraging, Bushcraft may be used for simple crafts, pathfinding, and finding, interpreting, or following tracks. Obvious tracks require no roll; use Bushcraft when the trail is difficult to find or follow, or its meaning is uncertain.
 
 ---
 ### Climb

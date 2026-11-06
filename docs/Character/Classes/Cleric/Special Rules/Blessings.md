@@ -2,6 +2,8 @@
 
 The Gods might be silent but not indifferent; they allow Clerics to bless themselves and others. Blessings are minor prayers chanted by Clerics. There is no obvious manifestation of power and many could mix up the blessing effect with great effort, strong will or sheer luck.
 
+All blessings have a range of **Touch** and a duration of **one Turn**. A blessing that affects the next attack, roll, or similar event is used up when that event occurs; otherwise it expires at the end of the Turn. Healing and the removal of ailments take effect immediately and are not reversed when the blessing ends.
+
 Each Cleric knows the blessings given by their God: either **three determined randomly**, rolling 1d20 three times on the table below (reroll duplicates), or **a single blessing of the player's choice** — one picked, or three random. New blessings may be researched as other Miracles are. In order to chant a blessing, a Cleric should roll a d6. Anything but one means the Gods are in a good mood, and the blessing effect takes place. On a one the blessing holds no power, and the Cleric’s clumsy entreaty sours their deity’s favour: no new Blessings or Miracles will hold any effect for the rest of the day.
 
 |     | Blessing      | Effect                                  |     | Blessing      | Effect                                          |
