@@ -15,14 +15,14 @@ image_alt: Apothecary illustration
 
 | Level | Progression        |
 | ----- | ------------------ |
-| 1     | One known potion recipe |
-| 2     | Research one recipe; +2 Poison save |
-| 3     | Research one recipe; research potions replicating first-level Magic-User spells |
-| 4     | Research one recipe; +2 Breath save |
-| 5     | Research one recipe; +2 Magic save |
-| 6     | Research one recipe; research potions replicating second-level Magic-User spells |
+| 1     | Potion Recipes |
+| 2     | +2 Poison save |
+| 3     | First-level spell potions |
+| 4     | +2 Breath save |
+| 5     | +2 Magic save |
+| 6     | Second-level spell potions |
 
-### Recipes
+### Potion Recipes
 
 An Apothecary begins with one potion recipe, chosen with the Referee. At each subsequent level, they may research one new recipe without paying research costs. The research still takes the normal time and must be completed before the recipe can be used.
 

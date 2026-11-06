@@ -33,27 +33,27 @@
       "progression": [
         {
           "level": "1",
-          "progression": "One known potion recipe"
+          "progression": "Potion Recipes"
         },
         {
           "level": "2",
-          "progression": "Research one recipe; +2 Poison save"
+          "progression": "+2 Poison save"
         },
         {
           "level": "3",
-          "progression": "Research one recipe; research potions replicating first-level Magic-User spells"
+          "progression": "First-level spell potions"
         },
         {
           "level": "4",
-          "progression": "Research one recipe; +2 Breath save"
+          "progression": "+2 Breath save"
         },
         {
           "level": "5",
-          "progression": "Research one recipe; +2 Magic save"
+          "progression": "+2 Magic save"
         },
         {
           "level": "6",
-          "progression": "Research one recipe; research potions replicating second-level Magic-User spells"
+          "progression": "Second-level spell potions"
         }
       ],
       "complete": true,
@@ -1009,7 +1009,7 @@
       "name": "Scout",
       "class": "Ranger",
       "class_slug": "ranger",
-      "status": "Silver",
+      "status": "Brass",
       "combat_skills": null,
       "skills": "Any non-special skills",
       "trait": "**Wayfinding:** When the Scout navigates for the party, reduce the terrain's [chance of becoming lost](../../../../Adventuring/Wilderness%20Travel.md#losing-direction) by 1-in-6. A chance reduced to zero requires no lost roll. The navigator's normal Bushcraft roll still applies before any lost roll. Multiple Scouts do not combine this reduction.",
@@ -1042,7 +1042,7 @@
       "complete": true,
       "tags": [
         "ranger",
-        "silver"
+        "brass"
       ],
       "image": "assets/img/cover.webp",
       "tiers": [

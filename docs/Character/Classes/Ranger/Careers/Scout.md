@@ -1,7 +1,7 @@
 ---
 tags:
   - ranger
-  - silver
+  - brass
 image: assets/img/cover.webp
 image_alt: Scout illustration
 ---
@@ -9,7 +9,7 @@ image_alt: Scout illustration
 
 **Class**: [Ranger](../index.md)
 
-**Status**: Silver
+**Status**: Brass
 
 **Skills**: Any non-special skills
 
