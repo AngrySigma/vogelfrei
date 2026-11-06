@@ -16,7 +16,7 @@ image_alt: Hunter illustration
 | Level | Progression         |
 | ----- | ------------------- |
 | 1     | +1 BS               |
-| 2     | Surprised only on 1 |
+| 2     | May take normal animals as henchmen |
 | 3     | +1 BS               |
 | 4     | + 2 Paralyse save   |
 | 5     | +1 BS               |

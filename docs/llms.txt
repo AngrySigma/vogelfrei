@@ -349,7 +349,7 @@ site navigation.
 
 ## Character Creation › Classes › Peasant › Careers
 
-- [Hedge Witch](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Hedge%20Witch/index.md): Witchcraft is not about arcane precision and following magical formulae, but about primal incantations and manipulating raw magical energies.
+- [Hedge Witch](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Hedge%20Witch/index.md): Witches draw on the hidden virtues and currents of the world through primal incantations, covens, and blood sacrifice.
 - [Herbalist](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Herbalist/index.md): This career is not written yet, so it is not yet supported in play.
 - [Hunter](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Hunter/index.md)
 - [Miner](https://angrysigma.github.io/vogelfrei/Character/Classes/Peasant/Careers/Miner/index.md): This career is not written yet, so it is not yet supported in play.

@@ -13,27 +13,39 @@ image_alt: Hedge Witch illustration
 
 **Skills**: [Bushcraft](../../../../Adventuring/Skills.md#bushcraft), [Lore](../../../../Adventuring/Skills.md#lore)
 
-| Level | WP  | Spells Memorized | Max Spell Level |
-| ----- | --- | ---------------- | --------------- |
-| 1     | 1   | 1                | 1               |
-| 2     | 2   | 2                | 1               |
-| 3     | 4   | 3                | 2               |
-| 4     | 5   | 4                | 2               |
-| 5     | 7   | 4                | 3               |
-| 6     | 8   | 5                | 3               |
+| Level | WP  | Max Spell Level |
+| ----- | --- | --------------- |
+| 1     | 1   | 1               |
+| 2     | 2   | 1               |
+| 3     | 4   | 1               |
+| 4     | 5   | 2               |
+| 5     | 7   | 2               |
+| 6     | 8   | 3               |
 
-Witchcraft is not about arcane precision and following magical formulae, but about primal incantations and manipulating raw magical energies. Witches have a pool of dice, the **Witchcraft Pool (WP)**, representing the depths of their magical power and their sympathy with the hidden virtues and currents of the world.
+Witches draw on the hidden virtues and currents of the world through primal incantations, covens, and blood sacrifice. Their power is measured in a **Witchcraft Pool (WP)** of d6s, as shown in the table above.
 
-Witches learn new spells as a magic-user would when levelling up, adding them to their grimoire. Spells must be prepared from the grimoire by committing them to memory. A Witch may memorize a number of spells of any level as indicated on the Witchcraft table. Prepared spells remain in memory until the Witch chooses to replace them by preparing another spell. Preparing spells takes one watch of deep concentration, however many are prepared, accompanied by burning incense worth 10 sp per level of each spell.
+### Grimoire
 
-To cast a prepared spell, the Witch rolls a number of d6 equal to the spell’s level from their Witchcraft Pool. Dice that show 1–3 are returned to the pool, while dice showing 4–6 are lost. A watch of rest restores the whole Witchcraft Pool, but a Witch may only restore their WP once a day. Witches in a coven—or party members who can see each other—may freely and spontaneously share the dice in their Witchcraft Pool.
+Witches learn new spells as a [Magic-User](../../Magic-User/Special%20Rules/Spells.md#beginning-spells) would when gaining a level, recording them in a grimoire. A Witch may cast any spell recorded there, up to their maximum spell level, while holding the grimoire. Spells require no memorization or daily preparation.
 
-A Witch can also cast a spell they have not prepared, but must roll and expend twice as many WP dice as normal and must clutch their grimoire with the spell written within. Witchcraft can be empowered through blood sacrifice: for each Hit Die of a creature sacrificed as part of a spell or rite, the Witch requires one fewer WP.
+### Casting
 
-Where witchcraft is cast, normalcy becomes undone. If, when casting a spell, two or more of a Witch’s WP dice show the same number, a chaotic surge of energy known as an **Undoing** is triggered. The effects of an Undoing vary depending on how many dice match:
+To cast a spell, the Witch rolls **two WP dice per spell level**. Dice showing 1–3 return to the pool; dice showing 4–6 are spent. The Witch must have enough dice available to meet the cost before casting.
 
-- **Two-of-a-kind:** Lesser Undoing
+Witchcraft follows the normal [casting rules](../../Magic-User/Special%20Rules/Spells.md#casting-spells) for speech, gestures, encumbrance, casting time, and interruption.
 
-- **Three-of-a-kind:** Greater Undoing
+### Recovery
 
-- **Four-of-a-kind:** Final Undoing
+To replenish their Witchcraft Pool, the Witch must have had a night's sleep since their previous preparation, then spend one watch preparing. This restores the entire pool. Preparation may take place at any time after that sleep; the Witch need not sleep again immediately before preparing. Unspent dice remain in the pool until used.
+
+### Covens
+
+Witches who can see one another may freely share their WP dice when casting.
+
+### Blood Sacrifice
+
+For each Hit Die of a creature sacrificed as part of a spell or rite, reduce the number of WP dice required by one.
+
+### Undoing
+
+When two or more dice rolled for a spell show the same number, the magic triggers an **Undoing**. The more dice show the same number, the worse the Undoing. The Referee determines its effects.

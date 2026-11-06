@@ -744,37 +744,31 @@
         {
           "level": "1",
           "wp": "1",
-          "spells memorized": "1",
           "max spell level": "1"
         },
         {
           "level": "2",
           "wp": "2",
-          "spells memorized": "2",
           "max spell level": "1"
         },
         {
           "level": "3",
           "wp": "4",
-          "spells memorized": "3",
-          "max spell level": "2"
+          "max spell level": "1"
         },
         {
           "level": "4",
           "wp": "5",
-          "spells memorized": "4",
           "max spell level": "2"
         },
         {
           "level": "5",
           "wp": "7",
-          "spells memorized": "4",
-          "max spell level": "3"
+          "max spell level": "2"
         },
         {
           "level": "6",
           "wp": "8",
-          "spells memorized": "5",
           "max spell level": "3"
         }
       ],
@@ -827,7 +821,7 @@
         },
         {
           "level": "2",
-          "progression": "Surprised only on 1"
+          "progression": "May take normal animals as henchmen"
         },
         {
           "level": "3",

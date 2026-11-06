@@ -30,7 +30,7 @@ title: Peasant
 
 - **Skill Points Progression:** Peasants get Skill Points, which can be used to improve their skills. Each Peasant career has a defined list of skills. Characters start with a base proficiency of 1-in-6 in these skills and can spend Skill Points to improve them.
 
-- **Connection with Nature:** Peasants can understand the subtle body language and moods of normal animals, though the animals may not understand the character. This grants a +2 bonus to all reaction rolls when interacting with normal animals and allows them to take animals as henchmen.
+- **Connection with Nature:** Peasants can understand the subtle body language and moods of normal animals, though the animals may not understand the character. This grants a +2 bonus to all reaction rolls when interacting with normal animals.
 
 ---
 
