@@ -30,7 +30,7 @@ site navigation.
 
 ## Character Creation › Classes › Warrior › Careers
 
-- [Duellist](https://angrysigma.github.io/vogelfrei/Character/Classes/Warrior/Careers/Duellist/index.md): Duellist may wield a weapon in either hand, one of which must be small or minor sized, and rolls both weapon damage dice when he attacks, using whichever result is higher.
+- [Duellist](https://angrysigma.github.io/vogelfrei/Character/Classes/Warrior/Careers/Duellist/index.md): When making a Counterattack, the Duellist retains their Weapon Skill bonus to AC against the opponent they counterattack.
 - [Knight](https://angrysigma.github.io/vogelfrei/Character/Classes/Warrior/Careers/Knight/index.md): At start, a Knight gains a 0-level squire as a henchman.
 - [Mercenary](https://angrysigma.github.io/vogelfrei/Character/Classes/Warrior/Careers/Mercenary/index.md): Mercenary can draw a single stowed or holstered weapon, or switch weapons and attack in the same round without penalty.
 - [Pit Fighter](https://angrysigma.github.io/vogelfrei/Character/Classes/Warrior/Careers/Pit%20Fighter/index.md): Pit Fighter is good at wrestling and unarmed attacks.

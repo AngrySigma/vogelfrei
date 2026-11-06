@@ -1232,9 +1232,9 @@
       "class": "Warrior",
       "class_slug": "warrior",
       "status": "Silver",
-      "combat_skills": "WS or BS",
+      "combat_skills": "WS",
       "skills": null,
-      "trait": "Duellist may wield a weapon in either hand, one of which must be small or minor sized, and rolls both weapon damage dice when he attacks, using whichever result is higher.",
+      "trait": "When making a [Counterattack](../../../../Encounters/Combat%20Actions.md#counterattack), the Duellist retains their Weapon Skill bonus to AC against the opponent they counterattack. Other attackers ignore that bonus as usual.",
       "progression": [],
       "complete": true,
       "tags": [
