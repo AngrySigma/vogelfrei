@@ -7,6 +7,9 @@ image_alt: Engineer illustration
 ---
 # Engineer
 
+!!! warning "Work in progress"
+    This career's features are not finished, so it is not yet supported in play.
+
 **Class**: [Academic](../index.md)
 
 **Status**: Silver

@@ -362,10 +362,10 @@ site navigation.
 ## Character Creation › Classes › Academic › Careers
 
 - [Alchemist](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Alchemist/index.md): This career is not written yet, so it is not yet supported in play.
-- [Apothecary](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Apothecary/index.md)
-- [Barber](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Barber/index.md)
+- [Apothecary](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Apothecary/index.md): An Apothecary begins with one potion recipe, chosen with the Referee.
+- [Barber](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Barber/index.md): This career does not yet follow the current injury rules, so it is not yet supported in play.
 - [Cartographer](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Cartographer/index.md): This career is not written yet, so it is not yet supported in play.
-- [Engineer](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Engineer/index.md)
+- [Engineer](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Engineer/index.md): This career's features are not finished, so it is not yet supported in play.
 - [Scholar](https://angrysigma.github.io/vogelfrei/Character/Classes/Academic/Careers/Scholar/index.md): This career is not written yet, so it is not yet supported in play.
 
 ## Character Creation › Classes › Townsman

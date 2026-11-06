@@ -7,6 +7,9 @@ image_alt: Barber illustration
 ---
 # Barber
 
+!!! warning "Work in progress"
+    This career does not yet follow the current injury rules, so it is not yet supported in play.
+
 **Class**: [Academic](../index.md)
 
 **Status**: Brass
@@ -19,7 +22,7 @@ image_alt: Barber illustration
 | ----- | --------------- |
 | 1     | *Barber trait*  |
 | 2     | + 2 Poison save |
-| 3     | + 1 hit         |
+| 3     | + 1 Wound       |
 | 4     | + 2 Poison save |
-| 5     | + 1 hit         |
+| 5     | + 1 Wound       |
 | 6     | + 2 Poison save |

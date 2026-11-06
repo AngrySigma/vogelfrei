@@ -26,6 +26,8 @@ Witches draw on the hidden virtues and currents of the world through primal inca
 
 ### Grimoire
 
+The Witch begins with a grimoire containing Read Magic and three random first-level Magic-User spells.
+
 Witches learn new spells as a [Magic-User](../../Magic-User/Special%20Rules/Spells.md#beginning-spells) would when gaining a level, recording them in a grimoire. A Witch may cast any spell recorded there, up to their maximum spell level, while holding the grimoire. Spells require no memorization or daily preparation.
 
 ### Casting

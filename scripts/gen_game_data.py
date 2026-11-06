@@ -315,6 +315,11 @@ def resolve_career(path: Path) -> dict:
     skills = meta.get("skills", "")
     trait = parse_trait(rest)
     progression = parse_progression(rest)
+    unavailable = any(
+        (match := ADMONITION.match(line))
+        and match.group("title").strip().lower() in {"work in progress", "not available"}
+        for line in head
+    )
 
     return {
         "name": fm.get_scalar(entries, "title") or _h1(head) or path.stem,
@@ -330,7 +335,7 @@ def resolve_career(path: Path) -> dict:
         # NOT enough — several pages (e.g. Townsman/Rat Catcher) carry only a
         # Status with every other field blank, and counting those as complete
         # sends character generators off to build on nothing.
-        "complete": bool(trait or progression or skills or combat),
+        "complete": not unavailable and bool(trait or progression or skills or combat),
         "tags": tags,
         "image": fm.get_scalar(entries, "image"),
         "tiers": parse_tier_keys(block, rel) if block is not None else ["base", "expert"],
